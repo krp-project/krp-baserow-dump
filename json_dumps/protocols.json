@@ -1,0 +1,2484 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "id 2": "krp-037",
+    "date": "1919-02-03",
+    "written_date": "vom 3. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 37",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-037.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "id 2": "krp-038",
+    "date": "1919-02-11",
+    "written_date": "vom 11. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 38",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-038.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "id 2": "krp-039",
+    "date": "1919-02-12",
+    "written_date": "vom 12. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 39",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-039.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "id 2": "krp-040",
+    "date": "1919-02-13",
+    "written_date": "vom 13. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 40",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-040.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "id 2": "krp-041",
+    "date": "1919-02-13",
+    "written_date": "vom 13. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 41",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-041.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "id 2": "krp-042",
+    "date": "1919-02-17",
+    "written_date": "vom 17. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 42",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-042.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "id 2": "krp-043",
+    "date": "1919-02-18",
+    "written_date": "vom 18. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 43 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-043.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "id 2": "krp-044",
+    "date": "1919-02-22",
+    "written_date": "vom 22. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 44 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-044.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "id 2": "krp-045",
+    "date": "1919-02-25",
+    "written_date": "vom 25. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 45",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-045.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "id 2": "krp-046",
+    "date": "1919-02-27",
+    "written_date": "vom 27. Februar 1919.",
+    "title": "Kabinettsprotokoll Nr. 46",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-046.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "id 2": "krp-047",
+    "date": "1919-03-01",
+    "written_date": "vom 1. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 47 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-047.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "id 2": "krp-048",
+    "date": "1919-03-06",
+    "written_date": "vom 6. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 48",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-048.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "id 2": "krp-049",
+    "date": "1919-03-08",
+    "written_date": "vom 8. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 49 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-049.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22429,
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "color": "deep-dark-orange"
+    }
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "id 2": "krp-050",
+    "date": "1919-03-17",
+    "written_date": "vom 17. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 50 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-050.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "id 2": "krp-051",
+    "date": "1919-03-19",
+    "written_date": "vom 19. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 51",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-051.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "id 2": "krp-052",
+    "date": "1919-03-21",
+    "written_date": "vom 21. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 52",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-052.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "id 2": "krp-053",
+    "date": "1919-03-24",
+    "written_date": "vom 24. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 53 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-053.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "id 2": "krp-054",
+    "date": "1919-03-26",
+    "written_date": "vom 26. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 54",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-054.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "id 2": "krp-055",
+    "date": "1919-03-28",
+    "written_date": "vom 28. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 55 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-055.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "id 2": "krp-056",
+    "date": "1919-03-31",
+    "written_date": "vom 31. März 1919.",
+    "title": "Kabinettsprotokoll Nr. 56 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-056.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "id 2": "krp-057",
+    "date": "1919-04-04",
+    "written_date": "vom 4. April 1919",
+    "title": "Kabinettsprotokoll Nr. 57 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-057.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "id 2": "krp-058",
+    "date": "1919-04-04",
+    "written_date": "vom 4. April 1919",
+    "title": "Kabinettsprotokoll Nr. 58",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-058.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "id 2": "krp-059",
+    "date": "1919-04-09",
+    "written_date": "vom 9. April 1919.",
+    "title": "Kabinettsprotokoll Nr. 59 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-059.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "id 2": "krp-060",
+    "date": "1919-04-11",
+    "written_date": "vom 11. April 1919.",
+    "title": "Kabinettprotokoll Nr. 60 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-060.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "id 2": "krp-061",
+    "date": "1919-04-15",
+    "written_date": "vom 15. April 1919.",
+    "title": "Kabinettsprotokoll Nr. 61",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-061.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "id 2": "krp-062",
+    "date": "1919-04-17",
+    "written_date": "vom 17. April 1919.",
+    "title": "Kabinettsprotokoll Nr. 62 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-062.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "id 2": "krp-063",
+    "date": "1919-04-18",
+    "written_date": "vom 18. April 1919.",
+    "title": "Kabinettsprotokoll Nr. 63 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-063.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "id 2": "krp-064",
+    "date": "1919-04-22",
+    "written_date": "vom 22. April 1919.",
+    "title": "Kabinettsprotokoll Nr. 64",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-064.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "id 2": "krp-065",
+    "date": "1919-04-29",
+    "written_date": "vom 29. April 1919.",
+    "title": "Kabinettsprotokoll Nr. 65 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-065.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "id 2": "krp-066",
+    "date": "1919-05-02",
+    "written_date": "vom 2. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 66 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-066.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "id 2": "krp-067",
+    "date": "1919-05-05",
+    "written_date": "vom 5. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 67 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-067.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "id 2": "krp-068",
+    "date": "1919-05-07",
+    "written_date": "vom 7. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 68 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-068.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "id 2": "krp-069",
+    "date": "1919-05-09",
+    "written_date": "vom 9. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 69 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-069.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "id 2": "krp-070",
+    "date": "1919-05-13",
+    "written_date": "vom 13. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 70 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-070.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "id 2": "krp-071",
+    "date": "1919-05-16",
+    "written_date": "vom 16. Mai 1919",
+    "title": "Kabinettsprotokoll Nr. 71 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-071.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "id 2": "krp-072",
+    "date": "1919-05-20",
+    "written_date": "vom 20. Mai 1919",
+    "title": "Kabinettsprotokoll Nr. 72",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-072.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "id 2": "krp-073",
+    "date": "1919-05-23",
+    "written_date": "vom 23. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 73 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-073.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "id 2": "krp-074",
+    "date": "1919-05-27",
+    "written_date": "vom 27. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 74",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-074.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "id 2": "krp-075",
+    "date": "1919-05-30",
+    "written_date": "vom 30. Mai 1919.",
+    "title": "Kabinettsprotokoll Nr. 75 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-075.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "id 2": "krp-076",
+    "date": "1919-06-02",
+    "written_date": "vom 2. Juni 1919.",
+    "title": "Kabinettsprotokoll Nr. 76 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-076.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "id 2": "krp-077",
+    "date": "1919-06-06",
+    "written_date": "vom 6. Juni 1919",
+    "title": "Kabinettsprotokoll Nr. 77",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-077.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "id 2": "krp-078",
+    "date": "1919-06-10",
+    "written_date": "vom 10. Juni 1919",
+    "title": "Kabinettsprotokoll Nr. 78",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-078.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "id 2": "krp-079",
+    "date": "1919-06-13",
+    "written_date": "vom 13. Juni 1919.",
+    "title": "Kabinettsprotokoll Nr.79",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-079.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "id 2": "krp-080",
+    "date": "1919-06-17",
+    "written_date": "vom 17. Juni 1919.",
+    "title": "Kabinettsprotokoll Nr. 80.",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-080.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "id 2": "krp-081",
+    "date": "1919-06-17",
+    "written_date": "vom 17. Juni 1919.",
+    "title": "Kabinettsprotokoll Nr. 81",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-081.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "id 2": "krp-082",
+    "date": "1919-06-24",
+    "written_date": "vom 24. Juni 1919.",
+    "title": "Kabinettsprotokoll Nr. 82",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-082.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "id 2": "krp-083",
+    "date": "1919-06-27",
+    "written_date": "vom 27. Juni 1919.",
+    "title": "Kabinettsprotokoll Nr. 83",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-083.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "id 2": "krp-084",
+    "date": "1919-07-01",
+    "written_date": "vom 1. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 84",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-084.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "id 2": "krp-085",
+    "date": "1919-07-04",
+    "written_date": "vom 4. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 85",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-085.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "id 2": "krp-086",
+    "date": "1919-07-08",
+    "written_date": "vom 8. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 86",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-086.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "id 2": "krp-087",
+    "date": "1919-07-11",
+    "written_date": "vom 11. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 87",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-087.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "id 2": "krp-088",
+    "date": "1919-07-15",
+    "written_date": "vom 15. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 88",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-088.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "id 2": "krp-089",
+    "date": "1919-07-16",
+    "written_date": "vom 16. Juli 1919",
+    "title": "Kabinettsprotokoll Nr. 89",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-089.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "id 2": "krp-090",
+    "date": "1919-07-18",
+    "written_date": "vom 18. Juli 1919.",
+    "title": "Kabinettsratsprotokoll Nr. 90",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-090.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "id 2": "krp-091",
+    "date": "1919-07-21",
+    "written_date": "vom 21. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 91",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-091.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "id 2": "krp-092",
+    "date": "1919-07-25",
+    "written_date": "vom 25. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 92",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-092.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "id 2": "krp-093",
+    "date": "1919-07-26",
+    "written_date": "vom 26. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr.93",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-093.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "id 2": "krp-094",
+    "date": "1919-07-29",
+    "written_date": "vom 29. Juli 1919.",
+    "title": "Kabinettsprotokoll Nr. 94",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-094.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "id 2": "krp-095",
+    "date": "1919-08-05",
+    "written_date": "vom 5. August 1919.",
+    "title": "Kabinettsprotokoll Nr. 95",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-095.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "id 2": "krp-096",
+    "date": "1919-08-08",
+    "written_date": "vom 8. August 1919.",
+    "title": "Kabinettsprotokoll Nr. 96",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-096.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "id 2": "krp-097",
+    "date": "1919-08-12",
+    "written_date": "vom 12. August 1919",
+    "title": "Kabinettsprotokoll Nr. 97",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-097.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "id 2": "krp-098",
+    "date": "1919-08-17",
+    "written_date": "vom 17. August 1919.",
+    "title": "Kabinettsprotokoll Nr. 98",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-098.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "id 2": "krp-099",
+    "date": "1919-08-20",
+    "written_date": "vom 20. August 1919.",
+    "title": "Kabinettsprotokoll Nr. 99",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-099.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "id 2": "krp-100",
+    "date": "1919-08-22",
+    "written_date": "vom 22. August 1919.",
+    "title": "Kabinettsprotokoll Nr. 100",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-100.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "id 2": "krp-101",
+    "date": "1919-08-26",
+    "written_date": "vom 26. August 1919.",
+    "title": "no title in 101",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-101.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "id 2": "krp-102",
+    "date": "1919-08-29",
+    "written_date": "vom 29. August 1919.",
+    "title": "Kabinettsprotokoll Nr. 102",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-102.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "id 2": "krp-103",
+    "date": "1919-09-02",
+    "written_date": "vom 2. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 103",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-103.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "id 2": "krp-104",
+    "date": "1919-09-05",
+    "written_date": "vom 5. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 104",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-104.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "id 2": "krp-105",
+    "date": "1919-09-09",
+    "written_date": "vom 9. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 105",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-105.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "id 2": "krp-106",
+    "date": "1919-09-12",
+    "written_date": "vom 12. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 106",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-106.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "id 2": "krp-107",
+    "date": "1919-09-19",
+    "written_date": "vom 19. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 107",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-107.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "id 2": "krp-108",
+    "date": "1919-09-23",
+    "written_date": "vom 23. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 108",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-108.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "id 2": "krp-109",
+    "date": "1919-09-26",
+    "written_date": "vom 26. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 109",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-109.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "id 2": "krp-110",
+    "date": "1919-09-29",
+    "written_date": "vom 29. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 110",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-110.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "id 2": "krp-111",
+    "date": "1919-09-30",
+    "written_date": "vom 30. September 1919.",
+    "title": "Kabinettsprotokoll Nr. 111",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-111.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "id 2": "krp-112",
+    "date": "1919-10-01",
+    "written_date": "vom 1. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr. 112",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-112.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "id 2": "krp-113",
+    "date": "1919-10-03",
+    "written_date": "vom 3. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr. 113",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-113.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "id 2": "krp-114",
+    "date": "1919-10-14",
+    "written_date": "vom 14. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr. 114",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-114.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "id 2": "krp-115",
+    "date": "1919-10-18",
+    "written_date": "vom 18. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr. 115",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-115.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "id 2": "krp-116",
+    "date": "1919-10-21",
+    "written_date": "vom 21. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr.116",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-116.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "id 2": "krp-117",
+    "date": "1919-10-24",
+    "written_date": "vom 24. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr. 117",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-117.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "id 2": "krp-118",
+    "date": "1919-10-28",
+    "written_date": "vom 28. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr. 118",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-118.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "id 2": "krp-119",
+    "date": "1919-10-31",
+    "written_date": "vom 31. Oktober 1919.",
+    "title": "Kabinettsprotokoll Nr. 119",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-119.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "id 2": "krp-120",
+    "date": "1919-11-07",
+    "written_date": "vom 7. November 1919.",
+    "title": "Kabinettsprotokoll Nr. 120",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-120.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "id 2": "krp-121",
+    "date": "1919-11-11",
+    "written_date": "vom 11. November 1919.",
+    "title": "Kabinettsprotokoll Nr. 121",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-121.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "id 2": "krp-122",
+    "date": "1919-11-14",
+    "written_date": "vom 14. November 1919.",
+    "title": "Kabinettsprotokoll Nr. 122",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-122.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "id 2": "krp-123",
+    "date": "1919-11-18",
+    "written_date": "vom 18. November 1919.",
+    "title": "Kabinettsprotokoll Nr. 123",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-123.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "id 2": "krp-124",
+    "date": "1919-11-25",
+    "written_date": "vom 25. November 1919.",
+    "title": "Kabinettsprotokoll Nr. 124",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-124.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "id 2": "krp-125",
+    "date": "1919-11-28",
+    "written_date": "vom 28. November 1919.",
+    "title": "Kabinettsprotokoll Nr. 125",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-125.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "id 2": "krp-126",
+    "date": "1919-12-02",
+    "written_date": "vom 2. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 126 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-126.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "id 2": "krp-127",
+    "date": "1919-12-05",
+    "written_date": "vom 5. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 127 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-127.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "id 2": "krp-128",
+    "date": "1919-12-09",
+    "written_date": "vom 9. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 128",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-128.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "id 2": "krp-129",
+    "date": "1919-12-12",
+    "written_date": "vom 12. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 129 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-129.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "id 2": "krp-130",
+    "date": "1919-12-15",
+    "written_date": "vom 15. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 130 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-130.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "id 2": "krp-131",
+    "date": "1919-12-19",
+    "written_date": "vom 19. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 131 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-131.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "id 2": "krp-132",
+    "date": "1919-12-20",
+    "written_date": "vom 20. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 132",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-132.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "id 2": "krp-133",
+    "date": "1919-12-20",
+    "written_date": "vom 20. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 133",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-133.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "id 2": "krp-134",
+    "date": "1919-12-30",
+    "written_date": "vom 30. Dezember 1919.",
+    "title": "Kabinettsprotokoll Nr. 134",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-134.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "id 2": "krp-135",
+    "date": "1920-01-05",
+    "written_date": "vom 5. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 135 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-135.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "id 2": "krp-136",
+    "date": "1920-01-09",
+    "written_date": "vom 9. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 136",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-136.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "id 2": "krp-137",
+    "date": "1920-01-14",
+    "written_date": "vom 14. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 137",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-137.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "id 2": "krp-138",
+    "date": "1920-01-15",
+    "written_date": "vom 15. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 138",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-138.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "id 2": "krp-139",
+    "date": "1920-01-20",
+    "written_date": "vom 20. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 139",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-139.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "id 2": "krp-140",
+    "date": "1920-01-23",
+    "written_date": "vom 23. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 140 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-140.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "id 2": "krp-141",
+    "date": "1920-01-28",
+    "written_date": "vom 28. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 141",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-141.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "id 2": "krp-142",
+    "date": "1920-01-29",
+    "written_date": "vom 29. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 142",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-142.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "id 2": "krp-143",
+    "date": "1920-01-30",
+    "written_date": "vom 30. Jänner 1920.",
+    "title": "Kabinettsprotokoll Nr. 143",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-143.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "id 2": "krp-144",
+    "date": "1920-02-04",
+    "written_date": "vom 4. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 144",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-144.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "id 2": "krp-145",
+    "date": "1920-02-06",
+    "written_date": "vom 6. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 145",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-145.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "id 2": "krp-146",
+    "date": "1920-02-10",
+    "written_date": "vom 10. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 146",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-146.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "id 2": "krp-147",
+    "date": "1920-02-18",
+    "written_date": "vom 18. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 147",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-147.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "id 2": "krp-148",
+    "date": "1920-02-20",
+    "written_date": "vom 20. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 148",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-148.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "id 2": "krp-149",
+    "date": "1920-02-21",
+    "written_date": "vom 21. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 149",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-149.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "id 2": "krp-150",
+    "date": "1920-02-22",
+    "written_date": "vom 22. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 150",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-150.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "id 2": "krp-151",
+    "date": "1920-02-24",
+    "written_date": "vom 24. und 25. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 151",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-151.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "id 2": "krp-152",
+    "date": "1920-02-27",
+    "written_date": "vom 27. Februar 1920.",
+    "title": "Kabinettsprotokoll Nr. 152",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-152.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "id 2": "krp-153",
+    "date": "1920-03-02",
+    "written_date": "vom 2. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 153",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-153.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "id 2": "krp-154",
+    "date": "1920-03-05",
+    "written_date": "vom 5. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 154",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-154.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "id 2": "krp-155",
+    "date": "1920-03-07",
+    "written_date": "vom 7. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 155 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-155.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "id 2": "krp-156",
+    "date": "1920-03-08",
+    "written_date": "vom 8. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 156",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-156.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "id 2": "krp-157",
+    "date": "1920-03-09",
+    "written_date": "vom 9. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 157",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-157.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "id 2": "krp-158",
+    "date": "1920-03-09",
+    "written_date": "vom 9. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 158",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-158.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "id 2": "krp-159",
+    "date": "1920-03-12",
+    "written_date": "vom 12. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 159",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-159.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "id 2": "krp-160",
+    "date": "1920-03-15",
+    "written_date": "vom 15. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 160",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-160.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "id 2": "krp-161",
+    "date": "1920-03-16",
+    "written_date": "vom 16. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 161",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-161.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "126": {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "id 2": "krp-162",
+    "date": "1920-03-19",
+    "written_date": "vom 19. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 162",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-162.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "127": {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "id 2": "krp-163",
+    "date": "1920-03-22",
+    "written_date": "vom 22. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 163",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-163.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "id 2": "krp-164",
+    "date": "1920-03-23",
+    "written_date": "vom 23. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 164",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-164.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "id 2": "krp-165",
+    "date": "1920-03-24",
+    "written_date": "vom 24. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 165",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-165.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "id 2": "krp-166",
+    "date": "1920-03-26",
+    "written_date": "vom 26. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 166",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-166.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "id 2": "krp-167",
+    "date": "1920-03-30",
+    "written_date": "vom 30. März 1920.",
+    "title": "Kabinettsprotokoll Nr. 167",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-167.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "id 2": "krp-168",
+    "date": "1920-04-07",
+    "written_date": "vom 7. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 168",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-168.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "id 2": "krp-169",
+    "date": "1920-04-09",
+    "written_date": "vom 9. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 169",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-169.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "id 2": "krp-170",
+    "date": "1920-04-13",
+    "written_date": "vom 13. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 170",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-170.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "id 2": "krp-171",
+    "date": "1920-04-16",
+    "written_date": "vom 16. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 171",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-171.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "id 2": "krp-172",
+    "date": "1920-04-19",
+    "written_date": "vom 19. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 172",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-172.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "id 2": "krp-173",
+    "date": "1920-04-20",
+    "written_date": "vom 20. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 173",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-173.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "138": {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "id 2": "krp-174",
+    "date": "1920-04-23",
+    "written_date": "vom 23. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 174",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-174.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "id 2": "krp-175",
+    "date": "1920-04-27",
+    "written_date": "vom 27. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 175",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-175.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "140": {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "id 2": "krp-177",
+    "date": "1920-04-29",
+    "written_date": "vom 29. April 1920.",
+    "title": "Kabinettsprotokoll Nr. 177",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-177.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "141": {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "id 2": "krp-178",
+    "date": "1920-05-04",
+    "written_date": "vom 4. Mai 1920.",
+    "title": "Kabinettsprotokoll Nr. 178",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-178.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "142": {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "id 2": "krp-179",
+    "date": "1920-05-07",
+    "written_date": "vom 7. Mai 1920.",
+    "title": "Kabinettsprotokoll Nr. 179",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-179.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "143": {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "id 2": "krp-180",
+    "date": "1920-05-11",
+    "written_date": "vom 11. Mai 1920.",
+    "title": "Kabinettsprotokoll Nr. 180",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-180.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "144": {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "id 2": "krp-181",
+    "date": "1920-05-14",
+    "written_date": "vom 14. Mai 1920.",
+    "title": "Kabinettsratsprotokoll Nr. 181",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-181.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "145": {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "id 2": "krp-182",
+    "date": "1920-05-15",
+    "written_date": "vom 15. Mai 1920.",
+    "title": "Kabinettsprotokoll Nr. 182 ",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-182.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "146": {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "id 2": "krp-183",
+    "date": "1920-05-18",
+    "written_date": "vom 18. Mai 1920.",
+    "title": "Kabinettsprotokoll Nr. 183",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-183.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "147": {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "id 2": "krp-184",
+    "date": "1920-05-20",
+    "written_date": "vom 20. Mai 1920",
+    "title": "Kabinettsprotokoll Nr. 184",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-184.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "148": {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "id 2": "krp-185",
+    "date": "1920-05-21",
+    "written_date": "vom 21. Mai 1920.",
+    "title": "Kabinettsprotokoll Nr. 185",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-185.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "149": {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "id 2": "krp-186",
+    "date": "1920-05-28",
+    "written_date": "vom 28. Mai 1920.",
+    "title": "Kabinettsprotokoll Nr. 186",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-186.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "150": {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "id 2": "krp-187",
+    "date": "1920-06-01",
+    "written_date": "vom 1. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 187",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-187.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "151": {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "id 2": "krp-188",
+    "date": "1920-06-04",
+    "written_date": "vom 4. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 188",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-188.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "152": {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "id 2": "krp-189",
+    "date": "1920-06-08",
+    "written_date": "vom 8. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 189",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-189.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "153": {
+    "id": 153,
+    "order": "153.00000000000000000000",
+    "id 2": "krp-190",
+    "date": "1920-06-08",
+    "written_date": "vom 8. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 190",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-190.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "154": {
+    "id": 154,
+    "order": "154.00000000000000000000",
+    "id 2": "krp-191",
+    "date": "1920-06-15",
+    "written_date": "vom 15. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 191",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-191.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "155": {
+    "id": 155,
+    "order": "155.00000000000000000000",
+    "id 2": "krp-192",
+    "date": "1920-06-16",
+    "written_date": "vom 16. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 192",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-192.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "156": {
+    "id": 156,
+    "order": "156.00000000000000000000",
+    "id 2": "krp-193",
+    "date": "1920-06-18",
+    "written_date": "vom 18. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 193",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-193.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "157": {
+    "id": 157,
+    "order": "157.00000000000000000000",
+    "id 2": "krp-194",
+    "date": "1920-06-22",
+    "written_date": "vom 22. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 194",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-194.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "158": {
+    "id": 158,
+    "order": "158.00000000000000000000",
+    "id 2": "krp-195",
+    "date": "1920-06-25",
+    "written_date": "vom 25. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 195",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-195.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "159": {
+    "id": 159,
+    "order": "159.00000000000000000000",
+    "id 2": "krp-196",
+    "date": "1920-06-30",
+    "written_date": "vom 30. Juni 1920.",
+    "title": "Kabinettsprotokoll Nr. 196",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-196.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "160": {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "id 2": "krp-197",
+    "date": "1920-07-02",
+    "written_date": "vom 2. Juli 1920.",
+    "title": "Kabinettsprotokoll Nr. 197",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-197.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "161": {
+    "id": 161,
+    "order": "161.00000000000000000000",
+    "id 2": "krp-198",
+    "date": "1920-07-06",
+    "written_date": "vom 6. Juli 1920.",
+    "title": "Kabinettsprotokoll Nr. 198",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-198.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  },
+  "162": {
+    "id": 162,
+    "order": "162.00000000000000000000",
+    "id 2": "krp-222",
+    "date": "1920-09-24",
+    "written_date": "vom 24 September 1920.",
+    "title": "Kabinettsprotokoll Nr. 222",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-222.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null
+  }
+}
