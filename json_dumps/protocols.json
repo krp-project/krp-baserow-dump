@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "id 2": "krp-037",
+    "krp_id": "krp-037",
     "date": "1919-02-03",
     "written_date": "vom 3. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 37",
@@ -16,12 +16,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "id 2": "krp-038",
+    "krp_id": "krp-038",
     "date": "1919-02-11",
     "written_date": "vom 11. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 38",
@@ -35,12 +38,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "id 2": "krp-039",
+    "krp_id": "krp-039",
     "date": "1919-02-12",
     "written_date": "vom 12. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 39",
@@ -54,12 +60,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "id 2": "krp-040",
+    "krp_id": "krp-040",
     "date": "1919-02-13",
     "written_date": "vom 13. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 40",
@@ -73,12 +82,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "id 2": "krp-041",
+    "krp_id": "krp-041",
     "date": "1919-02-13",
     "written_date": "vom 13. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 41",
@@ -92,12 +104,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "id 2": "krp-042",
+    "krp_id": "krp-042",
     "date": "1919-02-17",
     "written_date": "vom 17. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 42",
@@ -111,12 +126,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "id 2": "krp-043",
+    "krp_id": "krp-043",
     "date": "1919-02-18",
     "written_date": "vom 18. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 43 ",
@@ -130,12 +148,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "id 2": "krp-044",
+    "krp_id": "krp-044",
     "date": "1919-02-22",
     "written_date": "vom 22. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 44 ",
@@ -149,12 +170,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "id 2": "krp-045",
+    "krp_id": "krp-045",
     "date": "1919-02-25",
     "written_date": "vom 25. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 45",
@@ -168,12 +192,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "id 2": "krp-046",
+    "krp_id": "krp-046",
     "date": "1919-02-27",
     "written_date": "vom 27. Februar 1919.",
     "title": "Kabinettsprotokoll Nr. 46",
@@ -187,12 +214,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "id 2": "krp-047",
+    "krp_id": "krp-047",
     "date": "1919-03-01",
     "written_date": "vom 1. März 1919.",
     "title": "Kabinettsprotokoll Nr. 47 ",
@@ -206,12 +236,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "id 2": "krp-048",
+    "krp_id": "krp-048",
     "date": "1919-03-06",
     "written_date": "vom 6. März 1919.",
     "title": "Kabinettsprotokoll Nr. 48",
@@ -225,12 +258,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "id 2": "krp-049",
+    "krp_id": "krp-049",
     "date": "1919-03-08",
     "written_date": "vom 8. März 1919.",
     "title": "Kabinettsprotokoll Nr. 49 ",
@@ -244,12 +280,15 @@
       "id": 22429,
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
-    }
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "id 2": "krp-050",
+    "krp_id": "krp-050",
     "date": "1919-03-17",
     "written_date": "vom 17. März 1919.",
     "title": "Kabinettsprotokoll Nr. 50 ",
@@ -259,12 +298,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "id 2": "krp-051",
+    "krp_id": "krp-051",
     "date": "1919-03-19",
     "written_date": "vom 19. März 1919.",
     "title": "Kabinettsprotokoll Nr. 51",
@@ -274,12 +320,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "id 2": "krp-052",
+    "krp_id": "krp-052",
     "date": "1919-03-21",
     "written_date": "vom 21. März 1919.",
     "title": "Kabinettsprotokoll Nr. 52",
@@ -289,12 +342,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "id 2": "krp-053",
+    "krp_id": "krp-053",
     "date": "1919-03-24",
     "written_date": "vom 24. März 1919.",
     "title": "Kabinettsprotokoll Nr. 53 ",
@@ -304,12 +364,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "id 2": "krp-054",
+    "krp_id": "krp-054",
     "date": "1919-03-26",
     "written_date": "vom 26. März 1919.",
     "title": "Kabinettsprotokoll Nr. 54",
@@ -319,12 +386,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "id 2": "krp-055",
+    "krp_id": "krp-055",
     "date": "1919-03-28",
     "written_date": "vom 28. März 1919.",
     "title": "Kabinettsprotokoll Nr. 55 ",
@@ -334,12 +408,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "id 2": "krp-056",
+    "krp_id": "krp-056",
     "date": "1919-03-31",
     "written_date": "vom 31. März 1919.",
     "title": "Kabinettsprotokoll Nr. 56 ",
@@ -349,12 +430,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "id 2": "krp-057",
+    "krp_id": "krp-057",
     "date": "1919-04-04",
     "written_date": "vom 4. April 1919",
     "title": "Kabinettsprotokoll Nr. 57 ",
@@ -364,12 +452,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "id 2": "krp-058",
+    "krp_id": "krp-058",
     "date": "1919-04-04",
     "written_date": "vom 4. April 1919",
     "title": "Kabinettsprotokoll Nr. 58",
@@ -379,12 +474,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "id 2": "krp-059",
+    "krp_id": "krp-059",
     "date": "1919-04-09",
     "written_date": "vom 9. April 1919.",
     "title": "Kabinettsprotokoll Nr. 59 ",
@@ -394,12 +496,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "id 2": "krp-060",
+    "krp_id": "krp-060",
     "date": "1919-04-11",
     "written_date": "vom 11. April 1919.",
     "title": "Kabinettprotokoll Nr. 60 ",
@@ -409,12 +518,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "id 2": "krp-061",
+    "krp_id": "krp-061",
     "date": "1919-04-15",
     "written_date": "vom 15. April 1919.",
     "title": "Kabinettsprotokoll Nr. 61",
@@ -424,12 +540,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
-    "id 2": "krp-062",
+    "krp_id": "krp-062",
     "date": "1919-04-17",
     "written_date": "vom 17. April 1919.",
     "title": "Kabinettsprotokoll Nr. 62 ",
@@ -439,12 +562,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "id 2": "krp-063",
+    "krp_id": "krp-063",
     "date": "1919-04-18",
     "written_date": "vom 18. April 1919.",
     "title": "Kabinettsprotokoll Nr. 63 ",
@@ -454,12 +584,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "id 2": "krp-064",
+    "krp_id": "krp-064",
     "date": "1919-04-22",
     "written_date": "vom 22. April 1919.",
     "title": "Kabinettsprotokoll Nr. 64",
@@ -469,12 +606,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "id 2": "krp-065",
+    "krp_id": "krp-065",
     "date": "1919-04-29",
     "written_date": "vom 29. April 1919.",
     "title": "Kabinettsprotokoll Nr. 65 ",
@@ -484,12 +628,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "id 2": "krp-066",
+    "krp_id": "krp-066",
     "date": "1919-05-02",
     "written_date": "vom 2. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 66 ",
@@ -499,12 +650,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "id 2": "krp-067",
+    "krp_id": "krp-067",
     "date": "1919-05-05",
     "written_date": "vom 5. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 67 ",
@@ -514,12 +672,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "id 2": "krp-068",
+    "krp_id": "krp-068",
     "date": "1919-05-07",
     "written_date": "vom 7. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 68 ",
@@ -529,12 +694,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "id 2": "krp-069",
+    "krp_id": "krp-069",
     "date": "1919-05-09",
     "written_date": "vom 9. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 69 ",
@@ -544,12 +716,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "id 2": "krp-070",
+    "krp_id": "krp-070",
     "date": "1919-05-13",
     "written_date": "vom 13. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 70 ",
@@ -559,12 +738,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "id 2": "krp-071",
+    "krp_id": "krp-071",
     "date": "1919-05-16",
     "written_date": "vom 16. Mai 1919",
     "title": "Kabinettsprotokoll Nr. 71 ",
@@ -574,12 +760,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "id 2": "krp-072",
+    "krp_id": "krp-072",
     "date": "1919-05-20",
     "written_date": "vom 20. Mai 1919",
     "title": "Kabinettsprotokoll Nr. 72",
@@ -589,12 +782,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "id 2": "krp-073",
+    "krp_id": "krp-073",
     "date": "1919-05-23",
     "written_date": "vom 23. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 73 ",
@@ -604,12 +804,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "id 2": "krp-074",
+    "krp_id": "krp-074",
     "date": "1919-05-27",
     "written_date": "vom 27. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 74",
@@ -619,12 +826,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "id 2": "krp-075",
+    "krp_id": "krp-075",
     "date": "1919-05-30",
     "written_date": "vom 30. Mai 1919.",
     "title": "Kabinettsprotokoll Nr. 75 ",
@@ -634,12 +848,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
-    "id 2": "krp-076",
+    "krp_id": "krp-076",
     "date": "1919-06-02",
     "written_date": "vom 2. Juni 1919.",
     "title": "Kabinettsprotokoll Nr. 76 ",
@@ -649,12 +870,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "id 2": "krp-077",
+    "krp_id": "krp-077",
     "date": "1919-06-06",
     "written_date": "vom 6. Juni 1919",
     "title": "Kabinettsprotokoll Nr. 77",
@@ -664,12 +892,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "id 2": "krp-078",
+    "krp_id": "krp-078",
     "date": "1919-06-10",
     "written_date": "vom 10. Juni 1919",
     "title": "Kabinettsprotokoll Nr. 78",
@@ -679,12 +914,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "id 2": "krp-079",
+    "krp_id": "krp-079",
     "date": "1919-06-13",
     "written_date": "vom 13. Juni 1919.",
     "title": "Kabinettsprotokoll Nr.79",
@@ -694,12 +936,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "id 2": "krp-080",
+    "krp_id": "krp-080",
     "date": "1919-06-17",
     "written_date": "vom 17. Juni 1919.",
     "title": "Kabinettsprotokoll Nr. 80.",
@@ -709,12 +958,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
-    "id 2": "krp-081",
+    "krp_id": "krp-081",
     "date": "1919-06-17",
     "written_date": "vom 17. Juni 1919.",
     "title": "Kabinettsprotokoll Nr. 81",
@@ -724,12 +980,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
-    "id 2": "krp-082",
+    "krp_id": "krp-082",
     "date": "1919-06-24",
     "written_date": "vom 24. Juni 1919.",
     "title": "Kabinettsprotokoll Nr. 82",
@@ -739,12 +1002,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "id 2": "krp-083",
+    "krp_id": "krp-083",
     "date": "1919-06-27",
     "written_date": "vom 27. Juni 1919.",
     "title": "Kabinettsprotokoll Nr. 83",
@@ -754,12 +1024,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "id 2": "krp-084",
+    "krp_id": "krp-084",
     "date": "1919-07-01",
     "written_date": "vom 1. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 84",
@@ -769,12 +1046,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "id 2": "krp-085",
+    "krp_id": "krp-085",
     "date": "1919-07-04",
     "written_date": "vom 4. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 85",
@@ -784,12 +1068,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
-    "id 2": "krp-086",
+    "krp_id": "krp-086",
     "date": "1919-07-08",
     "written_date": "vom 8. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 86",
@@ -799,12 +1090,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
-    "id 2": "krp-087",
+    "krp_id": "krp-087",
     "date": "1919-07-11",
     "written_date": "vom 11. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 87",
@@ -814,12 +1112,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "id 2": "krp-088",
+    "krp_id": "krp-088",
     "date": "1919-07-15",
     "written_date": "vom 15. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 88",
@@ -829,12 +1134,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "id 2": "krp-089",
+    "krp_id": "krp-089",
     "date": "1919-07-16",
     "written_date": "vom 16. Juli 1919",
     "title": "Kabinettsprotokoll Nr. 89",
@@ -844,12 +1156,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
-    "id 2": "krp-090",
+    "krp_id": "krp-090",
     "date": "1919-07-18",
     "written_date": "vom 18. Juli 1919.",
     "title": "Kabinettsratsprotokoll Nr. 90",
@@ -859,12 +1178,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
-    "id 2": "krp-091",
+    "krp_id": "krp-091",
     "date": "1919-07-21",
     "written_date": "vom 21. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 91",
@@ -874,12 +1200,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "56": {
     "id": 56,
     "order": "56.00000000000000000000",
-    "id 2": "krp-092",
+    "krp_id": "krp-092",
     "date": "1919-07-25",
     "written_date": "vom 25. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 92",
@@ -889,12 +1222,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "57": {
     "id": 57,
     "order": "57.00000000000000000000",
-    "id 2": "krp-093",
+    "krp_id": "krp-093",
     "date": "1919-07-26",
     "written_date": "vom 26. Juli 1919.",
     "title": "Kabinettsprotokoll Nr.93",
@@ -904,12 +1244,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "id 2": "krp-094",
+    "krp_id": "krp-094",
     "date": "1919-07-29",
     "written_date": "vom 29. Juli 1919.",
     "title": "Kabinettsprotokoll Nr. 94",
@@ -919,12 +1266,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "59": {
     "id": 59,
     "order": "59.00000000000000000000",
-    "id 2": "krp-095",
+    "krp_id": "krp-095",
     "date": "1919-08-05",
     "written_date": "vom 5. August 1919.",
     "title": "Kabinettsprotokoll Nr. 95",
@@ -934,12 +1288,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "60": {
     "id": 60,
     "order": "60.00000000000000000000",
-    "id 2": "krp-096",
+    "krp_id": "krp-096",
     "date": "1919-08-08",
     "written_date": "vom 8. August 1919.",
     "title": "Kabinettsprotokoll Nr. 96",
@@ -949,12 +1310,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "61": {
     "id": 61,
     "order": "61.00000000000000000000",
-    "id 2": "krp-097",
+    "krp_id": "krp-097",
     "date": "1919-08-12",
     "written_date": "vom 12. August 1919",
     "title": "Kabinettsprotokoll Nr. 97",
@@ -964,12 +1332,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "62": {
     "id": 62,
     "order": "62.00000000000000000000",
-    "id 2": "krp-098",
+    "krp_id": "krp-098",
     "date": "1919-08-17",
     "written_date": "vom 17. August 1919.",
     "title": "Kabinettsprotokoll Nr. 98",
@@ -979,12 +1354,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "63": {
     "id": 63,
     "order": "63.00000000000000000000",
-    "id 2": "krp-099",
+    "krp_id": "krp-099",
     "date": "1919-08-20",
     "written_date": "vom 20. August 1919.",
     "title": "Kabinettsprotokoll Nr. 99",
@@ -994,12 +1376,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "64": {
     "id": 64,
     "order": "64.00000000000000000000",
-    "id 2": "krp-100",
+    "krp_id": "krp-100",
     "date": "1919-08-22",
     "written_date": "vom 22. August 1919.",
     "title": "Kabinettsprotokoll Nr. 100",
@@ -1009,12 +1398,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "65": {
     "id": 65,
     "order": "65.00000000000000000000",
-    "id 2": "krp-101",
+    "krp_id": "krp-101",
     "date": "1919-08-26",
     "written_date": "vom 26. August 1919.",
     "title": "no title in 101",
@@ -1024,12 +1420,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "66": {
     "id": 66,
     "order": "66.00000000000000000000",
-    "id 2": "krp-102",
+    "krp_id": "krp-102",
     "date": "1919-08-29",
     "written_date": "vom 29. August 1919.",
     "title": "Kabinettsprotokoll Nr. 102",
@@ -1039,12 +1442,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "67": {
     "id": 67,
     "order": "67.00000000000000000000",
-    "id 2": "krp-103",
+    "krp_id": "krp-103",
     "date": "1919-09-02",
     "written_date": "vom 2. September 1919.",
     "title": "Kabinettsprotokoll Nr. 103",
@@ -1054,12 +1464,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "68": {
     "id": 68,
     "order": "68.00000000000000000000",
-    "id 2": "krp-104",
+    "krp_id": "krp-104",
     "date": "1919-09-05",
     "written_date": "vom 5. September 1919.",
     "title": "Kabinettsprotokoll Nr. 104",
@@ -1069,12 +1486,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "69": {
     "id": 69,
     "order": "69.00000000000000000000",
-    "id 2": "krp-105",
+    "krp_id": "krp-105",
     "date": "1919-09-09",
     "written_date": "vom 9. September 1919.",
     "title": "Kabinettsprotokoll Nr. 105",
@@ -1084,12 +1508,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "70": {
     "id": 70,
     "order": "70.00000000000000000000",
-    "id 2": "krp-106",
+    "krp_id": "krp-106",
     "date": "1919-09-12",
     "written_date": "vom 12. September 1919.",
     "title": "Kabinettsprotokoll Nr. 106",
@@ -1099,12 +1530,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "71": {
     "id": 71,
     "order": "71.00000000000000000000",
-    "id 2": "krp-107",
+    "krp_id": "krp-107",
     "date": "1919-09-19",
     "written_date": "vom 19. September 1919.",
     "title": "Kabinettsprotokoll Nr. 107",
@@ -1114,12 +1552,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "72": {
     "id": 72,
     "order": "72.00000000000000000000",
-    "id 2": "krp-108",
+    "krp_id": "krp-108",
     "date": "1919-09-23",
     "written_date": "vom 23. September 1919.",
     "title": "Kabinettsprotokoll Nr. 108",
@@ -1129,12 +1574,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "73": {
     "id": 73,
     "order": "73.00000000000000000000",
-    "id 2": "krp-109",
+    "krp_id": "krp-109",
     "date": "1919-09-26",
     "written_date": "vom 26. September 1919.",
     "title": "Kabinettsprotokoll Nr. 109",
@@ -1144,12 +1596,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "74": {
     "id": 74,
     "order": "74.00000000000000000000",
-    "id 2": "krp-110",
+    "krp_id": "krp-110",
     "date": "1919-09-29",
     "written_date": "vom 29. September 1919.",
     "title": "Kabinettsprotokoll Nr. 110",
@@ -1159,12 +1618,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "75": {
     "id": 75,
     "order": "75.00000000000000000000",
-    "id 2": "krp-111",
+    "krp_id": "krp-111",
     "date": "1919-09-30",
     "written_date": "vom 30. September 1919.",
     "title": "Kabinettsprotokoll Nr. 111",
@@ -1174,12 +1640,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "76": {
     "id": 76,
     "order": "76.00000000000000000000",
-    "id 2": "krp-112",
+    "krp_id": "krp-112",
     "date": "1919-10-01",
     "written_date": "vom 1. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr. 112",
@@ -1189,12 +1662,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "77": {
     "id": 77,
     "order": "77.00000000000000000000",
-    "id 2": "krp-113",
+    "krp_id": "krp-113",
     "date": "1919-10-03",
     "written_date": "vom 3. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr. 113",
@@ -1204,12 +1684,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "78": {
     "id": 78,
     "order": "78.00000000000000000000",
-    "id 2": "krp-114",
+    "krp_id": "krp-114",
     "date": "1919-10-14",
     "written_date": "vom 14. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr. 114",
@@ -1219,12 +1706,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22430,
+      "value": "Renner II (15. März – 17. Oktober 1919)",
+      "color": "dark-purple"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "79": {
     "id": 79,
     "order": "79.00000000000000000000",
-    "id 2": "krp-115",
+    "krp_id": "krp-115",
     "date": "1919-10-18",
     "written_date": "vom 18. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr. 115",
@@ -1234,12 +1728,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "80": {
     "id": 80,
     "order": "80.00000000000000000000",
-    "id 2": "krp-116",
+    "krp_id": "krp-116",
     "date": "1919-10-21",
     "written_date": "vom 21. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr.116",
@@ -1249,12 +1750,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "81": {
     "id": 81,
     "order": "81.00000000000000000000",
-    "id 2": "krp-117",
+    "krp_id": "krp-117",
     "date": "1919-10-24",
     "written_date": "vom 24. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr. 117",
@@ -1264,12 +1772,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "82": {
     "id": 82,
     "order": "82.00000000000000000000",
-    "id 2": "krp-118",
+    "krp_id": "krp-118",
     "date": "1919-10-28",
     "written_date": "vom 28. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr. 118",
@@ -1279,12 +1794,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "83": {
     "id": 83,
     "order": "83.00000000000000000000",
-    "id 2": "krp-119",
+    "krp_id": "krp-119",
     "date": "1919-10-31",
     "written_date": "vom 31. Oktober 1919.",
     "title": "Kabinettsprotokoll Nr. 119",
@@ -1294,12 +1816,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "84": {
     "id": 84,
     "order": "84.00000000000000000000",
-    "id 2": "krp-120",
+    "krp_id": "krp-120",
     "date": "1919-11-07",
     "written_date": "vom 7. November 1919.",
     "title": "Kabinettsprotokoll Nr. 120",
@@ -1309,12 +1838,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "85": {
     "id": 85,
     "order": "85.00000000000000000000",
-    "id 2": "krp-121",
+    "krp_id": "krp-121",
     "date": "1919-11-11",
     "written_date": "vom 11. November 1919.",
     "title": "Kabinettsprotokoll Nr. 121",
@@ -1324,12 +1860,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "86": {
     "id": 86,
     "order": "86.00000000000000000000",
-    "id 2": "krp-122",
+    "krp_id": "krp-122",
     "date": "1919-11-14",
     "written_date": "vom 14. November 1919.",
     "title": "Kabinettsprotokoll Nr. 122",
@@ -1339,12 +1882,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "87": {
     "id": 87,
     "order": "87.00000000000000000000",
-    "id 2": "krp-123",
+    "krp_id": "krp-123",
     "date": "1919-11-18",
     "written_date": "vom 18. November 1919.",
     "title": "Kabinettsprotokoll Nr. 123",
@@ -1354,12 +1904,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "88": {
     "id": 88,
     "order": "88.00000000000000000000",
-    "id 2": "krp-124",
+    "krp_id": "krp-124",
     "date": "1919-11-25",
     "written_date": "vom 25. November 1919.",
     "title": "Kabinettsprotokoll Nr. 124",
@@ -1369,12 +1926,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "89": {
     "id": 89,
     "order": "89.00000000000000000000",
-    "id 2": "krp-125",
+    "krp_id": "krp-125",
     "date": "1919-11-28",
     "written_date": "vom 28. November 1919.",
     "title": "Kabinettsprotokoll Nr. 125",
@@ -1384,12 +1948,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "90": {
     "id": 90,
     "order": "90.00000000000000000000",
-    "id 2": "krp-126",
+    "krp_id": "krp-126",
     "date": "1919-12-02",
     "written_date": "vom 2. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 126 ",
@@ -1399,12 +1970,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "91": {
     "id": 91,
     "order": "91.00000000000000000000",
-    "id 2": "krp-127",
+    "krp_id": "krp-127",
     "date": "1919-12-05",
     "written_date": "vom 5. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 127 ",
@@ -1414,12 +1992,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "92": {
     "id": 92,
     "order": "92.00000000000000000000",
-    "id 2": "krp-128",
+    "krp_id": "krp-128",
     "date": "1919-12-09",
     "written_date": "vom 9. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 128",
@@ -1429,12 +2014,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "93": {
     "id": 93,
     "order": "93.00000000000000000000",
-    "id 2": "krp-129",
+    "krp_id": "krp-129",
     "date": "1919-12-12",
     "written_date": "vom 12. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 129 ",
@@ -1444,12 +2036,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "94": {
     "id": 94,
     "order": "94.00000000000000000000",
-    "id 2": "krp-130",
+    "krp_id": "krp-130",
     "date": "1919-12-15",
     "written_date": "vom 15. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 130 ",
@@ -1459,12 +2058,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "95": {
     "id": 95,
     "order": "95.00000000000000000000",
-    "id 2": "krp-131",
+    "krp_id": "krp-131",
     "date": "1919-12-19",
     "written_date": "vom 19. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 131 ",
@@ -1474,12 +2080,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "96": {
     "id": 96,
     "order": "96.00000000000000000000",
-    "id 2": "krp-132",
+    "krp_id": "krp-132",
     "date": "1919-12-20",
     "written_date": "vom 20. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 132",
@@ -1489,12 +2102,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "97": {
     "id": 97,
     "order": "97.00000000000000000000",
-    "id 2": "krp-133",
+    "krp_id": "krp-133",
     "date": "1919-12-20",
     "written_date": "vom 20. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 133",
@@ -1504,12 +2124,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "98": {
     "id": 98,
     "order": "98.00000000000000000000",
-    "id 2": "krp-134",
+    "krp_id": "krp-134",
     "date": "1919-12-30",
     "written_date": "vom 30. Dezember 1919.",
     "title": "Kabinettsprotokoll Nr. 134",
@@ -1519,12 +2146,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "99": {
     "id": 99,
     "order": "99.00000000000000000000",
-    "id 2": "krp-135",
+    "krp_id": "krp-135",
     "date": "1920-01-05",
     "written_date": "vom 5. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 135 ",
@@ -1534,12 +2168,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "100": {
     "id": 100,
     "order": "100.00000000000000000000",
-    "id 2": "krp-136",
+    "krp_id": "krp-136",
     "date": "1920-01-09",
     "written_date": "vom 9. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 136",
@@ -1549,12 +2190,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "101": {
     "id": 101,
     "order": "101.00000000000000000000",
-    "id 2": "krp-137",
+    "krp_id": "krp-137",
     "date": "1920-01-14",
     "written_date": "vom 14. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 137",
@@ -1564,12 +2212,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "102": {
     "id": 102,
     "order": "102.00000000000000000000",
-    "id 2": "krp-138",
+    "krp_id": "krp-138",
     "date": "1920-01-15",
     "written_date": "vom 15. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 138",
@@ -1579,12 +2234,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "103": {
     "id": 103,
     "order": "103.00000000000000000000",
-    "id 2": "krp-139",
+    "krp_id": "krp-139",
     "date": "1920-01-20",
     "written_date": "vom 20. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 139",
@@ -1594,12 +2256,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "104": {
     "id": 104,
     "order": "104.00000000000000000000",
-    "id 2": "krp-140",
+    "krp_id": "krp-140",
     "date": "1920-01-23",
     "written_date": "vom 23. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 140 ",
@@ -1609,12 +2278,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "105": {
     "id": 105,
     "order": "105.00000000000000000000",
-    "id 2": "krp-141",
+    "krp_id": "krp-141",
     "date": "1920-01-28",
     "written_date": "vom 28. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 141",
@@ -1624,12 +2300,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "106": {
     "id": 106,
     "order": "106.00000000000000000000",
-    "id 2": "krp-142",
+    "krp_id": "krp-142",
     "date": "1920-01-29",
     "written_date": "vom 29. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 142",
@@ -1639,12 +2322,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "107": {
     "id": 107,
     "order": "107.00000000000000000000",
-    "id 2": "krp-143",
+    "krp_id": "krp-143",
     "date": "1920-01-30",
     "written_date": "vom 30. Jänner 1920.",
     "title": "Kabinettsprotokoll Nr. 143",
@@ -1654,12 +2344,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "108": {
     "id": 108,
     "order": "108.00000000000000000000",
-    "id 2": "krp-144",
+    "krp_id": "krp-144",
     "date": "1920-02-04",
     "written_date": "vom 4. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 144",
@@ -1669,12 +2366,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "109": {
     "id": 109,
     "order": "109.00000000000000000000",
-    "id 2": "krp-145",
+    "krp_id": "krp-145",
     "date": "1920-02-06",
     "written_date": "vom 6. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 145",
@@ -1684,12 +2388,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "110": {
     "id": 110,
     "order": "110.00000000000000000000",
-    "id 2": "krp-146",
+    "krp_id": "krp-146",
     "date": "1920-02-10",
     "written_date": "vom 10. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 146",
@@ -1699,12 +2410,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "111": {
     "id": 111,
     "order": "111.00000000000000000000",
-    "id 2": "krp-147",
+    "krp_id": "krp-147",
     "date": "1920-02-18",
     "written_date": "vom 18. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 147",
@@ -1714,12 +2432,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "112": {
     "id": 112,
     "order": "112.00000000000000000000",
-    "id 2": "krp-148",
+    "krp_id": "krp-148",
     "date": "1920-02-20",
     "written_date": "vom 20. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 148",
@@ -1729,12 +2454,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "113": {
     "id": 113,
     "order": "113.00000000000000000000",
-    "id 2": "krp-149",
+    "krp_id": "krp-149",
     "date": "1920-02-21",
     "written_date": "vom 21. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 149",
@@ -1744,12 +2476,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "114": {
     "id": 114,
     "order": "114.00000000000000000000",
-    "id 2": "krp-150",
+    "krp_id": "krp-150",
     "date": "1920-02-22",
     "written_date": "vom 22. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 150",
@@ -1759,12 +2498,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "115": {
     "id": 115,
     "order": "115.00000000000000000000",
-    "id 2": "krp-151",
+    "krp_id": "krp-151",
     "date": "1920-02-24",
     "written_date": "vom 24. und 25. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 151",
@@ -1774,12 +2520,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "116": {
     "id": 116,
     "order": "116.00000000000000000000",
-    "id 2": "krp-152",
+    "krp_id": "krp-152",
     "date": "1920-02-27",
     "written_date": "vom 27. Februar 1920.",
     "title": "Kabinettsprotokoll Nr. 152",
@@ -1789,12 +2542,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "117": {
     "id": 117,
     "order": "117.00000000000000000000",
-    "id 2": "krp-153",
+    "krp_id": "krp-153",
     "date": "1920-03-02",
     "written_date": "vom 2. März 1920.",
     "title": "Kabinettsprotokoll Nr. 153",
@@ -1804,12 +2564,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "118": {
     "id": 118,
     "order": "118.00000000000000000000",
-    "id 2": "krp-154",
+    "krp_id": "krp-154",
     "date": "1920-03-05",
     "written_date": "vom 5. März 1920.",
     "title": "Kabinettsprotokoll Nr. 154",
@@ -1819,12 +2586,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "119": {
     "id": 119,
     "order": "119.00000000000000000000",
-    "id 2": "krp-155",
+    "krp_id": "krp-155",
     "date": "1920-03-07",
     "written_date": "vom 7. März 1920.",
     "title": "Kabinettsprotokoll Nr. 155 ",
@@ -1834,12 +2608,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "120": {
     "id": 120,
     "order": "120.00000000000000000000",
-    "id 2": "krp-156",
+    "krp_id": "krp-156",
     "date": "1920-03-08",
     "written_date": "vom 8. März 1920.",
     "title": "Kabinettsprotokoll Nr. 156",
@@ -1849,12 +2630,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "121": {
     "id": 121,
     "order": "121.00000000000000000000",
-    "id 2": "krp-157",
+    "krp_id": "krp-157",
     "date": "1920-03-09",
     "written_date": "vom 9. März 1920.",
     "title": "Kabinettsprotokoll Nr. 157",
@@ -1864,12 +2652,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "122": {
     "id": 122,
     "order": "122.00000000000000000000",
-    "id 2": "krp-158",
+    "krp_id": "krp-158",
     "date": "1920-03-09",
     "written_date": "vom 9. März 1920.",
     "title": "Kabinettsprotokoll Nr. 158",
@@ -1879,12 +2674,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "123": {
     "id": 123,
     "order": "123.00000000000000000000",
-    "id 2": "krp-159",
+    "krp_id": "krp-159",
     "date": "1920-03-12",
     "written_date": "vom 12. März 1920.",
     "title": "Kabinettsprotokoll Nr. 159",
@@ -1894,12 +2696,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "124": {
     "id": 124,
     "order": "124.00000000000000000000",
-    "id 2": "krp-160",
+    "krp_id": "krp-160",
     "date": "1920-03-15",
     "written_date": "vom 15. März 1920.",
     "title": "Kabinettsprotokoll Nr. 160",
@@ -1909,12 +2718,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "125": {
     "id": 125,
     "order": "125.00000000000000000000",
-    "id 2": "krp-161",
+    "krp_id": "krp-161",
     "date": "1920-03-16",
     "written_date": "vom 16. März 1920.",
     "title": "Kabinettsprotokoll Nr. 161",
@@ -1924,12 +2740,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "126": {
     "id": 126,
     "order": "126.00000000000000000000",
-    "id 2": "krp-162",
+    "krp_id": "krp-162",
     "date": "1920-03-19",
     "written_date": "vom 19. März 1920.",
     "title": "Kabinettsprotokoll Nr. 162",
@@ -1939,12 +2762,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "127": {
     "id": 127,
     "order": "127.00000000000000000000",
-    "id 2": "krp-163",
+    "krp_id": "krp-163",
     "date": "1920-03-22",
     "written_date": "vom 22. März 1920.",
     "title": "Kabinettsprotokoll Nr. 163",
@@ -1954,12 +2784,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "128": {
     "id": 128,
     "order": "128.00000000000000000000",
-    "id 2": "krp-164",
+    "krp_id": "krp-164",
     "date": "1920-03-23",
     "written_date": "vom 23. März 1920.",
     "title": "Kabinettsprotokoll Nr. 164",
@@ -1969,12 +2806,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "129": {
     "id": 129,
     "order": "129.00000000000000000000",
-    "id 2": "krp-165",
+    "krp_id": "krp-165",
     "date": "1920-03-24",
     "written_date": "vom 24. März 1920.",
     "title": "Kabinettsprotokoll Nr. 165",
@@ -1984,12 +2828,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "130": {
     "id": 130,
     "order": "130.00000000000000000000",
-    "id 2": "krp-166",
+    "krp_id": "krp-166",
     "date": "1920-03-26",
     "written_date": "vom 26. März 1920.",
     "title": "Kabinettsprotokoll Nr. 166",
@@ -1999,12 +2850,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "131": {
     "id": 131,
     "order": "131.00000000000000000000",
-    "id 2": "krp-167",
+    "krp_id": "krp-167",
     "date": "1920-03-30",
     "written_date": "vom 30. März 1920.",
     "title": "Kabinettsprotokoll Nr. 167",
@@ -2014,12 +2872,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "132": {
     "id": 132,
     "order": "132.00000000000000000000",
-    "id 2": "krp-168",
+    "krp_id": "krp-168",
     "date": "1920-04-07",
     "written_date": "vom 7. April 1920.",
     "title": "Kabinettsprotokoll Nr. 168",
@@ -2029,12 +2894,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "133": {
     "id": 133,
     "order": "133.00000000000000000000",
-    "id 2": "krp-169",
+    "krp_id": "krp-169",
     "date": "1920-04-09",
     "written_date": "vom 9. April 1920.",
     "title": "Kabinettsprotokoll Nr. 169",
@@ -2044,12 +2916,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "134": {
     "id": 134,
     "order": "134.00000000000000000000",
-    "id 2": "krp-170",
+    "krp_id": "krp-170",
     "date": "1920-04-13",
     "written_date": "vom 13. April 1920.",
     "title": "Kabinettsprotokoll Nr. 170",
@@ -2059,12 +2938,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "135": {
     "id": 135,
     "order": "135.00000000000000000000",
-    "id 2": "krp-171",
+    "krp_id": "krp-171",
     "date": "1920-04-16",
     "written_date": "vom 16. April 1920.",
     "title": "Kabinettsprotokoll Nr. 171",
@@ -2074,12 +2960,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "136": {
     "id": 136,
     "order": "136.00000000000000000000",
-    "id 2": "krp-172",
+    "krp_id": "krp-172",
     "date": "1920-04-19",
     "written_date": "vom 19. April 1920.",
     "title": "Kabinettsprotokoll Nr. 172",
@@ -2089,12 +2982,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "137": {
     "id": 137,
     "order": "137.00000000000000000000",
-    "id 2": "krp-173",
+    "krp_id": "krp-173",
     "date": "1920-04-20",
     "written_date": "vom 20. April 1920.",
     "title": "Kabinettsprotokoll Nr. 173",
@@ -2104,12 +3004,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "138": {
     "id": 138,
     "order": "138.00000000000000000000",
-    "id 2": "krp-174",
+    "krp_id": "krp-174",
     "date": "1920-04-23",
     "written_date": "vom 23. April 1920.",
     "title": "Kabinettsprotokoll Nr. 174",
@@ -2119,12 +3026,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "139": {
     "id": 139,
     "order": "139.00000000000000000000",
-    "id 2": "krp-175",
+    "krp_id": "krp-175",
     "date": "1920-04-27",
     "written_date": "vom 27. April 1920.",
     "title": "Kabinettsprotokoll Nr. 175",
@@ -2134,12 +3048,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "140": {
     "id": 140,
     "order": "140.00000000000000000000",
-    "id 2": "krp-177",
+    "krp_id": "krp-177",
     "date": "1920-04-29",
     "written_date": "vom 29. April 1920.",
     "title": "Kabinettsprotokoll Nr. 177",
@@ -2149,12 +3070,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "141": {
     "id": 141,
     "order": "141.00000000000000000000",
-    "id 2": "krp-178",
+    "krp_id": "krp-178",
     "date": "1920-05-04",
     "written_date": "vom 4. Mai 1920.",
     "title": "Kabinettsprotokoll Nr. 178",
@@ -2164,12 +3092,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "142": {
     "id": 142,
     "order": "142.00000000000000000000",
-    "id 2": "krp-179",
+    "krp_id": "krp-179",
     "date": "1920-05-07",
     "written_date": "vom 7. Mai 1920.",
     "title": "Kabinettsprotokoll Nr. 179",
@@ -2179,12 +3114,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "143": {
     "id": 143,
     "order": "143.00000000000000000000",
-    "id 2": "krp-180",
+    "krp_id": "krp-180",
     "date": "1920-05-11",
     "written_date": "vom 11. Mai 1920.",
     "title": "Kabinettsprotokoll Nr. 180",
@@ -2194,12 +3136,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "144": {
     "id": 144,
     "order": "144.00000000000000000000",
-    "id 2": "krp-181",
+    "krp_id": "krp-181",
     "date": "1920-05-14",
     "written_date": "vom 14. Mai 1920.",
     "title": "Kabinettsratsprotokoll Nr. 181",
@@ -2209,12 +3158,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "145": {
     "id": 145,
     "order": "145.00000000000000000000",
-    "id 2": "krp-182",
+    "krp_id": "krp-182",
     "date": "1920-05-15",
     "written_date": "vom 15. Mai 1920.",
     "title": "Kabinettsprotokoll Nr. 182 ",
@@ -2224,12 +3180,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "146": {
     "id": 146,
     "order": "146.00000000000000000000",
-    "id 2": "krp-183",
+    "krp_id": "krp-183",
     "date": "1920-05-18",
     "written_date": "vom 18. Mai 1920.",
     "title": "Kabinettsprotokoll Nr. 183",
@@ -2239,12 +3202,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "147": {
     "id": 147,
     "order": "147.00000000000000000000",
-    "id 2": "krp-184",
+    "krp_id": "krp-184",
     "date": "1920-05-20",
     "written_date": "vom 20. Mai 1920",
     "title": "Kabinettsprotokoll Nr. 184",
@@ -2254,12 +3224,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "148": {
     "id": 148,
     "order": "148.00000000000000000000",
-    "id 2": "krp-185",
+    "krp_id": "krp-185",
     "date": "1920-05-21",
     "written_date": "vom 21. Mai 1920.",
     "title": "Kabinettsprotokoll Nr. 185",
@@ -2269,12 +3246,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "149": {
     "id": 149,
     "order": "149.00000000000000000000",
-    "id 2": "krp-186",
+    "krp_id": "krp-186",
     "date": "1920-05-28",
     "written_date": "vom 28. Mai 1920.",
     "title": "Kabinettsprotokoll Nr. 186",
@@ -2284,12 +3268,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "150": {
     "id": 150,
     "order": "150.00000000000000000000",
-    "id 2": "krp-187",
+    "krp_id": "krp-187",
     "date": "1920-06-01",
     "written_date": "vom 1. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 187",
@@ -2299,12 +3290,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "151": {
     "id": 151,
     "order": "151.00000000000000000000",
-    "id 2": "krp-188",
+    "krp_id": "krp-188",
     "date": "1920-06-04",
     "written_date": "vom 4. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 188",
@@ -2314,12 +3312,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "152": {
     "id": 152,
     "order": "152.00000000000000000000",
-    "id 2": "krp-189",
+    "krp_id": "krp-189",
     "date": "1920-06-08",
     "written_date": "vom 8. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 189",
@@ -2329,12 +3334,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "153": {
     "id": 153,
     "order": "153.00000000000000000000",
-    "id 2": "krp-190",
+    "krp_id": "krp-190",
     "date": "1920-06-08",
     "written_date": "vom 8. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 190",
@@ -2344,12 +3356,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "154": {
     "id": 154,
     "order": "154.00000000000000000000",
-    "id 2": "krp-191",
+    "krp_id": "krp-191",
     "date": "1920-06-15",
     "written_date": "vom 15. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 191",
@@ -2359,12 +3378,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "155": {
     "id": 155,
     "order": "155.00000000000000000000",
-    "id 2": "krp-192",
+    "krp_id": "krp-192",
     "date": "1920-06-16",
     "written_date": "vom 16. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 192",
@@ -2374,12 +3400,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "156": {
     "id": 156,
     "order": "156.00000000000000000000",
-    "id 2": "krp-193",
+    "krp_id": "krp-193",
     "date": "1920-06-18",
     "written_date": "vom 18. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 193",
@@ -2389,12 +3422,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "157": {
     "id": 157,
     "order": "157.00000000000000000000",
-    "id 2": "krp-194",
+    "krp_id": "krp-194",
     "date": "1920-06-22",
     "written_date": "vom 22. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 194",
@@ -2404,12 +3444,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "158": {
     "id": 158,
     "order": "158.00000000000000000000",
-    "id 2": "krp-195",
+    "krp_id": "krp-195",
     "date": "1920-06-25",
     "written_date": "vom 25. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 195",
@@ -2419,12 +3466,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "159": {
     "id": 159,
     "order": "159.00000000000000000000",
-    "id 2": "krp-196",
+    "krp_id": "krp-196",
     "date": "1920-06-30",
     "written_date": "vom 30. Juni 1920.",
     "title": "Kabinettsprotokoll Nr. 196",
@@ -2434,12 +3488,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "160": {
     "id": 160,
     "order": "160.00000000000000000000",
-    "id 2": "krp-197",
+    "krp_id": "krp-197",
     "date": "1920-07-02",
     "written_date": "vom 2. Juli 1920.",
     "title": "Kabinettsprotokoll Nr. 197",
@@ -2449,12 +3510,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "161": {
     "id": 161,
     "order": "161.00000000000000000000",
-    "id 2": "krp-198",
+    "krp_id": "krp-198",
     "date": "1920-07-06",
     "written_date": "vom 6. Juli 1920.",
     "title": "Kabinettsprotokoll Nr. 198",
@@ -2464,12 +3532,19 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   },
   "162": {
     "id": 162,
     "order": "162.00000000000000000000",
-    "id 2": "krp-222",
+    "krp_id": "krp-222",
     "date": "1920-09-24",
     "written_date": "vom 24 September 1920.",
     "title": "Kabinettsprotokoll Nr. 222",
@@ -2479,6 +3554,13 @@
       "value": "krp",
       "color": "light-orange"
     },
-    "period": null
+    "period": {
+      "id": 22571,
+      "value": "Mayr I",
+      "color": "darker-green"
+    },
+    "anzahl_stenogramme": "0",
+    "anzahl_beilagen": "0",
+    "kollationiert": false
   }
 }
