@@ -19,7 +19,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "2": {
     "id": 2,
@@ -41,7 +42,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "3": {
     "id": 3,
@@ -63,7 +65,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "4": {
     "id": 4,
@@ -85,7 +88,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "5": {
     "id": 5,
@@ -107,7 +111,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "6": {
     "id": 6,
@@ -129,7 +134,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "7": {
     "id": 7,
@@ -151,7 +157,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "8": {
     "id": 8,
@@ -173,7 +180,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "9": {
     "id": 9,
@@ -195,7 +203,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "10": {
     "id": 10,
@@ -217,7 +226,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "11": {
     "id": 11,
@@ -239,7 +249,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "12": {
     "id": 12,
@@ -261,7 +272,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "13": {
     "id": 13,
@@ -283,7 +295,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "14": {
     "id": 14,
@@ -305,7 +318,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "15": {
     "id": 15,
@@ -327,7 +341,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "16": {
     "id": 16,
@@ -349,7 +364,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "17": {
     "id": 17,
@@ -371,7 +387,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "18": {
     "id": 18,
@@ -393,7 +410,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "19": {
     "id": 19,
@@ -415,7 +433,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "20": {
     "id": 20,
@@ -437,7 +456,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "21": {
     "id": 21,
@@ -459,7 +479,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "22": {
     "id": 22,
@@ -481,7 +502,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "23": {
     "id": 23,
@@ -503,7 +525,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "24": {
     "id": 24,
@@ -525,7 +548,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "25": {
     "id": 25,
@@ -547,7 +571,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "26": {
     "id": 26,
@@ -569,7 +594,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "27": {
     "id": 27,
@@ -591,7 +617,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "28": {
     "id": 28,
@@ -613,7 +640,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "29": {
     "id": 29,
@@ -635,7 +663,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "30": {
     "id": 30,
@@ -657,7 +686,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "31": {
     "id": 31,
@@ -679,7 +709,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "32": {
     "id": 32,
@@ -701,7 +732,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "33": {
     "id": 33,
@@ -723,7 +755,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "34": {
     "id": 34,
@@ -745,7 +778,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "35": {
     "id": 35,
@@ -767,7 +801,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "36": {
     "id": 36,
@@ -789,7 +824,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "37": {
     "id": 37,
@@ -811,7 +847,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "38": {
     "id": 38,
@@ -833,7 +870,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "39": {
     "id": 39,
@@ -855,7 +893,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "40": {
     "id": 40,
@@ -877,7 +916,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "41": {
     "id": 41,
@@ -899,7 +939,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "42": {
     "id": 42,
@@ -921,7 +962,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "43": {
     "id": 43,
@@ -943,7 +985,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "44": {
     "id": 44,
@@ -965,7 +1008,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "45": {
     "id": 45,
@@ -987,7 +1031,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "46": {
     "id": 46,
@@ -1009,7 +1054,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "47": {
     "id": 47,
@@ -1031,7 +1077,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "48": {
     "id": 48,
@@ -1053,7 +1100,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "49": {
     "id": 49,
@@ -1075,7 +1123,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "50": {
     "id": 50,
@@ -1097,7 +1146,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "51": {
     "id": 51,
@@ -1119,7 +1169,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "52": {
     "id": 52,
@@ -1141,7 +1192,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "53": {
     "id": 53,
@@ -1163,7 +1215,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "54": {
     "id": 54,
@@ -1185,7 +1238,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "55": {
     "id": 55,
@@ -1207,7 +1261,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "56": {
     "id": 56,
@@ -1229,7 +1284,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "57": {
     "id": 57,
@@ -1251,7 +1307,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "58": {
     "id": 58,
@@ -1273,7 +1330,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "59": {
     "id": 59,
@@ -1295,7 +1353,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "60": {
     "id": 60,
@@ -1317,7 +1376,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "61": {
     "id": 61,
@@ -1339,7 +1399,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "62": {
     "id": 62,
@@ -1361,7 +1422,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "63": {
     "id": 63,
@@ -1383,7 +1445,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "64": {
     "id": 64,
@@ -1405,7 +1468,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "65": {
     "id": 65,
@@ -1427,7 +1491,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "66": {
     "id": 66,
@@ -1449,7 +1514,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "67": {
     "id": 67,
@@ -1471,7 +1537,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "68": {
     "id": 68,
@@ -1493,7 +1560,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "69": {
     "id": 69,
@@ -1515,7 +1583,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "70": {
     "id": 70,
@@ -1537,7 +1606,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "71": {
     "id": 71,
@@ -1559,7 +1629,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "72": {
     "id": 72,
@@ -1581,7 +1652,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "73": {
     "id": 73,
@@ -1603,7 +1675,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "74": {
     "id": 74,
@@ -1625,7 +1698,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "75": {
     "id": 75,
@@ -1647,7 +1721,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "76": {
     "id": 76,
@@ -1669,7 +1744,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "77": {
     "id": 77,
@@ -1691,7 +1767,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "78": {
     "id": 78,
@@ -1713,7 +1790,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "79": {
     "id": 79,
@@ -1735,7 +1813,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "80": {
     "id": 80,
@@ -1757,7 +1836,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "81": {
     "id": 81,
@@ -1779,7 +1859,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "82": {
     "id": 82,
@@ -1801,7 +1882,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "83": {
     "id": 83,
@@ -1823,7 +1905,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "84": {
     "id": 84,
@@ -1845,7 +1928,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "85": {
     "id": 85,
@@ -1867,7 +1951,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "86": {
     "id": 86,
@@ -1889,7 +1974,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "87": {
     "id": 87,
@@ -1911,7 +1997,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "88": {
     "id": 88,
@@ -1933,7 +2020,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "89": {
     "id": 89,
@@ -1955,7 +2043,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "90": {
     "id": 90,
@@ -1977,7 +2066,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "91": {
     "id": 91,
@@ -1999,7 +2089,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "92": {
     "id": 92,
@@ -2021,7 +2112,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "93": {
     "id": 93,
@@ -2043,7 +2135,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "94": {
     "id": 94,
@@ -2065,7 +2158,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "95": {
     "id": 95,
@@ -2087,7 +2181,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "96": {
     "id": 96,
@@ -2109,7 +2204,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "97": {
     "id": 97,
@@ -2131,7 +2227,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "98": {
     "id": 98,
@@ -2153,7 +2250,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "99": {
     "id": 99,
@@ -2175,7 +2273,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "100": {
     "id": 100,
@@ -2197,7 +2296,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "101": {
     "id": 101,
@@ -2219,7 +2319,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "102": {
     "id": 102,
@@ -2241,7 +2342,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "103": {
     "id": 103,
@@ -2263,7 +2365,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "104": {
     "id": 104,
@@ -2285,7 +2388,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "105": {
     "id": 105,
@@ -2307,7 +2411,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "106": {
     "id": 106,
@@ -2329,7 +2434,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "107": {
     "id": 107,
@@ -2351,7 +2457,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "108": {
     "id": 108,
@@ -2373,7 +2480,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "109": {
     "id": 109,
@@ -2395,7 +2503,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "110": {
     "id": 110,
@@ -2417,7 +2526,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "111": {
     "id": 111,
@@ -2439,7 +2549,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "112": {
     "id": 112,
@@ -2461,7 +2572,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "113": {
     "id": 113,
@@ -2483,7 +2595,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "114": {
     "id": 114,
@@ -2505,7 +2618,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "115": {
     "id": 115,
@@ -2527,7 +2641,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "116": {
     "id": 116,
@@ -2549,7 +2664,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "117": {
     "id": 117,
@@ -2571,7 +2687,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "118": {
     "id": 118,
@@ -2593,7 +2710,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "119": {
     "id": 119,
@@ -2615,7 +2733,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "120": {
     "id": 120,
@@ -2637,7 +2756,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "121": {
     "id": 121,
@@ -2659,7 +2779,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "122": {
     "id": 122,
@@ -2681,7 +2802,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "123": {
     "id": 123,
@@ -2703,7 +2825,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "124": {
     "id": 124,
@@ -2725,7 +2848,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "125": {
     "id": 125,
@@ -2747,7 +2871,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "126": {
     "id": 126,
@@ -2769,7 +2894,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "127": {
     "id": 127,
@@ -2791,7 +2917,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "128": {
     "id": 128,
@@ -2813,7 +2940,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "129": {
     "id": 129,
@@ -2835,7 +2963,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "130": {
     "id": 130,
@@ -2857,7 +2986,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "131": {
     "id": 131,
@@ -2879,7 +3009,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "132": {
     "id": 132,
@@ -2901,7 +3032,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "133": {
     "id": 133,
@@ -2923,7 +3055,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "134": {
     "id": 134,
@@ -2945,7 +3078,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "135": {
     "id": 135,
@@ -2967,7 +3101,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "136": {
     "id": 136,
@@ -2989,7 +3124,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "137": {
     "id": 137,
@@ -3011,7 +3147,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "138": {
     "id": 138,
@@ -3033,7 +3170,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "139": {
     "id": 139,
@@ -3055,7 +3193,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "140": {
     "id": 140,
@@ -3077,7 +3216,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "141": {
     "id": 141,
@@ -3099,7 +3239,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "142": {
     "id": 142,
@@ -3121,7 +3262,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "143": {
     "id": 143,
@@ -3143,7 +3285,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "144": {
     "id": 144,
@@ -3165,7 +3308,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "145": {
     "id": 145,
@@ -3187,7 +3331,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "146": {
     "id": 146,
@@ -3209,7 +3354,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "147": {
     "id": 147,
@@ -3231,7 +3377,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "148": {
     "id": 148,
@@ -3253,7 +3400,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "149": {
     "id": 149,
@@ -3275,7 +3423,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "150": {
     "id": 150,
@@ -3297,7 +3446,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "151": {
     "id": 151,
@@ -3319,7 +3469,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "152": {
     "id": 152,
@@ -3341,7 +3492,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "153": {
     "id": 153,
@@ -3363,7 +3515,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "154": {
     "id": 154,
@@ -3385,7 +3538,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "155": {
     "id": 155,
@@ -3407,7 +3561,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "156": {
     "id": 156,
@@ -3429,7 +3584,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "157": {
     "id": 157,
@@ -3451,7 +3607,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "158": {
     "id": 158,
@@ -3473,7 +3630,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "159": {
     "id": 159,
@@ -3495,7 +3653,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "160": {
     "id": 160,
@@ -3517,7 +3676,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "161": {
     "id": 161,
@@ -3539,7 +3699,8 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   },
   "162": {
     "id": 162,
@@ -3561,6 +3722,7 @@
     },
     "anzahl_stenogramme": "0",
     "anzahl_beilagen": "0",
-    "kollationiert": false
+    "kollationiert": false,
+    "volume": null
   }
 }
