@@ -17,7 +17,7 @@
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
     },
-    "anzahl_stenogramme": "1",
+    "anzahl_stenogramme": "2",
     "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
@@ -192,11 +192,11 @@
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false
   },
   "9": {
@@ -217,11 +217,11 @@
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false
   },
   "10": {
@@ -242,8 +242,8 @@
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -267,8 +267,8 @@
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -292,11 +292,11 @@
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "6",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false
   },
   "13": {
@@ -317,8 +317,8 @@
       "value": "Renner I (31. Oktober 1918 – 15. März 1919",
       "color": "deep-dark-orange"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -342,11 +342,11 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false
   },
   "15": {
@@ -368,7 +368,7 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -392,8 +392,8 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "9",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -417,8 +417,8 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -443,7 +443,7 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -467,7 +467,7 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
+    "anzahl_stenogramme": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -492,8 +492,8 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "12",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -518,7 +518,7 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -542,8 +542,8 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "8",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
@@ -567,11 +567,11 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false
   },
   "24": {
@@ -593,7 +593,7 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
