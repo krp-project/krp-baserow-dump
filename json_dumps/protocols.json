@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "krp_id": "krp-037",
     "date": "1919-02-03",
-    "written_date": "vom 3. Februar 1919.",
+    "written_date": "vom 3. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 37",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-037.docx",
     "krp_mrp": {
@@ -24,14 +24,16 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "6"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "krp_id": "krp-038",
     "date": "1919-02-11",
-    "written_date": "vom 11. Februar 1919.",
+    "written_date": "vom 11. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 38",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-038.docx",
     "krp_mrp": {
@@ -51,14 +53,16 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "6"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "krp_id": "krp-039",
     "date": "1919-02-12",
-    "written_date": "vom 12. Februar 1919.",
+    "written_date": "vom 12. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 39",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-039.docx",
     "krp_mrp": {
@@ -78,14 +82,16 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
+    "kartonnummer": "6"
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "krp_id": "krp-040",
     "date": "1919-02-13",
-    "written_date": "vom 13. Februar 1919.",
+    "written_date": "vom 13. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 40",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-040.docx",
     "krp_mrp": {
@@ -105,14 +111,16 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": true,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Beide Anhänge wurden nicht transkribiert",
+    "archivalien_nachdigitalisiert": "Anwesenheitsliste, vertraulicher Anhang, streng vertraulicher Anhang",
+    "kartonnummer": "6"
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
     "krp_id": "krp-041",
     "date": "1919-02-13",
-    "written_date": "vom 13. Februar 1919.",
+    "written_date": "vom 13. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 41",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-041.docx",
     "krp_mrp": {
@@ -132,14 +140,16 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Anwesenheitsliste",
+    "kartonnummer": "6"
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "krp_id": "krp-042",
     "date": "1919-02-17",
-    "written_date": "vom 17. Februar 1919.",
+    "written_date": "vom 17. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 42",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-042.docx",
     "krp_mrp": {
@@ -159,14 +169,16 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
+    "kartonnummer": "6"
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
     "krp_id": "krp-043",
     "date": "1919-02-18",
-    "written_date": "vom 18. Februar 1919.",
+    "written_date": "vom 18. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 43 ",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-043.docx",
     "krp_mrp": {
@@ -186,14 +198,16 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Tagesordnung",
+    "kartonnummer": "6"
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
     "krp_id": "krp-044",
     "date": "1919-02-22",
-    "written_date": "vom 22. Februar 1919.",
+    "written_date": "vom 22. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 44 ",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-044.docx",
     "krp_mrp": {
@@ -213,14 +227,16 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Tagesordnung, Streng vertraulicher Anhang",
+    "kartonnummer": "6"
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
     "krp_id": "krp-045",
     "date": "1919-02-25",
-    "written_date": "vom 25. Februar 1919.",
+    "written_date": "vom 25. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 45",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-045.docx",
     "krp_mrp": {
@@ -240,14 +256,16 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
+    "kartonnummer": "6"
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
     "krp_id": "krp-046",
     "date": "1919-02-27",
-    "written_date": "vom 27. Februar 1919.",
+    "written_date": "vom 27. Februar 1919",
     "title": "Kabinettsprotokoll Nr. 46",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-046.docx",
     "krp_mrp": {
@@ -267,14 +285,16 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": "Zweites Stenogramm vorhanden, aber nicht transkribiert"
+    "anmerkungen_dokument": "Zweites Stenogramm vorhanden, aber nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "6"
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
     "krp_id": "krp-047",
     "date": "1919-03-01",
-    "written_date": "vom 1. März 1919.",
+    "written_date": "vom 1. März 1919",
     "title": "Kabinettsprotokoll Nr. 47 ",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-047.docx",
     "krp_mrp": {
@@ -294,14 +314,16 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "6"
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
     "krp_id": "krp-048",
     "date": "1919-03-06",
-    "written_date": "vom 6. März 1919.",
+    "written_date": "vom 6. März 1919",
     "title": "Kabinettsprotokoll Nr. 48",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-048.docx",
     "krp_mrp": {
@@ -321,14 +343,16 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": "Kein Stenogramm einliegend (entgegen der Angabe im Word-Dokument)"
+    "anmerkungen_dokument": "Kein Stenogramm einliegend (entgegen der Angabe im Word-Dokument)",
+    "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
+    "kartonnummer": "6"
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
     "krp_id": "krp-049",
     "date": "1919-03-08",
-    "written_date": "vom 8. März 1919.",
+    "written_date": "vom 8. März 1919",
     "title": "Kabinettsprotokoll Nr. 49 ",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-049.docx",
     "krp_mrp": {
@@ -348,14 +372,16 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Anwesenheitsliste",
+    "kartonnummer": "6"
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
     "krp_id": "krp-050",
     "date": "1919-03-17",
-    "written_date": "vom 17. März 1919.",
+    "written_date": "vom 17. März 1919",
     "title": "Kabinettsprotokoll Nr. 50 ",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-050.docx",
     "krp_mrp": {
@@ -375,14 +401,16 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": true,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Beilage zu Pkt. 1 (Geschäftsordnung) legt Einstimmigkeitsprinzip im Kabinettsrat fest; Streng vertraulicher Anhang nicht transkribiert",
+    "archivalien_nachdigitalisiert": "Tagesordnung, streng vertraulicher Anhang",
+    "kartonnummer": "6"
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
     "krp_id": "krp-051",
     "date": "1919-03-19",
-    "written_date": "vom 19. März 1919.",
+    "written_date": "vom 19. März 1919",
     "title": "Kabinettsprotokoll Nr. 51",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-051.docx",
     "krp_mrp": {
@@ -401,15 +429,17 @@
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
-    "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "archivalien_vorhanden": true,
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Konzept der Tagesordnung",
+    "kartonnummer": "6"
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
     "krp_id": "krp-052",
     "date": "1919-03-21",
-    "written_date": "vom 21. März 1919.",
+    "written_date": "vom 21. März 1919",
     "title": "Kabinettsprotokoll Nr. 52",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-052.docx",
     "krp_mrp": {
@@ -428,15 +458,17 @@
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
-    "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "archivalien_vorhanden": true,
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": "Zwei Entwürfe der Tagesordnung mit Beilagen",
+    "kartonnummer": "6"
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
     "krp_id": "krp-053",
     "date": "1919-03-24",
-    "written_date": "vom 24. März 1919.",
+    "written_date": "vom 24. März 1919",
     "title": "Kabinettsprotokoll Nr. 53 ",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-053.docx",
     "krp_mrp": {
@@ -455,15 +487,17 @@
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
-    "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "archivalien_vorhanden": true,
+    "anmerkungen_dokument": "Stenogramm nicht transkribiert",
+    "archivalien_nachdigitalisiert": "Tagesordnung mit Beilagen",
+    "kartonnummer": "6"
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
     "krp_id": "krp-054",
     "date": "1919-03-26",
-    "written_date": "vom 26. März 1919.",
+    "written_date": "vom 26. März 1919",
     "title": "Kabinettsprotokoll Nr. 54",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-054.docx",
     "krp_mrp": {
@@ -482,15 +516,17 @@
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
-    "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "archivalien_vorhanden": true,
+    "anmerkungen_dokument": "In Sammelmappe mit Dokumenten 1. Personalsitzung vom 27. März 1919 (Protokoll und Beilagen)",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "6"
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
     "krp_id": "krp-055",
     "date": "1919-03-28",
-    "written_date": "vom 28. März 1919.",
+    "written_date": "vom 28. März 1919",
     "title": "Kabinettsprotokoll Nr. 55 ",
     "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-055.docx",
     "krp_mrp": {
@@ -509,8 +545,10 @@
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
-    "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "archivalien_vorhanden": true,
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "6"
   },
   "20": {
     "id": 20,
@@ -537,7 +575,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "21": {
     "id": 21,
@@ -564,7 +604,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "22": {
     "id": 22,
@@ -591,7 +633,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "23": {
     "id": 23,
@@ -618,7 +662,9 @@
     "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Streng geheimer Anhang (Konzept) nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "24": {
     "id": 24,
@@ -645,7 +691,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "25": {
     "id": 25,
@@ -665,14 +713,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "9",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "26": {
     "id": 26,
@@ -692,14 +742,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "5",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "27": {
     "id": 27,
@@ -723,10 +775,12 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "28": {
     "id": 28,
@@ -746,14 +800,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Gesetzentwurf wurde transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "29": {
     "id": 29,
@@ -774,13 +830,15 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "13",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "7"
   },
   "30": {
     "id": 30,
@@ -801,13 +859,15 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "7",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "8"
   },
   "31": {
     "id": 31,
@@ -827,14 +887,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "8"
   },
   "32": {
     "id": 32,
@@ -854,14 +916,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "5",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "8"
   },
   "33": {
     "id": 33,
@@ -881,14 +945,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "8",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "8"
   },
   "34": {
     "id": 34,
@@ -908,14 +974,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "8"
   },
   "35": {
     "id": 35,
@@ -935,14 +1003,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "6",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Richtigstellung zu KRP 68",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "8"
   },
   "36": {
     "id": 36,
@@ -963,13 +1033,15 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "8"
   },
   "37": {
     "id": 37,
@@ -990,13 +1062,15 @@
       "color": "dark-purple"
     },
     "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "8",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "38": {
     "id": 38,
@@ -1016,14 +1090,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "17",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Hinweis auf Geheimprotokoll Pkt. 1 - aber nicht beigelegt",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "39": {
     "id": 39,
@@ -1043,14 +1119,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "40": {
     "id": 40,
@@ -1070,14 +1148,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "7",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "41": {
     "id": 41,
@@ -1097,14 +1177,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "42": {
     "id": 42,
@@ -1124,14 +1206,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "43": {
     "id": 43,
@@ -1151,14 +1235,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "15",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "44": {
     "id": 44,
@@ -1178,14 +1264,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "16",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "9"
   },
   "45": {
     "id": 45,
@@ -1205,14 +1293,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise-; Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "46": {
     "id": 46,
@@ -1232,14 +1322,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "13",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "47": {
     "id": 47,
@@ -1259,14 +1351,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "5",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert-evt. mehr als 2",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "48": {
     "id": 48,
@@ -1286,14 +1380,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "9",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "49": {
     "id": 49,
@@ -1313,14 +1409,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "2",
+    "anzahl_beilagen": "9",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert-evt. mehr als 2",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "50": {
     "id": 50,
@@ -1340,14 +1438,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "16",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "51": {
     "id": 51,
@@ -1367,14 +1467,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "6",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "52": {
     "id": 52,
@@ -1394,14 +1496,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "14",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": "10"
   },
   "53": {
     "id": 53,
@@ -1425,10 +1529,12 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "streng_vertraulich_anhang": false,
+    "streng_vertraulich_anhang": true,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "54": {
     "id": 54,
@@ -1448,14 +1554,16 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "anzahl_stenogramme": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_stenogramme": "1",
+    "anzahl_beilagen": "6",
     "kollationiert": false,
     "docx_done": null,
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "55": {
     "id": 55,
@@ -1482,7 +1590,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "56": {
     "id": 56,
@@ -1509,7 +1619,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "57": {
     "id": 57,
@@ -1536,7 +1648,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "58": {
     "id": 58,
@@ -1563,7 +1677,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "59": {
     "id": 59,
@@ -1590,7 +1706,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "60": {
     "id": 60,
@@ -1617,7 +1735,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "61": {
     "id": 61,
@@ -1644,7 +1764,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "62": {
     "id": 62,
@@ -1671,7 +1793,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "63": {
     "id": 63,
@@ -1698,7 +1822,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "64": {
     "id": 64,
@@ -1725,7 +1851,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "65": {
     "id": 65,
@@ -1752,7 +1880,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "66": {
     "id": 66,
@@ -1779,7 +1909,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "67": {
     "id": 67,
@@ -1806,7 +1938,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "68": {
     "id": 68,
@@ -1833,7 +1967,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "69": {
     "id": 69,
@@ -1860,7 +1996,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "70": {
     "id": 70,
@@ -1887,7 +2025,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "71": {
     "id": 71,
@@ -1914,7 +2054,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "72": {
     "id": 72,
@@ -1941,7 +2083,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "73": {
     "id": 73,
@@ -1968,7 +2112,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "74": {
     "id": 74,
@@ -1995,7 +2141,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "75": {
     "id": 75,
@@ -2022,7 +2170,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "76": {
     "id": 76,
@@ -2049,7 +2199,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "77": {
     "id": 77,
@@ -2076,7 +2228,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "78": {
     "id": 78,
@@ -2103,7 +2257,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "79": {
     "id": 79,
@@ -2130,7 +2286,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "80": {
     "id": 80,
@@ -2157,7 +2315,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "81": {
     "id": 81,
@@ -2184,7 +2344,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "82": {
     "id": 82,
@@ -2211,7 +2373,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "83": {
     "id": 83,
@@ -2238,7 +2402,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "84": {
     "id": 84,
@@ -2265,7 +2431,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "85": {
     "id": 85,
@@ -2292,7 +2460,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "86": {
     "id": 86,
@@ -2319,7 +2489,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "87": {
     "id": 87,
@@ -2346,7 +2518,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "88": {
     "id": 88,
@@ -2373,7 +2547,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "89": {
     "id": 89,
@@ -2400,7 +2576,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "90": {
     "id": 90,
@@ -2427,7 +2605,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "91": {
     "id": 91,
@@ -2454,7 +2634,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "92": {
     "id": 92,
@@ -2481,7 +2663,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "93": {
     "id": 93,
@@ -2508,7 +2692,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "94": {
     "id": 94,
@@ -2535,7 +2721,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "95": {
     "id": 95,
@@ -2562,7 +2750,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "96": {
     "id": 96,
@@ -2589,7 +2779,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "97": {
     "id": 97,
@@ -2616,7 +2808,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "98": {
     "id": 98,
@@ -2643,7 +2837,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "99": {
     "id": 99,
@@ -2670,7 +2866,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "100": {
     "id": 100,
@@ -2697,7 +2895,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "101": {
     "id": 101,
@@ -2724,7 +2924,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "102": {
     "id": 102,
@@ -2751,7 +2953,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "103": {
     "id": 103,
@@ -2778,7 +2982,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "104": {
     "id": 104,
@@ -2805,7 +3011,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "105": {
     "id": 105,
@@ -2832,7 +3040,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "106": {
     "id": 106,
@@ -2859,7 +3069,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "107": {
     "id": 107,
@@ -2886,7 +3098,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "108": {
     "id": 108,
@@ -2913,7 +3127,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "109": {
     "id": 109,
@@ -2940,7 +3156,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "110": {
     "id": 110,
@@ -2967,7 +3185,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "111": {
     "id": 111,
@@ -2994,7 +3214,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "112": {
     "id": 112,
@@ -3021,7 +3243,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "113": {
     "id": 113,
@@ -3048,7 +3272,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "114": {
     "id": 114,
@@ -3075,7 +3301,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "115": {
     "id": 115,
@@ -3102,7 +3330,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "116": {
     "id": 116,
@@ -3129,7 +3359,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "117": {
     "id": 117,
@@ -3156,7 +3388,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "118": {
     "id": 118,
@@ -3183,7 +3417,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "119": {
     "id": 119,
@@ -3210,7 +3446,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "120": {
     "id": 120,
@@ -3237,7 +3475,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "121": {
     "id": 121,
@@ -3264,7 +3504,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "122": {
     "id": 122,
@@ -3291,7 +3533,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "123": {
     "id": 123,
@@ -3318,7 +3562,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "124": {
     "id": 124,
@@ -3345,7 +3591,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "125": {
     "id": 125,
@@ -3372,7 +3620,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "126": {
     "id": 126,
@@ -3399,7 +3649,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "127": {
     "id": 127,
@@ -3426,7 +3678,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "128": {
     "id": 128,
@@ -3453,7 +3707,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "129": {
     "id": 129,
@@ -3480,7 +3736,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "130": {
     "id": 130,
@@ -3507,7 +3765,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "131": {
     "id": 131,
@@ -3534,7 +3794,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "132": {
     "id": 132,
@@ -3561,7 +3823,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "133": {
     "id": 133,
@@ -3588,7 +3852,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "134": {
     "id": 134,
@@ -3615,7 +3881,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "135": {
     "id": 135,
@@ -3642,7 +3910,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "136": {
     "id": 136,
@@ -3669,7 +3939,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "137": {
     "id": 137,
@@ -3696,7 +3968,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "138": {
     "id": 138,
@@ -3723,7 +3997,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "139": {
     "id": 139,
@@ -3750,7 +4026,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "140": {
     "id": 140,
@@ -3777,7 +4055,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "141": {
     "id": 141,
@@ -3804,7 +4084,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "142": {
     "id": 142,
@@ -3831,7 +4113,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "143": {
     "id": 143,
@@ -3858,7 +4142,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "144": {
     "id": 144,
@@ -3885,7 +4171,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "145": {
     "id": 145,
@@ -3912,7 +4200,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "146": {
     "id": 146,
@@ -3939,7 +4229,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "147": {
     "id": 147,
@@ -3966,7 +4258,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "148": {
     "id": 148,
@@ -3993,7 +4287,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "149": {
     "id": 149,
@@ -4020,7 +4316,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "150": {
     "id": 150,
@@ -4047,7 +4345,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "151": {
     "id": 151,
@@ -4074,7 +4374,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "152": {
     "id": 152,
@@ -4101,7 +4403,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "153": {
     "id": 153,
@@ -4128,7 +4432,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "154": {
     "id": 154,
@@ -4155,7 +4461,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "155": {
     "id": 155,
@@ -4182,7 +4490,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "156": {
     "id": 156,
@@ -4209,7 +4519,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "157": {
     "id": 157,
@@ -4236,7 +4548,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "158": {
     "id": 158,
@@ -4263,7 +4577,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "159": {
     "id": 159,
@@ -4290,7 +4606,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "160": {
     "id": 160,
@@ -4317,7 +4635,9 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   },
   "161": {
     "id": 161,
@@ -4344,6 +4664,8 @@
     "streng_vertraulich_anhang": false,
     "vertraulich_anhang": false,
     "archivalien_vorhanden": false,
-    "anmerkungen_dokument": null
+    "anmerkungen_dokument": null,
+    "archivalien_nachdigitalisiert": null,
+    "kartonnummer": null
   }
 }
