@@ -14,7 +14,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "2",
@@ -29,7 +29,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -49,7 +49,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "0",
@@ -64,7 +64,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -84,7 +84,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "0",
@@ -99,7 +99,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -119,7 +119,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
@@ -129,12 +129,24 @@
     "str_vertr_anhang": true,
     "vertr_anhang": true,
     "reinschrift": true,
-    "anmerkungen_dokument": "Beide Anhänge wurden nicht transkribiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": "Anwesenheitsliste, vertraulicher Anhang, streng vertraulicher Anhang",
     "kartonnummer": "6",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [
+      {
+        "id": 22606,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -154,7 +166,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
@@ -169,7 +181,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -189,7 +201,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "0",
@@ -204,7 +216,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -224,7 +236,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
@@ -239,7 +251,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -259,7 +271,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
@@ -274,7 +286,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -294,7 +306,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
@@ -309,7 +321,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -329,7 +341,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "2",
@@ -342,9 +354,15 @@
     "anmerkungen_dokument": "Zweites Stenogramm vorhanden, aber nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
+    "steno_uebersetzt": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -364,7 +382,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
@@ -379,7 +397,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -399,7 +417,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "0",
@@ -414,7 +432,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -434,7 +452,7 @@
     },
     "period": {
       "id": 22429,
-      "value": "Renner I (31. Oktober 1918 – 15. März 1919",
+      "value": "Renner I (31. Oktober 1918 – 15. März 1919)",
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
@@ -449,7 +467,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -479,12 +497,18 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Beilage zu Pkt. 1 (Geschäftsordnung) legt Einstimmigkeitsprinzip im Kabinettsrat fest; Streng vertraulicher Anhang nicht transkribiert",
+    "anmerkungen_dokument": "Beilage zu Pkt. 1 (Geschäftsordnung) legt Einstimmigkeitsprinzip im Kabinettsrat fest",
     "archivalien_nachdigitalisiert": "Tagesordnung, streng vertraulicher Anhang",
     "kartonnummer": "6",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -519,7 +543,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -554,7 +578,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -584,12 +608,18 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Stenogramm nicht transkribiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": "Tagesordnung mit Beilagen",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
+    "steno_uebersetzt": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -619,12 +649,12 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "In Sammelmappe mit Dokumenten 1. Personalsitzung vom 27. März 1919 (Protokoll und Beilagen)",
+    "anmerkungen_dokument": "1. Personalsitzung vom 27. März 1919 (Protokoll und Beilagen)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -659,7 +689,7 @@
     "kartonnummer": "6",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -688,16 +718,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "21": {
     "id": 21,
@@ -723,14 +753,14 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
     "tagesordnung": false
   },
@@ -758,16 +788,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "23": {
     "id": 23,
@@ -793,16 +823,22 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Streng geheimer Anhang (Konzept) nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "24": {
     "id": 24,
@@ -828,16 +864,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "gibt Steno, aber sehr kurz - vlt nur zu einzelnen TOPs/Beilagen?; 2. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "25": {
     "id": 25,
@@ -863,16 +899,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "26": {
     "id": 26,
@@ -898,16 +934,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "27": {
     "id": 27,
@@ -933,14 +969,20 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Str. vertr. Anhang doppelt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
     "tagesordnung": false
   },
@@ -968,16 +1010,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": "Gesetzentwurf wurde transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "29": {
     "id": 29,
@@ -1003,16 +1045,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "30": {
     "id": 30,
@@ -1038,16 +1080,22 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "3. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "31": {
     "id": 31,
@@ -1073,16 +1121,22 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [],
+    "steno_uebersetzt": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "32": {
     "id": 32,
@@ -1108,16 +1162,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "33": {
     "id": 33,
@@ -1143,16 +1197,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "34": {
     "id": 34,
@@ -1178,16 +1232,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "35": {
     "id": 35,
@@ -1213,16 +1267,16 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Richtigstellung zu KRP 68",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Richtigstellung zu KRP 68 (TOP 1)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "36": {
     "id": 36,
@@ -1248,16 +1302,22 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "37": {
     "id": 37,
@@ -1284,12 +1344,18 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1324,7 +1390,7 @@
     "kartonnummer": "9",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1354,12 +1420,18 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1394,7 +1466,7 @@
     "kartonnummer": "9",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1429,7 +1501,7 @@
     "kartonnummer": "9",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1464,7 +1536,7 @@
     "kartonnummer": "9",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1499,7 +1571,7 @@
     "kartonnummer": "9",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1534,7 +1606,7 @@
     "kartonnummer": "9",
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1564,7 +1636,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "",
+    "anmerkungen_dokument": "Doubletten der Beilagen aus KRP 79,80",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1581,10 +1653,10 @@
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "46": {
     "id": 46,
@@ -1611,7 +1683,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1622,10 +1694,10 @@
       }
     ],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "47": {
     "id": 47,
@@ -1651,8 +1723,8 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert-evt. mehr als 2",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Evt. mehr als 2 Stenos",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1662,11 +1734,17 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "48": {
     "id": 48,
@@ -1692,8 +1770,8 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "7. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1704,10 +1782,10 @@
       }
     ],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "49": {
     "id": 49,
@@ -1733,8 +1811,8 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm auszugsweise transkribiert-evt. mehr als 2",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Evt. mehr als 2 Stenos",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1745,10 +1823,10 @@
       }
     ],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "50": {
     "id": 50,
@@ -1774,8 +1852,8 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1785,11 +1863,17 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "51": {
     "id": 51,
@@ -1815,8 +1899,8 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1826,11 +1910,17 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "52": {
     "id": 52,
@@ -1856,8 +1946,8 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "reinschrift": true,
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_uebersetzt": [
@@ -1867,11 +1957,17 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
-    "konzept": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": true
   },
   "53": {
     "id": 53,
@@ -1898,12 +1994,18 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Streng vertraulich nicht transkribiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": null,
     "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1933,7 +2035,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Stenogramm auszugsweise - Streng vertraulich nicht transkribiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": null,
     "steno_uebersetzt": [
@@ -1943,8 +2045,14 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -1979,7 +2087,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2014,7 +2122,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2049,7 +2157,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2084,7 +2192,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2119,7 +2227,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2154,7 +2262,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2189,7 +2297,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2224,7 +2332,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2259,7 +2367,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2294,7 +2402,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2329,7 +2437,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2364,7 +2472,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2399,7 +2507,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2434,7 +2542,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2469,7 +2577,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2504,7 +2612,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2539,7 +2647,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2574,7 +2682,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2609,7 +2717,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2644,7 +2752,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2679,7 +2787,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2714,7 +2822,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2749,7 +2857,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2784,7 +2892,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2819,7 +2927,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2854,7 +2962,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2889,7 +2997,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2924,7 +3032,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2959,7 +3067,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -2994,7 +3102,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3029,7 +3137,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3064,7 +3172,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3099,7 +3207,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3122,19 +3230,31 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Str. vertr. Anhang (TOP 6, 14) - noch nicht digitalisiert; Steno A übersetzt, B noch nicht",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "steno_uebersetzt": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3157,19 +3277,31 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Top 1 - noch nicht digitalisiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "steno_uebersetzt": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_uebersetzt": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3204,7 +3336,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3239,7 +3371,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3274,7 +3406,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3309,7 +3441,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3344,7 +3476,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3379,7 +3511,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3414,7 +3546,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3449,7 +3581,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3484,7 +3616,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3519,7 +3651,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3554,7 +3686,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3589,7 +3721,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3624,7 +3756,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3659,7 +3791,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3694,7 +3826,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3729,7 +3861,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3764,7 +3896,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3799,7 +3931,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3834,7 +3966,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3869,7 +4001,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3904,7 +4036,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3939,7 +4071,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -3974,7 +4106,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4009,7 +4141,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4044,7 +4176,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4079,7 +4211,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4114,7 +4246,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4149,7 +4281,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4184,7 +4316,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4219,7 +4351,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4254,7 +4386,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4289,7 +4421,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4324,7 +4456,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4359,7 +4491,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4394,7 +4526,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4429,7 +4561,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4464,7 +4596,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4499,7 +4631,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4534,7 +4666,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4569,7 +4701,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4604,7 +4736,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4639,7 +4771,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4674,7 +4806,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4709,7 +4841,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4744,7 +4876,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4779,7 +4911,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4814,7 +4946,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4849,7 +4981,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4884,7 +5016,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4919,7 +5051,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4954,7 +5086,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -4989,7 +5121,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5024,7 +5156,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5059,7 +5191,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5094,7 +5226,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5129,7 +5261,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5164,7 +5296,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5199,7 +5331,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5234,7 +5366,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5269,7 +5401,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5304,7 +5436,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5339,7 +5471,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5374,7 +5506,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5409,7 +5541,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5444,7 +5576,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5479,7 +5611,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5514,7 +5646,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5549,7 +5681,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5584,7 +5716,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5619,7 +5751,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5654,7 +5786,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
@@ -5689,7 +5821,7 @@
     "kartonnummer": null,
     "steno_uebersetzt": [],
     "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": false,
+    "vertr_anhang_uebersetzt": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false
