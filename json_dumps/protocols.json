@@ -27,12 +27,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "2": {
     "id": 2,
@@ -62,12 +69,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "3": {
     "id": 3,
@@ -97,12 +105,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "4": {
     "id": 4,
@@ -132,15 +141,15 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": "Anwesenheitsliste, vertraulicher Anhang, streng vertraulicher Anhang",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [
+    "vertr_anhang_trans": [
       {
         "id": 22606,
         "value": "noch nicht",
@@ -149,7 +158,8 @@
     ],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "5": {
     "id": 5,
@@ -179,12 +189,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Anwesenheitsliste",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "6": {
     "id": 6,
@@ -214,12 +225,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "7": {
     "id": 7,
@@ -249,12 +261,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Tagesordnung",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "8": {
     "id": 8,
@@ -284,12 +297,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Tagesordnung, Streng vertraulicher Anhang",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "9": {
     "id": 9,
@@ -319,12 +333,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "10": {
     "id": 10,
@@ -354,18 +369,19 @@
     "anmerkungen_dokument": "Zweites Stenogramm vorhanden, aber nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "11": {
     "id": 11,
@@ -395,12 +411,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "12": {
     "id": 12,
@@ -430,12 +447,13 @@
     "anmerkungen_dokument": "Kein Stenogramm einliegend (entgegen der Angabe im Word-Dokument)",
     "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "13": {
     "id": 13,
@@ -465,12 +483,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Anwesenheitsliste",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "14": {
     "id": 14,
@@ -500,18 +519,19 @@
     "anmerkungen_dokument": "Beilage zu Pkt. 1 (Geschäftsordnung) legt Einstimmigkeitsprinzip im Kabinettsrat fest",
     "archivalien_nachdigitalisiert": "Tagesordnung, streng vertraulicher Anhang",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "15": {
     "id": 15,
@@ -541,12 +561,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Konzept der Tagesordnung",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "16": {
     "id": 16,
@@ -576,12 +597,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Zwei Entwürfe der Tagesordnung mit Beilagen",
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "17": {
     "id": 17,
@@ -611,18 +633,19 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": "Tagesordnung mit Beilagen",
     "kartonnummer": "6",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22602,
         "value": "Nein",
         "color": "light-yellow"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "18": {
     "id": 18,
@@ -652,12 +675,13 @@
     "anmerkungen_dokument": "1. Personalsitzung vom 27. März 1919 (Protokoll und Beilagen)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "19": {
     "id": 19,
@@ -687,12 +711,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "20": {
     "id": 20,
@@ -722,12 +747,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
-    "beilagen": null,
-    "tagesordnung": true
+    "beilagen": "Zu Pkt. 1 (2 Seiten)\nZu Pkt. 6 (17 Seiten, gedruckt)\nZu Pkt. 6 (15 Seiten)\nZu Pkt. 7 (2 Seiten)\nZu Pkt. 8 (3 Seiten; Umschlag 1 Seite)\nZu Pkt. 9 (2 + 4 Seiten) \nZu Pkt. 10 (3 Seiten)\nZu Pkt. 11 (12 Seiten, 7 Seiten; Umschlag 1 Seite)\nZu Pkt. 12 (5 + 3 + 14 Seiten)\nZu Pkt. 13 (3 Seiten)\nZu Pkt. 14 (3 Seiten)\nZu Pkt. 15 (6 Seiten)",
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "21": {
     "id": 21,
@@ -757,12 +789,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "22": {
     "id": 22,
@@ -792,12 +825,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "23": {
     "id": 23,
@@ -827,18 +867,25 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "24": {
     "id": 24,
@@ -868,12 +915,13 @@
     "anmerkungen_dokument": "gibt Steno, aber sehr kurz - vlt nur zu einzelnen TOPs/Beilagen?; 2. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "25": {
     "id": 25,
@@ -903,12 +951,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "26": {
     "id": 26,
@@ -938,12 +993,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "27": {
     "id": 27,
@@ -973,18 +1035,19 @@
     "anmerkungen_dokument": "Str. vertr. Anhang doppelt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "28": {
     "id": 28,
@@ -1014,12 +1077,19 @@
     "anmerkungen_dokument": "Gesetzentwurf wurde transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "29": {
     "id": 29,
@@ -1049,12 +1119,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "30": {
     "id": 30,
@@ -1084,18 +1155,19 @@
     "anmerkungen_dokument": "3. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "31": {
     "id": 31,
@@ -1125,18 +1197,19 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
-        "id": 22602,
-        "value": "Nein",
-        "color": "light-yellow"
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "32": {
     "id": 32,
@@ -1166,12 +1239,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "33": {
     "id": 33,
@@ -1201,12 +1281,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "34": {
     "id": 34,
@@ -1236,12 +1323,19 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "35": {
     "id": 35,
@@ -1271,12 +1365,19 @@
     "anmerkungen_dokument": "Richtigstellung zu KRP 68 (TOP 1)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "36": {
     "id": 36,
@@ -1306,18 +1407,19 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": false
   },
   "37": {
     "id": 37,
@@ -1347,18 +1449,19 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "38": {
     "id": 38,
@@ -1388,12 +1491,13 @@
     "anmerkungen_dokument": "Hinweis auf Geheimprotokoll Pkt. 1 - aber nicht beigelegt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "39": {
     "id": 39,
@@ -1423,18 +1527,19 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "40": {
     "id": 40,
@@ -1464,12 +1569,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "41": {
     "id": 41,
@@ -1499,12 +1605,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "42": {
     "id": 42,
@@ -1534,12 +1641,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "43": {
     "id": 43,
@@ -1569,12 +1677,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "44": {
     "id": 44,
@@ -1604,12 +1713,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "45": {
     "id": 45,
@@ -1639,24 +1749,25 @@
     "anmerkungen_dokument": "Doubletten der Beilagen aus KRP 79,80",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "46": {
     "id": 46,
@@ -1686,18 +1797,19 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "47": {
     "id": 47,
@@ -1727,24 +1839,25 @@
     "anmerkungen_dokument": "Evt. mehr als 2 Stenos",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "48": {
     "id": 48,
@@ -1774,18 +1887,19 @@
     "anmerkungen_dokument": "7. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "49": {
     "id": 49,
@@ -1815,18 +1929,19 @@
     "anmerkungen_dokument": "Evt. mehr als 2 Stenos",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "50": {
     "id": 50,
@@ -1856,24 +1971,25 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "51": {
     "id": 51,
@@ -1903,24 +2019,25 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "52": {
     "id": 52,
@@ -1950,24 +2067,25 @@
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
-    "steno_uebersetzt": [
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "53": {
     "id": 53,
@@ -1996,19 +2114,20 @@
     "reinschrift": false,
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "54": {
     "id": 54,
@@ -2037,25 +2156,26 @@
     "reinschrift": false,
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [
+    "kartonnummer": "11",
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "55": {
     "id": 55,
@@ -2084,13 +2204,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "56": {
     "id": 56,
@@ -2119,13 +2240,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "57": {
     "id": 57,
@@ -2154,13 +2276,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "58": {
     "id": 58,
@@ -2189,13 +2312,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "59": {
     "id": 59,
@@ -2224,13 +2348,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "60": {
     "id": 60,
@@ -2259,13 +2384,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "61": {
     "id": 61,
@@ -2294,13 +2420,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "11",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "62": {
     "id": 62,
@@ -2329,13 +2456,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "63": {
     "id": 63,
@@ -2364,13 +2492,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "64": {
     "id": 64,
@@ -2399,13 +2528,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "65": {
     "id": 65,
@@ -2434,13 +2564,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "66": {
     "id": 66,
@@ -2469,13 +2600,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "67": {
     "id": 67,
@@ -2504,13 +2636,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "68": {
     "id": 68,
@@ -2539,13 +2672,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "69": {
     "id": 69,
@@ -2574,13 +2708,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "12",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "70": {
     "id": 70,
@@ -2609,13 +2744,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "13",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "71": {
     "id": 71,
@@ -2644,13 +2780,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "13",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "72": {
     "id": 72,
@@ -2679,13 +2816,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "13",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "73": {
     "id": 73,
@@ -2714,13 +2852,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "13",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "74": {
     "id": 74,
@@ -2749,13 +2888,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "13",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "75": {
     "id": 75,
@@ -2784,13 +2924,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "13",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "76": {
     "id": 76,
@@ -2819,13 +2960,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "13",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "77": {
     "id": 77,
@@ -2854,13 +2996,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "14",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "78": {
     "id": 78,
@@ -2889,13 +3032,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "14",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "79": {
     "id": 79,
@@ -2924,13 +3068,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "14",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "80": {
     "id": 80,
@@ -2959,13 +3104,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "14",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "81": {
     "id": 81,
@@ -2994,13 +3140,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "14",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "82": {
     "id": 82,
@@ -3029,13 +3176,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "14",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "83": {
     "id": 83,
@@ -3064,13 +3212,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "15",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "84": {
     "id": 84,
@@ -3099,13 +3248,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "15",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "85": {
     "id": 85,
@@ -3134,13 +3284,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "51",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "86": {
     "id": 86,
@@ -3169,13 +3320,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "15",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "87": {
     "id": 87,
@@ -3204,13 +3356,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "15",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "88": {
     "id": 88,
@@ -3239,25 +3392,26 @@
     "reinschrift": false,
     "anmerkungen_dokument": "Str. vertr. Anhang (TOP 6, 14) - noch nicht digitalisiert; Steno A übersetzt, B noch nicht",
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [
+    "kartonnummer": "16",
+    "steno_trans": [
       {
         "id": 22603,
         "value": "Fragmentarisch",
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "89": {
     "id": 89,
@@ -3284,27 +3438,28 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Top 1 - noch nicht digitalisiert",
+    "anmerkungen_dokument": "Top 1 - noch nicht digitalisiert; S. 14, 14a, 15",
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [
+    "kartonnummer": "16",
+    "steno_trans": [
       {
         "id": 22601,
         "value": "Ja",
         "color": "red"
       }
     ],
-    "str_vertr_anhang_uebersetzt": [
+    "str_vertr_anhang_trans": [
       {
         "id": 22605,
         "value": "noch nicht",
         "color": "pink"
       }
     ],
-    "vertr_anhang_uebersetzt": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "90": {
     "id": 90,
@@ -3324,7 +3479,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -3333,13 +3488,20 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "16",
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "91": {
     "id": 91,
@@ -3368,13 +3530,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "16",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "92": {
     "id": 92,
@@ -3398,18 +3561,25 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Str.vertr.Anhang zu TOP 1 (noch nicht digit.)",
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "17",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "93": {
     "id": 93,
@@ -3438,13 +3608,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "17",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "94": {
     "id": 94,
@@ -3473,13 +3644,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "17",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "95": {
     "id": 95,
@@ -3508,13 +3680,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "17",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "96": {
     "id": 96,
@@ -3543,13 +3716,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "17",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "97": {
     "id": 97,
@@ -3578,13 +3752,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "17",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "98": {
     "id": 98,
@@ -3613,13 +3788,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "18",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "99": {
     "id": 99,
@@ -3648,13 +3824,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "18",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "100": {
     "id": 100,
@@ -3683,13 +3860,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "18",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "101": {
     "id": 101,
@@ -3718,13 +3896,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "18",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "102": {
     "id": 102,
@@ -3753,13 +3932,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "18",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "103": {
     "id": 103,
@@ -3788,13 +3968,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "19",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "104": {
     "id": 104,
@@ -3823,13 +4004,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "19",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "105": {
     "id": 105,
@@ -3858,13 +4040,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "19",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "106": {
     "id": 106,
@@ -3893,13 +4076,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "19",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "107": {
     "id": 107,
@@ -3928,13 +4112,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "19",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "108": {
     "id": 108,
@@ -3963,13 +4148,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "19",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "109": {
     "id": 109,
@@ -3998,13 +4184,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "19",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "110": {
     "id": 110,
@@ -4033,13 +4220,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "20",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "111": {
     "id": 111,
@@ -4068,13 +4256,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "20",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "112": {
     "id": 112,
@@ -4103,13 +4292,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "20",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "113": {
     "id": 113,
@@ -4138,13 +4328,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "21",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "114": {
     "id": 114,
@@ -4173,13 +4364,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "21",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "115": {
     "id": 115,
@@ -4208,13 +4400,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "21",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "116": {
     "id": 116,
@@ -4243,13 +4436,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "21",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "117": {
     "id": 117,
@@ -4278,13 +4472,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "21",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "118": {
     "id": 118,
@@ -4313,13 +4508,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "21",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "119": {
     "id": 119,
@@ -4348,13 +4544,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "21",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "120": {
     "id": 120,
@@ -4383,13 +4580,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "121": {
     "id": 121,
@@ -4418,13 +4616,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "122": {
     "id": 122,
@@ -4453,13 +4652,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "123": {
     "id": 123,
@@ -4488,13 +4688,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "124": {
     "id": 124,
@@ -4523,13 +4724,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "125": {
     "id": 125,
@@ -4558,13 +4760,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "126": {
     "id": 126,
@@ -4593,13 +4796,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "127": {
     "id": 127,
@@ -4628,13 +4832,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "22",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "128": {
     "id": 128,
@@ -4663,13 +4868,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "129": {
     "id": 129,
@@ -4698,13 +4904,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "130": {
     "id": 130,
@@ -4733,13 +4940,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "131": {
     "id": 131,
@@ -4768,13 +4976,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "132": {
     "id": 132,
@@ -4803,13 +5012,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "133": {
     "id": 133,
@@ -4838,13 +5048,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "134": {
     "id": 134,
@@ -4873,13 +5084,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "135": {
     "id": 135,
@@ -4908,13 +5120,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "136": {
     "id": 136,
@@ -4943,13 +5156,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "23",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "137": {
     "id": 137,
@@ -4978,13 +5192,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "24",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "138": {
     "id": 138,
@@ -5013,13 +5228,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "24",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "139": {
     "id": 139,
@@ -5048,13 +5264,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "24",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "140": {
     "id": 140,
@@ -5083,13 +5300,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "24",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "141": {
     "id": 141,
@@ -5118,13 +5336,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "25",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "142": {
     "id": 142,
@@ -5153,13 +5372,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "25",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "143": {
     "id": 143,
@@ -5188,13 +5408,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "25",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "144": {
     "id": 144,
@@ -5223,13 +5444,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "25",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "145": {
     "id": 145,
@@ -5258,13 +5480,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "25",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "146": {
     "id": 146,
@@ -5293,13 +5516,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "25",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "147": {
     "id": 147,
@@ -5328,13 +5552,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "25",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "148": {
     "id": 148,
@@ -5363,13 +5588,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "26",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "149": {
     "id": 149,
@@ -5398,13 +5624,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "26",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "150": {
     "id": 150,
@@ -5433,13 +5660,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "26",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "151": {
     "id": 151,
@@ -5468,13 +5696,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "27",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "152": {
     "id": 152,
@@ -5503,13 +5732,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "27",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "153": {
     "id": 153,
@@ -5538,13 +5768,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "27",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "154": {
     "id": 154,
@@ -5573,13 +5804,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "27",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "155": {
     "id": 155,
@@ -5608,13 +5840,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "28",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "156": {
     "id": 156,
@@ -5643,13 +5876,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "28",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "157": {
     "id": 157,
@@ -5678,13 +5912,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "28",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "158": {
     "id": 158,
@@ -5713,13 +5948,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "28",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "159": {
     "id": 159,
@@ -5748,13 +5984,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "28",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "160": {
     "id": 160,
@@ -5783,13 +6020,14 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "29",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   },
   "161": {
     "id": 161,
@@ -5818,12 +6056,13 @@
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": null,
-    "steno_uebersetzt": [],
-    "str_vertr_anhang_uebersetzt": [],
-    "vertr_anhang_uebersetzt": [],
+    "kartonnummer": "29",
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false
+    "tagesordnung": false,
+    "digitalisat_komplett": false
   }
 }
