@@ -2,15 +2,1681 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false
+    "krp": "krp-037",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "1",
+    "titel": "Entwurf des Finanzgesetzes des Staates Deutschösterreich, 1. Jänner bis 30. Juni 1919",
+    "pages": "64"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
+    "krp": "krp-038",
     "Anmerkungen": "",
-    "Aktiv": false
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "krp": "krp-039",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "krp": "krp-040",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "krp": "krp-041",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "krp": "krp-042",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "krp": "krp-043",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "krp": "krp-044",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "krp": "krp-045",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "krp": "krp-046",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "krp": "krp-047",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "krp": "krp-048",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "krp": "krp-049",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "krp": "krp-050",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "krp": "krp-051",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "krp": "krp-052",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "krp": "krp-053",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "krp": "krp-054",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "krp": "krp-055",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "krp": "krp-057",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "krp": "krp-059",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "krp": "krp-060",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "krp": "krp-062",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "krp": "krp-063",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "krp": "krp-064",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "krp": "krp-066",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "krp": "krp-067",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "krp": "krp-068",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "krp": "krp-071",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "krp": "krp-073",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "krp": "krp-074",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "krp": "krp-075",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "krp": "krp-076",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "krp": "krp-077",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "krp": "krp-078",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "krp": "krp-079",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "krp": "krp-080",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "krp": "krp-081",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "krp": "krp-082",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "krp": "krp-083",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "krp": "krp-085",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "krp": "krp-087",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "krp": "krp-089",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "krp": "krp-090",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "krp": "krp-091",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "krp": "krp-092",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "krp": "krp-093",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "krp": "krp-094",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "59": {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "krp": "krp-095",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "60": {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "krp": "krp-096",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "61": {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "krp": "krp-097",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "62": {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "krp": "krp-098",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "63": {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "64": {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "65": {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "krp": "krp-101",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "66": {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "krp": "krp-102",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "67": {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "krp": "krp-103",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "68": {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "krp": "krp-104",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "69": {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "krp": "krp-105",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "70": {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "krp": "krp-106",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "71": {
+    "id": 71,
+    "order": "71.00000000000000000000",
+    "krp": "krp-107",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "72": {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "krp": "krp-108",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "73": {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "krp": "krp-109",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "74": {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "krp": "krp-110",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "75": {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "krp": "krp-111",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "76": {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "krp": "krp-112",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "77": {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "krp": "krp-113",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "78": {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "krp": "krp-114",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "79": {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "krp": "krp-115",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "80": {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "krp": "krp-116",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "81": {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "krp": "krp-117",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "82": {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "krp": "krp-118",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "83": {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "krp": "krp-119",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "84": {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "krp": "krp-120",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "85": {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "krp": "krp-121",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "86": {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "krp": "krp-122",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "87": {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "krp": "krp-123",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "88": {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "krp": "krp-124",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "89": {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "krp": "krp-125",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "90": {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "krp": "krp-126",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "91": {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "krp": "krp-127",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "92": {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "krp": "krp-128",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "93": {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "krp": "krp-129",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "94": {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "krp": "krp-130",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "95": {
+    "id": 95,
+    "order": "95.00000000000000000000",
+    "krp": "krp-131",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "96": {
+    "id": 96,
+    "order": "96.00000000000000000000",
+    "krp": "krp-132",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "97": {
+    "id": 97,
+    "order": "97.00000000000000000000",
+    "krp": "krp-133",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "98": {
+    "id": 98,
+    "order": "98.00000000000000000000",
+    "krp": "krp-134",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "99": {
+    "id": 99,
+    "order": "99.00000000000000000000",
+    "krp": "krp-135",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "100": {
+    "id": 100,
+    "order": "100.00000000000000000000",
+    "krp": "krp-136",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "101": {
+    "id": 101,
+    "order": "101.00000000000000000000",
+    "krp": "krp-137",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "102": {
+    "id": 102,
+    "order": "102.00000000000000000000",
+    "krp": "krp-138",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "103": {
+    "id": 103,
+    "order": "103.00000000000000000000",
+    "krp": "krp-139",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "104": {
+    "id": 104,
+    "order": "104.00000000000000000000",
+    "krp": "krp-140",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "105": {
+    "id": 105,
+    "order": "105.00000000000000000000",
+    "krp": "krp-141",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "106": {
+    "id": 106,
+    "order": "106.00000000000000000000",
+    "krp": "krp-142",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "107": {
+    "id": 107,
+    "order": "107.00000000000000000000",
+    "krp": "krp-143",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "108": {
+    "id": 108,
+    "order": "108.00000000000000000000",
+    "krp": "krp-144",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "109": {
+    "id": 109,
+    "order": "109.00000000000000000000",
+    "krp": "krp-145",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "110": {
+    "id": 110,
+    "order": "110.00000000000000000000",
+    "krp": "krp-146",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "111": {
+    "id": 111,
+    "order": "111.00000000000000000000",
+    "krp": "krp-147",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "112": {
+    "id": 112,
+    "order": "112.00000000000000000000",
+    "krp": "krp-148",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "113": {
+    "id": 113,
+    "order": "113.00000000000000000000",
+    "krp": "krp-149",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "114": {
+    "id": 114,
+    "order": "114.00000000000000000000",
+    "krp": "krp-150",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "115": {
+    "id": 115,
+    "order": "115.00000000000000000000",
+    "krp": "krp-151",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "116": {
+    "id": 116,
+    "order": "116.00000000000000000000",
+    "krp": "krp-152",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "117": {
+    "id": 117,
+    "order": "117.00000000000000000000",
+    "krp": "krp-153",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "118": {
+    "id": 118,
+    "order": "118.00000000000000000000",
+    "krp": "krp-154",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "119": {
+    "id": 119,
+    "order": "119.00000000000000000000",
+    "krp": "krp-155",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "120": {
+    "id": 120,
+    "order": "120.00000000000000000000",
+    "krp": "krp-156",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "121": {
+    "id": 121,
+    "order": "121.00000000000000000000",
+    "krp": "krp-157",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "122": {
+    "id": 122,
+    "order": "122.00000000000000000000",
+    "krp": "krp-158",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "123": {
+    "id": 123,
+    "order": "123.00000000000000000000",
+    "krp": "krp-159",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "124": {
+    "id": 124,
+    "order": "124.00000000000000000000",
+    "krp": "krp-160",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "125": {
+    "id": 125,
+    "order": "125.00000000000000000000",
+    "krp": "krp-161",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "126": {
+    "id": 126,
+    "order": "126.00000000000000000000",
+    "krp": "krp-162",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "127": {
+    "id": 127,
+    "order": "127.00000000000000000000",
+    "krp": "krp-163",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "128": {
+    "id": 128,
+    "order": "128.00000000000000000000",
+    "krp": "krp-164",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "129": {
+    "id": 129,
+    "order": "129.00000000000000000000",
+    "krp": "krp-165",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "130": {
+    "id": 130,
+    "order": "130.00000000000000000000",
+    "krp": "krp-166",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "131": {
+    "id": 131,
+    "order": "131.00000000000000000000",
+    "krp": "krp-167",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "132": {
+    "id": 132,
+    "order": "132.00000000000000000000",
+    "krp": "krp-168",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "133": {
+    "id": 133,
+    "order": "133.00000000000000000000",
+    "krp": "krp-169",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "134": {
+    "id": 134,
+    "order": "134.00000000000000000000",
+    "krp": "krp-170",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "135": {
+    "id": 135,
+    "order": "135.00000000000000000000",
+    "krp": "krp-171",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "136": {
+    "id": 136,
+    "order": "136.00000000000000000000",
+    "krp": "krp-172",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "krp": "krp-173",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "138": {
+    "id": 138,
+    "order": "138.00000000000000000000",
+    "krp": "krp-174",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "139": {
+    "id": 139,
+    "order": "139.00000000000000000000",
+    "krp": "krp-175",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "140": {
+    "id": 140,
+    "order": "140.00000000000000000000",
+    "krp": "krp-177",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "141": {
+    "id": 141,
+    "order": "141.00000000000000000000",
+    "krp": "krp-178",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "142": {
+    "id": 142,
+    "order": "142.00000000000000000000",
+    "krp": "krp-179",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "143": {
+    "id": 143,
+    "order": "143.00000000000000000000",
+    "krp": "krp-180",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "144": {
+    "id": 144,
+    "order": "144.00000000000000000000",
+    "krp": "krp-181",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "145": {
+    "id": 145,
+    "order": "145.00000000000000000000",
+    "krp": "krp-182",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "146": {
+    "id": 146,
+    "order": "146.00000000000000000000",
+    "krp": "krp-183",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "147": {
+    "id": 147,
+    "order": "147.00000000000000000000",
+    "krp": "krp-184",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "148": {
+    "id": 148,
+    "order": "148.00000000000000000000",
+    "krp": "krp-185",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "149": {
+    "id": 149,
+    "order": "149.00000000000000000000",
+    "krp": "krp-186",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "150": {
+    "id": 150,
+    "order": "150.00000000000000000000",
+    "krp": "krp-187",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "151": {
+    "id": 151,
+    "order": "151.00000000000000000000",
+    "krp": "krp-188",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "152": {
+    "id": 152,
+    "order": "152.00000000000000000000",
+    "krp": "krp-189",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "153": {
+    "id": 153,
+    "order": "153.00000000000000000000",
+    "krp": "krp-190",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "154": {
+    "id": 154,
+    "order": "154.00000000000000000000",
+    "krp": "krp-191",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "155": {
+    "id": 155,
+    "order": "155.00000000000000000000",
+    "krp": "krp-192",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "156": {
+    "id": 156,
+    "order": "156.00000000000000000000",
+    "krp": "krp-193",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "157": {
+    "id": 157,
+    "order": "157.00000000000000000000",
+    "krp": "krp-194",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "158": {
+    "id": 158,
+    "order": "158.00000000000000000000",
+    "krp": "krp-195",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": null,
+    "titel": null,
+    "pages": null
+  },
+  "159": {
+    "id": 159,
+    "order": "159.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "160": {
+    "id": 160,
+    "order": "160.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "161": {
+    "id": 161,
+    "order": "161.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "162": {
+    "id": 162,
+    "order": "162.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "163": {
+    "id": 163,
+    "order": "163.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "164": {
+    "id": 164,
+    "order": "164.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "165": {
+    "id": 165,
+    "order": "165.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "166": {
+    "id": 166,
+    "order": "166.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "167": {
+    "id": 167,
+    "order": "167.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
+  },
+  "168": {
+    "id": 168,
+    "order": "168.00000000000000000000",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "",
+    "titel": "",
+    "pages": null
   }
 }

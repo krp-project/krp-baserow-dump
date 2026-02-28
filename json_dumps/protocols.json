@@ -2147,17 +2147,23 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Präsenzliste wurde beigelegt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_trans": [
       {
         "id": 22605,
@@ -2169,7 +2175,7 @@
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
-    "digitalisat_komplett": false
+    "digitalisat_komplett": true
   },
   "54": {
     "id": 54,
@@ -2193,9 +2199,9 @@
     "anzahl_beilagen": "6",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": true,
+    "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
@@ -2206,18 +2212,12 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_trans": [
-      {
-        "id": 22605,
-        "value": "noch nicht",
-        "color": "pink"
-      }
-    ],
+    "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
-    "digitalisat_komplett": false
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "55": {
     "id": 55,
@@ -2237,23 +2237,29 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "3",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
-    "digitalisat_komplett": false
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "56": {
     "id": 56,
@@ -2273,23 +2279,29 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "8",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Präsenzliste wurde beigelegt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
-    "digitalisat_komplett": false
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "57": {
     "id": 57,
@@ -2309,23 +2321,29 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
-    "digitalisat_komplett": false
+    "digitalisat_komplett": true
   },
   "58": {
     "id": 58,
@@ -2345,23 +2363,29 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "9",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
-    "digitalisat_komplett": false
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "59": {
     "id": 59,
@@ -2381,23 +2405,35 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Mehrere Doubletten des KRP 95 - Stenogramm und streng vertraulicher Anhang fehlen im Akt!!!",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
-    "digitalisat_komplett": false
+    "digitalisat_komplett": true
   },
   "60": {
     "id": 60,
@@ -2417,23 +2453,29 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Doublette des KRP 96 - Stenogramm fehlt im Akt!!!",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false,
-    "digitalisat_komplett": false
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "61": {
     "id": 61,
@@ -2453,23 +2495,35 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
-    "digitalisat_komplett": false
+    "tagesordnung": true,
+    "digitalisat_komplett": true
   },
   "62": {
     "id": 62,
@@ -2489,20 +2543,32 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false
@@ -2525,22 +2591,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "13",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "64": {
@@ -2561,22 +2633,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "8",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "65": {
@@ -2597,22 +2675,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "66": {
@@ -2633,22 +2717,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "5",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "67": {
@@ -2669,22 +2759,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "3",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "11. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "68": {
@@ -2705,22 +2801,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Stellungnahme des Kabinetts zum Friedensvertrag",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "69": {
@@ -2741,22 +2843,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Stenogramm könnte im Akt fehlen",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "12",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "70": {
@@ -2777,22 +2885,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "6",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "13",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "71": {
@@ -2813,22 +2927,34 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "16",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "13",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "72": {
@@ -2849,22 +2975,34 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "7",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "13",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "73": {
@@ -2885,22 +3023,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "8",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "12. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "13",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "74": {
@@ -2921,20 +3065,32 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "13",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false
@@ -2957,22 +3113,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "13",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "76": {
@@ -2993,22 +3155,34 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "13",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "77": {
@@ -3029,22 +3203,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "14",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "78": {
@@ -3065,22 +3245,34 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "17",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "14",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "79": {
@@ -3101,18 +3293,30 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Stenogramm könnte im Akt fehlen",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "14",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
@@ -3137,22 +3341,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "16",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "13. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "14",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "81": {
@@ -3173,22 +3383,34 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "13",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "14",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "82": {
@@ -3209,22 +3431,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "15",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "14",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "83": {
@@ -3245,22 +3473,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "7",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Stenogramm könnte im Akt fehlen",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "15",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "84": {
@@ -3281,22 +3515,34 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "12",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "14. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "15",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "85": {
@@ -3317,22 +3563,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "3",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "51",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "86": {
@@ -3353,22 +3605,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "2",
+    "anzahl_beilagen": "14",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "15",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "87": {
@@ -3389,22 +3647,34 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "2",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "15",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "88": {
@@ -3426,13 +3696,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "18",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Str. vertr. Anhang (TOP 6, 14) - noch nicht digitalisiert; Steno A übersetzt, B noch nicht",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Str. vertr. Anhang (TOP 6, 14) - noch nicht digitalisiert; Steno A übersetzt, B noch nicht - 15. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "16",
     "steno_trans": [
@@ -3450,9 +3720,9 @@
       }
     ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "89": {
@@ -3474,12 +3744,12 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "9",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": "Top 1 - noch nicht digitalisiert; S. 14, 14a, 15",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "16",
@@ -3498,9 +3768,9 @@
       }
     ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "90": {
@@ -3522,13 +3792,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "16. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "16",
     "steno_trans": [
@@ -3538,11 +3808,17 @@
         "color": "red"
       }
     ],
-    "str_vertr_anhang_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "91": {
@@ -3564,12 +3840,12 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "7",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "16",
@@ -3582,9 +3858,9 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "92": {
@@ -3606,13 +3882,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Str.vertr.Anhang zu TOP 1 (noch nicht digit.)",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Str.vertr.Anhang zu TOP 1 (noch nicht digit.)-evt. nicht im Akt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "17",
     "steno_trans": [],
@@ -3648,12 +3924,12 @@
       "color": "light-blue"
     },
     "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "16",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "17",
@@ -3683,14 +3959,14 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "5",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Str.vertr.Anhang zu TOP 2 (noch nicht digit.)",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Str.vertr.Anhang zu TOP 2 (noch nicht digit.)-evt. nicht im Akt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "17",
     "steno_trans": [
@@ -3708,9 +3984,9 @@
       }
     ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "95": {
@@ -3732,12 +4008,12 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "17",
@@ -3750,9 +4026,9 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "96": {
@@ -3774,21 +4050,21 @@
       "color": "light-blue"
     },
     "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "17",
     "steno_trans": [],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "97": {
@@ -3810,13 +4086,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "17. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "17",
     "steno_trans": [
@@ -3828,9 +4104,9 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "98": {
@@ -3852,13 +4128,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "8",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "18. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "18",
     "steno_trans": [],
@@ -3887,22 +4163,34 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "18",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "100": {
@@ -3923,22 +4211,22 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "18",
     "steno_trans": [],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "101": {
@@ -3959,22 +4247,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "3",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "18",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "102": {
@@ -3995,22 +4289,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "19. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "18",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "103": {
@@ -4031,22 +4331,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "19",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "104": {
@@ -4067,22 +4373,34 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "7",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
-    "vertr_anhang": false,
-    "reinschrift": false,
+    "vertr_anhang": true,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "19",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
-    "vertr_anhang_trans": [],
-    "konzept": false,
+    "vertr_anhang_trans": [
+      {
+        "id": 22606,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "105": {
@@ -4103,22 +4421,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "19",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "106": {
@@ -4139,22 +4463,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Seiten 1-3 Steno fehlen",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "19",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "107": {
@@ -4175,22 +4505,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "9",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "19",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "108": {
@@ -4212,12 +4548,12 @@
       "color": "light-blue"
     },
     "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "19",
@@ -4226,7 +4562,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "109": {
@@ -4247,22 +4583,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "2",
+    "anzahl_beilagen": "5",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "19",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "110": {
@@ -4283,22 +4625,34 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "2",
+    "anzahl_beilagen": "14",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "20",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "111": {
@@ -4319,22 +4673,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "19",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "20. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "20",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "112": {
@@ -4355,22 +4715,28 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "1",
+    "anzahl_beilagen": "10",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "20",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
-    "tagesordnung": false,
+    "tagesordnung": true,
     "digitalisat_komplett": false
   },
   "113": {
@@ -4391,20 +4757,26 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "21",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false
@@ -4427,20 +4799,26 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "21",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false
