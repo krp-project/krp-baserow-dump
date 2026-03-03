@@ -195,9 +195,189 @@
     "krp": "krp-056",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Umgrenzung des Wirkungskreises des Ministers a.D. Franz Klein im Staatsamt für Äußeres",
+    "pages": "2"
+  },
+  "251": {
+    "id": 251,
+    "order": "20.50000000000000000000",
+    "krp": "krp-056",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Bericht des Staatssekretärs für Volksernährung über die wegen Einfuhren erforderliche Regelung der Mehl- und Brotpreise",
+    "pages": "17"
+  },
+  "252": {
+    "id": 252,
+    "order": "20.66666666666666785090",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Anhang zu Bericht des Staatssekretärs",
+    "pages": "15"
+  },
+  "253": {
+    "id": 253,
+    "order": "20.75000000000000000000",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Auszug für den Vortrag im Kabinettsrat für ein Gesetz der Provisorischen Steiermärkischen Landesversammlung über Bauerleichterungen für Kleinhäuser",
+    "pages": "2"
+  },
+  "254": {
+    "id": 254,
+    "order": "20.80000000000000071054",
+    "krp": "krp-056",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Gesetzesentwurf über die Aufhebung und Ablösung der Jagdrechte auf fremden Grund und Boden",
+    "pages": "5"
+  },
+  "255": {
+    "id": 255,
+    "order": "20.83333333333333214910",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Begründung zum Gesetzesentwurf über die Aufhebung und Ablösung der Jagdrechte auf fremden Grund und Boden",
+    "pages": "4"
+  },
+  "256": {
+    "id": 256,
+    "order": "20.85714285714285765039",
+    "krp": "krp-056",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesentwurf des Staatsamtes für Landwirtschaft Zl. 6671/1919 über die Ablösung, Neuregulierung und Sicherung der Holz-, Forstproduktenbezugs- und Weiderechte",
+    "pages": "18"
+  },
+  "257": {
+    "id": 257,
+    "order": "20.87500000000000000000",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Information über das Salzburger Servitutsgesetz",
+    "pages": "2"
+  },
+  "258": {
+    "id": 258,
+    "order": "20.88888888888888928363",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Begründung des Gesetzesentwurfes",
+    "pages": "4"
+  },
+  "259": {
+    "id": 259,
+    "order": "20.89999999999999857891",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft um Zustimmung zum Beschluss der steiermärkischen Landesregierung auf Änderungen im Landesjagdgesetz",
+    "pages": "3"
+  },
+  "260": {
+    "id": 260,
+    "order": "20.90909090909091005983",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft auf Einbringung eines Gesetzes über die Wiederbesiedlung gelegener Bauerngüter und Häusleranwesen",
+    "pages": "12"
+  },
+  "261": {
+    "id": 261,
+    "order": "20.91666666666666785090",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Begründung des Entwurfs",
+    "pages": "8"
+  },
+  "262": {
+    "id": 262,
+    "order": "20.92307692307692335021",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Antrag des zwischenstaatlichen Komitees für Staatsbedienstetenangelegenheiten in Bezug auf das Ansuchen der Zwangspensionisten um Milderung ihrer Lage",
+    "pages": "5"
+  },
+  "263": {
+    "id": 263,
+    "order": "20.92857142857142704884",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Memorandum der Zwangspensionisten",
+    "pages": "3"
+  },
+  "264": {
+    "id": 264,
+    "order": "20.93333333333333357018",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Bericht des Komitees vom 2. März 1919 an den Kabinettsrat",
+    "pages": "14"
+  },
+  "266": {
+    "id": 266,
+    "order": "20.93548387096774021643",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "13",
+    "titel": "Antrag des Staatsamtes für Unterricht auf Veräußerung von Kirchenvermögen, dem Verkauf des Währinger Ortsfriedhofs an die Stadt Wien",
+    "pages": "3"
+  },
+  "265": {
+    "id": 265,
+    "order": "20.93750000000000000000",
+    "krp": "krp-056",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "14",
+    "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung zum Gesetz über den Schutz von Ziehkindern und unehelichen Kindern",
+    "pages": "10"
+  },
+  "267": {
+    "id": 267,
+    "order": "20.94117647058823550310",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "14",
+    "titel": "Erläuternde Bemerkungen",
+    "pages": "3"
+  },
+  "268": {
+    "id": 268,
+    "order": "20.94444444444444286546",
+    "krp": "krp-056",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Abänderungsanträge zum bereits behandelten Entwurf eines Militärversorgungsgesetzes",
+    "pages": "6"
   },
   "21": {
     "id": 21,
@@ -205,9 +385,39 @@
     "krp": "krp-057",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "5",
+    "titel": "Bericht des Vizekanzlers Fink über das Ergebnis der Kabinettsbesprechung zur Brotauflage und die Frage der Preiserstellung für Mehl und Brot",
+    "pages": "2"
+  },
+  "269": {
+    "id": 269,
+    "order": "21.50000000000000000000",
+    "krp": "krp-057",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Bericht des Staatssekretärs für Volksernährung über die von einzelnen Ländern getroffenen Maßnahmen zur Verhinderung des Einreise- und Sommerfrischenverkehres",
+    "pages": "8"
+  },
+  "270": {
+    "id": 270,
+    "order": "21.66666666666666785090",
+    "krp": "krp-057",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Antrag des Staatsamtes für Justiz an den Präsidenten der Nationalversammlung auf Ermächtigung der Ehelicherklärung unehelicher Kinder gefallener oder verstorbener Soldaten",
+    "pages": "1"
+  },
+  "271": {
+    "id": 271,
+    "order": "21.75000000000000000000",
+    "krp": "krp-057",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Vollzugsanweisung über die Übertragung von Rechten zur Ausnützung von Wasserkräften",
+    "pages": "2"
   },
   "22": {
     "id": 22,
@@ -215,9 +425,79 @@
     "krp": "krp-058",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Neue italienische Forderungen auf Sicherstellung von Kunstschätzen",
+    "pages": "2"
+  },
+  "272": {
+    "id": 272,
+    "order": "22.50000000000000000000",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Beschluss der Provisorischen Landesversammlung Niederösterreichs zur Abänderung der Rechtsverhältnisse des Lehrstandes",
+    "pages": "4"
+  },
+  "273": {
+    "id": 273,
+    "order": "22.66666666666666785090",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Beschlüsse der Provisorischen Landesversammlung Kärntens über die Änderung des Gesetzes über die Schulaufsicht",
+    "pages": "9"
+  },
+  "274": {
+    "id": 274,
+    "order": "22.75000000000000000000",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Aktennotiz über die Vorsprache des Obmannes des Archivrates hinsichtlich der Erinnerung an den Beschluss zur Erhaltung der Archive vom 18. Februar 1919",
+    "pages": "1"
+  },
+  "275": {
+    "id": 275,
+    "order": "22.80000000000000071054",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Adaptierungsarbeiten zur Umwandlung der ehemaligen Technischen Militärakademie in Mödling",
+    "pages": "2"
+  },
+  "276": {
+    "id": 276,
+    "order": "22.83333333333333214910",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Ratifizierung des Wirtschaftsübereinkommens mit der ungarischen Räterepublik",
+    "pages": "13"
+  },
+  "277": {
+    "id": 277,
+    "order": "22.85714285714285765039",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Ratifizierung des Wirtschaftsübereinkommens mit der westukrainischen Volksrepublik",
+    "pages": "3"
+  },
+  "278": {
+    "id": 278,
+    "order": "22.87500000000000000000",
+    "krp": "krp-058",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Gesetzesentwurfs des Staatsamtes für Verkehrswesen über die Errichtung von Vertretungskörpern des Personals der deutschösterreichischen Staatsbahnen",
+    "pages": "9"
   },
   "23": {
     "id": 23,
@@ -225,19 +505,89 @@
     "krp": "krp-059",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "5",
+    "titel": "Staatsamt für Land- und Forstwirtschaft Zl. 376/A.O. hinsichtlich Ausgestaltung der Agrarbehörde und Bildung eines eigenen Personalstandes für die rechtskundigen Beamten der Agrarbehörden",
+    "pages": "3"
+  },
+  "279": {
+    "id": 279,
+    "order": "23.50000000000000000000",
+    "krp": "krp-059",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Anforderung von Wohnungen durch die Gemeinden",
+    "pages": "2"
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
     "krp": "krp-060",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Vollzugsanweisung des Staatsamtes für Volksernährung hinsichtlich Zuckerrübe und Rohrzucker im Betriebsjahr 1919/20",
+    "pages": "5"
+  },
+  "280": {
+    "id": 280,
+    "order": "24.50000000000000000000",
+    "krp": "krp-060",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "9",
+    "titel": "Gesetzesbeschluss der Provisorischen Landesregierung Kärntens über eine Änderung des Kärntner Wasserrechtsgesetzes",
+    "pages": "10"
+  },
+  "281": {
+    "id": 281,
+    "order": "24.66666666666666785090",
+    "krp": "krp-060",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Durchführung des Gesetzes über die Landesverweisung der Habsburger hinsichtlich einer Vollmacht an Rechtsanwalt Dr. Gustav Harpner auf Vertretung der Republik Österreich",
+    "pages": "2"
+  },
+  "282": {
+    "id": 282,
+    "order": "24.75000000000000000000",
+    "krp": "krp-060",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Vorschlag des zwischenstaatsamtlichen Komitees für Beamtenangelegenheiten auf Abänderung der Formeln des Diensteides und der Pflichtangelobung für Lehrer",
+    "pages": "4"
+  },
+  "283": {
+    "id": 283,
+    "order": "24.80000000000000071054",
+    "krp": "krp-060",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Wahlordnung für den verfassungsgebenden Landtag in Kärnten, Z. 12806/19",
+    "pages": "1"
+  },
+  "284": {
+    "id": 284,
+    "order": "24.83333333333333214910",
+    "krp": "krp-060",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "13",
+    "titel": "Auszug für den Kabinettsrat des Staatssekretärs für Verkehrswesen ad Zl. 2256/Präs hinsichtlich Errichtung einer Staatsbahndirektion Wien Nordost",
+    "pages": "2"
+  },
+  "285": {
+    "id": 285,
+    "order": "24.85714285714285765039",
+    "krp": "krp-060",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Auszug für den Kabinettsrat über Gesetzesbeschlüsse der prov. Landesversammlung Salzburgs über die Gewährung von Bauerleichterungen",
+    "pages": "4"
   },
   "25": {
     "id": 25,
@@ -245,9 +595,89 @@
     "krp": "krp-061",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "6",
+    "titel": "Übersichtstabelle des Staatsamtes des Inneren, Zl. 18168, über alle jene Beschlüsse der Niederösterreichischen und Kärntner Landesausschüsse hinsichtlich der Einhebung von Umlagen in deren Gemeinden",
+    "pages": "2"
+  },
+  "286": {
+    "id": 286,
+    "order": "25.50000000000000000000",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Ausdehnung der Vollmacht von Univ.-Prof. Hofrat Dr. Oswald Redlich auf die Archive der früheren gemeinsamen und österreichischen Zentralstellen",
+    "pages": "1"
+  },
+  "287": {
+    "id": 287,
+    "order": "25.66666666666666785090",
+    "krp": "krp-061",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesantrag des Staatsamtes für Land- und Forstwirtschaft, Zl. 8135/1919 zum Schutz der Alpen und der Förderung der Alpwirtschaft",
+    "pages": "9"
+  },
+  "288": {
+    "id": 288,
+    "order": "25.75000000000000000000",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Gesetzesbeschluss der Provisorischen Landesversammlung Salzburg auf Errichtung einer Bürgerschule in Bischofshofen",
+    "pages": "3"
+  },
+  "289": {
+    "id": 289,
+    "order": "25.80000000000000071054",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Anwendung der Dienstpragmatik die Beamten und Diener des Auswärtigen Dienstes",
+    "pages": "3"
+  },
+  "290": {
+    "id": 290,
+    "order": "25.83333333333333214910",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Gewährung einmaliger Mehrbezüge an das Lehrpersonal der Exportakademie",
+    "pages": "2"
+  },
+  "291": {
+    "id": 291,
+    "order": "25.85714285714285765039",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "13",
+    "titel": "Antrag des Staatsamtes für Justiz Zl.6862/19 und 6878/19 auf Befristung des Treuegelöbnisses deutscher Beamter für den tschechoslowakischen Staat mit 30. April 1919",
+    "pages": "8"
+  },
+  "292": {
+    "id": 292,
+    "order": "25.87500000000000000000",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "14",
+    "titel": "Vollzugsanweisung des Staatsamtes für Verkehrswesen Zl. 885/Präs auf Festsetzung der Zuständigkeit hinsichtlich der staatshoheitlichen und staatsaufsichtsrechtlichen Angelegenheiten des Luftfahrtwesens",
+    "pages": "5"
+  },
+  "293": {
+    "id": 293,
+    "order": "25.88888888888888928363",
+    "krp": "krp-061",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Vortrag des Staatsamtes für Verkehrswesen Zl. 317/Präs auf Forderung der Zuständigkeit für die Beförderung von Staatseisenbahnbeamten in die V. und IV. Dienstklasse",
+    "pages": "2"
   },
   "26": {
     "id": 26,
@@ -255,9 +685,49 @@
     "krp": "krp-062",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Gesetz über das Verbot von Nachtarbeit für Frauen und Jugendliche in gewerblichen Betrieben",
+    "pages": "6"
+  },
+  "294": {
+    "id": 294,
+    "order": "26.50000000000000000000",
+    "krp": "krp-062",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Vorschläge des Staatsamtes für Heerwesen Zl. Abt. 7/P.No. 1004/Res von 1919 für die Verwertung der im Mittel auf dem Steinfeld lagernden Munitionssorten",
+    "pages": "3"
+  },
+  "295": {
+    "id": 295,
+    "order": "26.66666666666666785090",
+    "krp": "krp-062",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Entwurf einer Vollzugsanweisung des Staatsamtes für Volksernährung Zl. 17533 (Abt. 10) über die Regelung des Reise- und Sommerverkehres",
+    "pages": "8"
+  },
+  "296": {
+    "id": 296,
+    "order": "26.75000000000000000000",
+    "krp": "krp-062",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Gesetzesentwurf über die Außerkraftsetzung des Gesetzes StGBl. Nr. 36 hinsichtlich der Verwendbarkeit der von der Salzburger Landesversammlung auszugebenden Teilschuldverschreibungen zur Anlegung von Stiftungskapitalien",
+    "pages": "2"
+  },
+  "297": {
+    "id": 297,
+    "order": "26.80000000000000071054",
+    "krp": "krp-062",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Antrag des Staatsamtes für Finanzen auf Überlassung eines ärarischen Gebäudekomplexes in Wien an die Tabakmonopolverwaltung",
+    "pages": "2"
   },
   "27": {
     "id": 27,
@@ -265,7 +735,7 @@
     "krp": "krp-063",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
+    "top": "-",
     "titel": null,
     "pages": null
   },
@@ -275,9 +745,89 @@
     "krp": "krp-064",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Vortrag des Staatsamtes für Inneres und Unterricht Zl. 831/19 über den Gesetzesbeschluss der Provisorischen Salzburger Landesversammlung über die Gemeindewahlordnung für die Stadt Salzburg und für die Gemeinden des Landes Salzburg",
+    "pages": "1"
+  },
+  "298": {
+    "id": 298,
+    "order": "28.50000000000000000000",
+    "krp": "krp-064",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Delegierung von Abgeordneten in den reichsdeutschen Verfassungsausschuss",
+    "pages": "2"
+  },
+  "299": {
+    "id": 299,
+    "order": "28.66666666666666785090",
+    "krp": "krp-064",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Gesetzesvorlage der Staatsregierung über die Ermächtigung der Regierung zu zoll- und handelspolitischen Verfügungen",
+    "pages": "2"
+  },
+  "300": {
+    "id": 300,
+    "order": "28.75000000000000000000",
+    "krp": "krp-064",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vortrag des Staatsamtes für Heerwesen zur Erweiterung des Pulvermonopols durch Ausdehnung auf Sprengstoffe",
+    "pages": "2"
+  },
+  "301": {
+    "id": 301,
+    "order": "28.80000000000000071054",
+    "krp": "krp-064",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Einbringung des Gesetzentwurfes über die Mindestruhezeit, den Ladenschluss und die Sonntagsruhe in Handelsgewerben und anderen Betrieben",
+    "pages": "6"
+  },
+  "302": {
+    "id": 302,
+    "order": "28.83333333333333214910",
+    "krp": "krp-064",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzentwurf über gemeinwirtschaftliche Anstalten und Gesellschaften gemeinwirtschaftlichen Charakters",
+    "pages": "6"
+  },
+  "303": {
+    "id": 303,
+    "order": "28.85714285714285765039",
+    "krp": "krp-064",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesentwurf über die Errichtung von Betriebsräten",
+    "pages": "7"
+  },
+  "304": {
+    "id": 304,
+    "order": "28.87500000000000000000",
+    "krp": "krp-064",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Vergesellschaftung von Unternehmungen durch die Gemeinden",
+    "pages": "2"
+  },
+  "305": {
+    "id": 305,
+    "order": "28.88888888888888928363",
+    "krp": "krp-064",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Information für Staatskanzler über Bodenreformgesetzgebung",
+    "pages": "3"
   },
   "29": {
     "id": 29,
@@ -445,9 +995,109 @@
     "krp": "krp-081",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Forderungen der Organe der liquidierenden militärischen Stellen in Deutschösterreich",
+    "pages": "8"
+  },
+  "171": {
+    "id": 171,
+    "order": "45.50000000000000000000",
+    "krp": "krp-081",
+    "Anmerkungen": "A",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Bekanntgabe der Verwaltung des Hofärars an das Staatsamt für Inneres und Unterricht über die Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes",
+    "pages": "2"
+  },
+  "172": {
+    "id": 172,
+    "order": "45.66666666666666429819",
+    "krp": "krp-081",
+    "Anmerkungen": "B, zweifach",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes",
+    "pages": "4"
+  },
+  "173": {
+    "id": 173,
+    "order": "45.75000000000000000000",
+    "krp": "krp-081",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Forderungen des Zentralangestelltenrates an den Staatssekretär für Äußeres um Erhöhung der Teuerungszulagen",
+    "pages": "5"
+  },
+  "174": {
+    "id": 174,
+    "order": "45.79999999999999715783",
+    "krp": "krp-081",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Vereinbarung mit der tschechoslowakischen Regierung über die Zusammenlegung deutschösterreichischer und tschechoslowakischer Grenzzollämter und Grenzkontrollstellen",
+    "pages": "2"
+  },
+  "175": {
+    "id": 175,
+    "order": "45.83333333333333570181",
+    "krp": "krp-081",
+    "Anmerkungen": "letzte Seite zweifach",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Rückberufung der in fremden Verwaltungszweigen verwendeten Zollbeamten und Finanzwachunterbeamten in den Zolldienst",
+    "pages": "5"
+  },
+  "176": {
+    "id": 176,
+    "order": "45.85714285714285409767",
+    "krp": "krp-081",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Unterstützung der deutschösterreichischen Tageszeitungen beim Bezug von Rotationsdruckpapier im 1. Halbjahr 1919",
+    "pages": "4"
+  },
+  "177": {
+    "id": 177,
+    "order": "45.87500000000000000000",
+    "krp": "krp-081",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesentwurfs für die Gewährung einmaliger Anschaffungsbeiträge an aktive und pensionierte Lehrer der öffentlichen Volks- und Bürgerschulen sowie an deren Witwen und Waisen für das 1. Halbjahr 1919",
+    "pages": "3"
+  },
+  "178": {
+    "id": 178,
+    "order": "45.88888888888888573092",
+    "krp": "krp-081",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Bezügeregelung der Domvikare in Salzburg",
+    "pages": "2"
+  },
+  "179": {
+    "id": 179,
+    "order": "45.89999999999999857891",
+    "krp": "krp-081",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Tauschvertrag von Kirchengut zwischen zwei Kongregationen",
+    "pages": "2"
+  },
+  "180": {
+    "id": 180,
+    "order": "45.90909090909090650712",
+    "krp": "krp-081",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Vortrag des Staatsamts für soziale Verwaltung über einen Gesetzesentwurf zur Schaffung einer Gehaltskassa für die Pharmazeuten",
+    "pages": "18"
   },
   "46": {
     "id": 46,
@@ -455,9 +1105,129 @@
     "krp": "krp-082",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "2",
+    "titel": "Referat des Staatskanzlers über die Kompetenz für die Beurlaubung des Präsidenten des Obersten Gerichtshofes",
+    "pages": "2"
+  },
+  "181": {
+    "id": 181,
+    "order": "46.50000000000000000000",
+    "krp": "krp-082",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Zl. 164/5 St.K.-1919 über ein Verzeichnis sämtlicher von den Staatsämtern zur Unterbreitung an das Präsidium der Nationalversammlung",
+    "pages": "8"
+  },
+  "182": {
+    "id": 182,
+    "order": "46.66666666666666429819",
+    "krp": "krp-082",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Referat der Staatskanzlei gegen eine Verfügung der Salzburger Landesregierung in Mieterschutzangelegenheiten",
+    "pages": "1"
+  },
+  "183": {
+    "id": 183,
+    "order": "46.75000000000000000000",
+    "krp": "krp-082",
+    "Anmerkungen": "A, dreifach",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Zl. 909/5-St.K.-1919 über das Ansuchen des Vorarlberger Landesrates auf Durchführung einer Volksabstimmung über den Anschluss an die Schweiz",
+    "pages": "5"
+  },
+  "184": {
+    "id": 184,
+    "order": "46.79999999999999715783",
+    "krp": "krp-082",
+    "Anmerkungen": "B, zweifach",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Exposé der Staatskanzlei über den Ersatz des Militärpensionsgesetzes durch ein Ermächtigungsgesetz",
+    "pages": "7"
+  },
+  "185": {
+    "id": 185,
+    "order": "46.83333333333333570181",
+    "krp": "krp-082",
+    "Anmerkungen": "C, zweifach",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Text des Abänderungsvorschlages",
+    "pages": "1"
+  },
+  "186": {
+    "id": 186,
+    "order": "46.85714285714285409767",
+    "krp": "krp-082",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Gesetzesvorlage der Staatsregierung über das Budgetprovisorium über das zweite Halbjahr 1919",
+    "pages": "6"
+  },
+  "187": {
+    "id": 187,
+    "order": "46.87500000000000000000",
+    "krp": "krp-082",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Zl. 21415/1919 des Saatsamtes des Inneren über einen Auszug für den Vortrag über den Gesetzesbeschluss der Steiermärkischen Landesversammlung über die Beitragsleistung der Heimatgemeinden zu den Verpflegskosten öffentlichen Kranken- und Irrenanstalten",
+    "pages": "1"
+  },
+  "188": {
+    "id": 188,
+    "order": "46.88888888888888573092",
+    "krp": "krp-082",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Entwurf einer Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Unterstützung arbeitsloser Arbeiter und Angestellter",
+    "pages": "2"
+  },
+  "189": {
+    "id": 189,
+    "order": "46.89999999999999857891",
+    "krp": "krp-082",
+    "Anmerkungen": "D, dreifach",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Antrag des Staatsamtes für Volksernährung über Maßnahmen zum Schutz der Feldfrüchte gegen unbefugte Aneignung, Diebstahl und Raub",
+    "pages": "10"
+  },
+  "190": {
+    "id": 190,
+    "order": "46.90909090909090650712",
+    "krp": "krp-082",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Auszug für den Vortrag des Staatssekretär für Handel, und Gewerbe, Industrie und Bauten über den Beschluss des Niederösterreichischen Landtages über die Abänderung einiger Bestimmungen des niederösterreichischen Fortbildungsschulgesetzes",
+    "pages": "5"
+  },
+  "191": {
+    "id": 191,
+    "order": "46.91666666666666429819",
+    "krp": "krp-082",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Antrag auf finanzielle Unterstützung des Vereins „Technisches Museum für Industrie und Gewerbe in Wien“",
+    "pages": "13"
+  },
+  "193": {
+    "id": 193,
+    "order": "46.92307692307691979750",
+    "krp": "krp-082",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "13",
+    "titel": "Gesetzesvorlage der Staatsregierung über die Verlängerung der Funktionsdauer wirklicher Mitglieder der Handels- und Gewerbekammer",
+    "pages": "3"
   },
   "47": {
     "id": 47,
@@ -465,9 +1235,49 @@
     "krp": "krp-083",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "4",
+    "titel": "Übersichtstabelle des Staatsamt des Inneren Zl. 22.098 für den Vortrag über die Kärntner Landesausschussbeschlüsse",
+    "pages": "1"
+  },
+  "194": {
+    "id": 194,
+    "order": "47.50000000000000000000",
+    "krp": "krp-083",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Übersichtstabelle des Staatsamt des Inneren Zl. 22.097 für den Vortrag über die Beschlüsse der steiermärkischen Landesversammlung",
+    "pages": "1"
+  },
+  "195": {
+    "id": 195,
+    "order": "47.66666666666666429819",
+    "krp": "krp-083",
+    "Anmerkungen": "vierfach",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Antrags des Staatssekretär für Volksernährung über Maßnahmen zur Verringerung der Wiener Bevölkerung zur Linderung der Ernährungslage",
+    "pages": "3"
+  },
+  "196": {
+    "id": 196,
+    "order": "47.75000000000000000000",
+    "krp": "krp-083",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Information des Staatskommissariats für Sachdemobilisierung über die Belagsmöglichkeiten von Lagern und Barackengruppen",
+    "pages": "1"
+  },
+  "197": {
+    "id": 197,
+    "order": "47.79999999999999715783",
+    "krp": "krp-083",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Sicherstellung von ausländischen Lebensmittel- und Rohstofflieferungen durch Holzausfuhr, Verpfändung von Forstbesitz sowie durch Hinterlegung von im privaten Besitz befindlichen Goldmünzen und ausländischen Wertpapieren",
+    "pages": "7"
   },
   "48": {
     "id": 48,
@@ -475,9 +1285,89 @@
     "krp": "krp-084",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "2",
+    "titel": "Beschlüsse des Bundes sozialistischer Staatsangestellter Deutschösterreichs über die Errichtung von Betriebsräten, von Personal-, Qualifikations- und Disziplinarkommissionen sowie die schleunigste Vorlage neuer Besoldungssätze verbunden mit der Einleitung wirtschaftlicher Aktionen",
+    "pages": "1"
+  },
+  "198": {
+    "id": 198,
+    "order": "48.50000000000000000000",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Auszug für den Vortrag des Staatsamtes des Inneren zu Zl. 22.435/1919 über zwei Gesetzesentwürfe der Niederösterreichischen Landesversammlung hinsichtlich der Einhebung verschiedener Gebühren",
+    "pages": "2"
+  },
+  "199": {
+    "id": 199,
+    "order": "48.66666666666666429819",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Vollzugsanweisung des Staatssekretär für Verkehrswesen, Zl. 1.477 über die Einbeziehung der Post-, Telegraphen- und Telephonangelegenheiten sowie der Schifffahrtsangelegenheiten samt Begründung in die Zuständigkeit des Staatsamtes für Verkehrswesen",
+    "pages": "5"
+  },
+  "200": {
+    "id": 200,
+    "order": "48.75000000000000000000",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Vollzugsanweisung des Staatssekretär für Verkehrswesen über die Zuständigkeit des Staatsamtes für alle Kraftfahrangelegenheiten samt Zl. 14.226/P-1919 Begründung",
+    "pages": "4"
+  },
+  "201": {
+    "id": 201,
+    "order": "48.79999999999999715783",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Vollzugsanweisung des Staatssekretär für Verkehrswesen über die Zuständigkeit des Staatsamtes für alle Kraftfahrangelegenheiten samt Zl. 14.226/P-1919 Begründung",
+    "pages": "2"
+  },
+  "202": {
+    "id": 202,
+    "order": "48.83333333333333570181",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Protokoll des deutschösterreichisch-tschechisch-polnischen Kohlenlieferungsabkommens",
+    "pages": "4"
+  },
+  "203": {
+    "id": 203,
+    "order": "48.85714285714285409767",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft, Zl. 11.827/1919 auf Genehmigung des Beschlusses der prov. Steiermärkischen Landesversammlung hinsichtlich eines Grundtausches zwischen dem Land und dem Gutsbesitzer Paul Schoeller",
+    "pages": "3"
+  },
+  "204": {
+    "id": 204,
+    "order": "48.87500000000000000000",
+    "krp": "krp-084",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft, Zl. auf Zustimmung zum Beschluss der Provisorischen niederösterreichischen Landesversammlung zur Verbauung des Schild- und Jodlbindergrabens in Schildern und Thernberg",
+    "pages": "2"
+  },
+  "205": {
+    "id": 205,
+    "order": "48.88888888888888573092",
+    "krp": "krp-084",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Durchführung von Bestimmungen des Invalidenentschädigungsgesetzes",
+    "pages": "6"
   },
   "49": {
     "id": 49,
@@ -485,19 +1375,249 @@
     "krp": "krp-085",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Antrag des Salzburger Landtages auf Verschärfung der Strafbestimmungen gegen Preistreiberei und Kettenhandel",
+    "pages": "4"
+  },
+  "206": {
+    "id": 206,
+    "order": "49.50000000000000000000",
+    "krp": "krp-085",
+    "Anmerkungen": "a",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Verzichtserklärung des Franz, Hubert und Rainer Habsburg-Lothringen",
+    "pages": "2"
+  },
+  "207": {
+    "id": 207,
+    "order": "49.66666666666666429819",
+    "krp": "krp-085",
+    "Anmerkungen": "b",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Referat der Staatskanzlei über die Frage des Aufenthaltsverbotes für das Haus Bourbon-Parma",
+    "pages": "4"
+  },
+  "208": {
+    "id": 208,
+    "order": "49.75000000000000000000",
+    "krp": "krp-085",
+    "Anmerkungen": "c",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Referat der Staatskanzlei, Zl. 303/1-St.K. über eine Amnestie in Verwaltungs- (Polizei)strafsachen",
+    "pages": "3"
+  },
+  "209": {
+    "id": 209,
+    "order": "49.79999999999999715783",
+    "krp": "krp-085",
+    "Anmerkungen": "d, zweifach",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Referat der Staatskanzlei, Zl. 1.735/3/1919 über den Entwurf einer Vollzugsanweisung zur Änderung der Lieferungsverordnung",
+    "pages": "1"
+  },
+  "210": {
+    "id": 210,
+    "order": "49.83333333333333570181",
+    "krp": "krp-085",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Vortrag des Staatssekretär für Heerwesen, Abt. 17 Zl. 371/19 über die Liquidierung der militärgerichtlichen Strafsachen der gewesenen Monarchie",
+    "pages": "12"
+  },
+  "211": {
+    "id": 211,
+    "order": "49.85714285714285409767",
+    "krp": "krp-085",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Liquidierung der militärgerichtlichen Strafsachen der gewesenen Monarchie",
+    "pages": "11"
+  },
+  "212": {
+    "id": 212,
+    "order": "49.87500000000000000000",
+    "krp": "krp-085",
+    "Anmerkungen": "Antrag dreifach",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vortrag und Antrag des Staatsamt für Handel und Gewerbe, Industrie und Bauten über die Erwerbung des Brunner Gewerbelagers durch den Staat zur Unterbringung arbeitsloser Handwerker",
+    "pages": "7"
+  },
+  "213": {
+    "id": 213,
+    "order": "49.88888888888888573092",
+    "krp": "krp-085",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Gesetzesentwurf über Kammern für Handel, Gewerbe und Industrie",
+    "pages": "28"
   },
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
     "krp": "krp-086",
+    "Anmerkungen": "EIGENTLICH KRP 87",
+    "Aktiv": false,
+    "top": "???",
+    "titel": "Bericht über Maßnahmen zur Vorbereitung der Finanzierung der Vermögensabgabe, der Sozialisierung und der Industrieförderung",
+    "pages": "5"
+  },
+  "214": {
+    "id": 214,
+    "order": "50.50000000000000000000",
+    "krp": "krp-086",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Vollzugsanweisung des Staatsamt für Inneres und Unterricht über die bilanzmäßigen Überschüsse der Versicherungsanstalten",
+    "pages": "1"
+  },
+  "215": {
+    "id": 215,
+    "order": "50.66666666666666429819",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Vorlage des Staatsamt für Land- und Forstwirtschaft eines Gesetzesbeschlusses der Provisorischen Oberösterreichischen Landesversammlung über die Änderungen des Oberösterreichischen Wasserrechtsgesetzes",
+    "pages": "9"
+  },
+  "216": {
+    "id": 216,
+    "order": "50.75000000000000000000",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Antrag des Staatsamt für Land- und Forstwirtschaft über die Einführung neuer Titel für die rechtskundigen Beamten der Agrarbehörden",
+    "pages": "3"
+  },
+  "217": {
+    "id": 217,
+    "order": "50.79999999999999715783",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Bericht des Staatsamt für Finanzen über die Erörterungen des Referentenkomitees zur Frage der Verbilligung der Versorgung der Staatsbediensteten mit Lebensmitteln",
+    "pages": "5"
+  },
+  "218": {
+    "id": 218,
+    "order": "50.83333333333333570181",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Aktion zur Verbilligung der Lebensmittel für alle Staatsbediensteten",
+    "pages": "5"
+  },
+  "219": {
+    "id": 219,
+    "order": "50.85714285714285409767",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Antrag des Staatsamt für Finanzen auf Errichtung eines Staatskommissariates für die wirtschaftliche und soziale Organisation der Staatsbediensteten",
+    "pages": "3"
+  },
+  "220": {
+    "id": 220,
+    "order": "50.87500000000000000000",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesbeschluss der Provisorischen Tiroler Landesversammlung über die Abänderung des Gesetzes zur Einberufung des verfassungsgebenden Landtages",
+    "pages": "1"
+  },
+  "221": {
+    "id": 221,
+    "order": "50.88888888888888573092",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Abschrift eines Schreibens der Polizeidirektion Wien an das Staatsamt für Volksernährung über die Ausgestaltung des Kriegswucheramtes",
+    "pages": "6"
+  },
+  "222": {
+    "id": 222,
+    "order": "50.89999999999999857891",
+    "krp": "krp-086",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Abschrift des Berichts, Zl. 31.138 des Staatssekretär für Volksernährung über den Bedarf rechtskundlichen Personals für das Kriegswucheramt",
+    "pages": "2"
+  },
+  "223": {
+    "id": 223,
+    "order": "50.90909090909090650712",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Information des Staatsamt für Inneres und Unterricht über die Ausgestaltung des Kriegswucheramtes",
+    "pages": "4"
+  },
+  "224": {
+    "id": 224,
+    "order": "50.91666666666666429819",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Auszug für den Vortrag des Staatsamt für Inneres und Unterricht, Zl. 22.528/19 über einen Gesetzesentwurf der Provisorischen Niederösterreichischen Landesversammlung hinsichtlich der Einhebung von Wassergebühren in der Gemeinde Waidmannsfeld",
+    "pages": "1"
+  },
+  "225": {
+    "id": 225,
+    "order": "50.92307692307691979750",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Antrag des Staatsamt für soziale Verwaltung, Zl. 15.927/19 über die Anrechnung von Vordienstzeiten bei den Dienern der Wiener Krankenanstalten",
+    "pages": "3"
+  },
+  "226": {
+    "id": 226,
+    "order": "50.92857142857143060155",
+    "krp": "krp-086",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "13",
+    "titel": "Gesetzesentwurf des Staatsamt für soziale Verwaltung über die Änderung einiger Bestimmungen des Unfallversicherungsgesetzes der Arbeiter",
+    "pages": "6"
+  },
+  "227": {
+    "id": 227,
+    "order": "50.93333333333333001747",
+    "krp": "krp-086",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "14",
+    "titel": "Drei Vollzugsanweisungen des Staatsamt für soziale Verwaltung für die Volkspflegestätten",
+    "pages": "9"
+  },
+  "228": {
+    "id": 228,
+    "order": "50.93750000000000000000",
+    "krp": "krp-086",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Vortrag des Staatsamt für Heereswesen über eine Vollzugsanweisung für die Beteilung heimkehrender mittelloser Kriegsgefangener und Zivilinternierter mit Zivilkleidern aus Staatsmitteln",
+    "pages": "4"
   },
   "51": {
     "id": 51,
@@ -505,18 +1625,218 @@
     "krp": "krp-087",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "2",
+    "titel": "Protokoll der Besprechung über die Absprache von Kohlenlieferungen zwischen Unterstaatssekretär Ellenbogen und dem deutschen Reichskommissar für die Kohlenverteilung",
+    "pages": "2"
+  },
+  "229": {
+    "id": 229,
+    "order": "51.50000000000000000000",
+    "krp": "krp-087",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Regierungsvorlage eines Gesetzes über die Folgen militärgerichtlicher Verurteilungen mit erläuternden Erklärungen",
+    "pages": "6"
+  },
+  "230": {
+    "id": 230,
+    "order": "51.66666666666666429819",
+    "krp": "krp-087",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Regierungsvorlage eines Gesetzes über die Änderung bzw. Ergänzung von Bestimmungen des Militärstrafgesetzes mit erläuternden Erklärungen",
+    "pages": "10"
+  },
+  "231": {
+    "id": 231,
+    "order": "51.75000000000000000000",
+    "krp": "krp-087",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Auszug für den Vortrag des Staatsamt des Inneren, Zl. 24.608/19 über ein Gesetz der Provisorischen Niederösterreichischen Landesversammlung hinsichtlich der Trennung der Katastralgemeinde Wolfsbrunn von der Ortsgemeinde Sonnberg",
+    "pages": "1"
+  },
+  "232": {
+    "id": 232,
+    "order": "51.79999999999999715783",
+    "krp": "krp-087",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vortrag des Staatsamt des Inneren, Zl. 20.953/19 über die Bewilligung für die steiermärkische Zweigniederlassung der Niederösterreichischen Landesversicherungsanstalten, das steiermärkische Landeswappen zu führen",
+    "pages": "1"
+  },
+  "233": {
+    "id": 233,
+    "order": "51.83333333333333570181",
+    "krp": "krp-087",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesentwurf des Staatsamt für Finanzen über Maßnahmen zur Erleichterung des Übertrittes von Zivilstaatsangestellten in den dauernden Ruhestand mit Begründung sowie ein vom zwischenstaatsamtlichen Komitee in Beamtenangelegenheiten vorgeschlagenes Gesetz über die Vorbereitung einer neuen Besoldungsordnung für die Zivilangestellten (Besoldungsreformgesetz) samt Begründung",
+    "pages": "17"
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
     "krp": "krp-088",
+    "Anmerkungen": "A",
+    "Aktiv": false,
+    "top": "Str.v.A.-1",
+    "titel": "Umgestaltung des Creditinstitutes für Verkehrsunternehmungen und öffentliche Arbeiten",
+    "pages": "7"
+  },
+  "234": {
+    "id": 234,
+    "order": "52.50000000000000000000",
+    "krp": "krp-088",
+    "Anmerkungen": "C",
+    "Aktiv": false,
+    "top": "Str.v.A.-1",
+    "titel": "Künftigen Personalverhältnisse beim Creditinstitut für öffentliche Arbeiten",
+    "pages": "6"
+  },
+  "235": {
+    "id": 235,
+    "order": "52.66666666666666429819",
+    "krp": "krp-088",
+    "Anmerkungen": "B",
+    "Aktiv": false,
+    "top": "Str.v.A.-2",
+    "titel": "Referat über das Regierungskommuniques hinsichtlich der Alpinen-Hausse",
+    "pages": "5"
+  },
+  "236": {
+    "id": 236,
+    "order": "52.75000000000000000000",
+    "krp": "krp-088",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
+    "top": "Str.v.A.-2",
+    "titel": "Information über die vertrauliche Aufgabe der Firma Kola für das StA. d. Finanzen im Mai und Juni 1919",
+    "pages": "8"
+  },
+  "237": {
+    "id": 237,
+    "order": "52.79999999999999715783",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "1",
+    "titel": "Protokoll über die Besprechung vom 14. Juli zur Regelung der Heimkehrergebühren und ihrer Forderungen auf Abfertigung",
+    "pages": "4"
+  },
+  "238": {
+    "id": 238,
+    "order": "52.83333333333333570181",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Vortrag des Staatssekretär für Heereswesen Zl. 16.875/19 über die wirtschaftlichen Forderungen der bei deutschösterreichischen militärischen Stellen (ausgenommen Volkswehr) eingeteilten Berufsmilitärpersonen, Vertragsbediensteten und Hilfskräften",
+    "pages": "12"
+  },
+  "239": {
+    "id": 239,
+    "order": "52.85714285714285409767",
+    "krp": "krp-088",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Memorandum und Dienstvertrag der Angestellten und Arbeiter des Staatsamtes f. Heerwesen",
+    "pages": "5"
+  },
+  "240": {
+    "id": 240,
+    "order": "52.87500000000000000000",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Memorandum der liquidierenden militärischen Organe",
+    "pages": "4"
+  },
+  "241": {
+    "id": 241,
+    "order": "52.88888888888888573092",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Einmalige Aushilfe",
+    "pages": "1"
+  },
+  "242": {
+    "id": 242,
+    "order": "52.89999999999999857891",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Übersichtstabelle für den Vortrag des Staatsamt des Inneren Zl. 25.322 über eine Reihe von Beschlüssen des Niederösterreichischen Landesausschusses bzw. Landesrates hinsichtlich der Einhebung von 100 % übersteigende Umlagen bzw. Mietzinsauflagen in Gemeinden",
+    "pages": "1"
+  },
+  "243": {
+    "id": 243,
+    "order": "52.90909090909090650712",
+    "krp": "krp-088",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Verkauf mehrerer Parzellen des Klosters St. Peter in Salzburg",
+    "pages": "1"
+  },
+  "244": {
+    "id": 244,
+    "order": "52.91666666666666429819",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Verhandlungen über einen allfälligen Ankauf des bei der Liquidierung der Süddeutschen Donaudampfschiffgesellschaft sich ergebenden ukrainischen und polnischen Aktienkapitals durch die deutschösterreichische Regierung",
+    "pages": "3"
+  },
+  "245": {
+    "id": 245,
+    "order": "52.92307692307691979750",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Vortrag zu dem Nachtragsübereinkommen zu dem am 21. Mai d.J. abgeschlossenen Kompensationsvertrag zwischen der polnischen und der deutschösterreichischen Regierung",
+    "pages": "1"
+  },
+  "248": {
+    "id": 248,
+    "order": "52.92857142857143060155",
+    "krp": "krp-088",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Vollzugsanweisung des Staatsamt für Justiz im Einvernehmen mit dem Staatsamt der Finanzen über die Gebühren der Diener und Zustellboten für Zustellungen und andere Amtshandlungen in Strafsachen",
+    "pages": "1"
+  },
+  "249": {
+    "id": 249,
+    "order": "52.93333333333333001747",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Vortrag des Staatsamt für Verkehrswesen Zl. 1.634 über die Behandlung der Staatsangestellten, welche als Bürgermeister einer Gemeinde gewählt wurden",
+    "pages": "2"
+  },
+  "250": {
+    "id": 250,
+    "order": "52.93750000000000000000",
+    "krp": "krp-088",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "PS",
+    "titel": "8. Personalsitzung, Protokoll fehlt, Konzept, Beilagen der Staatsämter",
     "pages": null
   },
   "53": {
@@ -1562,7 +2882,7 @@
   "157": {
     "id": 157,
     "order": "157.00000000000000000000",
-    "krp": "krp-194",
+    "krp": "",
     "Anmerkungen": "",
     "Aktiv": false,
     "top": null,
@@ -1572,7 +2892,7 @@
   "158": {
     "id": 158,
     "order": "158.00000000000000000000",
-    "krp": "krp-195",
+    "krp": "",
     "Anmerkungen": "",
     "Aktiv": false,
     "top": null,
