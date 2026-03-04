@@ -835,9 +835,129 @@
     "krp": "krp-065",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "4",
+    "titel": "Vortrag des Staatsamtes für Heereswesen für den Kabinettsart über den Besuch einer Kärntner Abordnung am 22.4.19 angesichts der unmittelbaren Gefahr eines südslawischen Angriffs",
+    "pages": "4"
+  },
+  "313": {
+    "id": 313,
+    "order": "29.50000000000000000000",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Vortrag des Staatsamtes für Heerwesen über Versorgungsfragen der Militärgagisten",
+    "pages": "10"
+  },
+  "314": {
+    "id": 314,
+    "order": "29.66666666666666785090",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vortrag des Staatsamtes für Heereswesen, Abt. 6 Zl. 1350, wegen der Überlassung der ehem. Militärakademie in der Boerhavegasse für die Rudolfstiftung an die Gemeinde Wien",
+    "pages": "2"
+  },
+  "315": {
+    "id": 315,
+    "order": "29.75000000000000000000",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vortag des Staatsamtes für Justiz Zl. 8665/19 auf Überlassung der ehem. Militärakademie in der Boerhavegasse zur Unterbringung eines Jugendgerichtes",
+    "pages": "3"
+  },
+  "316": {
+    "id": 316,
+    "order": "29.80000000000000071054",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Zustimmung der Staatsregierung (zu Zl. 14366/19 und Zl. 14864/19 StA. f. Inneres) zu mehreren Gesetzesbeschlüssen der Landesversammlungen von Oberösterreich, Steiermark, Tirol und Vorarlberg",
+    "pages": "4"
+  },
+  "317": {
+    "id": 317,
+    "order": "29.83333333333333214910",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Antrag des Staatsamtes des Inneren Zl. 9168 betr. gnadenweise Anrechnung der Landsturmdienstzeiten der Gendarmeriepensionisten",
+    "pages": "2"
+  },
+  "318": {
+    "id": 318,
+    "order": "29.85714285714285765039",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Auskunft des Departements 18a des Staatamtes für Finanzen über die mögliche Beförderung von Regierungsmitgliedern, die Beamte sind",
+    "pages": "2"
+  },
+  "319": {
+    "id": 319,
+    "order": "29.87500000000000000000",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "13",
+    "titel": "Vollzugsanweisung des Staatsamtes für Inneres und Unterricht auf Einführung eines Doktorates der Staatswissenschaften",
+    "pages": "9"
+  },
+  "320": {
+    "id": 320,
+    "order": "29.88888888888888928363",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "14",
+    "titel": "Vollzugsanweisung des Staatsamtes für Inneres und Unterricht auf Zulassung von Frauen zum Rechtsstudium",
+    "pages": "3"
+  },
+  "321": {
+    "id": 321,
+    "order": "29.89999999999999857891",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Vortrag sowie alte und neue Fassung der Vollzugsanweisung über die Übertragung der Geschäfte der staatlichen Fremdenverkehrsförderung auf das Staatsamt für Verkehrswesen",
+    "pages": "4"
+  },
+  "322": {
+    "id": 322,
+    "order": "29.90909090909091005983",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "16",
+    "titel": "Vortrag des Staatsamtes für Verkehrswesen über die Gewährung von Eisenbahnfahrbegünstigungen an Staatsbedienstete",
+    "pages": "3"
+  },
+  "323": {
+    "id": 323,
+    "order": "29.91666666666666785090",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "17",
+    "titel": "Gesetzesantrag des Staatsamtes für Verkehrswesen auf teilweise Änderung des Gesetzes hinsichtlich der Aushilfs- und Landpostdiener",
+    "pages": "3"
+  },
+  "324": {
+    "id": 324,
+    "order": "29.92307692307692335021",
+    "krp": "krp-065",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "18",
+    "titel": "Ernennung von Amtsdienern und Gefangenenaufsehern zu Kanzleibeamten der Justizverwaltung",
+    "pages": "1"
   },
   "30": {
     "id": 30,
@@ -845,9 +965,69 @@
     "krp": "krp-066",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "5",
+    "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft Zl. 9056/19 wegen des Gesetzesentwurfs für das Land Salzburg hinsichtlich der Zuständigkeit der Agrarbehörden",
+    "pages": "4"
+  },
+  "325": {
+    "id": 325,
+    "order": "30.50000000000000000000",
+    "krp": "krp-066",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Gesetzesentwurfs des Staatsamtes für Land- und Forstwirtschaft Zl. 9545/19 über die Aufnahme weiterer ausländischer Anleihen und deren Sicherstellung durch Forstbesitz",
+    "pages": "5"
+  },
+  "326": {
+    "id": 326,
+    "order": "30.66666666666666785090",
+    "krp": "krp-066",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vortrag des Staatsamtes für Heereswesen R.A.Nr.94 über die Reorganisation der für Strafsachen zuständigen Militärgagisten (Profoßen) ohne Rangklasse",
+    "pages": "3"
+  },
+  "327": {
+    "id": 327,
+    "order": "30.75000000000000000000",
+    "krp": "krp-066",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten ad Pr.Zl. 667 auf Amtstiteländerung für die Beamten des technischen Hilfsdienstes",
+    "pages": "3"
+  },
+  "328": {
+    "id": 328,
+    "order": "30.80000000000000071054",
+    "krp": "krp-066",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Warenaustauschübereinkommen mit Rumänien",
+    "pages": "3"
+  },
+  "329": {
+    "id": 329,
+    "order": "30.83333333333333214910",
+    "krp": "krp-066",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Bewilligung eines Darlehensaus dem niederösterreichischen Religionsfonds an den Servitenkonvent in Wien",
+    "pages": "3"
+  },
+  "330": {
+    "id": 330,
+    "order": "30.85714285714285765039",
+    "krp": "krp-066",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung für einen Zuschlag zu den Taxpreisen für alkoholhältige Präparate",
+    "pages": "6"
   },
   "31": {
     "id": 31,
@@ -855,9 +1035,9 @@
     "krp": "krp-067",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht z.Zl. 15.990/19 über den Gesetzesbeschluss der prov. Landesversammlung Niederösterreichs hinsichtlich der Abänderung der Gemeindeordnung und der Erlassung einer neuen Gemeindewahlordnung",
+    "pages": "1"
   },
   "32": {
     "id": 32,
@@ -865,9 +1045,49 @@
     "krp": "krp-068",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Einladung von Präsident Seitz an den Staatskanzler Renner, mit allen Kabinettsmitgliedern wegen der Instruktion für die Friedensverhandlungen an einer Sitzung des Hauptausschusses des Abgeordnetenhauses teilzunehmen",
+    "pages": "1"
+  },
+  "331": {
+    "id": 331,
+    "order": "32.50000000000000000000",
+    "krp": "krp-068",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Vollzugsanweisung über die Organisation des wirtschaftlichen Inspektionsdienstes",
+    "pages": "3"
+  },
+  "332": {
+    "id": 332,
+    "order": "32.66666666666666429819",
+    "krp": "krp-068",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vollzugsanweisung des Staatsamtes für Justiz im Einvernehmen mit dem Staatsamt der Finanzen über Zehrgelder, Ganggelder, Zustell- und Übernachtungsgebühren aus Anlass von Amtshandlungen außerhalb der Amtsgebäude",
+    "pages": "4"
+  },
+  "333": {
+    "id": 333,
+    "order": "32.75000000000000000000",
+    "krp": "krp-068",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Gesetzesentwurf über die Erhöhung der Wertgrenzen im bürgerlichen Streitverfahren (Streitwertnovelle)",
+    "pages": "17"
+  },
+  "334": {
+    "id": 334,
+    "order": "32.79999999999999715783",
+    "krp": "krp-068",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft auf Zustimmung zum Gesetzesbeschluss der Provisorischen Vorarlberger Landesversammlung über die Sicherstellung der Rheintalentwässerung in mehreren Gemeinden",
+    "pages": "2"
   },
   "33": {
     "id": 33,
@@ -875,9 +1095,79 @@
     "krp": "krp-069",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "3",
+    "titel": "Information des Staatsamtes für Land- und Forstwirtschaft Zl. 10106/19 über einen Gesetzesentwurf der Provisorischen Tiroler Landesversammlung über eine Novelle zum Tiroler Landeswasserrechtsgesetz",
+    "pages": "1"
+  },
+  "335": {
+    "id": 335,
+    "order": "33.50000000000000000000",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Gesetzesbeschluss der Provisorischen Landesversammlung Tirols auf Errichtung einer Mädchenbürgerschule in Hall",
+    "pages": "4"
+  },
+  "336": {
+    "id": 336,
+    "order": "33.66666666666666429819",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Stellungnahme des Unterstaatssekretärs für Unterricht zum Gesetzesbeschluss der Provisorischen Niederösterreichischen Landesversammlung über die Rechtsverhältnisse des Lehrstandes an den öffentlichen Volksschulen",
+    "pages": "5"
+  },
+  "337": {
+    "id": 337,
+    "order": "33.75000000000000000000",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Entwurf der Vollzugsanweisung des Staatsamtes für soziale Verwaltung Zl. 10.758/19 auf Unterstützung der arbeitslosen Arbeiter und Angestellten",
+    "pages": "4"
+  },
+  "338": {
+    "id": 338,
+    "order": "33.79999999999999715783",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über den Urlaub jugendlicher Arbeiter und Angestellter im Jahre 1919",
+    "pages": "2"
+  },
+  "339": {
+    "id": 339,
+    "order": "33.83333333333333570181",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Antrag des Staatsamtes für Finanzen auf Unterstützung der Tageszeitungen beim Bezug von Runddruckpapiere",
+    "pages": "5"
+  },
+  "340": {
+    "id": 340,
+    "order": "33.85714285714285409767",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "13",
+    "titel": "Einmaliger Zuschuss für Pensionsparteien",
+    "pages": "3"
+  },
+  "341": {
+    "id": 341,
+    "order": "33.87500000000000000000",
+    "krp": "krp-069",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Zwei Schreiben des Staatssekretärs für Volksernährung vom 7. bzw. 9. Mai 1919 an Staatskanzler Renner wegen Fragen der Kreditpolitik in Hinblick auf Lebensmittelbeschaffung aus dem Ausland",
+    "pages": "4"
   },
   "34": {
     "id": 34,
@@ -885,9 +1175,109 @@
     "krp": "krp-070",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Antrag des Staatskanzlers auf Titelverleihung an die in den Ruhestand tretenden Beamten des liquid. Ministerium des Äußeren",
+    "pages": "1"
+  },
+  "342": {
+    "id": 342,
+    "order": "34.50000000000000000000",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Auszug für den Vortrag des Gesetzesbeschlusses der prov. Steiermärkischen Landesversammlung über die Durchführung von Neuwahlen in allen Gemeinden",
+    "pages": "1"
+  },
+  "343": {
+    "id": 343,
+    "order": "34.66666666666666429819",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Beschlüsse des niederösterreichischen und Kärntner Landesausschuss über die Einhebung von Umlagen in den Gemeinden",
+    "pages": "4"
+  },
+  "344": {
+    "id": 344,
+    "order": "34.75000000000000000000",
+    "krp": "krp-070",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesentwurf der Staatsregierung über die Vertretungsbefugnis des Vizekanzlers",
+    "pages": "2"
+  },
+  "345": {
+    "id": 345,
+    "order": "34.79999999999999715783",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Vorstellung des zwischenstaatsamtlichen Komitees für Beamtenangelegenheiten gegen die Kooptierung eines Vertreters des Staatsamtes für Heerwesen und Antrag des Staatsamtes für Äußeres Zl. II-4.188/6 auf Vertretung in diesem Komitee",
+    "pages": "4"
+  },
+  "346": {
+    "id": 346,
+    "order": "34.83333333333333570181",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Vortrag des Staatssekretärs für Verkehrswesen über die Reorganisation des Staatseisenbahnrates",
+    "pages": "3"
+  },
+  "347": {
+    "id": 347,
+    "order": "34.85714285714285409767",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "12",
+    "titel": "Vortrag des Staatssekretärs für Verkehrswesen ad Zl. 4056/18 wegen der Erklärung einer Schleppanlage in St. Pölten als begünstigten Bau",
+    "pages": "1"
+  },
+  "348": {
+    "id": 348,
+    "order": "34.87500000000000000000",
+    "krp": "krp-070",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "14",
+    "titel": "Vollzugsanweisung mit Begründung des Staatssekretärs für Justiz über die Einrechnung militärischer Dienstleistung in die Praxis der Justizberufe",
+    "pages": "6"
+  },
+  "349": {
+    "id": 349,
+    "order": "34.88888888888888573092",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Vortrag des Staatsamtes für Heereswesen über Teuerungszulagen für die Volkswehr",
+    "pages": "2"
+  },
+  "350": {
+    "id": 350,
+    "order": "34.89999999999999857891",
+    "krp": "krp-070",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "16",
+    "titel": "Ermächtigung des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten für die Kompensationsverhandlungen in Warschau",
+    "pages": "1"
+  },
+  "351": {
+    "id": 351,
+    "order": "34.90909090909090650712",
+    "krp": "krp-070",
+    "Anmerkungen": "handschriftlich",
+    "Aktiv": false,
+    "top": "18",
+    "titel": "Notiz des Unterstaatssekretär. für Unterricht Glöckel über eine Plakette zur Erinnerung an die Errichtung der Republik",
+    "pages": "1"
   },
   "35": {
     "id": 35,
@@ -895,9 +1285,59 @@
     "krp": "krp-071",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Schreiben des Staatssekretärs für Volksernährung über die Forderung der interalliierten Lebensmittelkommission nach Einführung der Sommerzeit",
+    "pages": "2"
+  },
+  "352": {
+    "id": 352,
+    "order": "35.50000000000000000000",
+    "krp": "krp-071",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Schreiben des Staatssekretärs für Heerwesen Vers.Z. 2881 wegen der gesetzlichen Neuregelung der Versorgungsgenüsse der Militärpersonen und deren Hinterbliebenen",
+    "pages": "2"
+  },
+  "353": {
+    "id": 353,
+    "order": "35.66666666666666429819",
+    "krp": "krp-071",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Schriftwechselabschrift über die Verzichts- und Staatsbürgerschaftserklärung der ehem. Erzherzöge Franz und Hubert Habsburg-Lothringen",
+    "pages": "3"
+  },
+  "354": {
+    "id": 354,
+    "order": "35.75000000000000000000",
+    "krp": "krp-071",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Bericht des Staatsamtes für Volksernährung Zl. 17740 über das Institut der Preisprüfung",
+    "pages": "22"
+  },
+  "355": {
+    "id": 355,
+    "order": "35.79999999999999715783",
+    "krp": "krp-071",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Mitgliederliste und Ausschusseinteilung der Zentralpreisprüfungskommission",
+    "pages": "36"
+  },
+  "356": {
+    "id": 356,
+    "order": "35.83333333333333570181",
+    "krp": "krp-071",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Gesetzesbeschlüsse der Provisorischen Landesversammlung Oberösterreichs",
+    "pages": "12"
   },
   "36": {
     "id": 36,
@@ -905,9 +1345,99 @@
     "krp": "krp-072",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Ergebnis der 5. Länderkonferenz über den Reise- und Sommerverkehr",
+    "pages": "1"
+  },
+  "357": {
+    "id": 357,
+    "order": "36.50000000000000000000",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Telegrammabschrift wegen der Vertretung Deutsch-Südmährens bei der Friedenskonferenz",
+    "pages": "1"
+  },
+  "358": {
+    "id": 358,
+    "order": "36.66666666666666429819",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Stellungnahme von Dr. Harpner zur Flüssigmachung der den vormaligen Ehrzherzog Peter Ferdinand und Heinrich Ferdinand vom ehemaligen Kaiser bewilligten Unterstützungen",
+    "pages": "1"
+  },
+  "359": {
+    "id": 359,
+    "order": "36.75000000000000000000",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Darstellung der in den Staatsämtern bisher getroffenen bzw. beabsichtigten Verfügungen hinsichtlich Urlaube des angestellten Personals im Jahre 1919",
+    "pages": "12"
+  },
+  "360": {
+    "id": 360,
+    "order": "36.79999999999999715783",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Übernahmeregelungen für im Dienste Bosniens und der Herzegowina stehenden deutschösterreichischen Beamten",
+    "pages": "6"
+  },
+  "361": {
+    "id": 361,
+    "order": "36.83333333333333570181",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Gesetzesbeschluss der Provisorischen Steiermärkischen Landesversammlung über die Einführung einer Wertzuwachsabgabe",
+    "pages": "1"
+  },
+  "362": {
+    "id": 362,
+    "order": "36.85714285714285409767",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "14",
+    "titel": "Beendigung des Obersten Sanitätsrates und des Obersten Lebensmittelbeirates",
+    "pages": "3"
+  },
+  "363": {
+    "id": 363,
+    "order": "36.87500000000000000000",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Gesetzesentwurf, Zl. 20989 Staatsamt für Volksernährung über die Regelung des Verkehres mit Getreide und Mahlprodukten",
+    "pages": "16"
+  },
+  "364": {
+    "id": 364,
+    "order": "36.88888888888888573092",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Begründung des Gesetzesentwurfes",
+    "pages": "15"
+  },
+  "365": {
+    "id": 365,
+    "order": "36.89999999999999857891",
+    "krp": "krp-072",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "15",
+    "titel": "Vollzugsanweisung, Zl. 20989",
+    "pages": "12"
   },
   "37": {
     "id": 37,
