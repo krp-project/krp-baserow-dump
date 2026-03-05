@@ -2366,7 +2366,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "top": "PS",
-    "titel": "8. Personalsitzung, Protokoll fehlt, Konzept, Beilagen der Staatsämter",
+    "titel": "8. Personalsitzung",
     "pages": null
   },
   "53": {
@@ -2465,7 +2465,7 @@
     "krp": "krp-098",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
+    "top": "-",
     "titel": null,
     "pages": null
   },
@@ -2475,9 +2475,119 @@
     "krp": "krp-099",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "2",
+    "titel": "Referat der Staatskanzlei z.Zl. 3004/1-St.K. 1919 über den oö. Gesetzesbeschluss über die Errichtung eines Landwirtschaftsrates und die Bestellung von Wirtschaftskommissären für Oberösterreich",
+    "pages": "7"
+  },
+  "394": {
+    "id": 394,
+    "order": "63.33333333333333570181",
+    "krp": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Errichtung eines Landeswirtschaftsrates und die Bestellung von Wirtschaftskommissären",
+    "pages": "3"
+  },
+  "366": {
+    "id": 366,
+    "order": "63.50000000000000000000",
+    "krp": "krp-099",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Vorstellung des Staatsamt für Land- und Forstwirtschaft Zl. 16920 gegen den Gesetzesbeschluss der Landesversammlung Salzburg über die Abänderung und Ergänzung einiger Bestimmungen des Salzburger Wasserrechtsgesetzes",
+    "pages": "11"
+  },
+  "367": {
+    "id": 367,
+    "order": "63.66666666666666429819",
+    "krp": "krp-099",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Vollzugsanweisung der Staatsregierung über die Trennung der Verwaltung des telegraphen-, Fernsprech- und Rohrpostwesens von der Postverwaltung mit Begründung, Organisationsentwurf, Gutachten für Post-, Telegraphen- und Fernsprechwesen sowie Forderung en des Verbandes der im staatlichen Telephon-, Telegraphen- und Rohrpostdienst stehenden Organe",
+    "pages": "70"
+  },
+  "368": {
+    "id": 368,
+    "order": "63.75000000000000000000",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung zur Unterstützung arbeitsloser Arbeiter und Angestellter",
+    "pages": "2"
+  },
+  "369": {
+    "id": 369,
+    "order": "63.79999999999999715783",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung über die Erhaltung des Arbeiterstandes in gewerblichen Betrieben",
+    "pages": "1"
+  },
+  "370": {
+    "id": 370,
+    "order": "63.83333333333333570181",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung für die dritte Ausgabe der Krankenkassentaxe mit Begründung Zl. 19835/VG/1919",
+    "pages": "4"
+  },
+  "371": {
+    "id": 371,
+    "order": "63.85714285714285409767",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung für die achte Ausgabe für die Arzneitaxe der öst. Pharmakopöe mit Begründung z.Zl. 19834/VG/1919",
+    "pages": "2"
+  },
+  "372": {
+    "id": 372,
+    "order": "63.87500000000000000000",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Referat des Staatsamt für soziale Verwaltung Zl. 19257/VG über die Beurlaubung des Beamten Dr. Hugelmann",
+    "pages": "3"
+  },
+  "373": {
+    "id": 373,
+    "order": "63.88888888888888573092",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Auszug für den Vortrag des Staatsamt des Inneren über den Gesetzesentwurf des Niederösterreichischen Landtages für die Einhebung einer Landesabgabe von öffentlichen Vorführungen und Tanzunterhaltungen in Niederösterreich",
+    "pages": "1"
+  },
+  "374": {
+    "id": 374,
+    "order": "63.89999999999999857891",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Vortrags und Referat der Staatskanzlei mit dem Schriftwechsel über den von Vorarlberg angestrebten Anschluss an die Schweiz",
+    "pages": "11"
+  },
+  "395": {
+    "id": 395,
+    "order": "63.90909090909090650712",
+    "krp": "krp-099",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "11",
+    "titel": "Zuschrift der Staatskanzlei über den eventuellen Anschluss Vorarlbergs an die Schweiz",
+    "pages": "2"
   },
   "64": {
     "id": 64,
@@ -2485,8 +2595,88 @@
     "krp": "krp-100",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
+    "top": "1",
+    "titel": "Antrag des Staatsamt für Land- und Forstwirtschaft auf Bestätigung der Wahl von Funktionären der Landeskulturräte für Niederösterreich und Vorarlberg",
+    "pages": "1"
+  },
+  "375": {
+    "id": 375,
+    "order": "64.50000000000000000000",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "2",
+    "titel": "Antrag auf Gewährung eines Kredites zur Fortführung der Wiederaufbauarbeiten im Bezirk Lienz einschließlich Innichen und Sexten",
+    "pages": "3"
+  },
+  "376": {
+    "id": 376,
+    "order": "64.66666666666667140362",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Geänderte Vollzugsanweisung der Staatsregierung über die Trennung der Verwaltung des Telegraphen-, Fernsprech- und Rohrpostwesens von der Postverwaltung",
+    "pages": "1"
+  },
+  "377": {
+    "id": 377,
+    "order": "64.75000000000000000000",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Vortrag über die Erklärung der geplanten Verbindung der Schleppgleisanlage der Industriebahn der Oberdorfer Magnesitwerke mit der Südbahn als begünstigter Bau",
+    "pages": "2"
+  },
+  "378": {
+    "id": 378,
+    "order": "64.79999999999999715783",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Antrag des Staatsamt für Finanzen auf Eingliederung der Marinesektion in das liquidierende Kriegsministerium",
+    "pages": "5"
+  },
+  "379": {
+    "id": 379,
+    "order": "64.83333333333332859638",
+    "krp": "krp-100",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Gesetzesvorlage der Staatsregierung über die Aufhebung der Steuerbegünstigung für Alkohol zur Herstellung von Heilmitteln samt Bemerkungen",
+    "pages": "2"
+  },
+  "380": {
+    "id": 380,
+    "order": "64.85714285714286120310",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Antrags des Staatsamt für Finanzen ad Zl. 52.275/1919 auf einen einmaligen Zuschuss für Pensionsparteien",
+    "pages": "3"
+  },
+  "381": {
+    "id": 381,
+    "order": "64.87500000000000000000",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Entwurf der Vollzugsanweisung des Staatsamt für Finanzen über Änderungen in der Organisation der Finanzverwaltung",
+    "pages": "2"
+  },
+  "382": {
+    "id": 382,
+    "order": "64.88888888888888573092",
+    "krp": "krp-100",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "PS",
+    "titel": "10. Personalsitzung",
     "pages": null
   },
   "65": {
@@ -2495,9 +2685,109 @@
     "krp": "krp-101",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Antrag des Staatsamt für Heereswesen über die Behandlung der deutsch-böhmischen Berufsmilitärpersonen",
+    "pages": "1"
+  },
+  "383": {
+    "id": 383,
+    "order": "65.50000000000000000000",
+    "krp": "krp-101",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Antrag der Provisorischen Steiermärkischen Landesversammlung auf Beschlagnahme des Kronfideikommissgutes Eisenerz-Radmer",
+    "pages": "5"
+  },
+  "384": {
+    "id": 384,
+    "order": "65.66666666666667140362",
+    "krp": "krp-101",
+    "Anmerkungen": "gedruckt",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Gesetzesvorlage über den achtstündigen Arbeitstag mit erläuternden Bemerkungen und Vollzugsanweisung des Staatsamtes für soziale Fürsorge",
+    "pages": "8"
+  },
+  "385": {
+    "id": 385,
+    "order": "65.75000000000000000000",
+    "krp": "krp-101",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Ablehnende Stellungnahme des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zur geplanten Einführung des achtstündigen Arbeitstags",
+    "pages": "8"
+  },
+  "386": {
+    "id": 386,
+    "order": "65.79999999999999715783",
+    "krp": "krp-101",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Stellungnahme des Staatsamtes für Volksernährung zur Frage des Kriegszuschlags zu den Schlachtviehpreisen",
+    "pages": "3"
+  },
+  "387": {
+    "id": 387,
+    "order": "65.83333333333332859638",
+    "krp": "krp-101",
+    "Anmerkungen": "dreifach",
+    "Aktiv": false,
+    "top": "7",
+    "titel": "Berichts des Staatssekretär für Volksernährung über die verbilligte Abgabe von Rindfleisch in Wien",
+    "pages": "6"
+  },
+  "388": {
+    "id": 388,
+    "order": "65.85714285714286120310",
+    "krp": "krp-101",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "8",
+    "titel": "Auszug für den Vortrag des Staatsamtes des Inneren im Kabinettsrat, Zl. 30186/1919 über Gesetzesbeschlüsse des Niederösterreichischen Landtages über die einstweilige Bestellung der Gemeindevertreter in den Bezirksarmenräten und –straßenausschüssen sowie über die Abänderung einiger Bestimmungen des niederösterreichischen  Schulaufsichtsgesetzes",
+    "pages": "2"
+  },
+  "389": {
+    "id": 389,
+    "order": "65.87500000000000000000",
+    "krp": "krp-101",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "9",
+    "titel": "Referat des Staatsamtes für soziale Verwaltung Zl. 22436/V.G. zum Verfügungsrecht über das Sanitätsmaterial",
+    "pages": "4"
+  },
+  "390": {
+    "id": 390,
+    "order": "65.88888888888888573092",
+    "krp": "krp-101",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Mitteilung des Staatsamtes für Finanzen über die Auflösung des Zoll- und Steuervereins seitens Liechtensteins",
+    "pages": "2"
+  },
+  "391": {
+    "id": 391,
+    "order": "65.90000000000000568434",
+    "krp": "krp-101",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "TO",
+    "titel": "Übereinkommen des Staatsamtes für Finanzen Zl. 58744/1919 mit Polen aus Anlass der in Deutschösterreich zur Vorbereitung der Vermögensabgabe getroffenen Maßnahmen",
+    "pages": "9"
+  },
+  "392": {
+    "id": 392,
+    "order": "65.90909090909090650712",
+    "krp": "krp-101",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "TO",
+    "titel": "Depesche aus St. Germain vom 20. August 1919 betr. Abschluss der Verhandlungen",
+    "pages": "1"
   },
   "66": {
     "id": 66,
@@ -2505,9 +2795,49 @@
     "krp": "krp-102",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "3",
+    "titel": "Referat der Staatskanzlei über finanzielle Staatsgarantien für verschiedene Verbindlichkeiten von Banken und Zentralen",
+    "pages": "2"
+  },
+  "396": {
+    "id": 396,
+    "order": "66.50000000000000000000",
+    "krp": "krp-102",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Referat der Staatskanzlei mit dem vierten Bericht der Kommission zur Erhebung militärischer Pflichtverletzungen",
+    "pages": "6"
+  },
+  "397": {
+    "id": 397,
+    "order": "66.66666666666667140362",
+    "krp": "krp-102",
+    "Anmerkungen": "dreifach",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Bericht des Staatsamtes für Finanzen über ein Übereinkommen der deutschösterreichischen und der polnischen Regierung aus Anlass der in Deutschösterreich zur Vorbereitung der Vermögensabgabe getroffenen Maßnahmen",
+    "pages": "4"
+  },
+  "398": {
+    "id": 398,
+    "order": "66.75000000000000000000",
+    "krp": "krp-102",
+    "Anmerkungen": "zweifach",
+    "Aktiv": false,
+    "top": "5",
+    "titel": "Wortlaut des Vertrages",
+    "pages": "6"
+  },
+  "399": {
+    "id": 399,
+    "order": "66.79999999999999715783",
+    "krp": "krp-102",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "6",
+    "titel": "Staatshilfe für Vorarlberg",
+    "pages": "2"
   },
   "67": {
     "id": 67,
@@ -2515,8 +2845,38 @@
     "krp": "krp-103",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
+    "top": "2",
+    "titel": "Auszug für den Vortrag des Staatsamt des Inneren, Zl. 525/A/1919 über die Besetzung einer Haller Fräuleinstiftspräbende der erbländischen Abteilung",
+    "pages": "2"
+  },
+  "400": {
+    "id": 400,
+    "order": "67.50000000000000000000",
+    "krp": "krp-103",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "3",
+    "titel": "Auszug für den Vortrag des Statsamt des Inneren, Zl. 30535/1919 über einen Gesetzesbeschluss des Salzburger Landtages für die zeitweise Regelung der Dienst- und Besoldungsverhältnisse der Gemeindeangestellten des Landes mit Ausnahme der Stadt Salzburg",
+    "pages": "2"
+  },
+  "401": {
+    "id": 401,
+    "order": "67.66666666666667140362",
+    "krp": "krp-103",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "4",
+    "titel": "Vortrag St.A.V.Z. 25111/1919 über die Elektrisierung (!) der Staatsbahnlinie Stainach-Irdning-Attnang-Puchheim und Erklärung zum begünstigten Bau",
+    "pages": "1"
+  },
+  "402": {
+    "id": 402,
+    "order": "67.75000000000000000000",
+    "krp": "krp-103",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "PS",
+    "titel": "11. Personalsitzung",
     "pages": null
   },
   "68": {
@@ -2525,9 +2885,9 @@
     "krp": "krp-104",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Referats der Staatskanzlei über einen Gesetzesentwurf des Staatsamtes für Finanzen für vorbereitende Maßnahmen zum Vollzug des Friedensvertrags",
+    "pages": "4"
   },
   "69": {
     "id": 69,
@@ -2535,9 +2895,19 @@
     "krp": "krp-105",
     "Anmerkungen": "",
     "Aktiv": false,
-    "top": null,
-    "titel": null,
-    "pages": null
+    "top": "1",
+    "titel": "Gesetzesbeschluss des Vorarlberger Landtages über die Errichtung einer Mädchenbürgerschule in Lustenau",
+    "pages": "2"
+  },
+  "403": {
+    "id": 403,
+    "order": "69.50000000000000000000",
+    "krp": "krp-105",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "top": "10",
+    "titel": "Vortrag des Staatssekretär für Verkehrswesen über die Auflösung der deutschösterreichischen Staatsbahndirektionen Teplitz und Jägerndorf",
+    "pages": "3"
   },
   "70": {
     "id": 70,
