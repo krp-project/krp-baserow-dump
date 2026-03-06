@@ -2405,11 +2405,11 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "0",
     "anzahl_beilagen": "4",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": true,
+    "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
     "anmerkungen_dokument": "Mehrere Doubletten des KRP 95 - Stenogramm und streng vertraulicher Anhang fehlen im Akt!!!",
@@ -2453,7 +2453,7 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "0",
     "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
@@ -2892,7 +2892,7 @@
       "color": "dark-purple"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "6",
+    "anzahl_beilagen": "3",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
@@ -2934,7 +2934,7 @@
       "color": "dark-purple"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "16",
+    "anzahl_beilagen": "14",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
@@ -3188,7 +3188,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "beilagen": null,
-    "tagesordnung": true,
+    "tagesordnung": false,
     "digitalisat_komplett": false
   },
   "77": {
