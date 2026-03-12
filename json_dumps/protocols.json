@@ -40,7 +40,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "2": {
@@ -172,7 +172,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "5": {
@@ -210,7 +210,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "6": {
@@ -292,7 +292,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "8": {
@@ -336,7 +336,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "9": {
@@ -380,7 +380,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "10": {
@@ -424,7 +424,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "8",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "11": {
@@ -462,7 +462,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "12": {
@@ -544,7 +544,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "14": {
@@ -588,7 +588,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "15": {
@@ -664,7 +664,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "17": {
@@ -708,7 +708,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "18": {
@@ -784,7 +784,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "20": {
@@ -828,7 +828,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "21": {
@@ -910,7 +910,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "23": {
@@ -960,7 +960,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": "11"
   },
   "24": {
@@ -1042,7 +1042,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "26": {
@@ -1086,7 +1086,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "3",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "27": {
@@ -1174,7 +1174,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "29": {
@@ -1195,7 +1195,7 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "13",
     "kollationiert": false,
     "docx_done": null,
@@ -1212,7 +1212,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "30": {
@@ -1300,7 +1300,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "32": {
@@ -1344,7 +1344,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "33": {
@@ -1388,7 +1388,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "34": {
@@ -1432,7 +1432,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "15",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "35": {
@@ -1476,7 +1476,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "36": {
@@ -1608,7 +1608,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "39": {
@@ -1658,7 +1658,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "3"
   },
   "40": {
@@ -1702,7 +1702,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "41": {
@@ -1746,7 +1746,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "42": {
@@ -1790,7 +1790,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "43": {
@@ -1834,7 +1834,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "9",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "44": {
@@ -1878,7 +1878,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "45": {
@@ -1928,7 +1928,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": "6"
   },
   "46": {
@@ -1972,7 +1972,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "10",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "47": {
@@ -2022,7 +2022,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "2"
   },
   "48": {
@@ -2066,7 +2066,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "49": {
@@ -2110,7 +2110,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "50": {
@@ -2160,7 +2160,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "3"
   },
   "51": {
@@ -2210,7 +2210,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": "3"
   },
   "52": {
@@ -2260,7 +2260,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "7"
   },
   "53": {
@@ -2310,7 +2310,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "34"
   },
   "54": {
@@ -2354,7 +2354,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "3",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "55": {
@@ -2398,7 +2398,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "56": {
@@ -2442,7 +2442,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "57": {
@@ -2486,7 +2486,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "1",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "58": {
@@ -2530,7 +2530,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "59": {
@@ -2674,7 +2674,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "16",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "62": {
@@ -2724,7 +2724,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": "15"
   },
   "63": {
@@ -2774,7 +2774,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "19",
     "str_vertr_anhang_gesamtseitenzahl": "4"
   },
   "64": {
@@ -2818,7 +2818,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "65": {
@@ -2862,7 +2862,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "66": {
@@ -2906,7 +2906,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "67": {
@@ -2950,7 +2950,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "68": {
@@ -2994,7 +2994,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "69": {
@@ -3082,7 +3082,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "71": {
@@ -3132,7 +3132,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "10"
   },
   "72": {
@@ -3182,7 +3182,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": "1"
   },
   "73": {
@@ -3226,7 +3226,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "74": {
@@ -3276,7 +3276,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "26",
     "str_vertr_anhang_gesamtseitenzahl": "34"
   },
   "75": {
@@ -3320,7 +3320,7 @@
     "beilagen": null,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "16",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
   "76": {
@@ -3370,7 +3370,7 @@
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": "61"
   },
   "77": {
@@ -5117,7 +5117,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -5127,7 +5127,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "21",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -5193,25 +5199,37 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "TOP 8 erster Absatz fehlt in Scan; str vertr anh ist schon digitalisiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "21",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null
+    "str_vertr_anhang_gesamtseitenzahl": "8"
   },
   "118": {
     "id": 118,
