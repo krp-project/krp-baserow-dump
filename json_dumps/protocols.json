@@ -3680,7 +3680,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Stenogramm könnte im Akt fehlen",
+    "anmerkungen_dokument": "Doublette - Stenogramm, Konzept fehlen im Akt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "15",
     "steno_trans": [
@@ -3776,7 +3776,7 @@
     "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": "51",
+    "kartonnummer": "15",
     "steno_trans": [
       {
         "id": 22601,
@@ -5256,7 +5256,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "S.6 der Reinschrift nachdigitalisieren!",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "21",
     "steno_trans": [],
@@ -5287,7 +5287,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -5297,7 +5297,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "21",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
