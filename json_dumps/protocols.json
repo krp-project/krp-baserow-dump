@@ -6446,7 +6446,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Nachdigitalisieren der S. 7 (Achtung, ob Seite zu vorherigen&nachfolgenden Seite passt!",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
     "steno_trans": [],
@@ -6477,25 +6477,31 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
     "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null
+    "str_vertr_anhang_gesamtseitenzahl": "1"
   },
   "151": {
     "id": 151,
@@ -6515,7 +6521,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6553,7 +6559,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6591,7 +6597,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6629,25 +6635,31 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
     "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null
+    "str_vertr_anhang_gesamtseitenzahl": "3"
   },
   "155": {
     "id": 155,
@@ -6667,7 +6679,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
