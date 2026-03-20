@@ -6325,7 +6325,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6335,7 +6335,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6367,21 +6373,27 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert (TOP 2)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null
+    "str_vertr_anhang_gesamtseitenzahl": "5"
   },
   "148": {
     "id": 148,
@@ -6401,14 +6413,14 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Gibt einen Anhang (nicht (str.)vertr.!), digitalisiert, nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
     "steno_trans": [],
@@ -6439,18 +6451,30 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Nachdigitalisieren der S. 7 (Achtung, ob Seite zu vorherigen&nachfolgenden Seite passt!",
+    "anmerkungen_dokument": "Nachdigitalisieren der S. 7 (Achtung, ob Seite zu vorherigen&nachfolgenden Seite passt!, str.vertr.Anh.(TOP 8) zu digitalisieren",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
@@ -6487,7 +6511,13 @@
     "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [
       {
         "id": 22604,
@@ -6531,7 +6561,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6569,7 +6605,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6607,7 +6649,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6642,10 +6690,16 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert (TOP 4)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [
       {
         "id": 22604,
@@ -6689,7 +6743,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6727,7 +6787,13 @@
     "anmerkungen_dokument": "Steno-Notiz auf TO",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6765,7 +6831,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6803,7 +6875,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6841,7 +6919,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6879,7 +6963,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "29",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6917,7 +7007,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "29",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
