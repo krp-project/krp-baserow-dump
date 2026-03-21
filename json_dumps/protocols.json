@@ -6249,14 +6249,14 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Auszug am Ende der Reinschrift deckt sich mit TOP 5",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [],
@@ -6287,7 +6287,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6297,7 +6297,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6417,13 +6423,19 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
     "anmerkungen_dokument": "Gibt einen Anhang (nicht (str.)vertr.!), digitalisiert, nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6455,7 +6467,7 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": true,
+    "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": false,
     "anmerkungen_dokument": "Nachdigitalisieren der S. 7 (Achtung, ob Seite zu vorherigen&nachfolgenden Seite passt!, str.vertr.Anh.(TOP 8) zu digitalisieren",
@@ -6468,13 +6480,7 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_trans": [
-      {
-        "id": 22605,
-        "value": "noch nicht",
-        "color": "pink"
-      }
-    ],
+    "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
