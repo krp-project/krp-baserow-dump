@@ -2723,7 +2723,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": "15"
   },
@@ -2773,7 +2773,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "19",
     "str_vertr_anhang_gesamtseitenzahl": "4"
   },
@@ -2817,7 +2817,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -2861,7 +2861,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -2905,7 +2905,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -2949,7 +2949,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -2993,7 +2993,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3037,7 +3037,7 @@
     "konzept": false,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3081,7 +3081,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3131,7 +3131,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "10"
   },
@@ -3181,7 +3181,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": "1"
   },
@@ -3225,7 +3225,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3275,7 +3275,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "26",
     "str_vertr_anhang_gesamtseitenzahl": "34"
   },
@@ -3319,7 +3319,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "16",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3369,7 +3369,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": false,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": "61"
   },
@@ -3413,7 +3413,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3463,7 +3463,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "10",
     "str_vertr_anhang_gesamtseitenzahl": "11"
   },
@@ -3507,7 +3507,7 @@
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3557,7 +3557,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "11"
   },
@@ -3607,7 +3607,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": "4"
   },
@@ -3651,7 +3651,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3695,7 +3695,7 @@
     "konzept": false,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3745,7 +3745,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3789,7 +3789,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3833,7 +3833,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -3883,7 +3883,7 @@
     "konzept": true,
     "beilagen": null,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null
   },
@@ -6180,7 +6180,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Reinschrift: letzte Seite nachdigitalisieren!",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [],
@@ -6211,25 +6211,37 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 3) hat einen Bericht als Beilage; zusätzlich zu 2 Stenos ist eine kurze Steno-Notiz",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null
+    "str_vertr_anhang_gesamtseitenzahl": "3"
   },
   "144": {
     "id": 144,
@@ -6259,7 +6271,13 @@
     "anmerkungen_dokument": "Auszug am Ende der Reinschrift deckt sich mit TOP 5",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
