@@ -6059,7 +6059,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6069,7 +6069,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "24",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6097,7 +6103,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6107,7 +6113,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "24",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6135,7 +6147,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6145,7 +6157,13 @@
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -6173,7 +6191,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
@@ -6183,7 +6201,13 @@
     "anmerkungen_dokument": "Reinschrift: letzte Seite nachdigitalisieren!",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": false,
@@ -7042,6 +7066,50 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
+    "tagesordnung": false,
+    "digitalisat_komplett": false,
+    "steno_gesamtseitenzahl": "0",
+    "str_vertr_anhang_gesamtseitenzahl": null
+  },
+  "169": {
+    "id": 169,
+    "order": "162.00000000000000000000",
+    "krp_id": "krp-176",
+    "date": "1920-04-27",
+    "written_date": "vom 27. April 1920",
+    "title": "Kabinettsprotokoll Nr. 176",
+    "orig_file_name": "AT-OeStA_AdR-MRang-MR-1.-Rep.-KRP-176.docx",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": {
+      "id": 22431,
+      "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
+      "color": "light-blue"
+    },
+    "steno_anzahl": "2",
+    "anzahl_beilagen": "0",
+    "kollationiert": false,
+    "docx_done": null,
+    "str_vertr_anhang": false,
+    "vertr_anhang": false,
+    "reinschrift": false,
+    "anmerkungen_dokument": "",
+    "archivalien_nachdigitalisiert": "",
+    "kartonnummer": "24",
+    "steno_trans": [
+      {
+        "id": 22601,
+        "value": "Ja",
+        "color": "red"
+      }
+    ],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
+    "konzept": false,
+    "beilagen": "",
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
