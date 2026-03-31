@@ -2352,9 +2352,9 @@
     ],
     "str_vertr_anhang_trans": [
       {
-        "id": 22605,
-        "value": "noch nicht",
-        "color": "pink"
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
       }
     ],
     "vertr_anhang_trans": [],
@@ -2364,7 +2364,7 @@
     "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "34",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "54": {
     "id": 54,
@@ -2787,7 +2787,7 @@
     "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": "15",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "63": {
     "id": 63,
