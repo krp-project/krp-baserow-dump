@@ -6540,9 +6540,9 @@
     ],
     "str_vertr_anhang_trans": [
       {
-        "id": 22605,
-        "value": "noch nicht",
-        "color": "pink"
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
       }
     ],
     "vertr_anhang_trans": [],
@@ -6552,7 +6552,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "3",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "144": {
     "id": 144,
@@ -6714,7 +6714,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert (TOP 2)",
+    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert (TOP 2), muss aber noch einmal digitalisiert werden!!! (S.5, handschriftliche Vermerke)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [],
@@ -6732,7 +6732,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "5",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "148": {
     "id": 148,
@@ -6759,7 +6759,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Gibt einen Anhang (nicht (str.)vertr.!), digitalisiert, nicht transkribiert",
+    "anmerkungen_dokument": "Gibt einen Anhang (nicht (str.)vertr.!), digitalisiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
     "steno_trans": [
@@ -6769,15 +6769,21 @@
         "color": "red"
       }
     ],
-    "str_vertr_anhang_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
+      }
+    ],
     "vertr_anhang_trans": [],
     "konzept": false,
     "beilagen": null,
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null,
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_gesamtseitenzahl": "1",
+    "str_vertr_anhang_koll": true
   },
   "149": {
     "id": 149,
@@ -6849,7 +6855,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert",
+    "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "26",
     "steno_trans": [
@@ -6873,7 +6879,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "1",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "151": {
     "id": 151,
@@ -7035,7 +7041,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
-    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert (TOP 4)",
+    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 4)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
     "steno_trans": [
@@ -7059,7 +7065,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "3",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "155": {
     "id": 155,
