@@ -5347,40 +5347,6 @@
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
-  "171": {
-    "id": 171,
-    "order": "118.50000000000000000000",
-    "krp_id": "",
-    "date": null,
-    "written_date": "",
-    "title": "",
-    "orig_file_name": "",
-    "krp_mrp": {
-      "id": 22427,
-      "value": "krp",
-      "color": "light-orange"
-    },
-    "period": null,
-    "steno_anzahl": null,
-    "anzahl_beilagen": null,
-    "kollationiert": false,
-    "docx_done": null,
-    "str_vertr_anhang": false,
-    "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "",
-    "archivalien_nachdigitalisiert": "",
-    "kartonnummer": null,
-    "steno_trans": [],
-    "str_vertr_anhang_trans": [],
-    "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
-    "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": null,
-    "str_vertr_anhang_gesamtseitenzahl": null,
-    "str_vertr_anhang_koll": false
-  },
   "119": {
     "id": 119,
     "order": "119.00000000000000000000",
@@ -5451,7 +5417,7 @@
     "vertr_anhang": false,
     "reinschrift": true,
     "anmerkungen_dokument": "",
-    "archivalien_nachdigitalisiert": "Reinschrift, Str.vertr.Anh., Konzept, Diverse Zusätze (AH), Steno (IS)",
+    "archivalien_nachdigitalisiert": "Reinschrift, Str.vertr.Anh., Konzept, Diverse Zusätze (AH),",
     "kartonnummer": "22",
     "steno_trans": [
       {
@@ -5495,7 +5461,7 @@
     "vertr_anhang": false,
     "reinschrift": true,
     "anmerkungen_dokument": "Präsenzliste",
-    "archivalien_nachdigitalisiert": "Reinschrift, Konzept, Präsenz (AH), Steno (IS)",
+    "archivalien_nachdigitalisiert": "Reinschrift, Konzept, Präsenz (AH)",
     "kartonnummer": "22",
     "steno_trans": [
       {
@@ -5538,8 +5504,8 @@
     "str_vertr_anhang": false,
     "vertr_anhang": true,
     "reinschrift": true,
-    "anmerkungen_dokument": "Annhang ist nicht vertr., hier aber unter vertr. vermerkt (11 Seiten)!!",
-    "archivalien_nachdigitalisiert": "Reinschrift, Beilage (3. zu Pkt 5; 6. zu Pkt 10 - jeweils einzelne Seiten zu ersetzen; 7. zu Pkt. 11 ganz; ), Konzept, Anhang, TO (AH), Steno (IS)",
+    "anmerkungen_dokument": "Anhang ist nicht vertr., hier aber unter vertr. vermerkt (11 Seiten)!",
+    "archivalien_nachdigitalisiert": "Reinschrift, Beilage (3. zu Pkt 5; 6. zu Pkt 10 - jeweils einzelne Seiten zu ersetzen; 7. zu Pkt. 11 ganz; ), Konzept, Anhang, TO (AH)",
     "kartonnummer": "22",
     "steno_trans": [
       {
@@ -5627,7 +5593,7 @@
     "vertr_anhang": false,
     "reinschrift": true,
     "anmerkungen_dokument": null,
-    "archivalien_nachdigitalisiert": "Reinschrift, Konzept, TO (AH), Steno (IS)",
+    "archivalien_nachdigitalisiert": "Reinschrift, Konzept, TO (AH)",
     "kartonnummer": "22",
     "steno_trans": [
       {
@@ -5641,7 +5607,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "10",
+    "steno_gesamtseitenzahl": "9",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -5671,7 +5637,7 @@
     "vertr_anhang": false,
     "reinschrift": true,
     "anmerkungen_dokument": null,
-    "archivalien_nachdigitalisiert": null,
+    "archivalien_nachdigitalisiert": "Reinschrift, Beilagen (1. zu Pkt. 2 - S. 8&9; 5. zu Pkt 7 - S. 29; 6. zu Pkt 8 - S. 30; 10. zu Pkt 12 - S. 72&73; 11. zu Pkt 13 - S. 78&79), Konzept, TO (AH);",
     "kartonnummer": "22",
     "steno_trans": [
       {
@@ -5708,14 +5674,14 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
-    "archivalien_nachdigitalisiert": null,
+    "archivalien_nachdigitalisiert": "Reinschrift, Beilagen (2. zu Pkt. 2 - S. 11&12, 16&17, 24&25; 7. zu Pkt 7 - gesamt; 10. zu Pkt 9 - S. 64), Konzept, TO (AH);",
     "kartonnummer": "22",
     "steno_trans": [
       {
@@ -5726,10 +5692,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "15",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -5752,14 +5718,14 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
-    "archivalien_nachdigitalisiert": null,
+    "archivalien_nachdigitalisiert": "Reinschrift, Beilage (1. zu Pkt 3 - gesamt), Konzept, TO (AH);",
     "kartonnummer": "22",
     "steno_trans": [
       {
@@ -5770,8 +5736,8 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
