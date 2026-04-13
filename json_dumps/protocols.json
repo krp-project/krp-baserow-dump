@@ -5765,11 +5765,11 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
-    "vertr_anhang": false,
+    "str_vertr_anhang": true,
+    "vertr_anhang": true,
     "reinschrift": false,
     "anmerkungen_dokument": null,
-    "archivalien_nachdigitalisiert": null,
+    "archivalien_nachdigitalisiert": "Str.vertr.Anh. & normaler Anh. (ohne vertraulich, hier aber als vertraulich verzeichnet (5 Seiten)",
     "kartonnummer": "23",
     "steno_trans": [],
     "str_vertr_anhang_trans": [],
@@ -5778,7 +5778,7 @@
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null,
+    "str_vertr_anhang_gesamtseitenzahl": "14",
     "str_vertr_anhang_koll": false
   },
   "129": {
@@ -5804,10 +5804,10 @@
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
-    "vertr_anhang": false,
+    "vertr_anhang": true,
     "reinschrift": false,
     "anmerkungen_dokument": null,
-    "archivalien_nachdigitalisiert": null,
+    "archivalien_nachdigitalisiert": "Normaler Anh. (ohne vertraulich, hier aber als vetraulich markiert - 1 Seite)",
     "kartonnummer": "23",
     "steno_trans": [
       {
@@ -5973,7 +5973,7 @@
     "anzahl_beilagen": "0",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": false,
     "anmerkungen_dokument": null,
@@ -5992,7 +5992,7 @@
     "tagesordnung": false,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null,
+    "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": false
   },
   "134": {
