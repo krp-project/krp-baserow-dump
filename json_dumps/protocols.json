@@ -250,7 +250,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Streng vertraulicher Anhang + Konzept des Anhangs",
     "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
     "kartonnummer": "6",
     "steno_trans": [],
@@ -338,7 +338,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Streng vertraulicher Anhang + Konzept des Anhangs",
     "archivalien_nachdigitalisiert": "Tagesordnung, Streng vertraulicher Anhang",
     "kartonnummer": "6",
     "steno_trans": [
