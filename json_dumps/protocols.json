@@ -4982,9 +4982,9 @@
     ],
     "str_vertr_anhang_trans": [
       {
-        "id": 22605,
-        "value": "noch nicht",
-        "color": "pink"
+        "id": 22604,
+        "value": "ja",
+        "color": "light-gray"
       }
     ],
     "vertr_anhang_trans": [],
@@ -4992,8 +4992,8 @@
     "tagesordnung": true,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "37",
-    "str_vertr_anhang_gesamtseitenzahl": null,
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_gesamtseitenzahl": "25",
+    "str_vertr_anhang_koll": true
   },
   "111": {
     "id": 111,
@@ -5433,7 +5433,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "3",
     "str_vertr_anhang_gesamtseitenzahl": "1",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "121": {
     "id": 121,
@@ -5517,9 +5517,9 @@
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [
       {
-        "id": 22606,
-        "value": "noch nicht",
-        "color": "pink"
+        "id": 22607,
+        "value": "ja",
+        "color": "light-gray"
       }
     ],
     "konzept": true,
@@ -5527,7 +5527,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "14",
     "str_vertr_anhang_gesamtseitenzahl": null,
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "123": {
     "id": 123,
@@ -6478,10 +6478,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "27",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -6509,7 +6509,7 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
@@ -6522,10 +6522,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -6553,7 +6553,7 @@
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
@@ -6566,10 +6566,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "14",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -6597,8 +6597,8 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert (TOP 2), muss aber noch einmal digitalisiert werden!!! (S.5, handschriftliche Vermerke)",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Str.vertr.Anh. bereits digitalisiert (TOP 2), muss aber noch einmal digitalisiert werden!!! (S.5, handschriftliche Vermerke); Präsenzliste!",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [],
@@ -6610,8 +6610,8 @@
       }
     ],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "5",
