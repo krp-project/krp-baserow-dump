@@ -6641,10 +6641,10 @@
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": "Gibt einen Anhang (nicht (str.)vertr.!), digitalisiert",
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": "26",
+    "kartonnummer": "27",
     "steno_trans": [
       {
         "id": 22601,
@@ -6660,10 +6660,10 @@
       }
     ],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": "1",
     "str_vertr_anhang_koll": true
   },
@@ -6685,16 +6685,16 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "steno_anzahl": "2",
+    "anzahl_beilagen": "15",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Nachdigitalisieren der S. 7 (Achtung, ob Seite zu vorherigen&nachfolgenden Seite passt!, str.vertr.Anh.(TOP 8) zu digitalisieren",
-    "archivalien_nachdigitalisiert": null,
-    "kartonnummer": "26",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Geheimer Anhang (TOP 8)",
+    "archivalien_nachdigitalisiert": "Reinschrift S. 7; Geheimer Anhang",
+    "kartonnummer": "27",
     "steno_trans": [
       {
         "id": 22603,
@@ -6702,13 +6702,19 @@
         "color": "deep-dark-orange"
       }
     ],
-    "str_vertr_anhang_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null,
+    "steno_gesamtseitenzahl": "19",
+    "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": false
   },
   "150": {
@@ -6730,15 +6736,15 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "7",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": "",
     "archivalien_nachdigitalisiert": null,
-    "kartonnummer": "26",
+    "kartonnummer": "27",
     "steno_trans": [
       {
         "id": 22601,
@@ -6754,10 +6760,10 @@
       }
     ],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": "1",
     "str_vertr_anhang_koll": true
   },
@@ -6780,13 +6786,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "2",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Präsenzliste",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
     "steno_trans": [
@@ -6798,10 +6804,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "15",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -6824,12 +6830,12 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "11",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
@@ -6842,10 +6848,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "8",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -6868,12 +6874,12 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "1",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
+    "reinschrift": true,
     "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
@@ -6886,10 +6892,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -6912,13 +6918,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "3",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 4)",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 4),  11. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
     "steno_trans": [
@@ -6936,10 +6942,10 @@
       }
     ],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "9",
     "str_vertr_anhang_gesamtseitenzahl": "3",
     "str_vertr_anhang_koll": true
   },
@@ -6962,13 +6968,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "21",
     "kollationiert": false,
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": null,
+    "reinschrift": true,
+    "anmerkungen_dokument": "Präsenzliste",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
     "steno_trans": [
@@ -6980,10 +6986,10 @@
     ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
-    "konzept": false,
+    "konzept": true,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "15",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -7006,13 +7012,13 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "18",
     "kollationiert": false,
     "docx_done": null,
-    "str_vertr_anhang": false,
+    "str_vertr_anhang": true,
     "vertr_anhang": false,
-    "reinschrift": false,
-    "anmerkungen_dokument": "Steno-Notiz auf TO",
+    "reinschrift": true,
+    "anmerkungen_dokument": "Steno-Notiz auf TO, Anhang (nicht (str.vertr.)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
     "steno_trans": [
@@ -7022,13 +7028,19 @@
         "color": "red"
       }
     ],
-    "str_vertr_anhang_trans": [],
+    "str_vertr_anhang_trans": [
+      {
+        "id": 22605,
+        "value": "noch nicht",
+        "color": "pink"
+      }
+    ],
     "vertr_anhang_trans": [],
-    "konzept": false,
-    "tagesordnung": false,
+    "konzept": true,
+    "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
-    "str_vertr_anhang_gesamtseitenzahl": null,
+    "steno_gesamtseitenzahl": "19",
+    "str_vertr_anhang_gesamtseitenzahl": "3",
     "str_vertr_anhang_koll": false
   },
   "157": {
