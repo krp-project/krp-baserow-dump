@@ -5779,7 +5779,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "14",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "129": {
     "id": 129,
@@ -5993,7 +5993,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "4",
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "134": {
     "id": 134,
@@ -6125,7 +6125,7 @@
     "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
-    "str_vertr_anhang_koll": false
+    "str_vertr_anhang_koll": true
   },
   "137": {
     "id": 137,
