@@ -2,15 +2,361 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "",
+    "Name": "Bauer, Otto Dr.",
     "Anmerkungen": "",
-    "Aktiv": false
+    "Aktiv": false,
+    "Funktion": "Staatsekretär für Äußeres [I]; des Äußeren [II]",
+    "Quelle": "https://www.parlament.gv.at/person/78"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
+    "Name": "Beck, Eugen [Ritter von Mannagetta und Lerchenau] Dr.",
     "Anmerkungen": "",
-    "Aktiv": false
+    "Aktiv": false,
+    "Funktion": "Unterstaatsekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
+    "Quelle": "https://www.parlament.gv.at/person/4331"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "Bratusch, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsekretär für Justiz [II]",
+    "Quelle": "https://www.parlament.gv.at/person/3025"
+  },
+  "39": {
+    "id": 39,
+    "order": "3.50000000000000000000",
+    "Name": "Brauneis, Viktor Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat im Staatsamt für Finanzen",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "Deutsch, Julius Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Heerwesen [I]; Staatsekretär für Heerwesen [II]; für Heereswesen [III]",
+    "Quelle": "https://www.parlament.gv.at/person/208"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "Name": "Eisler, Arnold Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Justiz [III]",
+    "Quelle": "https://www.parlament.gv.at/person/286"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "Name": "Eldersch, Matthias",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Inneres [II]; Staatssekretär für Inneres und Unterricht [III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Justiz [III]",
+    "Quelle": "https://www.parlament.gv.at/person/289"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "Name": "Ellenbogen, Wilhelm Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Handel und Gewerbe, Industrie und Bauten [II-III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Handel etc. [III]",
+    "Quelle": "https://www.parlament.gv.at/person/291"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "Name": "Enderes, Bruno [von] Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatsekretär für Verkehrswesen [I]; Sektionschef im Staatsamt für Verkehrswesen [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/4332"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "Name": "Fink, Jodok",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizekanzler [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/328"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "Name": "Glöckel, Otto",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Inneres [I]; Unterstaatssekretär für Unterricht im Inneres und Unterreicht [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/412"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "Name": "Grimm, Ferdinand [von] Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
+    "Quelle": "https://www.parlament.gv.at/person/64421"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "Name": "Hanusch, Ferdinand",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsekretär für soziale Fürsorge [I]; soziale Verwaltung [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/1947"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "Name": "Jukel, Karl Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Verkehrswesen [I]",
+    "Quelle": "https://www.parlament.gv.at/person/741"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "Name": "Kaup, Ignaz Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Volksgesundheit [I]; Unterstaatssekretär für Volksgesundheit [II]; Sektionschef im Staatsamt für soziale Verwaltung ab 20.03.1919",
+    "Quelle": "https://www.parlament.gv.at/person/4329"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "Name": "Loewenfeld-Russ, Johann Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Volksernährung [I-III]",
+    "Quelle": "https://www.parlament.gv.at/person/4327"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "Name": "Marckhl, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Inneres [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1072"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "Name": "Mataja, Heinrich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Inneres [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1086"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "Name": "Mayer, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Heerwesen [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1102"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "Name": "Mayr, Michael Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär ohne Portefeuille [II]; Staatssekretär, Vorsitz im Kabinett u Leiter d Staatskanzlei [III; ]Zuständig für Verfassungs- und Verwaltungsreformen [III]",
+    "Quelle": "https://www.parlament.gv.at/person/1120"
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "Name": "Miklas, Wilhelm",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Kultus [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/1143"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "Name": "Pacher, Rafael",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Unterricht [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1146"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "Name": "Paul, Ludwig",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Verkehrswesen [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/3026"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "Name": "Pflügl, Egon [Edler von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Äußeres [I]; des Äußeren [II]",
+    "Quelle": "https://www.parlament.gv.at/person/4333"
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "Name": "Ramek, Rudolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsekretär für Justiz [III]",
+    "Quelle": "https://www.parlament.gv.at/person/1526"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "Name": "Reisch, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Finanzen [III]",
+    "Quelle": "https://www.parlament.gv.at/person/3027"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "Name": "Renner, Karl Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatskanzler [I-III]; Leiter Staatsämter für Inneres und für Unterricht [II]; nach 26.07.1919 Staatssekretär des Äußeren [II]; für Äußeres [III]; Betraut mit der einstweiligen Führung des Staatsamtes für Land- und Forstwirtschaft\n25.06.1920-07.07.1920",
+    "Quelle": "https://www.parlament.gv.at/person/1664"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "Name": "Resch, Josef Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatsekretär für soziale Fürsorge [I]; für soziale Verwaltung [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/1668"
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "Name": "Roller, Julius Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Justiz [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1703"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "Name": "Schumpeter, Josef Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Finanzen [II]",
+    "Quelle": "https://www.parlament.gv.at/person/4328"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "Name": "Seitz, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident der Provisorischen Nationalversammlung und Vorsitzender des Staatsrates [I]; Erster Präsident der Konstituierenden Nationalversammlung [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/1783"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "Name": "Steinwender, Otto Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Finanzen [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1888"
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "Name": "Stöckler, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Land- und Forstwirtschaft [I-III]",
+    "Quelle": "https://www.parlament.gv.at/person/1892"
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "Name": "Tandler, Julius Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatsekretär für Volksgesundheit [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/3028"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "Name": "Urban, Karl Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Gewerbe,  Industrie und Handel [I]; Staatssekretär für Kriegs- und Übergangswirtschaft [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1333"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "Name": "Waber, Leopold Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Äußeres [I]",
+    "Quelle": "https://www.parlament.gv.at/person/1380"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "Name": "Waiss, Erwin Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Heerwesen [I-II]; Heereswesen [III]",
+    "Quelle": "https://www.parlament.gv.at/person/1401"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "Name": "Wallenstorfer, Norbert",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterstaatssekretär für Volksernährung [I]",
+    "Quelle": "https://www.parlament.gv.at/person/3023"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "Name": "Zerdik, Johann Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatssekretär für Öffentliche Arbeiten [I]; Handel und Gewerbe, Industrie und Bauten [II-III]",
+    "Quelle": "https://www.parlament.gv.at/person/1635"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "Name": "Breisky, Walter",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": ""
   }
 }
