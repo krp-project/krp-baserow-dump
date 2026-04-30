@@ -6,7 +6,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatsekretär für Äußeres [I]; des Äußeren [II]",
-    "Quelle": "https://www.parlament.gv.at/person/78"
+    "Quelle": "https://www.parlament.gv.at/person/78",
+    "krp_person_id": "krp_person_id__1"
   },
   "2": {
     "id": 2,
@@ -15,7 +16,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatsekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
-    "Quelle": "https://www.parlament.gv.at/person/4331"
+    "Quelle": "https://www.parlament.gv.at/person/4331",
+    "krp_person_id": "krp_person_id__2"
   },
   "3": {
     "id": 3,
@@ -24,7 +26,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatsekretär für Justiz [II]",
-    "Quelle": "https://www.parlament.gv.at/person/3025"
+    "Quelle": "https://www.parlament.gv.at/person/3025",
+    "krp_person_id": "krp_person_id__3"
   },
   "39": {
     "id": 39,
@@ -33,7 +36,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Sektionsrat im Staatsamt für Finanzen",
-    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413"
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
+    "krp_person_id": "krp_person_id__39"
   },
   "4": {
     "id": 4,
@@ -42,7 +46,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Heerwesen [I]; Staatsekretär für Heerwesen [II]; für Heereswesen [III]",
-    "Quelle": "https://www.parlament.gv.at/person/208"
+    "Quelle": "https://www.parlament.gv.at/person/208",
+    "krp_person_id": "krp_person_id__4"
   },
   "5": {
     "id": 5,
@@ -51,7 +56,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Justiz [III]",
-    "Quelle": "https://www.parlament.gv.at/person/286"
+    "Quelle": "https://www.parlament.gv.at/person/286",
+    "krp_person_id": "krp_person_id__5"
   },
   "6": {
     "id": 6,
@@ -60,7 +66,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Inneres [II]; Staatssekretär für Inneres und Unterricht [III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Justiz [III]",
-    "Quelle": "https://www.parlament.gv.at/person/289"
+    "Quelle": "https://www.parlament.gv.at/person/289",
+    "krp_person_id": "krp_person_id__6"
   },
   "7": {
     "id": 7,
@@ -69,7 +76,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Handel und Gewerbe, Industrie und Bauten [II-III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Handel etc. [III]",
-    "Quelle": "https://www.parlament.gv.at/person/291"
+    "Quelle": "https://www.parlament.gv.at/person/291",
+    "krp_person_id": "krp_person_id__7"
   },
   "8": {
     "id": 8,
@@ -78,7 +86,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatsekretär für Verkehrswesen [I]; Sektionschef im Staatsamt für Verkehrswesen [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/4332"
+    "Quelle": "https://www.parlament.gv.at/person/4332",
+    "krp_person_id": "krp_person_id__8"
   },
   "9": {
     "id": 9,
@@ -87,7 +96,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Vizekanzler [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/328"
+    "Quelle": "https://www.parlament.gv.at/person/328",
+    "krp_person_id": "krp_person_id__9"
   },
   "10": {
     "id": 10,
@@ -96,7 +106,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Inneres [I]; Unterstaatssekretär für Unterricht im Inneres und Unterreicht [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/412"
+    "Quelle": "https://www.parlament.gv.at/person/412",
+    "krp_person_id": "krp_person_id__10"
   },
   "11": {
     "id": 11,
@@ -105,7 +116,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
-    "Quelle": "https://www.parlament.gv.at/person/64421"
+    "Quelle": "https://www.parlament.gv.at/person/64421",
+    "krp_person_id": "krp_person_id__11"
   },
   "12": {
     "id": 12,
@@ -114,7 +126,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatsekretär für soziale Fürsorge [I]; soziale Verwaltung [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/1947"
+    "Quelle": "https://www.parlament.gv.at/person/1947",
+    "krp_person_id": "krp_person_id__12"
   },
   "13": {
     "id": 13,
@@ -123,7 +136,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Verkehrswesen [I]",
-    "Quelle": "https://www.parlament.gv.at/person/741"
+    "Quelle": "https://www.parlament.gv.at/person/741",
+    "krp_person_id": "krp_person_id__13"
   },
   "14": {
     "id": 14,
@@ -132,7 +146,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Volksgesundheit [I]; Unterstaatssekretär für Volksgesundheit [II]; Sektionschef im Staatsamt für soziale Verwaltung ab 20.03.1919",
-    "Quelle": "https://www.parlament.gv.at/person/4329"
+    "Quelle": "https://www.parlament.gv.at/person/4329",
+    "krp_person_id": "krp_person_id__14"
   },
   "15": {
     "id": 15,
@@ -141,7 +156,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Volksernährung [I-III]",
-    "Quelle": "https://www.parlament.gv.at/person/4327"
+    "Quelle": "https://www.parlament.gv.at/person/4327",
+    "krp_person_id": "krp_person_id__15"
   },
   "16": {
     "id": 16,
@@ -150,7 +166,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Inneres [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1072"
+    "Quelle": "https://www.parlament.gv.at/person/1072",
+    "krp_person_id": "krp_person_id__16"
   },
   "17": {
     "id": 17,
@@ -159,7 +176,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Inneres [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1086"
+    "Quelle": "https://www.parlament.gv.at/person/1086",
+    "krp_person_id": "krp_person_id__17"
   },
   "18": {
     "id": 18,
@@ -168,7 +186,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Heerwesen [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1102"
+    "Quelle": "https://www.parlament.gv.at/person/1102",
+    "krp_person_id": "krp_person_id__18"
   },
   "19": {
     "id": 19,
@@ -177,7 +196,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär ohne Portefeuille [II]; Staatssekretär, Vorsitz im Kabinett u Leiter d Staatskanzlei [III; ]Zuständig für Verfassungs- und Verwaltungsreformen [III]",
-    "Quelle": "https://www.parlament.gv.at/person/1120"
+    "Quelle": "https://www.parlament.gv.at/person/1120",
+    "krp_person_id": "krp_person_id__19"
   },
   "20": {
     "id": 20,
@@ -186,7 +206,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Kultus [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/1143"
+    "Quelle": "https://www.parlament.gv.at/person/1143",
+    "krp_person_id": "krp_person_id__20"
   },
   "21": {
     "id": 21,
@@ -195,7 +216,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Unterricht [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1146"
+    "Quelle": "https://www.parlament.gv.at/person/1146",
+    "krp_person_id": "krp_person_id__21"
   },
   "22": {
     "id": 22,
@@ -204,7 +226,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Verkehrswesen [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/3026"
+    "Quelle": "https://www.parlament.gv.at/person/3026",
+    "krp_person_id": "krp_person_id__22"
   },
   "23": {
     "id": 23,
@@ -213,7 +236,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Äußeres [I]; des Äußeren [II]",
-    "Quelle": "https://www.parlament.gv.at/person/4333"
+    "Quelle": "https://www.parlament.gv.at/person/4333",
+    "krp_person_id": "krp_person_id__23"
   },
   "24": {
     "id": 24,
@@ -222,7 +246,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatsekretär für Justiz [III]",
-    "Quelle": "https://www.parlament.gv.at/person/1526"
+    "Quelle": "https://www.parlament.gv.at/person/1526",
+    "krp_person_id": "krp_person_id__24"
   },
   "25": {
     "id": 25,
@@ -231,7 +256,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Finanzen [III]",
-    "Quelle": "https://www.parlament.gv.at/person/3027"
+    "Quelle": "https://www.parlament.gv.at/person/3027",
+    "krp_person_id": "krp_person_id__25"
   },
   "26": {
     "id": 26,
@@ -240,7 +266,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatskanzler [I-III]; Leiter Staatsämter für Inneres und für Unterricht [II]; nach 26.07.1919 Staatssekretär des Äußeren [II]; für Äußeres [III]; Betraut mit der einstweiligen Führung des Staatsamtes für Land- und Forstwirtschaft\n25.06.1920-07.07.1920",
-    "Quelle": "https://www.parlament.gv.at/person/1664"
+    "Quelle": "https://www.parlament.gv.at/person/1664",
+    "krp_person_id": "krp_person_id__26"
   },
   "27": {
     "id": 27,
@@ -249,7 +276,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatsekretär für soziale Fürsorge [I]; für soziale Verwaltung [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/1668"
+    "Quelle": "https://www.parlament.gv.at/person/1668",
+    "krp_person_id": "krp_person_id__27"
   },
   "28": {
     "id": 28,
@@ -258,7 +286,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Justiz [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1703"
+    "Quelle": "https://www.parlament.gv.at/person/1703",
+    "krp_person_id": "krp_person_id__28"
   },
   "29": {
     "id": 29,
@@ -267,7 +296,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Finanzen [II]",
-    "Quelle": "https://www.parlament.gv.at/person/4328"
+    "Quelle": "https://www.parlament.gv.at/person/4328",
+    "krp_person_id": "krp_person_id__29"
   },
   "30": {
     "id": 30,
@@ -276,7 +306,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Präsident der Provisorischen Nationalversammlung und Vorsitzender des Staatsrates [I]; Erster Präsident der Konstituierenden Nationalversammlung [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/1783"
+    "Quelle": "https://www.parlament.gv.at/person/1783",
+    "krp_person_id": "krp_person_id__30"
   },
   "31": {
     "id": 31,
@@ -285,7 +316,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Finanzen [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1888"
+    "Quelle": "https://www.parlament.gv.at/person/1888",
+    "krp_person_id": "krp_person_id__31"
   },
   "32": {
     "id": 32,
@@ -294,7 +326,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Land- und Forstwirtschaft [I-III]",
-    "Quelle": "https://www.parlament.gv.at/person/1892"
+    "Quelle": "https://www.parlament.gv.at/person/1892",
+    "krp_person_id": "krp_person_id__32"
   },
   "33": {
     "id": 33,
@@ -303,7 +336,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatsekretär für Volksgesundheit [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/3028"
+    "Quelle": "https://www.parlament.gv.at/person/3028",
+    "krp_person_id": "krp_person_id__33"
   },
   "34": {
     "id": 34,
@@ -312,7 +346,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Gewerbe,  Industrie und Handel [I]; Staatssekretär für Kriegs- und Übergangswirtschaft [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1333"
+    "Quelle": "https://www.parlament.gv.at/person/1333",
+    "krp_person_id": "krp_person_id__34"
   },
   "35": {
     "id": 35,
@@ -321,7 +356,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Äußeres [I]",
-    "Quelle": "https://www.parlament.gv.at/person/1380"
+    "Quelle": "https://www.parlament.gv.at/person/1380",
+    "krp_person_id": "krp_person_id__35"
   },
   "36": {
     "id": 36,
@@ -330,7 +366,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Heerwesen [I-II]; Heereswesen [III]",
-    "Quelle": "https://www.parlament.gv.at/person/1401"
+    "Quelle": "https://www.parlament.gv.at/person/1401",
+    "krp_person_id": "krp_person_id__36"
   },
   "37": {
     "id": 37,
@@ -339,7 +376,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Unterstaatssekretär für Volksernährung [I]",
-    "Quelle": "https://www.parlament.gv.at/person/3023"
+    "Quelle": "https://www.parlament.gv.at/person/3023",
+    "krp_person_id": "krp_person_id__37"
   },
   "38": {
     "id": 38,
@@ -348,7 +386,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Staatssekretär für Öffentliche Arbeiten [I]; Handel und Gewerbe, Industrie und Bauten [II-III]",
-    "Quelle": "https://www.parlament.gv.at/person/1635"
+    "Quelle": "https://www.parlament.gv.at/person/1635",
+    "krp_person_id": "krp_person_id__38"
   },
   "43": {
     "id": 43,
@@ -356,7 +395,948 @@
     "Name": "Breisky, Walter",
     "Anmerkungen": "",
     "Aktiv": false,
+    "Funktion": "Ministerialrat in der Staatskanzlei",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
+    "krp_person_id": "krp_person_id__43"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "Name": "Davy, Robert Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
+    "Quelle": "ÖBL Online-Edition, Lfg. 6 (27.11.2017); Österreichischer Amtskalender, 1922, S. 39.",
+    "krp_person_id": "krp_person_id__44"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "Name": "Dorrek, Dr. Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438.",
+    "krp_person_id": "krp_person_id__46"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "Name": "Durig, Ernst Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für Justiz",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 55.",
+    "krp_person_id": "krp_person_id__47"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "Name": "Feiler, Rudolf Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialsekretär im Staatsamt für Verkehrswesen",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 114.",
+    "krp_person_id": "krp_person_id__49"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "Name": "Froehlich, Georg Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef in der Staatskanzlei",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 29.",
+    "krp_person_id": "krp_person_id__50"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "Name": "Grünberger, Alfred Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1476.",
+    "krp_person_id": "krp_person_id__51"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "Name": "Günther [Ritter von Ollenburg], Alexander",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt des Äußern",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 373.",
+    "krp_person_id": "krp_person_id__52"
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "Name": "Haas, Wilhelm",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483.",
+    "krp_person_id": "krp_person_id__54"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "Name": "Hanausek, Wilhelm",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für Heerwesen, \nDeutschösterreichischer Liquidierungskommissär\nfür das liquidierende Kriegsministerium und das\nliquidierende Landesverteidigungsministerium,\n1920 Österreichischer Vertreter im bevollmächtigten\nKollegium für das liquidierende Kriegsministerium",
+    "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 449.",
+    "krp_person_id": "krp_person_id__55"
+  },
+  "57": {
+    "id": 57,
+    "order": "56.00000000000000000000",
+    "Name": "Herman, Rudolf Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Justiz",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 55.",
+    "krp_person_id": "krp_person_id__57"
+  },
+  "58": {
+    "id": 58,
+    "order": "57.00000000000000000000",
+    "Name": "Hoheisel, Konrad",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef [???]; Generalpostdirektor",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__58"
+  },
+  "59": {
+    "id": 59,
+    "order": "58.00000000000000000000",
+    "Name": "Homann, Emil [Freiherr v. Herimberg Dr.mont.h.c.?",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter d liquidierenden Kriegsministeriums",
+    "Quelle": "Österreichisches Biographisches Lexikon 1815–1950 (ÖBL). Band 2, Verlag der Österreichischen Akademie der Wissenschaften, Wien 1959, S.411f. Homann von Herimberg, Emil Frh.",
+    "krp_person_id": "krp_person_id__59"
+  },
+  "60": {
+    "id": 60,
+    "order": "59.00000000000000000000",
+    "Name": "Hummel, Adolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
     "Funktion": "",
-    "Quelle": ""
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
+    "krp_person_id": "krp_person_id__60"
+  },
+  "61": {
+    "id": 61,
+    "order": "60.00000000000000000000",
+    "Name": "Joas, Leopold Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für Finanzen",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 57; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1509.",
+    "krp_person_id": "krp_person_id__61"
+  },
+  "62": {
+    "id": 62,
+    "order": "61.00000000000000000000",
+    "Name": "Kaan, Julius Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef für im Staatsamt für soziale Verwaltung",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1511; Kabinettsratsprotokolle Renner Bd. 1, S. 55.",
+    "krp_person_id": "krp_person_id__62"
+  },
+  "63": {
+    "id": 63,
+    "order": "62.00000000000000000000",
+    "Name": "Kloss, Rudolf Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberbergrat im Staatsamt für öffentliche Arbeiten; Ministerialrat im Staatsamt für Handel\nund Gewerbe, Industrie und Bauten [II-III]",
+    "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 601; Österreichischer Amtskalender, 1922, S. 76.",
+    "krp_person_id": "krp_person_id__63"
+  },
+  "64": {
+    "id": 64,
+    "order": "63.00000000000000000000",
+    "Name": "Kralowsky, Emil Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für Heerwesen",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 110.",
+    "krp_person_id": "krp_person_id__64"
+  },
+  "65": {
+    "id": 65,
+    "order": "64.00000000000000000000",
+    "Name": "Krasny, Arnold [von Ergen]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten [1919 in den Ruhestand]; Staatskommission für Sozialisierung",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483; ÖBL 1815-1950, Bd. 4 (Lfg. 18, 1968), S. 213",
+    "krp_person_id": "krp_person_id__65"
+  },
+  "66": {
+    "id": 66,
+    "order": "65.00000000000000000000",
+    "Name": "Lederer, Emil Prof. Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatskommission für Sozialisierung",
+    "Quelle": "ÖBL 1815-1950, Bd. 5 (Lfg. 21, 1970), S. 82f.",
+    "krp_person_id": "krp_person_id__66"
+  },
+  "67": {
+    "id": 67,
+    "order": "66.00000000000000000000",
+    "Name": "Licht, Stefan [Edler von] Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsrat",
+    "Quelle": "https://www.parlament.gv.at/person/875.",
+    "krp_person_id": "krp_person_id__67"
+  },
+  "68": {
+    "id": 68,
+    "order": "67.00000000000000000000",
+    "Name": "Mosing, Ernst [Edler von] Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberfinanzrat im Staatsamt für Finanzen",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 439.",
+    "krp_person_id": "krp_person_id__68"
+  },
+  "69": {
+    "id": 69,
+    "order": "68.00000000000000000000",
+    "Name": "Mühlvenzl, Josef [Ritter von] Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für Finanzen; Mitglied in der Kommission für Kriegs- und Übergangswirtschaft",
+    "Quelle": "Kabinettsratsprotokolle Renner Bd. 1, S. 605.",
+    "krp_person_id": "krp_person_id__69"
+  },
+  "70": {
+    "id": 70,
+    "order": "69.00000000000000000000",
+    "Name": "Okorn, Friedrich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Justiz",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1593.",
+    "krp_person_id": "krp_person_id__70"
+  },
+  "71": {
+    "id": 71,
+    "order": "70.00000000000000000000",
+    "Name": "Pergelt, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
+    "krp_person_id": "krp_person_id__71"
+  },
+  "72": {
+    "id": 72,
+    "order": "71.00000000000000000000",
+    "Name": "Pfersmann, Kamillo [von Eichenthal]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat im Staatsamt für öffentliche Arbeiten",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1606.",
+    "krp_person_id": "krp_person_id__72"
+  },
+  "73": {
+    "id": 73,
+    "order": "72.00000000000000000000",
+    "Name": "Pokorny, Dr. Gustav – Anmerkung: (Wilhelm ist ausgeschlossen, da er 1918 in Pension ging)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten [zuvor Sektionsrat Ministerium für öffentliche Arbeiten]",
+    "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 601; Österreichischer Amtskalender, 1922, S. 763; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 484.",
+    "krp_person_id": "krp_person_id__73"
+  },
+  "74": {
+    "id": 74,
+    "order": "73.00000000000000000000",
+    "Name": "Pöschl, Moriz [Ritter von Hasemont] Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für Finanzen",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1613.",
+    "krp_person_id": "krp_person_id__74"
+  },
+  "75": {
+    "id": 75,
+    "order": "74.00000000000000000000",
+    "Name": "Reich, Rudolf Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten; im letzten Jahr der Monarchie: Ministerialrat",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483.",
+    "krp_person_id": "krp_person_id__75"
+  },
+  "76": {
+    "id": 76,
+    "order": "75.00000000000000000000",
+    "Name": "Rotky, Otto Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
+    "krp_person_id": "krp_person_id__76"
+  },
+  "77": {
+    "id": 77,
+    "order": "76.00000000000000000000",
+    "Name": "Salzer, Maximilian Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen [auch im K. K. Finanz-Ministerium] [1922 Sektionschef im Bundesministerium für Finanzen]",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1639; Österreichischer Amtskalender, 1922, S. 57.",
+    "krp_person_id": "krp_person_id__77"
+  },
+  "78": {
+    "id": 78,
+    "order": "77.00000000000000000000",
+    "Name": "Schauberger, Friedrich Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen [auch im K. K. Finanz-Ministerium] [1922 Sektionschef im Bundesministerium für Finanzen]",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438 1643; Österreichischer Amtskalender, 1922, S. 57",
+    "krp_person_id": "krp_person_id__78"
+  },
+  "79": {
+    "id": 79,
+    "order": "78.00000000000000000000",
+    "Name": "Schedlbauer, Leo Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 417.",
+    "krp_person_id": "krp_person_id__79"
+  },
+  "80": {
+    "id": 80,
+    "order": "79.00000000000000000000",
+    "Name": "Schober, Johannes",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident der Polizeidirektion Wien",
+    "Quelle": "„Schober, Johannes“, in: Neue Deutsche Biographie 23 (2007), S. 347-348 [Onlinefassung]; URL: http://www.deutsche-biographie.de/.html",
+    "krp_person_id": "krp_person_id__80"
+  },
+  "81": {
+    "id": 81,
+    "order": "80.00000000000000000000",
+    "Name": "Schüller, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für Äußeres",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1651.",
+    "krp_person_id": "krp_person_id__81"
+  },
+  "82": {
+    "id": 82,
+    "order": "81.00000000000000000000",
+    "Name": "Schwarzwald, Hermann Hofrat Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen",
+    "Quelle": "Österreichisches Biographisches Lexikon 1815–1950 (ÖBL). Band 12, Verlag der Österreichischen Akademie der Wissenschaften, Wien 2005, S. 35.",
+    "krp_person_id": "krp_person_id__82"
+  },
+  "84": {
+    "id": 84,
+    "order": "83.00000000000000000000",
+    "Name": "Schwiedland, Eugen Peter Hofrat Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "1917–1921, fachliche Mitarbeiter des General-Kommissariats für Kriegs- und Übergangswirtschaft",
+    "Quelle": "ÖBL 1815-1950, Bd. 12 (Lfg. 55, 2001), S. 56f; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1639.",
+    "krp_person_id": "krp_person_id__84"
+  },
+  "85": {
+    "id": 85,
+    "order": "84.00000000000000000000",
+    "Name": "Thaa, Gustav [Ritter von] Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen",
+    "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 545; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1687.",
+    "krp_person_id": "krp_person_id__85"
+  },
+  "86": {
+    "id": 86,
+    "order": "85.00000000000000000000",
+    "Name": "Wenedikter, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat; Sektionschef im Staatsamt für Inneres",
+    "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 770.",
+    "krp_person_id": "krp_person_id__86"
+  },
+  "88": {
+    "id": 88,
+    "order": "87.00000000000000000000",
+    "Name": "Wilfling, August Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen",
+    "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438; Österreichischer Amtskalender, 1922, S. 57.",
+    "krp_person_id": "krp_person_id__88"
+  },
+  "89": {
+    "id": 89,
+    "order": "88.00000000000000000000",
+    "Name": "Wollheim, Oskar Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__89"
+  },
+  "90": {
+    "id": 90,
+    "order": "89.00000000000000000000",
+    "Name": "List, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident des Landeskulturrates Niederösterreich",
+    "Quelle": "https://www.parlament.gv.at/person/896",
+    "krp_person_id": "krp_person_id__90"
+  },
+  "91": {
+    "id": 91,
+    "order": "90.00000000000000000000",
+    "Name": "Gruber, Rudolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizepräsident des Landeskulturrates Niederösterreich",
+    "Quelle": "https://www.parlament.gv.at/person/537",
+    "krp_person_id": "krp_person_id__91"
+  },
+  "92": {
+    "id": 92,
+    "order": "91.00000000000000000000",
+    "Name": "Hillbrand, Josef Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident des Landeskulturrates Vorarlberg",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190912&query=%22Josef+Anton+Hillbrand%22&ref=anno-search&seite=1",
+    "krp_person_id": "krp_person_id__92"
+  },
+  "93": {
+    "id": 93,
+    "order": "92.00000000000000000000",
+    "Name": "Bechter, Gottlieb",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizepräsident des Landeskulturrates in Vorarlberg",
+    "Quelle": "https://vorarlberg.at/web/landtag/-/bechter-gottlieb-oekonomierat-alt-gemeindevorsteher",
+    "krp_person_id": "krp_person_id__93"
+  },
+  "94": {
+    "id": 94,
+    "order": "93.00000000000000000000",
+    "Name": "Christoph, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizepräsident des Landeskulturrates Niederösterreich",
+    "Quelle": "https://www.parlament.gv.at/person/182",
+    "krp_person_id": "krp_person_id__94"
+  },
+  "95": {
+    "id": 95,
+    "order": "94.00000000000000000000",
+    "Name": "Winsauer, Ernst Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizepräsident des Landeskulturrates in Vorarlberg",
+    "Quelle": "https://www.parlament.gv.at/person/1511",
+    "krp_person_id": "krp_person_id__95"
+  },
+  "97": {
+    "id": 97,
+    "order": "96.00000000000000000000",
+    "Name": "Ippen, Theodor",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gesandter",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_I/Ippen_Theodor_1861_1935.xml",
+    "krp_person_id": "krp_person_id__97"
+  },
+  "98": {
+    "id": 98,
+    "order": "97.00000000000000000000",
+    "Name": "Oberdorffer, Leonhard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektonsrat der Staatskanzlei [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__98"
+  },
+  "99": {
+    "id": 99,
+    "order": "98.00000000000000000000",
+    "Name": "Weinczierl, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat; Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__99"
+  },
+  "100": {
+    "id": 100,
+    "order": "99.00000000000000000000",
+    "Name": "Syrowatk, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat, Staatskommisariat für Sachdemobilisierung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__100"
+  },
+  "101": {
+    "id": 101,
+    "order": "100.00000000000000000000",
+    "Name": "Pollak, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Postrat, Staatskommissariat für Sachdemobilisierung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__101"
+  },
+  "102": {
+    "id": 102,
+    "order": "101.00000000000000000000",
+    "Name": "Grabmayr, Karl [von Angerheim]Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident des Reichsgerichts",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_Grabmayr_von_Angerheim",
+    "krp_person_id": "krp_person_id__102"
+  },
+  "103": {
+    "id": 103,
+    "order": "102.00000000000000000000",
+    "Name": "Berka, Johann",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Zweiter Präsident des Obersten Gerichts- und Kassationshofes",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__103"
+  },
+  "104": {
+    "id": 104,
+    "order": "103.00000000000000000000",
+    "Name": "Sylvester, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormaliger Staatsnotar",
+    "Quelle": "https://www.parlament.gv.at/person/1928",
+    "krp_person_id": "krp_person_id__104"
+  },
+  "105": {
+    "id": 105,
+    "order": "104.00000000000000000000",
+    "Name": "Urbanitzky, Ida",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberbergratswaise",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__105"
+  },
+  "106": {
+    "id": 106,
+    "order": "105.00000000000000000000",
+    "Name": "Klein, Franz Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Minister a. D.",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Franz_Klein",
+    "krp_person_id": "krp_person_id__106"
+  },
+  "107": {
+    "id": 107,
+    "order": "106.00000000000000000000",
+    "Name": "Peter",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__107"
+  },
+  "108": {
+    "id": 108,
+    "order": "107.00000000000000000000",
+    "Name": "Eichhoff, Johann Andreas [Freiherr von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__108"
+  },
+  "109": {
+    "id": 109,
+    "order": "108.00000000000000000000",
+    "Name": "Kloss, RudolfDr. (Anmerkung: Hans Kloss kann es nicht sein)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat, Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190418&query=%22Rudolf+Kloss%22&ref=anno-search&seite=1",
+    "krp_person_id": "krp_person_id__109"
+  },
+  "110": {
+    "id": 110,
+    "order": "109.00000000000000000000",
+    "Name": "Körner, Theodor Dr. h.c.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberst, Staatsamt für Heereswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__110"
+  },
+  "111": {
+    "id": 111,
+    "order": "110.00000000000000000000",
+    "Name": "Pfaundler, Hermann? Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberfinanzrat",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__111"
+  },
+  "112": {
+    "id": 112,
+    "order": "111.00000000000000000000",
+    "Name": "Duveen, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Repräsentant des ersten New Yorker Kunsthandlungshauses",
+    "Quelle": "https://de.wikipedia.org/wiki/Joseph_Duveen,_1._Baron_Duveen",
+    "krp_person_id": "krp_person_id__112"
+  },
+  "113": {
+    "id": 113,
+    "order": "112.00000000000000000000",
+    "Name": "Glück, Gustav? Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hofmuseum, Mitglied des Beirates für Verwertung Kunstschätze",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__113"
+  },
+  "114": {
+    "id": 114,
+    "order": "113.00000000000000000000",
+    "Name": "Haberditzl, Franz Martin Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsgalerie",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Franz_Martin_Haberditzl",
+    "krp_person_id": "krp_person_id__114"
+  },
+  "115": {
+    "id": 115,
+    "order": "114.00000000000000000000",
+    "Name": "Leisching, Eduard Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Museum für Kunst und Industrie",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Eduard_Leisching",
+    "krp_person_id": "krp_person_id__115"
+  },
+  "116": {
+    "id": 116,
+    "order": "115.00000000000000000000",
+    "Name": "Tietze, Hans Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Unterricht",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Hans_Tietze",
+    "krp_person_id": "krp_person_id__116"
+  },
+  "117": {
+    "id": 117,
+    "order": "116.00000000000000000000",
+    "Name": "Alexy, Ludwig Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Stadterweiterungsfonds",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__117"
+  },
+  "118": {
+    "id": 118,
+    "order": "117.00000000000000000000",
+    "Name": "Vetter, Adolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_V/Vetter_Adolf_1867_1942.xml",
+    "krp_person_id": "krp_person_id__118"
+  },
+  "119": {
+    "id": 119,
+    "order": "118.00000000000000000000",
+    "Name": "Schubert, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Regierungsrat, Chef des Staatsdenkmalamtes",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__119"
+  },
+  "120": {
+    "id": 120,
+    "order": "119.00000000000000000000",
+    "Name": "Auspitz, Stephan",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "privater Kunstsammler",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__120"
+  },
+  "121": {
+    "id": 121,
+    "order": "120.00000000000000000000",
+    "Name": "Schober, Johannes",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident der Polizeidirektion in Wien",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Johannes_Schober",
+    "krp_person_id": "krp_person_id__121"
+  },
+  "123": {
+    "id": 123,
+    "order": "122.00000000000000000000",
+    "Name": "Causey",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__123"
+  },
+  "125": {
+    "id": 125,
+    "order": "124.00000000000000000000",
+    "Name": "Gregory",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Chef der amerikanischen Lebensmittelkommission",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__125"
+  },
+  "126": {
+    "id": 126,
+    "order": "125.00000000000000000000",
+    "Name": "Buttler",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "englische Lebensmittelkommission",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__126"
+  },
+  "127": {
+    "id": 127,
+    "order": "126.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Hubert",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Erzherzog Hubert Salvator von Österreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__127"
+  },
+  "128": {
+    "id": 128,
+    "order": "127.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Erzherzog Franz",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__128"
+  },
+  "129": {
+    "id": 129,
+    "order": "128.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Alice",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Großherzogin von Toscana",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__129"
+  },
+  "130": {
+    "id": 130,
+    "order": "129.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Josef Ferdinand",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Erzherzog Josef Ferdinand",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__130"
+  },
+  "132": {
+    "id": 132,
+    "order": "131.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Margarete",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Erzherzogin Margarete",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__132"
+  },
+  "133": {
+    "id": 133,
+    "order": "132.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Agnes",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Erzherzogin Agnes von Österreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__133"
+  },
+  "134": {
+    "id": 134,
+    "order": "133.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Germana",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Erzherzogin Germana  von Österreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__134"
+  },
+  "135": {
+    "id": 135,
+    "order": "134.00000000000000000000",
+    "Name": "Noven, Heinrich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormals Erzherzog Heinrich Ferdinand",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__135"
+  },
+  "136": {
+    "id": 136,
+    "order": "135.00000000000000000000",
+    "Name": "Lindner, Alois",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "1918 Mitbegründer des Revolutionären Arbeiterrats in München",
+    "Quelle": "Alois Lindner : das Leben des bayerischen Abenteurers und Revolutionärs / Norman Dankerl",
+    "krp_person_id": "krp_person_id__136"
+  },
+  "137": {
+    "id": 137,
+    "order": "136.00000000000000000000",
+    "Name": "Trenkwald, Hermann [von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizedirektor des österreichischen Museums für Kunst und Industrie; Regierungsrat",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_T/Trenkwald_Hermann_1866_1942.xml",
+    "krp_person_id": "krp_person_id__137"
+  },
+  "138": {
+    "id": 138,
+    "order": "137.00000000000000000000",
+    "Name": "Sever, Albert",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Landeshauptmann Niederösterreich",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_S/Sever_Albert_1867_1942.xml",
+    "krp_person_id": "krp_person_id__138"
+  },
+  "139": {
+    "id": 139,
+    "order": "138.00000000000000000000",
+    "Name": "Ziller, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsamte für Heereswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__139"
+  },
+  "140": {
+    "id": 140,
+    "order": "139.00000000000000000000",
+    "Name": "Boschan",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Äußeres",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__140"
+  },
+  "141": {
+    "id": 141,
+    "order": "140.00000000000000000000",
+    "Name": "Hornik, Fritz Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Finanzrat",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__141"
+  },
+  "142": {
+    "id": 142,
+    "order": "141.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__142"
+  },
+  "143": {
+    "id": 143,
+    "order": "142.00000000000000000000",
+    "Name": "Mauelère",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "französisches Mitglied der Reparationskommission",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__143"
+  },
+  "144": {
+    "id": 144,
+    "order": "143.00000000000000000000",
+    "Name": "Otavský, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "tschechoslowakischer Liquidierungskommissär",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__144"
+  },
+  "145": {
+    "id": 145,
+    "order": "144.00000000000000000000",
+    "Name": "Geist, Hermann Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter der amerikanischen Kinderhilfsaktion",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dnt&datum=19190506&query=%22Kinderhilfsaktion%22&ref=anno-search&seite=3",
+    "krp_person_id": "krp_person_id__145"
+  },
+  "146": {
+    "id": 146,
+    "order": "145.00000000000000000000",
+    "Name": "Lelewer, Georg Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter der Fachgruppe VI im Staatsamt für Heerwesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__146"
+  },
+  "147": {
+    "id": 147,
+    "order": "146.00000000000000000000",
+    "Name": "Lanzendörfer, Ferdinand",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Militäroberintendant",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_L/Lanzendoerfer_Ferdinand_1868_1943.xml",
+    "krp_person_id": "krp_person_id__147"
   }
 }
