@@ -1338,5 +1338,45 @@
     "Funktion": "Militäroberintendant",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_L/Lanzendoerfer_Ferdinand_1868_1943.xml",
     "krp_person_id": "krp_person_id__147"
+  },
+  "148": {
+    "id": 148,
+    "order": "147.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__148"
+  },
+  "149": {
+    "id": 149,
+    "order": "148.00000000000000000000",
+    "Name": "Katz, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__149"
+  },
+  "150": {
+    "id": 150,
+    "order": "149.00000000000000000000",
+    "Name": "Chlumecky, Leopold [Freiherr von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter der \"Oesterreichischen Propagandastelle\"",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_C/Chlumecky_Leopold_1873_1940.xml",
+    "krp_person_id": "krp_person_id__150"
+  },
+  "151": {
+    "id": 151,
+    "order": "150.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__151"
   }
 }
