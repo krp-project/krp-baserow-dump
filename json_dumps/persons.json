@@ -1378,5 +1378,125 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__151"
+  },
+  "184": {
+    "id": 184,
+    "order": "151.00000000000000000000",
+    "Name": "Coumont, Eduard Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Rechtsanwalt",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_C/Coumont_Eduard_1861_1930.xml",
+    "krp_person_id": "krp_person_id__184"
+  },
+  "185": {
+    "id": 185,
+    "order": "152.00000000000000000000",
+    "Name": "Stritzl, Friedrich Dr. [Edler von Artstatt]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Rechtsanwalt",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__185"
+  },
+  "186": {
+    "id": 186,
+    "order": "153.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__186"
+  },
+  "187": {
+    "id": 187,
+    "order": "154.00000000000000000000",
+    "Name": "Redlich, Oswald Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Historiker",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_R/Redlich_Oswald_1858_1944.xml",
+    "krp_person_id": "krp_person_id__187"
+  },
+  "188": {
+    "id": 188,
+    "order": "155.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__188"
+  },
+  "189": {
+    "id": 189,
+    "order": "156.00000000000000000000",
+    "Name": "Krasny, Arnold Dr. [von Ergen]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Krasny-Ergen_Arnold_1869_1937.xml",
+    "krp_person_id": "krp_person_id__189"
+  },
+  "190": {
+    "id": 190,
+    "order": "157.00000000000000000000",
+    "Name": "Richter, Paul",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizepräsident der Staatskommission für Kriegsgefangenen- und Zivilinterniertenangelegenheiten",
+    "Quelle": "https://www.parlament.gv.at/person/1677",
+    "krp_person_id": "krp_person_id__190"
+  },
+  "191": {
+    "id": 191,
+    "order": "158.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__191"
+  },
+  "192": {
+    "id": 192,
+    "order": "159.00000000000000000000",
+    "Name": "Egghard, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Inneres und Unterricht",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__192"
+  },
+  "193": {
+    "id": 193,
+    "order": "160.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__193"
+  },
+  "194": {
+    "id": 194,
+    "order": "161.00000000000000000000",
+    "Name": "Geiser, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Kommandant der Arbeiterwehr",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dnt&datum=19191109&query=%22Geiser%22&ref=anno-search&seite=10",
+    "krp_person_id": "krp_person_id__194"
+  },
+  "195": {
+    "id": 195,
+    "order": "162.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__195"
   }
 }
