@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "krp": "krp-037",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "krp-120_b01",
     "top": "1",
     "titel": "Entwurf des Finanzgesetzes des Staates Deutschösterreich, 1. Jänner bis 30. Juni 1919",
     "pages": "64"
@@ -14,7 +14,7 @@
     "order": "2.00000000000000000000",
     "krp": "krp-038",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -24,7 +24,7 @@
     "order": "3.00000000000000000000",
     "krp": "krp-039",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -34,7 +34,7 @@
     "order": "4.00000000000000000000",
     "krp": "krp-040",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -44,7 +44,7 @@
     "order": "5.00000000000000000000",
     "krp": "krp-041",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -54,7 +54,7 @@
     "order": "6.00000000000000000000",
     "krp": "krp-042",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -64,7 +64,7 @@
     "order": "7.00000000000000000000",
     "krp": "krp-043",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -74,7 +74,7 @@
     "order": "8.00000000000000000000",
     "krp": "krp-044",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -84,7 +84,7 @@
     "order": "9.00000000000000000000",
     "krp": "krp-045",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -94,7 +94,7 @@
     "order": "10.00000000000000000000",
     "krp": "krp-046",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -104,7 +104,7 @@
     "order": "11.00000000000000000000",
     "krp": "krp-047",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -114,7 +114,7 @@
     "order": "12.00000000000000000000",
     "krp": "krp-048",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -124,7 +124,7 @@
     "order": "13.00000000000000000000",
     "krp": "krp-049",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -134,7 +134,7 @@
     "order": "14.00000000000000000000",
     "krp": "krp-050",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -144,7 +144,7 @@
     "order": "15.00000000000000000000",
     "krp": "krp-051",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -154,7 +154,7 @@
     "order": "16.00000000000000000000",
     "krp": "krp-052",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -164,7 +164,7 @@
     "order": "17.00000000000000000000",
     "krp": "krp-053",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -174,7 +174,7 @@
     "order": "18.00000000000000000000",
     "krp": "krp-054",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -184,7 +184,7 @@
     "order": "19.00000000000000000000",
     "krp": "krp-055",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -194,7 +194,7 @@
     "order": "20.00000000000000000000",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Umgrenzung des Wirkungskreises des Ministers a.D. Franz Klein im Staatsamt für Äußeres",
     "pages": "2"
@@ -204,7 +204,7 @@
     "order": "20.50000000000000000000",
     "krp": "krp-056",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Bericht des Staatssekretärs für Volksernährung über die wegen Einfuhren erforderliche Regelung der Mehl- und Brotpreise",
     "pages": "17"
@@ -214,7 +214,7 @@
     "order": "20.66666666666666785090",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Anhang zu Bericht des Staatssekretärs",
     "pages": "15"
@@ -224,7 +224,7 @@
     "order": "20.75000000000000000000",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Auszug für den Vortrag im Kabinettsrat für ein Gesetz der Provisorischen Steiermärkischen Landesversammlung über Bauerleichterungen für Kleinhäuser",
     "pages": "2"
@@ -234,7 +234,7 @@
     "order": "20.80000000000000071054",
     "krp": "krp-056",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Gesetzesentwurf über die Aufhebung und Ablösung der Jagdrechte auf fremden Grund und Boden",
     "pages": "5"
@@ -244,7 +244,7 @@
     "order": "20.83333333333333214910",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Begründung zum Gesetzesentwurf über die Aufhebung und Ablösung der Jagdrechte auf fremden Grund und Boden",
     "pages": "4"
@@ -254,7 +254,7 @@
     "order": "20.85714285714285765039",
     "krp": "krp-056",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesentwurf des Staatsamtes für Landwirtschaft Zl. 6671/1919 über die Ablösung, Neuregulierung und Sicherung der Holz-, Forstproduktenbezugs- und Weiderechte",
     "pages": "18"
@@ -264,7 +264,7 @@
     "order": "20.87500000000000000000",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Information über das Salzburger Servitutsgesetz",
     "pages": "2"
@@ -274,7 +274,7 @@
     "order": "20.88888888888888928363",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Begründung des Gesetzesentwurfes",
     "pages": "4"
@@ -284,7 +284,7 @@
     "order": "20.89999999999999857891",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft um Zustimmung zum Beschluss der steiermärkischen Landesregierung auf Änderungen im Landesjagdgesetz",
     "pages": "3"
@@ -294,7 +294,7 @@
     "order": "20.90909090909091005983",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft auf Einbringung eines Gesetzes über die Wiederbesiedlung gelegener Bauerngüter und Häusleranwesen",
     "pages": "12"
@@ -304,7 +304,7 @@
     "order": "20.91666666666666785090",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Begründung des Entwurfs",
     "pages": "8"
@@ -314,7 +314,7 @@
     "order": "20.92307692307692335021",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Antrag des zwischenstaatlichen Komitees für Staatsbedienstetenangelegenheiten in Bezug auf das Ansuchen der Zwangspensionisten um Milderung ihrer Lage",
     "pages": "5"
@@ -324,7 +324,7 @@
     "order": "20.92857142857142704884",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Memorandum der Zwangspensionisten",
     "pages": "3"
@@ -334,7 +334,7 @@
     "order": "20.93333333333333357018",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Bericht des Komitees vom 2. März 1919 an den Kabinettsrat",
     "pages": "14"
@@ -344,7 +344,7 @@
     "order": "20.93548387096774021643",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "13",
     "titel": "Antrag des Staatsamtes für Unterricht auf Veräußerung von Kirchenvermögen, dem Verkauf des Währinger Ortsfriedhofs an die Stadt Wien",
     "pages": "3"
@@ -354,7 +354,7 @@
     "order": "20.93750000000000000000",
     "krp": "krp-056",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "14",
     "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung zum Gesetz über den Schutz von Ziehkindern und unehelichen Kindern",
     "pages": "10"
@@ -364,7 +364,7 @@
     "order": "20.94117647058823550310",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "14",
     "titel": "Erläuternde Bemerkungen",
     "pages": "3"
@@ -374,7 +374,7 @@
     "order": "20.94444444444444286546",
     "krp": "krp-056",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Abänderungsanträge zum bereits behandelten Entwurf eines Militärversorgungsgesetzes",
     "pages": "6"
@@ -384,7 +384,7 @@
     "order": "21.00000000000000000000",
     "krp": "krp-057",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Bericht des Vizekanzlers Fink über das Ergebnis der Kabinettsbesprechung zur Brotauflage und die Frage der Preiserstellung für Mehl und Brot",
     "pages": "2"
@@ -394,7 +394,7 @@
     "order": "21.50000000000000000000",
     "krp": "krp-057",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Bericht des Staatssekretärs für Volksernährung über die von einzelnen Ländern getroffenen Maßnahmen zur Verhinderung des Einreise- und Sommerfrischenverkehres",
     "pages": "8"
@@ -404,7 +404,7 @@
     "order": "21.66666666666666785090",
     "krp": "krp-057",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Antrag des Staatsamtes für Justiz an den Präsidenten der Nationalversammlung auf Ermächtigung der Ehelicherklärung unehelicher Kinder gefallener oder verstorbener Soldaten",
     "pages": "1"
@@ -414,7 +414,7 @@
     "order": "21.75000000000000000000",
     "krp": "krp-057",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Vollzugsanweisung über die Übertragung von Rechten zur Ausnützung von Wasserkräften",
     "pages": "2"
@@ -424,7 +424,7 @@
     "order": "22.00000000000000000000",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Neue italienische Forderungen auf Sicherstellung von Kunstschätzen",
     "pages": "2"
@@ -434,7 +434,7 @@
     "order": "22.50000000000000000000",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Beschluss der Provisorischen Landesversammlung Niederösterreichs zur Abänderung der Rechtsverhältnisse des Lehrstandes",
     "pages": "4"
@@ -444,7 +444,7 @@
     "order": "22.66666666666666785090",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Beschlüsse der Provisorischen Landesversammlung Kärntens über die Änderung des Gesetzes über die Schulaufsicht",
     "pages": "9"
@@ -454,7 +454,7 @@
     "order": "22.75000000000000000000",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Aktennotiz über die Vorsprache des Obmannes des Archivrates hinsichtlich der Erinnerung an den Beschluss zur Erhaltung der Archive vom 18. Februar 1919",
     "pages": "1"
@@ -464,7 +464,7 @@
     "order": "22.80000000000000071054",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Adaptierungsarbeiten zur Umwandlung der ehemaligen Technischen Militärakademie in Mödling",
     "pages": "2"
@@ -474,7 +474,7 @@
     "order": "22.83333333333333214910",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Ratifizierung des Wirtschaftsübereinkommens mit der ungarischen Räterepublik",
     "pages": "13"
@@ -484,7 +484,7 @@
     "order": "22.85714285714285765039",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Ratifizierung des Wirtschaftsübereinkommens mit der westukrainischen Volksrepublik",
     "pages": "3"
@@ -494,7 +494,7 @@
     "order": "22.87500000000000000000",
     "krp": "krp-058",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Gesetzesentwurfs des Staatsamtes für Verkehrswesen über die Errichtung von Vertretungskörpern des Personals der deutschösterreichischen Staatsbahnen",
     "pages": "9"
@@ -504,7 +504,7 @@
     "order": "23.00000000000000000000",
     "krp": "krp-059",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Staatsamt für Land- und Forstwirtschaft Zl. 376/A.O. hinsichtlich Ausgestaltung der Agrarbehörde und Bildung eines eigenen Personalstandes für die rechtskundigen Beamten der Agrarbehörden",
     "pages": "3"
@@ -514,7 +514,7 @@
     "order": "23.50000000000000000000",
     "krp": "krp-059",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Anforderung von Wohnungen durch die Gemeinden",
     "pages": "2"
@@ -524,7 +524,7 @@
     "order": "24.00000000000000000000",
     "krp": "krp-060",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Vollzugsanweisung des Staatsamtes für Volksernährung hinsichtlich Zuckerrübe und Rohrzucker im Betriebsjahr 1919/20",
     "pages": "5"
@@ -534,7 +534,7 @@
     "order": "24.50000000000000000000",
     "krp": "krp-060",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesbeschluss der Provisorischen Landesregierung Kärntens über eine Änderung des Kärntner Wasserrechtsgesetzes",
     "pages": "10"
@@ -544,7 +544,7 @@
     "order": "24.66666666666666785090",
     "krp": "krp-060",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Durchführung des Gesetzes über die Landesverweisung der Habsburger hinsichtlich einer Vollmacht an Rechtsanwalt Dr. Gustav Harpner auf Vertretung der Republik Österreich",
     "pages": "2"
@@ -554,7 +554,7 @@
     "order": "24.75000000000000000000",
     "krp": "krp-060",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Vorschlag des zwischenstaatsamtlichen Komitees für Beamtenangelegenheiten auf Abänderung der Formeln des Diensteides und der Pflichtangelobung für Lehrer",
     "pages": "4"
@@ -564,7 +564,7 @@
     "order": "24.80000000000000071054",
     "krp": "krp-060",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Wahlordnung für den verfassungsgebenden Landtag in Kärnten, Z. 12806/19",
     "pages": "1"
@@ -574,7 +574,7 @@
     "order": "24.83333333333333214910",
     "krp": "krp-060",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "13",
     "titel": "Auszug für den Kabinettsrat des Staatssekretärs für Verkehrswesen ad Zl. 2256/Präs hinsichtlich Errichtung einer Staatsbahndirektion Wien Nordost",
     "pages": "2"
@@ -584,7 +584,7 @@
     "order": "24.85714285714285765039",
     "krp": "krp-060",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Auszug für den Kabinettsrat über Gesetzesbeschlüsse der prov. Landesversammlung Salzburgs über die Gewährung von Bauerleichterungen",
     "pages": "4"
@@ -594,7 +594,7 @@
     "order": "25.00000000000000000000",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Übersichtstabelle des Staatsamtes des Inneren, Zl. 18168, über alle jene Beschlüsse der Niederösterreichischen und Kärntner Landesausschüsse hinsichtlich der Einhebung von Umlagen in deren Gemeinden",
     "pages": "2"
@@ -604,7 +604,7 @@
     "order": "25.50000000000000000000",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Ausdehnung der Vollmacht von Univ.-Prof. Hofrat Dr. Oswald Redlich auf die Archive der früheren gemeinsamen und österreichischen Zentralstellen",
     "pages": "1"
@@ -614,7 +614,7 @@
     "order": "25.66666666666666785090",
     "krp": "krp-061",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesantrag des Staatsamtes für Land- und Forstwirtschaft, Zl. 8135/1919 zum Schutz der Alpen und der Förderung der Alpwirtschaft",
     "pages": "9"
@@ -624,7 +624,7 @@
     "order": "25.75000000000000000000",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Gesetzesbeschluss der Provisorischen Landesversammlung Salzburg auf Errichtung einer Bürgerschule in Bischofshofen",
     "pages": "3"
@@ -634,7 +634,7 @@
     "order": "25.80000000000000071054",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Anwendung der Dienstpragmatik die Beamten und Diener des Auswärtigen Dienstes",
     "pages": "3"
@@ -644,7 +644,7 @@
     "order": "25.83333333333333214910",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Gewährung einmaliger Mehrbezüge an das Lehrpersonal der Exportakademie",
     "pages": "2"
@@ -654,7 +654,7 @@
     "order": "25.85714285714285765039",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "13",
     "titel": "Antrag des Staatsamtes für Justiz Zl.6862/19 und 6878/19 auf Befristung des Treuegelöbnisses deutscher Beamter für den tschechoslowakischen Staat mit 30. April 1919",
     "pages": "8"
@@ -664,7 +664,7 @@
     "order": "25.87500000000000000000",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "14",
     "titel": "Vollzugsanweisung des Staatsamtes für Verkehrswesen Zl. 885/Präs auf Festsetzung der Zuständigkeit hinsichtlich der staatshoheitlichen und staatsaufsichtsrechtlichen Angelegenheiten des Luftfahrtwesens",
     "pages": "5"
@@ -674,7 +674,7 @@
     "order": "25.88888888888888928363",
     "krp": "krp-061",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Vortrag des Staatsamtes für Verkehrswesen Zl. 317/Präs auf Forderung der Zuständigkeit für die Beförderung von Staatseisenbahnbeamten in die V. und IV. Dienstklasse",
     "pages": "2"
@@ -684,7 +684,7 @@
     "order": "26.00000000000000000000",
     "krp": "krp-062",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Gesetz über das Verbot von Nachtarbeit für Frauen und Jugendliche in gewerblichen Betrieben",
     "pages": "6"
@@ -694,7 +694,7 @@
     "order": "26.50000000000000000000",
     "krp": "krp-062",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Vorschläge des Staatsamtes für Heerwesen Zl. Abt. 7/P.No. 1004/Res von 1919 für die Verwertung der im Mittel auf dem Steinfeld lagernden Munitionssorten",
     "pages": "3"
@@ -704,7 +704,7 @@
     "order": "26.66666666666666785090",
     "krp": "krp-062",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Entwurf einer Vollzugsanweisung des Staatsamtes für Volksernährung Zl. 17533 (Abt. 10) über die Regelung des Reise- und Sommerverkehres",
     "pages": "8"
@@ -714,7 +714,7 @@
     "order": "26.75000000000000000000",
     "krp": "krp-062",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Gesetzesentwurf über die Außerkraftsetzung des Gesetzes StGBl. Nr. 36 hinsichtlich der Verwendbarkeit der von der Salzburger Landesversammlung auszugebenden Teilschuldverschreibungen zur Anlegung von Stiftungskapitalien",
     "pages": "2"
@@ -724,7 +724,7 @@
     "order": "26.80000000000000071054",
     "krp": "krp-062",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Antrag des Staatsamtes für Finanzen auf Überlassung eines ärarischen Gebäudekomplexes in Wien an die Tabakmonopolverwaltung",
     "pages": "2"
@@ -734,7 +734,7 @@
     "order": "27.00000000000000000000",
     "krp": "krp-063",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "-",
     "titel": null,
     "pages": null
@@ -744,7 +744,7 @@
     "order": "28.00000000000000000000",
     "krp": "krp-064",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Vortrag des Staatsamtes für Inneres und Unterricht Zl. 831/19 über den Gesetzesbeschluss der Provisorischen Salzburger Landesversammlung über die Gemeindewahlordnung für die Stadt Salzburg und für die Gemeinden des Landes Salzburg",
     "pages": "1"
@@ -754,7 +754,7 @@
     "order": "28.50000000000000000000",
     "krp": "krp-064",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Delegierung von Abgeordneten in den reichsdeutschen Verfassungsausschuss",
     "pages": "2"
@@ -764,7 +764,7 @@
     "order": "28.66666666666666785090",
     "krp": "krp-064",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Gesetzesvorlage der Staatsregierung über die Ermächtigung der Regierung zu zoll- und handelspolitischen Verfügungen",
     "pages": "2"
@@ -774,7 +774,7 @@
     "order": "28.75000000000000000000",
     "krp": "krp-064",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vortrag des Staatsamtes für Heerwesen zur Erweiterung des Pulvermonopols durch Ausdehnung auf Sprengstoffe",
     "pages": "2"
@@ -784,7 +784,7 @@
     "order": "28.80000000000000071054",
     "krp": "krp-064",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Einbringung des Gesetzentwurfes über die Mindestruhezeit, den Ladenschluss und die Sonntagsruhe in Handelsgewerben und anderen Betrieben",
     "pages": "6"
@@ -794,7 +794,7 @@
     "order": "28.83333333333333214910",
     "krp": "krp-064",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzentwurf über gemeinwirtschaftliche Anstalten und Gesellschaften gemeinwirtschaftlichen Charakters",
     "pages": "6"
@@ -804,7 +804,7 @@
     "order": "28.85714285714285765039",
     "krp": "krp-064",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesentwurf über die Errichtung von Betriebsräten",
     "pages": "7"
@@ -814,7 +814,7 @@
     "order": "28.87500000000000000000",
     "krp": "krp-064",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Vergesellschaftung von Unternehmungen durch die Gemeinden",
     "pages": "2"
@@ -824,7 +824,7 @@
     "order": "28.88888888888888928363",
     "krp": "krp-064",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Information für Staatskanzler über Bodenreformgesetzgebung",
     "pages": "3"
@@ -834,7 +834,7 @@
     "order": "29.00000000000000000000",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Vortrag des Staatsamtes für Heereswesen für den Kabinettsart über den Besuch einer Kärntner Abordnung am 22.4.19 angesichts der unmittelbaren Gefahr eines südslawischen Angriffs",
     "pages": "4"
@@ -844,7 +844,7 @@
     "order": "29.50000000000000000000",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Vortrag des Staatsamtes für Heerwesen über Versorgungsfragen der Militärgagisten",
     "pages": "10"
@@ -854,7 +854,7 @@
     "order": "29.66666666666666785090",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vortrag des Staatsamtes für Heereswesen, Abt. 6 Zl. 1350, wegen der Überlassung der ehem. Militärakademie in der Boerhavegasse für die Rudolfstiftung an die Gemeinde Wien",
     "pages": "2"
@@ -864,7 +864,7 @@
     "order": "29.75000000000000000000",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vortag des Staatsamtes für Justiz Zl. 8665/19 auf Überlassung der ehem. Militärakademie in der Boerhavegasse zur Unterbringung eines Jugendgerichtes",
     "pages": "3"
@@ -874,7 +874,7 @@
     "order": "29.80000000000000071054",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Zustimmung der Staatsregierung (zu Zl. 14366/19 und Zl. 14864/19 StA. f. Inneres) zu mehreren Gesetzesbeschlüssen der Landesversammlungen von Oberösterreich, Steiermark, Tirol und Vorarlberg",
     "pages": "4"
@@ -884,7 +884,7 @@
     "order": "29.83333333333333214910",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Antrag des Staatsamtes des Inneren Zl. 9168 betr. gnadenweise Anrechnung der Landsturmdienstzeiten der Gendarmeriepensionisten",
     "pages": "2"
@@ -894,7 +894,7 @@
     "order": "29.85714285714285765039",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Auskunft des Departements 18a des Staatamtes für Finanzen über die mögliche Beförderung von Regierungsmitgliedern, die Beamte sind",
     "pages": "2"
@@ -904,7 +904,7 @@
     "order": "29.87500000000000000000",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "13",
     "titel": "Vollzugsanweisung des Staatsamtes für Inneres und Unterricht auf Einführung eines Doktorates der Staatswissenschaften",
     "pages": "9"
@@ -914,7 +914,7 @@
     "order": "29.88888888888888928363",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "14",
     "titel": "Vollzugsanweisung des Staatsamtes für Inneres und Unterricht auf Zulassung von Frauen zum Rechtsstudium",
     "pages": "3"
@@ -924,7 +924,7 @@
     "order": "29.89999999999999857891",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Vortrag sowie alte und neue Fassung der Vollzugsanweisung über die Übertragung der Geschäfte der staatlichen Fremdenverkehrsförderung auf das Staatsamt für Verkehrswesen",
     "pages": "4"
@@ -934,7 +934,7 @@
     "order": "29.90909090909091005983",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "16",
     "titel": "Vortrag des Staatsamtes für Verkehrswesen über die Gewährung von Eisenbahnfahrbegünstigungen an Staatsbedienstete",
     "pages": "3"
@@ -944,7 +944,7 @@
     "order": "29.91666666666666785090",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "17",
     "titel": "Gesetzesantrag des Staatsamtes für Verkehrswesen auf teilweise Änderung des Gesetzes hinsichtlich der Aushilfs- und Landpostdiener",
     "pages": "3"
@@ -954,7 +954,7 @@
     "order": "29.92307692307692335021",
     "krp": "krp-065",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "18",
     "titel": "Ernennung von Amtsdienern und Gefangenenaufsehern zu Kanzleibeamten der Justizverwaltung",
     "pages": "1"
@@ -964,7 +964,7 @@
     "order": "30.00000000000000000000",
     "krp": "krp-066",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft Zl. 9056/19 wegen des Gesetzesentwurfs für das Land Salzburg hinsichtlich der Zuständigkeit der Agrarbehörden",
     "pages": "4"
@@ -974,7 +974,7 @@
     "order": "30.50000000000000000000",
     "krp": "krp-066",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Gesetzesentwurfs des Staatsamtes für Land- und Forstwirtschaft Zl. 9545/19 über die Aufnahme weiterer ausländischer Anleihen und deren Sicherstellung durch Forstbesitz",
     "pages": "5"
@@ -984,7 +984,7 @@
     "order": "30.66666666666666785090",
     "krp": "krp-066",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vortrag des Staatsamtes für Heereswesen R.A.Nr.94 über die Reorganisation der für Strafsachen zuständigen Militärgagisten (Profoßen) ohne Rangklasse",
     "pages": "3"
@@ -994,7 +994,7 @@
     "order": "30.75000000000000000000",
     "krp": "krp-066",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Antrag des Staatsamtes für Handel und Gewerbe, Industrie und Bauten ad Pr.Zl. 667 auf Amtstiteländerung für die Beamten des technischen Hilfsdienstes",
     "pages": "3"
@@ -1004,7 +1004,7 @@
     "order": "30.80000000000000071054",
     "krp": "krp-066",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Warenaustauschübereinkommen mit Rumänien",
     "pages": "3"
@@ -1014,7 +1014,7 @@
     "order": "30.83333333333333214910",
     "krp": "krp-066",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Bewilligung eines Darlehensaus dem niederösterreichischen Religionsfonds an den Servitenkonvent in Wien",
     "pages": "3"
@@ -1024,7 +1024,7 @@
     "order": "30.85714285714285765039",
     "krp": "krp-066",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung für einen Zuschlag zu den Taxpreisen für alkoholhältige Präparate",
     "pages": "6"
@@ -1034,7 +1034,7 @@
     "order": "31.00000000000000000000",
     "krp": "krp-067",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Auszug für den Vortrag des Staatsamtes für Inneres und Unterricht z.Zl. 15.990/19 über den Gesetzesbeschluss der prov. Landesversammlung Niederösterreichs hinsichtlich der Abänderung der Gemeindeordnung und der Erlassung einer neuen Gemeindewahlordnung",
     "pages": "1"
@@ -1044,7 +1044,7 @@
     "order": "32.00000000000000000000",
     "krp": "krp-068",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Einladung von Präsident Seitz an den Staatskanzler Renner, mit allen Kabinettsmitgliedern wegen der Instruktion für die Friedensverhandlungen an einer Sitzung des Hauptausschusses des Abgeordnetenhauses teilzunehmen",
     "pages": "1"
@@ -1054,7 +1054,7 @@
     "order": "32.50000000000000000000",
     "krp": "krp-068",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Vollzugsanweisung über die Organisation des wirtschaftlichen Inspektionsdienstes",
     "pages": "3"
@@ -1064,7 +1064,7 @@
     "order": "32.66666666666666429819",
     "krp": "krp-068",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vollzugsanweisung des Staatsamtes für Justiz im Einvernehmen mit dem Staatsamt der Finanzen über Zehrgelder, Ganggelder, Zustell- und Übernachtungsgebühren aus Anlass von Amtshandlungen außerhalb der Amtsgebäude",
     "pages": "4"
@@ -1074,7 +1074,7 @@
     "order": "32.75000000000000000000",
     "krp": "krp-068",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Gesetzesentwurf über die Erhöhung der Wertgrenzen im bürgerlichen Streitverfahren (Streitwertnovelle)",
     "pages": "17"
@@ -1084,7 +1084,7 @@
     "order": "32.79999999999999715783",
     "krp": "krp-068",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft auf Zustimmung zum Gesetzesbeschluss der Provisorischen Vorarlberger Landesversammlung über die Sicherstellung der Rheintalentwässerung in mehreren Gemeinden",
     "pages": "2"
@@ -1094,7 +1094,7 @@
     "order": "33.00000000000000000000",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Information des Staatsamtes für Land- und Forstwirtschaft Zl. 10106/19 über einen Gesetzesentwurf der Provisorischen Tiroler Landesversammlung über eine Novelle zum Tiroler Landeswasserrechtsgesetz",
     "pages": "1"
@@ -1104,7 +1104,7 @@
     "order": "33.50000000000000000000",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Gesetzesbeschluss der Provisorischen Landesversammlung Tirols auf Errichtung einer Mädchenbürgerschule in Hall",
     "pages": "4"
@@ -1114,7 +1114,7 @@
     "order": "33.66666666666666429819",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Stellungnahme des Unterstaatssekretärs für Unterricht zum Gesetzesbeschluss der Provisorischen Niederösterreichischen Landesversammlung über die Rechtsverhältnisse des Lehrstandes an den öffentlichen Volksschulen",
     "pages": "5"
@@ -1124,7 +1124,7 @@
     "order": "33.75000000000000000000",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Entwurf der Vollzugsanweisung des Staatsamtes für soziale Verwaltung Zl. 10.758/19 auf Unterstützung der arbeitslosen Arbeiter und Angestellten",
     "pages": "4"
@@ -1134,7 +1134,7 @@
     "order": "33.79999999999999715783",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über den Urlaub jugendlicher Arbeiter und Angestellter im Jahre 1919",
     "pages": "2"
@@ -1144,7 +1144,7 @@
     "order": "33.83333333333333570181",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Antrag des Staatsamtes für Finanzen auf Unterstützung der Tageszeitungen beim Bezug von Runddruckpapiere",
     "pages": "5"
@@ -1154,7 +1154,7 @@
     "order": "33.85714285714285409767",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "13",
     "titel": "Einmaliger Zuschuss für Pensionsparteien",
     "pages": "3"
@@ -1164,7 +1164,7 @@
     "order": "33.87500000000000000000",
     "krp": "krp-069",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Zwei Schreiben des Staatssekretärs für Volksernährung vom 7. bzw. 9. Mai 1919 an Staatskanzler Renner wegen Fragen der Kreditpolitik in Hinblick auf Lebensmittelbeschaffung aus dem Ausland",
     "pages": "4"
@@ -1174,7 +1174,7 @@
     "order": "34.00000000000000000000",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Antrag des Staatskanzlers auf Titelverleihung an die in den Ruhestand tretenden Beamten des liquid. Ministerium des Äußeren",
     "pages": "1"
@@ -1184,7 +1184,7 @@
     "order": "34.50000000000000000000",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Auszug für den Vortrag des Gesetzesbeschlusses der prov. Steiermärkischen Landesversammlung über die Durchführung von Neuwahlen in allen Gemeinden",
     "pages": "1"
@@ -1194,7 +1194,7 @@
     "order": "34.66666666666666429819",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Beschlüsse des niederösterreichischen und Kärntner Landesausschuss über die Einhebung von Umlagen in den Gemeinden",
     "pages": "4"
@@ -1204,7 +1204,7 @@
     "order": "34.75000000000000000000",
     "krp": "krp-070",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesentwurf der Staatsregierung über die Vertretungsbefugnis des Vizekanzlers",
     "pages": "2"
@@ -1214,7 +1214,7 @@
     "order": "34.79999999999999715783",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Vorstellung des zwischenstaatsamtlichen Komitees für Beamtenangelegenheiten gegen die Kooptierung eines Vertreters des Staatsamtes für Heerwesen und Antrag des Staatsamtes für Äußeres Zl. II-4.188/6 auf Vertretung in diesem Komitee",
     "pages": "4"
@@ -1224,7 +1224,7 @@
     "order": "34.83333333333333570181",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Vortrag des Staatssekretärs für Verkehrswesen über die Reorganisation des Staatseisenbahnrates",
     "pages": "3"
@@ -1234,7 +1234,7 @@
     "order": "34.85714285714285409767",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Vortrag des Staatssekretärs für Verkehrswesen ad Zl. 4056/18 wegen der Erklärung einer Schleppanlage in St. Pölten als begünstigten Bau",
     "pages": "1"
@@ -1244,7 +1244,7 @@
     "order": "34.87500000000000000000",
     "krp": "krp-070",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "14",
     "titel": "Vollzugsanweisung mit Begründung des Staatssekretärs für Justiz über die Einrechnung militärischer Dienstleistung in die Praxis der Justizberufe",
     "pages": "6"
@@ -1254,7 +1254,7 @@
     "order": "34.88888888888888573092",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Vortrag des Staatsamtes für Heereswesen über Teuerungszulagen für die Volkswehr",
     "pages": "2"
@@ -1264,7 +1264,7 @@
     "order": "34.89999999999999857891",
     "krp": "krp-070",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "16",
     "titel": "Ermächtigung des Staatssekretärs für Handel und Gewerbe, Industrie und Bauten für die Kompensationsverhandlungen in Warschau",
     "pages": "1"
@@ -1274,7 +1274,7 @@
     "order": "34.90909090909090650712",
     "krp": "krp-070",
     "Anmerkungen": "handschriftlich",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "18",
     "titel": "Notiz des Unterstaatssekretär. für Unterricht Glöckel über eine Plakette zur Erinnerung an die Errichtung der Republik",
     "pages": "1"
@@ -1284,7 +1284,7 @@
     "order": "35.00000000000000000000",
     "krp": "krp-071",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Schreiben des Staatssekretärs für Volksernährung über die Forderung der interalliierten Lebensmittelkommission nach Einführung der Sommerzeit",
     "pages": "2"
@@ -1294,7 +1294,7 @@
     "order": "35.50000000000000000000",
     "krp": "krp-071",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Schreiben des Staatssekretärs für Heerwesen Vers.Z. 2881 wegen der gesetzlichen Neuregelung der Versorgungsgenüsse der Militärpersonen und deren Hinterbliebenen",
     "pages": "2"
@@ -1304,7 +1304,7 @@
     "order": "35.66666666666666429819",
     "krp": "krp-071",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Schriftwechselabschrift über die Verzichts- und Staatsbürgerschaftserklärung der ehem. Erzherzöge Franz und Hubert Habsburg-Lothringen",
     "pages": "3"
@@ -1314,7 +1314,7 @@
     "order": "35.75000000000000000000",
     "krp": "krp-071",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Bericht des Staatsamtes für Volksernährung Zl. 17740 über das Institut der Preisprüfung",
     "pages": "22"
@@ -1324,7 +1324,7 @@
     "order": "35.79999999999999715783",
     "krp": "krp-071",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Mitgliederliste und Ausschusseinteilung der Zentralpreisprüfungskommission",
     "pages": "36"
@@ -1334,7 +1334,7 @@
     "order": "35.83333333333333570181",
     "krp": "krp-071",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesbeschlüsse der Provisorischen Landesversammlung Oberösterreichs",
     "pages": "12"
@@ -1344,7 +1344,7 @@
     "order": "36.00000000000000000000",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Ergebnis der 5. Länderkonferenz über den Reise- und Sommerverkehr",
     "pages": "1"
@@ -1354,7 +1354,7 @@
     "order": "36.50000000000000000000",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Telegrammabschrift wegen der Vertretung Deutsch-Südmährens bei der Friedenskonferenz",
     "pages": "1"
@@ -1364,7 +1364,7 @@
     "order": "36.66666666666666429819",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Stellungnahme von Dr. Harpner zur Flüssigmachung der den vormaligen Ehrzherzog Peter Ferdinand und Heinrich Ferdinand vom ehemaligen Kaiser bewilligten Unterstützungen",
     "pages": "1"
@@ -1374,7 +1374,7 @@
     "order": "36.75000000000000000000",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Darstellung der in den Staatsämtern bisher getroffenen bzw. beabsichtigten Verfügungen hinsichtlich Urlaube des angestellten Personals im Jahre 1919",
     "pages": "12"
@@ -1384,7 +1384,7 @@
     "order": "36.79999999999999715783",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Übernahmeregelungen für im Dienste Bosniens und der Herzegowina stehenden deutschösterreichischen Beamten",
     "pages": "6"
@@ -1394,7 +1394,7 @@
     "order": "36.83333333333333570181",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Gesetzesbeschluss der Provisorischen Steiermärkischen Landesversammlung über die Einführung einer Wertzuwachsabgabe",
     "pages": "1"
@@ -1404,7 +1404,7 @@
     "order": "36.85714285714285409767",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "14",
     "titel": "Beendigung des Obersten Sanitätsrates und des Obersten Lebensmittelbeirates",
     "pages": "3"
@@ -1414,7 +1414,7 @@
     "order": "36.87500000000000000000",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Gesetzesentwurf, Zl. 20989 Staatsamt für Volksernährung über die Regelung des Verkehres mit Getreide und Mahlprodukten",
     "pages": "16"
@@ -1424,7 +1424,7 @@
     "order": "36.88888888888888573092",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Begründung des Gesetzesentwurfes",
     "pages": "15"
@@ -1434,7 +1434,7 @@
     "order": "36.89999999999999857891",
     "krp": "krp-072",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Vollzugsanweisung, Zl. 20989",
     "pages": "12"
@@ -1444,7 +1444,7 @@
     "order": "37.00000000000000000000",
     "krp": "krp-073",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1454,7 +1454,7 @@
     "order": "38.00000000000000000000",
     "krp": "krp-074",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1464,7 +1464,7 @@
     "order": "39.00000000000000000000",
     "krp": "krp-075",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1474,7 +1474,7 @@
     "order": "40.00000000000000000000",
     "krp": "krp-076",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1484,7 +1484,7 @@
     "order": "41.00000000000000000000",
     "krp": "krp-077",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1494,7 +1494,7 @@
     "order": "42.00000000000000000000",
     "krp": "krp-078",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1504,7 +1504,7 @@
     "order": "43.00000000000000000000",
     "krp": "krp-079",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1514,7 +1514,7 @@
     "order": "44.00000000000000000000",
     "krp": "krp-080",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -1524,7 +1524,7 @@
     "order": "45.00000000000000000000",
     "krp": "krp-081",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Forderungen der Organe der liquidierenden militärischen Stellen in Deutschösterreich",
     "pages": "8"
@@ -1534,7 +1534,7 @@
     "order": "45.50000000000000000000",
     "krp": "krp-081",
     "Anmerkungen": "A",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Bekanntgabe der Verwaltung des Hofärars an das Staatsamt für Inneres und Unterricht über die Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes",
     "pages": "2"
@@ -1544,7 +1544,7 @@
     "order": "45.66666666666666429819",
     "krp": "krp-081",
     "Anmerkungen": "B, zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Entnahme von Privatschmuck des vormaligen Herrscherhauses aus der Schatzkammer des Habsburg-Lothringischen Hausschatzes",
     "pages": "4"
@@ -1554,7 +1554,7 @@
     "order": "45.75000000000000000000",
     "krp": "krp-081",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Forderungen des Zentralangestelltenrates an den Staatssekretär für Äußeres um Erhöhung der Teuerungszulagen",
     "pages": "5"
@@ -1564,7 +1564,7 @@
     "order": "45.79999999999999715783",
     "krp": "krp-081",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Vereinbarung mit der tschechoslowakischen Regierung über die Zusammenlegung deutschösterreichischer und tschechoslowakischer Grenzzollämter und Grenzkontrollstellen",
     "pages": "2"
@@ -1574,7 +1574,7 @@
     "order": "45.83333333333333570181",
     "krp": "krp-081",
     "Anmerkungen": "letzte Seite zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Rückberufung der in fremden Verwaltungszweigen verwendeten Zollbeamten und Finanzwachunterbeamten in den Zolldienst",
     "pages": "5"
@@ -1584,7 +1584,7 @@
     "order": "45.85714285714285409767",
     "krp": "krp-081",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Unterstützung der deutschösterreichischen Tageszeitungen beim Bezug von Rotationsdruckpapier im 1. Halbjahr 1919",
     "pages": "4"
@@ -1594,7 +1594,7 @@
     "order": "45.87500000000000000000",
     "krp": "krp-081",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesentwurfs für die Gewährung einmaliger Anschaffungsbeiträge an aktive und pensionierte Lehrer der öffentlichen Volks- und Bürgerschulen sowie an deren Witwen und Waisen für das 1. Halbjahr 1919",
     "pages": "3"
@@ -1604,7 +1604,7 @@
     "order": "45.88888888888888573092",
     "krp": "krp-081",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Bezügeregelung der Domvikare in Salzburg",
     "pages": "2"
@@ -1614,7 +1614,7 @@
     "order": "45.89999999999999857891",
     "krp": "krp-081",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Tauschvertrag von Kirchengut zwischen zwei Kongregationen",
     "pages": "2"
@@ -1624,7 +1624,7 @@
     "order": "45.90909090909090650712",
     "krp": "krp-081",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Vortrag des Staatsamts für soziale Verwaltung über einen Gesetzesentwurf zur Schaffung einer Gehaltskassa für die Pharmazeuten",
     "pages": "18"
@@ -1634,7 +1634,7 @@
     "order": "46.00000000000000000000",
     "krp": "krp-082",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Referat des Staatskanzlers über die Kompetenz für die Beurlaubung des Präsidenten des Obersten Gerichtshofes",
     "pages": "2"
@@ -1644,7 +1644,7 @@
     "order": "46.50000000000000000000",
     "krp": "krp-082",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Zl. 164/5 St.K.-1919 über ein Verzeichnis sämtlicher von den Staatsämtern zur Unterbreitung an das Präsidium der Nationalversammlung",
     "pages": "8"
@@ -1654,7 +1654,7 @@
     "order": "46.66666666666666429819",
     "krp": "krp-082",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Referat der Staatskanzlei gegen eine Verfügung der Salzburger Landesregierung in Mieterschutzangelegenheiten",
     "pages": "1"
@@ -1664,7 +1664,7 @@
     "order": "46.75000000000000000000",
     "krp": "krp-082",
     "Anmerkungen": "A, dreifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Zl. 909/5-St.K.-1919 über das Ansuchen des Vorarlberger Landesrates auf Durchführung einer Volksabstimmung über den Anschluss an die Schweiz",
     "pages": "5"
@@ -1674,7 +1674,7 @@
     "order": "46.79999999999999715783",
     "krp": "krp-082",
     "Anmerkungen": "B, zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Exposé der Staatskanzlei über den Ersatz des Militärpensionsgesetzes durch ein Ermächtigungsgesetz",
     "pages": "7"
@@ -1684,7 +1684,7 @@
     "order": "46.83333333333333570181",
     "krp": "krp-082",
     "Anmerkungen": "C, zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Text des Abänderungsvorschlages",
     "pages": "1"
@@ -1694,7 +1694,7 @@
     "order": "46.85714285714285409767",
     "krp": "krp-082",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Gesetzesvorlage der Staatsregierung über das Budgetprovisorium über das zweite Halbjahr 1919",
     "pages": "6"
@@ -1704,7 +1704,7 @@
     "order": "46.87500000000000000000",
     "krp": "krp-082",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Zl. 21415/1919 des Saatsamtes des Inneren über einen Auszug für den Vortrag über den Gesetzesbeschluss der Steiermärkischen Landesversammlung über die Beitragsleistung der Heimatgemeinden zu den Verpflegskosten öffentlichen Kranken- und Irrenanstalten",
     "pages": "1"
@@ -1714,7 +1714,7 @@
     "order": "46.88888888888888573092",
     "krp": "krp-082",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Entwurf einer Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Unterstützung arbeitsloser Arbeiter und Angestellter",
     "pages": "2"
@@ -1724,7 +1724,7 @@
     "order": "46.89999999999999857891",
     "krp": "krp-082",
     "Anmerkungen": "D, dreifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Antrag des Staatsamtes für Volksernährung über Maßnahmen zum Schutz der Feldfrüchte gegen unbefugte Aneignung, Diebstahl und Raub",
     "pages": "10"
@@ -1734,7 +1734,7 @@
     "order": "46.90909090909090650712",
     "krp": "krp-082",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Auszug für den Vortrag des Staatssekretär für Handel, und Gewerbe, Industrie und Bauten über den Beschluss des Niederösterreichischen Landtages über die Abänderung einiger Bestimmungen des niederösterreichischen Fortbildungsschulgesetzes",
     "pages": "5"
@@ -1744,7 +1744,7 @@
     "order": "46.91666666666666429819",
     "krp": "krp-082",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Antrag auf finanzielle Unterstützung des Vereins „Technisches Museum für Industrie und Gewerbe in Wien“",
     "pages": "13"
@@ -1754,7 +1754,7 @@
     "order": "46.92307692307691979750",
     "krp": "krp-082",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "13",
     "titel": "Gesetzesvorlage der Staatsregierung über die Verlängerung der Funktionsdauer wirklicher Mitglieder der Handels- und Gewerbekammer",
     "pages": "3"
@@ -1764,7 +1764,7 @@
     "order": "47.00000000000000000000",
     "krp": "krp-083",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Übersichtstabelle des Staatsamt des Inneren Zl. 22.098 für den Vortrag über die Kärntner Landesausschussbeschlüsse",
     "pages": "1"
@@ -1774,7 +1774,7 @@
     "order": "47.50000000000000000000",
     "krp": "krp-083",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Übersichtstabelle des Staatsamt des Inneren Zl. 22.097 für den Vortrag über die Beschlüsse der steiermärkischen Landesversammlung",
     "pages": "1"
@@ -1784,7 +1784,7 @@
     "order": "47.66666666666666429819",
     "krp": "krp-083",
     "Anmerkungen": "vierfach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Antrags des Staatssekretär für Volksernährung über Maßnahmen zur Verringerung der Wiener Bevölkerung zur Linderung der Ernährungslage",
     "pages": "3"
@@ -1794,7 +1794,7 @@
     "order": "47.75000000000000000000",
     "krp": "krp-083",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Information des Staatskommissariats für Sachdemobilisierung über die Belagsmöglichkeiten von Lagern und Barackengruppen",
     "pages": "1"
@@ -1804,7 +1804,7 @@
     "order": "47.79999999999999715783",
     "krp": "krp-083",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Sicherstellung von ausländischen Lebensmittel- und Rohstofflieferungen durch Holzausfuhr, Verpfändung von Forstbesitz sowie durch Hinterlegung von im privaten Besitz befindlichen Goldmünzen und ausländischen Wertpapieren",
     "pages": "7"
@@ -1814,7 +1814,7 @@
     "order": "48.00000000000000000000",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Beschlüsse des Bundes sozialistischer Staatsangestellter Deutschösterreichs über die Errichtung von Betriebsräten, von Personal-, Qualifikations- und Disziplinarkommissionen sowie die schleunigste Vorlage neuer Besoldungssätze verbunden mit der Einleitung wirtschaftlicher Aktionen",
     "pages": "1"
@@ -1824,7 +1824,7 @@
     "order": "48.50000000000000000000",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Auszug für den Vortrag des Staatsamtes des Inneren zu Zl. 22.435/1919 über zwei Gesetzesentwürfe der Niederösterreichischen Landesversammlung hinsichtlich der Einhebung verschiedener Gebühren",
     "pages": "2"
@@ -1834,7 +1834,7 @@
     "order": "48.66666666666666429819",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Vollzugsanweisung des Staatssekretär für Verkehrswesen, Zl. 1.477 über die Einbeziehung der Post-, Telegraphen- und Telephonangelegenheiten sowie der Schifffahrtsangelegenheiten samt Begründung in die Zuständigkeit des Staatsamtes für Verkehrswesen",
     "pages": "5"
@@ -1844,7 +1844,7 @@
     "order": "48.75000000000000000000",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Vollzugsanweisung des Staatssekretär für Verkehrswesen über die Zuständigkeit des Staatsamtes für alle Kraftfahrangelegenheiten samt Zl. 14.226/P-1919 Begründung",
     "pages": "4"
@@ -1854,7 +1854,7 @@
     "order": "48.79999999999999715783",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Vollzugsanweisung des Staatssekretär für Verkehrswesen über die Zuständigkeit des Staatsamtes für alle Kraftfahrangelegenheiten samt Zl. 14.226/P-1919 Begründung",
     "pages": "2"
@@ -1864,7 +1864,7 @@
     "order": "48.83333333333333570181",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Protokoll des deutschösterreichisch-tschechisch-polnischen Kohlenlieferungsabkommens",
     "pages": "4"
@@ -1874,7 +1874,7 @@
     "order": "48.85714285714285409767",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft, Zl. 11.827/1919 auf Genehmigung des Beschlusses der prov. Steiermärkischen Landesversammlung hinsichtlich eines Grundtausches zwischen dem Land und dem Gutsbesitzer Paul Schoeller",
     "pages": "3"
@@ -1884,7 +1884,7 @@
     "order": "48.87500000000000000000",
     "krp": "krp-084",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Antrag des Staatsamtes für Land- und Forstwirtschaft, Zl. auf Zustimmung zum Beschluss der Provisorischen niederösterreichischen Landesversammlung zur Verbauung des Schild- und Jodlbindergrabens in Schildern und Thernberg",
     "pages": "2"
@@ -1894,7 +1894,7 @@
     "order": "48.88888888888888573092",
     "krp": "krp-084",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Durchführung von Bestimmungen des Invalidenentschädigungsgesetzes",
     "pages": "6"
@@ -1904,7 +1904,7 @@
     "order": "49.00000000000000000000",
     "krp": "krp-085",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Antrag des Salzburger Landtages auf Verschärfung der Strafbestimmungen gegen Preistreiberei und Kettenhandel",
     "pages": "4"
@@ -1914,7 +1914,7 @@
     "order": "49.50000000000000000000",
     "krp": "krp-085",
     "Anmerkungen": "a",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Verzichtserklärung des Franz, Hubert und Rainer Habsburg-Lothringen",
     "pages": "2"
@@ -1924,7 +1924,7 @@
     "order": "49.66666666666666429819",
     "krp": "krp-085",
     "Anmerkungen": "b",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Referat der Staatskanzlei über die Frage des Aufenthaltsverbotes für das Haus Bourbon-Parma",
     "pages": "4"
@@ -1934,7 +1934,7 @@
     "order": "49.75000000000000000000",
     "krp": "krp-085",
     "Anmerkungen": "c",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Referat der Staatskanzlei, Zl. 303/1-St.K. über eine Amnestie in Verwaltungs- (Polizei)strafsachen",
     "pages": "3"
@@ -1944,7 +1944,7 @@
     "order": "49.79999999999999715783",
     "krp": "krp-085",
     "Anmerkungen": "d, zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Referat der Staatskanzlei, Zl. 1.735/3/1919 über den Entwurf einer Vollzugsanweisung zur Änderung der Lieferungsverordnung",
     "pages": "1"
@@ -1954,7 +1954,7 @@
     "order": "49.83333333333333570181",
     "krp": "krp-085",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Vortrag des Staatssekretär für Heerwesen, Abt. 17 Zl. 371/19 über die Liquidierung der militärgerichtlichen Strafsachen der gewesenen Monarchie",
     "pages": "12"
@@ -1964,7 +1964,7 @@
     "order": "49.85714285714285409767",
     "krp": "krp-085",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Liquidierung der militärgerichtlichen Strafsachen der gewesenen Monarchie",
     "pages": "11"
@@ -1974,7 +1974,7 @@
     "order": "49.87500000000000000000",
     "krp": "krp-085",
     "Anmerkungen": "Antrag dreifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vortrag und Antrag des Staatsamt für Handel und Gewerbe, Industrie und Bauten über die Erwerbung des Brunner Gewerbelagers durch den Staat zur Unterbringung arbeitsloser Handwerker",
     "pages": "7"
@@ -1984,7 +1984,7 @@
     "order": "49.88888888888888573092",
     "krp": "krp-085",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Gesetzesentwurf über Kammern für Handel, Gewerbe und Industrie",
     "pages": "28"
@@ -1994,7 +1994,7 @@
     "order": "50.00000000000000000000",
     "krp": "krp-086",
     "Anmerkungen": "EIGENTLICH KRP 87",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "???",
     "titel": "Bericht über Maßnahmen zur Vorbereitung der Finanzierung der Vermögensabgabe, der Sozialisierung und der Industrieförderung",
     "pages": "5"
@@ -2004,7 +2004,7 @@
     "order": "50.50000000000000000000",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Vollzugsanweisung des Staatsamt für Inneres und Unterricht über die bilanzmäßigen Überschüsse der Versicherungsanstalten",
     "pages": "1"
@@ -2014,7 +2014,7 @@
     "order": "50.66666666666666429819",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Vorlage des Staatsamt für Land- und Forstwirtschaft eines Gesetzesbeschlusses der Provisorischen Oberösterreichischen Landesversammlung über die Änderungen des Oberösterreichischen Wasserrechtsgesetzes",
     "pages": "9"
@@ -2024,7 +2024,7 @@
     "order": "50.75000000000000000000",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Antrag des Staatsamt für Land- und Forstwirtschaft über die Einführung neuer Titel für die rechtskundigen Beamten der Agrarbehörden",
     "pages": "3"
@@ -2034,7 +2034,7 @@
     "order": "50.79999999999999715783",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Bericht des Staatsamt für Finanzen über die Erörterungen des Referentenkomitees zur Frage der Verbilligung der Versorgung der Staatsbediensteten mit Lebensmitteln",
     "pages": "5"
@@ -2044,7 +2044,7 @@
     "order": "50.83333333333333570181",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Aktion zur Verbilligung der Lebensmittel für alle Staatsbediensteten",
     "pages": "5"
@@ -2054,7 +2054,7 @@
     "order": "50.85714285714285409767",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Antrag des Staatsamt für Finanzen auf Errichtung eines Staatskommissariates für die wirtschaftliche und soziale Organisation der Staatsbediensteten",
     "pages": "3"
@@ -2064,7 +2064,7 @@
     "order": "50.87500000000000000000",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesbeschluss der Provisorischen Tiroler Landesversammlung über die Abänderung des Gesetzes zur Einberufung des verfassungsgebenden Landtages",
     "pages": "1"
@@ -2074,7 +2074,7 @@
     "order": "50.88888888888888573092",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Abschrift eines Schreibens der Polizeidirektion Wien an das Staatsamt für Volksernährung über die Ausgestaltung des Kriegswucheramtes",
     "pages": "6"
@@ -2084,7 +2084,7 @@
     "order": "50.89999999999999857891",
     "krp": "krp-086",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Abschrift des Berichts, Zl. 31.138 des Staatssekretär für Volksernährung über den Bedarf rechtskundlichen Personals für das Kriegswucheramt",
     "pages": "2"
@@ -2094,7 +2094,7 @@
     "order": "50.90909090909090650712",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Information des Staatsamt für Inneres und Unterricht über die Ausgestaltung des Kriegswucheramtes",
     "pages": "4"
@@ -2104,7 +2104,7 @@
     "order": "50.91666666666666429819",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Auszug für den Vortrag des Staatsamt für Inneres und Unterricht, Zl. 22.528/19 über einen Gesetzesentwurf der Provisorischen Niederösterreichischen Landesversammlung hinsichtlich der Einhebung von Wassergebühren in der Gemeinde Waidmannsfeld",
     "pages": "1"
@@ -2114,7 +2114,7 @@
     "order": "50.92307692307691979750",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Antrag des Staatsamt für soziale Verwaltung, Zl. 15.927/19 über die Anrechnung von Vordienstzeiten bei den Dienern der Wiener Krankenanstalten",
     "pages": "3"
@@ -2124,7 +2124,7 @@
     "order": "50.92857142857143060155",
     "krp": "krp-086",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "13",
     "titel": "Gesetzesentwurf des Staatsamt für soziale Verwaltung über die Änderung einiger Bestimmungen des Unfallversicherungsgesetzes der Arbeiter",
     "pages": "6"
@@ -2134,7 +2134,7 @@
     "order": "50.93333333333333001747",
     "krp": "krp-086",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "14",
     "titel": "Drei Vollzugsanweisungen des Staatsamt für soziale Verwaltung für die Volkspflegestätten",
     "pages": "9"
@@ -2144,7 +2144,7 @@
     "order": "50.93750000000000000000",
     "krp": "krp-086",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "15",
     "titel": "Vortrag des Staatsamt für Heereswesen über eine Vollzugsanweisung für die Beteilung heimkehrender mittelloser Kriegsgefangener und Zivilinternierter mit Zivilkleidern aus Staatsmitteln",
     "pages": "4"
@@ -2154,7 +2154,7 @@
     "order": "51.00000000000000000000",
     "krp": "krp-087",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Protokoll der Besprechung über die Absprache von Kohlenlieferungen zwischen Unterstaatssekretär Ellenbogen und dem deutschen Reichskommissar für die Kohlenverteilung",
     "pages": "2"
@@ -2164,7 +2164,7 @@
     "order": "51.50000000000000000000",
     "krp": "krp-087",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Regierungsvorlage eines Gesetzes über die Folgen militärgerichtlicher Verurteilungen mit erläuternden Erklärungen",
     "pages": "6"
@@ -2174,7 +2174,7 @@
     "order": "51.66666666666666429819",
     "krp": "krp-087",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Regierungsvorlage eines Gesetzes über die Änderung bzw. Ergänzung von Bestimmungen des Militärstrafgesetzes mit erläuternden Erklärungen",
     "pages": "10"
@@ -2184,7 +2184,7 @@
     "order": "51.75000000000000000000",
     "krp": "krp-087",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Auszug für den Vortrag des Staatsamt des Inneren, Zl. 24.608/19 über ein Gesetz der Provisorischen Niederösterreichischen Landesversammlung hinsichtlich der Trennung der Katastralgemeinde Wolfsbrunn von der Ortsgemeinde Sonnberg",
     "pages": "1"
@@ -2194,7 +2194,7 @@
     "order": "51.79999999999999715783",
     "krp": "krp-087",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vortrag des Staatsamt des Inneren, Zl. 20.953/19 über die Bewilligung für die steiermärkische Zweigniederlassung der Niederösterreichischen Landesversicherungsanstalten, das steiermärkische Landeswappen zu führen",
     "pages": "1"
@@ -2204,7 +2204,7 @@
     "order": "51.83333333333333570181",
     "krp": "krp-087",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Gesetzesentwurf des Staatsamt für Finanzen über Maßnahmen zur Erleichterung des Übertrittes von Zivilstaatsangestellten in den dauernden Ruhestand mit Begründung sowie ein vom zwischenstaatsamtlichen Komitee in Beamtenangelegenheiten vorgeschlagenes Gesetz über die Vorbereitung einer neuen Besoldungsordnung für die Zivilangestellten (Besoldungsreformgesetz) samt Begründung",
     "pages": "17"
@@ -2214,7 +2214,7 @@
     "order": "52.00000000000000000000",
     "krp": "krp-088",
     "Anmerkungen": "A",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "Str.v.A.-1",
     "titel": "Umgestaltung des Creditinstitutes für Verkehrsunternehmungen und öffentliche Arbeiten",
     "pages": "7"
@@ -2224,7 +2224,7 @@
     "order": "52.50000000000000000000",
     "krp": "krp-088",
     "Anmerkungen": "C",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "Str.v.A.-1",
     "titel": "Künftigen Personalverhältnisse beim Creditinstitut für öffentliche Arbeiten",
     "pages": "6"
@@ -2234,7 +2234,7 @@
     "order": "52.66666666666666429819",
     "krp": "krp-088",
     "Anmerkungen": "B",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "Str.v.A.-2",
     "titel": "Referat über das Regierungskommuniques hinsichtlich der Alpinen-Hausse",
     "pages": "5"
@@ -2244,7 +2244,7 @@
     "order": "52.75000000000000000000",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "Str.v.A.-2",
     "titel": "Information über die vertrauliche Aufgabe der Firma Kola für das StA. d. Finanzen im Mai und Juni 1919",
     "pages": "8"
@@ -2254,7 +2254,7 @@
     "order": "52.79999999999999715783",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Protokoll über die Besprechung vom 14. Juli zur Regelung der Heimkehrergebühren und ihrer Forderungen auf Abfertigung",
     "pages": "4"
@@ -2264,7 +2264,7 @@
     "order": "52.83333333333333570181",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Vortrag des Staatssekretär für Heereswesen Zl. 16.875/19 über die wirtschaftlichen Forderungen der bei deutschösterreichischen militärischen Stellen (ausgenommen Volkswehr) eingeteilten Berufsmilitärpersonen, Vertragsbediensteten und Hilfskräften",
     "pages": "12"
@@ -2274,7 +2274,7 @@
     "order": "52.85714285714285409767",
     "krp": "krp-088",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Memorandum und Dienstvertrag der Angestellten und Arbeiter des Staatsamtes f. Heerwesen",
     "pages": "5"
@@ -2284,7 +2284,7 @@
     "order": "52.87500000000000000000",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Memorandum der liquidierenden militärischen Organe",
     "pages": "4"
@@ -2294,7 +2294,7 @@
     "order": "52.88888888888888573092",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Einmalige Aushilfe",
     "pages": "1"
@@ -2304,7 +2304,7 @@
     "order": "52.89999999999999857891",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Übersichtstabelle für den Vortrag des Staatsamt des Inneren Zl. 25.322 über eine Reihe von Beschlüssen des Niederösterreichischen Landesausschusses bzw. Landesrates hinsichtlich der Einhebung von 100 % übersteigende Umlagen bzw. Mietzinsauflagen in Gemeinden",
     "pages": "1"
@@ -2314,7 +2314,7 @@
     "order": "52.90909090909090650712",
     "krp": "krp-088",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Verkauf mehrerer Parzellen des Klosters St. Peter in Salzburg",
     "pages": "1"
@@ -2324,7 +2324,7 @@
     "order": "52.91666666666666429819",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Verhandlungen über einen allfälligen Ankauf des bei der Liquidierung der Süddeutschen Donaudampfschiffgesellschaft sich ergebenden ukrainischen und polnischen Aktienkapitals durch die deutschösterreichische Regierung",
     "pages": "3"
@@ -2334,7 +2334,7 @@
     "order": "52.92307692307691979750",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Vortrag zu dem Nachtragsübereinkommen zu dem am 21. Mai d.J. abgeschlossenen Kompensationsvertrag zwischen der polnischen und der deutschösterreichischen Regierung",
     "pages": "1"
@@ -2344,7 +2344,7 @@
     "order": "52.92857142857143060155",
     "krp": "krp-088",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Vollzugsanweisung des Staatsamt für Justiz im Einvernehmen mit dem Staatsamt der Finanzen über die Gebühren der Diener und Zustellboten für Zustellungen und andere Amtshandlungen in Strafsachen",
     "pages": "1"
@@ -2354,7 +2354,7 @@
     "order": "52.93333333333333001747",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "12",
     "titel": "Vortrag des Staatsamt für Verkehrswesen Zl. 1.634 über die Behandlung der Staatsangestellten, welche als Bürgermeister einer Gemeinde gewählt wurden",
     "pages": "2"
@@ -2364,7 +2364,7 @@
     "order": "52.93750000000000000000",
     "krp": "krp-088",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "PS",
     "titel": "8. Personalsitzung",
     "pages": null
@@ -2374,7 +2374,7 @@
     "order": "53.00000000000000000000",
     "krp": "krp-089",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2384,7 +2384,7 @@
     "order": "54.00000000000000000000",
     "krp": "krp-090",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2394,7 +2394,7 @@
     "order": "55.00000000000000000000",
     "krp": "krp-091",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2404,7 +2404,7 @@
     "order": "56.00000000000000000000",
     "krp": "krp-092",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2414,7 +2414,7 @@
     "order": "57.00000000000000000000",
     "krp": "krp-093",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2424,7 +2424,7 @@
     "order": "58.00000000000000000000",
     "krp": "krp-094",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2434,7 +2434,7 @@
     "order": "59.00000000000000000000",
     "krp": "krp-095",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2444,7 +2444,7 @@
     "order": "60.00000000000000000000",
     "krp": "krp-096",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2454,7 +2454,7 @@
     "order": "61.00000000000000000000",
     "krp": "krp-097",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2464,7 +2464,7 @@
     "order": "62.00000000000000000000",
     "krp": "krp-098",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "-",
     "titel": null,
     "pages": null
@@ -2474,7 +2474,7 @@
     "order": "63.00000000000000000000",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Referat der Staatskanzlei z.Zl. 3004/1-St.K. 1919 über den oö. Gesetzesbeschluss über die Errichtung eines Landwirtschaftsrates und die Bestellung von Wirtschaftskommissären für Oberösterreich",
     "pages": "7"
@@ -2484,7 +2484,7 @@
     "order": "63.33333333333333570181",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Errichtung eines Landeswirtschaftsrates und die Bestellung von Wirtschaftskommissären",
     "pages": "3"
@@ -2494,7 +2494,7 @@
     "order": "63.50000000000000000000",
     "krp": "krp-099",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Vorstellung des Staatsamt für Land- und Forstwirtschaft Zl. 16920 gegen den Gesetzesbeschluss der Landesversammlung Salzburg über die Abänderung und Ergänzung einiger Bestimmungen des Salzburger Wasserrechtsgesetzes",
     "pages": "11"
@@ -2504,7 +2504,7 @@
     "order": "63.66666666666666429819",
     "krp": "krp-099",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Vollzugsanweisung der Staatsregierung über die Trennung der Verwaltung des telegraphen-, Fernsprech- und Rohrpostwesens von der Postverwaltung mit Begründung, Organisationsentwurf, Gutachten für Post-, Telegraphen- und Fernsprechwesen sowie Forderung en des Verbandes der im staatlichen Telephon-, Telegraphen- und Rohrpostdienst stehenden Organe",
     "pages": "70"
@@ -2514,7 +2514,7 @@
     "order": "63.75000000000000000000",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung zur Unterstützung arbeitsloser Arbeiter und Angestellter",
     "pages": "2"
@@ -2524,7 +2524,7 @@
     "order": "63.79999999999999715783",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung über die Erhaltung des Arbeiterstandes in gewerblichen Betrieben",
     "pages": "1"
@@ -2534,7 +2534,7 @@
     "order": "63.83333333333333570181",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung für die dritte Ausgabe der Krankenkassentaxe mit Begründung Zl. 19835/VG/1919",
     "pages": "4"
@@ -2544,7 +2544,7 @@
     "order": "63.85714285714285409767",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Vollzugsanweisung des Staatsamt für soziale Verwaltung für die achte Ausgabe für die Arzneitaxe der öst. Pharmakopöe mit Begründung z.Zl. 19834/VG/1919",
     "pages": "2"
@@ -2554,7 +2554,7 @@
     "order": "63.87500000000000000000",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Referat des Staatsamt für soziale Verwaltung Zl. 19257/VG über die Beurlaubung des Beamten Dr. Hugelmann",
     "pages": "3"
@@ -2564,7 +2564,7 @@
     "order": "63.88888888888888573092",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Auszug für den Vortrag des Staatsamt des Inneren über den Gesetzesentwurf des Niederösterreichischen Landtages für die Einhebung einer Landesabgabe von öffentlichen Vorführungen und Tanzunterhaltungen in Niederösterreich",
     "pages": "1"
@@ -2574,7 +2574,7 @@
     "order": "63.89999999999999857891",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Vortrags und Referat der Staatskanzlei mit dem Schriftwechsel über den von Vorarlberg angestrebten Anschluss an die Schweiz",
     "pages": "11"
@@ -2584,7 +2584,7 @@
     "order": "63.90909090909090650712",
     "krp": "krp-099",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "11",
     "titel": "Zuschrift der Staatskanzlei über den eventuellen Anschluss Vorarlbergs an die Schweiz",
     "pages": "2"
@@ -2594,7 +2594,7 @@
     "order": "64.00000000000000000000",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Antrag des Staatsamt für Land- und Forstwirtschaft auf Bestätigung der Wahl von Funktionären der Landeskulturräte für Niederösterreich und Vorarlberg",
     "pages": "1"
@@ -2604,7 +2604,7 @@
     "order": "64.50000000000000000000",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Antrag auf Gewährung eines Kredites zur Fortführung der Wiederaufbauarbeiten im Bezirk Lienz einschließlich Innichen und Sexten",
     "pages": "3"
@@ -2614,7 +2614,7 @@
     "order": "64.66666666666667140362",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Geänderte Vollzugsanweisung der Staatsregierung über die Trennung der Verwaltung des Telegraphen-, Fernsprech- und Rohrpostwesens von der Postverwaltung",
     "pages": "1"
@@ -2624,7 +2624,7 @@
     "order": "64.75000000000000000000",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Vortrag über die Erklärung der geplanten Verbindung der Schleppgleisanlage der Industriebahn der Oberdorfer Magnesitwerke mit der Südbahn als begünstigter Bau",
     "pages": "2"
@@ -2634,7 +2634,7 @@
     "order": "64.79999999999999715783",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Antrag des Staatsamt für Finanzen auf Eingliederung der Marinesektion in das liquidierende Kriegsministerium",
     "pages": "5"
@@ -2644,7 +2644,7 @@
     "order": "64.83333333333332859638",
     "krp": "krp-100",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Gesetzesvorlage der Staatsregierung über die Aufhebung der Steuerbegünstigung für Alkohol zur Herstellung von Heilmitteln samt Bemerkungen",
     "pages": "2"
@@ -2654,7 +2654,7 @@
     "order": "64.85714285714286120310",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Antrags des Staatsamt für Finanzen ad Zl. 52.275/1919 auf einen einmaligen Zuschuss für Pensionsparteien",
     "pages": "3"
@@ -2664,7 +2664,7 @@
     "order": "64.87500000000000000000",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Entwurf der Vollzugsanweisung des Staatsamt für Finanzen über Änderungen in der Organisation der Finanzverwaltung",
     "pages": "2"
@@ -2674,7 +2674,7 @@
     "order": "64.88888888888888573092",
     "krp": "krp-100",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "PS",
     "titel": "10. Personalsitzung",
     "pages": null
@@ -2684,7 +2684,7 @@
     "order": "65.00000000000000000000",
     "krp": "krp-101",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Antrag des Staatsamt für Heereswesen über die Behandlung der deutsch-böhmischen Berufsmilitärpersonen",
     "pages": "1"
@@ -2694,7 +2694,7 @@
     "order": "65.50000000000000000000",
     "krp": "krp-101",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Antrag der Provisorischen Steiermärkischen Landesversammlung auf Beschlagnahme des Kronfideikommissgutes Eisenerz-Radmer",
     "pages": "5"
@@ -2704,7 +2704,7 @@
     "order": "65.66666666666667140362",
     "krp": "krp-101",
     "Anmerkungen": "gedruckt",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Gesetzesvorlage über den achtstündigen Arbeitstag mit erläuternden Bemerkungen und Vollzugsanweisung des Staatsamtes für soziale Fürsorge",
     "pages": "8"
@@ -2714,7 +2714,7 @@
     "order": "65.75000000000000000000",
     "krp": "krp-101",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Ablehnende Stellungnahme des Staatsamtes für Handel und Gewerbe, Industrie und Bauten zur geplanten Einführung des achtstündigen Arbeitstags",
     "pages": "8"
@@ -2724,7 +2724,7 @@
     "order": "65.79999999999999715783",
     "krp": "krp-101",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Stellungnahme des Staatsamtes für Volksernährung zur Frage des Kriegszuschlags zu den Schlachtviehpreisen",
     "pages": "3"
@@ -2734,7 +2734,7 @@
     "order": "65.83333333333332859638",
     "krp": "krp-101",
     "Anmerkungen": "dreifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "7",
     "titel": "Berichts des Staatssekretär für Volksernährung über die verbilligte Abgabe von Rindfleisch in Wien",
     "pages": "6"
@@ -2744,7 +2744,7 @@
     "order": "65.85714285714286120310",
     "krp": "krp-101",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "8",
     "titel": "Auszug für den Vortrag des Staatsamtes des Inneren im Kabinettsrat, Zl. 30186/1919 über Gesetzesbeschlüsse des Niederösterreichischen Landtages über die einstweilige Bestellung der Gemeindevertreter in den Bezirksarmenräten und –straßenausschüssen sowie über die Abänderung einiger Bestimmungen des niederösterreichischen  Schulaufsichtsgesetzes",
     "pages": "2"
@@ -2754,7 +2754,7 @@
     "order": "65.87500000000000000000",
     "krp": "krp-101",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "9",
     "titel": "Referat des Staatsamtes für soziale Verwaltung Zl. 22436/V.G. zum Verfügungsrecht über das Sanitätsmaterial",
     "pages": "4"
@@ -2764,7 +2764,7 @@
     "order": "65.88888888888888573092",
     "krp": "krp-101",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Mitteilung des Staatsamtes für Finanzen über die Auflösung des Zoll- und Steuervereins seitens Liechtensteins",
     "pages": "2"
@@ -2774,7 +2774,7 @@
     "order": "65.90000000000000568434",
     "krp": "krp-101",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "TO",
     "titel": "Übereinkommen des Staatsamtes für Finanzen Zl. 58744/1919 mit Polen aus Anlass der in Deutschösterreich zur Vorbereitung der Vermögensabgabe getroffenen Maßnahmen",
     "pages": "9"
@@ -2784,7 +2784,7 @@
     "order": "65.90909090909090650712",
     "krp": "krp-101",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "TO",
     "titel": "Depesche aus St. Germain vom 20. August 1919 betr. Abschluss der Verhandlungen",
     "pages": "1"
@@ -2794,7 +2794,7 @@
     "order": "66.00000000000000000000",
     "krp": "krp-102",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Referat der Staatskanzlei über finanzielle Staatsgarantien für verschiedene Verbindlichkeiten von Banken und Zentralen",
     "pages": "2"
@@ -2804,7 +2804,7 @@
     "order": "66.50000000000000000000",
     "krp": "krp-102",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Referat der Staatskanzlei mit dem vierten Bericht der Kommission zur Erhebung militärischer Pflichtverletzungen",
     "pages": "6"
@@ -2814,7 +2814,7 @@
     "order": "66.66666666666667140362",
     "krp": "krp-102",
     "Anmerkungen": "dreifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Bericht des Staatsamtes für Finanzen über ein Übereinkommen der deutschösterreichischen und der polnischen Regierung aus Anlass der in Deutschösterreich zur Vorbereitung der Vermögensabgabe getroffenen Maßnahmen",
     "pages": "4"
@@ -2824,7 +2824,7 @@
     "order": "66.75000000000000000000",
     "krp": "krp-102",
     "Anmerkungen": "zweifach",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "5",
     "titel": "Wortlaut des Vertrages",
     "pages": "6"
@@ -2834,7 +2834,7 @@
     "order": "66.79999999999999715783",
     "krp": "krp-102",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "6",
     "titel": "Staatshilfe für Vorarlberg",
     "pages": "2"
@@ -2844,7 +2844,7 @@
     "order": "67.00000000000000000000",
     "krp": "krp-103",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "2",
     "titel": "Auszug für den Vortrag des Staatsamt des Inneren, Zl. 525/A/1919 über die Besetzung einer Haller Fräuleinstiftspräbende der erbländischen Abteilung",
     "pages": "2"
@@ -2854,7 +2854,7 @@
     "order": "67.50000000000000000000",
     "krp": "krp-103",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "3",
     "titel": "Auszug für den Vortrag des Statsamt des Inneren, Zl. 30535/1919 über einen Gesetzesbeschluss des Salzburger Landtages für die zeitweise Regelung der Dienst- und Besoldungsverhältnisse der Gemeindeangestellten des Landes mit Ausnahme der Stadt Salzburg",
     "pages": "2"
@@ -2864,7 +2864,7 @@
     "order": "67.66666666666667140362",
     "krp": "krp-103",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "4",
     "titel": "Vortrag St.A.V.Z. 25111/1919 über die Elektrisierung (!) der Staatsbahnlinie Stainach-Irdning-Attnang-Puchheim und Erklärung zum begünstigten Bau",
     "pages": "1"
@@ -2874,7 +2874,7 @@
     "order": "67.75000000000000000000",
     "krp": "krp-103",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "PS",
     "titel": "11. Personalsitzung",
     "pages": null
@@ -2884,7 +2884,7 @@
     "order": "68.00000000000000000000",
     "krp": "krp-104",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Referats der Staatskanzlei über einen Gesetzesentwurf des Staatsamtes für Finanzen für vorbereitende Maßnahmen zum Vollzug des Friedensvertrags",
     "pages": "4"
@@ -2894,7 +2894,7 @@
     "order": "69.00000000000000000000",
     "krp": "krp-105",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "1",
     "titel": "Gesetzesbeschluss des Vorarlberger Landtages über die Errichtung einer Mädchenbürgerschule in Lustenau",
     "pages": "2"
@@ -2904,7 +2904,7 @@
     "order": "69.50000000000000000000",
     "krp": "krp-105",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "10",
     "titel": "Vortrag des Staatssekretär für Verkehrswesen über die Auflösung der deutschösterreichischen Staatsbahndirektionen Teplitz und Jägerndorf",
     "pages": "3"
@@ -2914,7 +2914,7 @@
     "order": "70.00000000000000000000",
     "krp": "krp-106",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2924,7 +2924,7 @@
     "order": "71.00000000000000000000",
     "krp": "krp-107",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2934,7 +2934,7 @@
     "order": "72.00000000000000000000",
     "krp": "krp-108",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2944,7 +2944,7 @@
     "order": "73.00000000000000000000",
     "krp": "krp-109",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2954,7 +2954,7 @@
     "order": "74.00000000000000000000",
     "krp": "krp-110",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2964,7 +2964,7 @@
     "order": "75.00000000000000000000",
     "krp": "krp-111",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2974,7 +2974,7 @@
     "order": "76.00000000000000000000",
     "krp": "krp-112",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2984,7 +2984,7 @@
     "order": "77.00000000000000000000",
     "krp": "krp-113",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -2994,7 +2994,7 @@
     "order": "78.00000000000000000000",
     "krp": "krp-114",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3004,7 +3004,7 @@
     "order": "79.00000000000000000000",
     "krp": "krp-115",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3014,7 +3014,7 @@
     "order": "80.00000000000000000000",
     "krp": "krp-116",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3024,7 +3024,7 @@
     "order": "81.00000000000000000000",
     "krp": "krp-117",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3034,7 +3034,7 @@
     "order": "82.00000000000000000000",
     "krp": "krp-118",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3044,7 +3044,7 @@
     "order": "83.00000000000000000000",
     "krp": "krp-119",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3054,7 +3054,7 @@
     "order": "84.00000000000000000000",
     "krp": "krp-120",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3064,7 +3064,7 @@
     "order": "85.00000000000000000000",
     "krp": "krp-121",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3074,7 +3074,7 @@
     "order": "86.00000000000000000000",
     "krp": "krp-122",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3084,7 +3084,7 @@
     "order": "87.00000000000000000000",
     "krp": "krp-123",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3094,7 +3094,7 @@
     "order": "88.00000000000000000000",
     "krp": "krp-124",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3104,7 +3104,7 @@
     "order": "89.00000000000000000000",
     "krp": "krp-125",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3114,7 +3114,7 @@
     "order": "90.00000000000000000000",
     "krp": "krp-126",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3124,7 +3124,7 @@
     "order": "91.00000000000000000000",
     "krp": "krp-127",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3134,7 +3134,7 @@
     "order": "92.00000000000000000000",
     "krp": "krp-128",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3144,7 +3144,7 @@
     "order": "93.00000000000000000000",
     "krp": "krp-129",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3154,7 +3154,7 @@
     "order": "94.00000000000000000000",
     "krp": "krp-130",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3164,7 +3164,7 @@
     "order": "95.00000000000000000000",
     "krp": "krp-131",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3174,7 +3174,7 @@
     "order": "96.00000000000000000000",
     "krp": "krp-132",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3184,7 +3184,7 @@
     "order": "97.00000000000000000000",
     "krp": "krp-133",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3194,7 +3194,7 @@
     "order": "98.00000000000000000000",
     "krp": "krp-134",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3204,7 +3204,7 @@
     "order": "99.00000000000000000000",
     "krp": "krp-135",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3214,7 +3214,7 @@
     "order": "100.00000000000000000000",
     "krp": "krp-136",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3224,7 +3224,7 @@
     "order": "101.00000000000000000000",
     "krp": "krp-137",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3234,7 +3234,7 @@
     "order": "102.00000000000000000000",
     "krp": "krp-138",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3244,7 +3244,7 @@
     "order": "103.00000000000000000000",
     "krp": "krp-139",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3254,7 +3254,7 @@
     "order": "104.00000000000000000000",
     "krp": "krp-140",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3264,7 +3264,7 @@
     "order": "105.00000000000000000000",
     "krp": "krp-141",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3274,7 +3274,7 @@
     "order": "106.00000000000000000000",
     "krp": "krp-142",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3284,7 +3284,7 @@
     "order": "107.00000000000000000000",
     "krp": "krp-143",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3294,7 +3294,7 @@
     "order": "108.00000000000000000000",
     "krp": "krp-144",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3304,7 +3304,7 @@
     "order": "109.00000000000000000000",
     "krp": "krp-145",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3314,7 +3314,7 @@
     "order": "110.00000000000000000000",
     "krp": "krp-146",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3324,7 +3324,7 @@
     "order": "111.00000000000000000000",
     "krp": "krp-147",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3334,7 +3334,7 @@
     "order": "112.00000000000000000000",
     "krp": "krp-148",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3344,7 +3344,7 @@
     "order": "113.00000000000000000000",
     "krp": "krp-149",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3354,7 +3354,7 @@
     "order": "114.00000000000000000000",
     "krp": "krp-150",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3364,7 +3364,7 @@
     "order": "115.00000000000000000000",
     "krp": "krp-151",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3374,7 +3374,7 @@
     "order": "116.00000000000000000000",
     "krp": "krp-152",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3384,7 +3384,7 @@
     "order": "117.00000000000000000000",
     "krp": "krp-153",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3394,7 +3394,7 @@
     "order": "118.00000000000000000000",
     "krp": "krp-154",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3404,7 +3404,7 @@
     "order": "119.00000000000000000000",
     "krp": "krp-155",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3414,7 +3414,7 @@
     "order": "120.00000000000000000000",
     "krp": "krp-156",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3424,7 +3424,7 @@
     "order": "121.00000000000000000000",
     "krp": "krp-157",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3434,7 +3434,7 @@
     "order": "122.00000000000000000000",
     "krp": "krp-158",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3444,7 +3444,7 @@
     "order": "123.00000000000000000000",
     "krp": "krp-159",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3454,7 +3454,7 @@
     "order": "124.00000000000000000000",
     "krp": "krp-160",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3464,7 +3464,7 @@
     "order": "125.00000000000000000000",
     "krp": "krp-161",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3474,7 +3474,7 @@
     "order": "126.00000000000000000000",
     "krp": "krp-162",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3484,7 +3484,7 @@
     "order": "127.00000000000000000000",
     "krp": "krp-163",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3494,7 +3494,7 @@
     "order": "128.00000000000000000000",
     "krp": "krp-164",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3504,7 +3504,7 @@
     "order": "129.00000000000000000000",
     "krp": "krp-165",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3514,7 +3514,7 @@
     "order": "130.00000000000000000000",
     "krp": "krp-166",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3524,7 +3524,7 @@
     "order": "131.00000000000000000000",
     "krp": "krp-167",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3534,7 +3534,7 @@
     "order": "132.00000000000000000000",
     "krp": "krp-168",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3544,7 +3544,7 @@
     "order": "133.00000000000000000000",
     "krp": "krp-169",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3554,7 +3554,7 @@
     "order": "134.00000000000000000000",
     "krp": "krp-170",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3564,7 +3564,7 @@
     "order": "135.00000000000000000000",
     "krp": "krp-171",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3574,7 +3574,7 @@
     "order": "136.00000000000000000000",
     "krp": "krp-172",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3584,7 +3584,7 @@
     "order": "137.00000000000000000000",
     "krp": "krp-173",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3594,7 +3594,7 @@
     "order": "138.00000000000000000000",
     "krp": "krp-174",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3604,7 +3604,7 @@
     "order": "139.00000000000000000000",
     "krp": "krp-175",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3614,7 +3614,7 @@
     "order": "140.00000000000000000000",
     "krp": "krp-177",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3624,7 +3624,7 @@
     "order": "141.00000000000000000000",
     "krp": "krp-178",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3634,7 +3634,7 @@
     "order": "142.00000000000000000000",
     "krp": "krp-179",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3644,7 +3644,7 @@
     "order": "143.00000000000000000000",
     "krp": "krp-180",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3654,7 +3654,7 @@
     "order": "144.00000000000000000000",
     "krp": "krp-181",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3664,7 +3664,7 @@
     "order": "145.00000000000000000000",
     "krp": "krp-182",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3674,7 +3674,7 @@
     "order": "146.00000000000000000000",
     "krp": "krp-183",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3684,7 +3684,7 @@
     "order": "147.00000000000000000000",
     "krp": "krp-184",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3694,7 +3694,7 @@
     "order": "148.00000000000000000000",
     "krp": "krp-185",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3704,7 +3704,7 @@
     "order": "149.00000000000000000000",
     "krp": "krp-186",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3714,7 +3714,7 @@
     "order": "150.00000000000000000000",
     "krp": "krp-187",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3724,7 +3724,7 @@
     "order": "151.00000000000000000000",
     "krp": "krp-188",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3734,7 +3734,7 @@
     "order": "152.00000000000000000000",
     "krp": "krp-189",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3744,7 +3744,7 @@
     "order": "153.00000000000000000000",
     "krp": "krp-190",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3754,7 +3754,7 @@
     "order": "154.00000000000000000000",
     "krp": "krp-191",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3764,7 +3764,7 @@
     "order": "155.00000000000000000000",
     "krp": "krp-192",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3774,7 +3774,7 @@
     "order": "156.00000000000000000000",
     "krp": "krp-193",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3784,7 +3784,7 @@
     "order": "157.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3794,7 +3794,7 @@
     "order": "158.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": null,
     "titel": null,
     "pages": null
@@ -3804,7 +3804,7 @@
     "order": "159.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3814,7 +3814,7 @@
     "order": "160.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3824,7 +3824,7 @@
     "order": "161.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3834,7 +3834,7 @@
     "order": "162.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3844,7 +3844,7 @@
     "order": "163.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3854,7 +3854,7 @@
     "order": "164.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3864,7 +3864,7 @@
     "order": "165.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3874,7 +3874,7 @@
     "order": "166.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3884,7 +3884,7 @@
     "order": "167.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null
@@ -3894,7 +3894,7 @@
     "order": "168.00000000000000000000",
     "krp": "",
     "Anmerkungen": "",
-    "Aktiv": false,
+    "krp-id": "",
     "top": "",
     "titel": "",
     "pages": null

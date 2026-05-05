@@ -1498,5 +1498,265 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__195"
+  },
+  "196": {
+    "id": 196,
+    "order": "163.00000000000000000000",
+    "Name": "Hübner, Roman",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Tschechoslowakischer Oberleutnant",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__196"
+  },
+  "197": {
+    "id": 197,
+    "order": "164.00000000000000000000",
+    "Name": "Neander, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Tschechoslowakischer Offizier",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__197"
+  },
+  "198": {
+    "id": 198,
+    "order": "165.00000000000000000000",
+    "Name": "Zavodsky, Gustav",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Tschechoslowakischer Offizier",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__198"
+  },
+  "199": {
+    "id": 199,
+    "order": "166.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__199"
+  },
+  "200": {
+    "id": 200,
+    "order": "167.00000000000000000000",
+    "Name": "Kun, Béla",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Volkskommissar",
+    "Quelle": "https://litkult1920er.aau.at/litkult-lexikon/kun-bela/",
+    "krp_person_id": "krp_person_id__200"
+  },
+  "201": {
+    "id": 201,
+    "order": "168.00000000000000000000",
+    "Name": "Schuhmacher, Franz Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Senatspräsident",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_s/Schumacher_Franz_1861_1939.xml",
+    "krp_person_id": "krp_person_id__201"
+  },
+  "202": {
+    "id": 202,
+    "order": "169.00000000000000000000",
+    "Name": "Fleischhacker, Robert Dr. [von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bürgermeister von Graz 1912-1914",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_F/Fleischhacker_Robert_1855_1937.xml",
+    "krp_person_id": "krp_person_id__202"
+  },
+  "203": {
+    "id": 203,
+    "order": "170.00000000000000000000",
+    "Name": "Glanz, Egon Dr. [von Eiche, Freiherr]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hofrat der ehemaligen politischen Verwaltung Triest",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__203"
+  },
+  "204": {
+    "id": 204,
+    "order": "171.00000000000000000000",
+    "Name": "Keil, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Weihbischof der Salzburger Erzdiözese",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Keil_Anton_1854_1926.xml",
+    "krp_person_id": "krp_person_id__204"
+  },
+  "205": {
+    "id": 205,
+    "order": "172.00000000000000000000",
+    "Name": "Stockton, Gilchrist Baker",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter der amerikanischen Hilfsaktion",
+    "Quelle": "https://en.wikipedia.org/wiki/Gilchrist_Baker_Stockton",
+    "krp_person_id": "krp_person_id__205"
+  },
+  "206": {
+    "id": 206,
+    "order": "173.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__206"
+  },
+  "207": {
+    "id": 207,
+    "order": "174.00000000000000000000",
+    "Name": "Hoover, Herbert Clark",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "amerikanischer Lebensmittelkontrollor",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__207"
+  },
+  "208": {
+    "id": 208,
+    "order": "175.00000000000000000000",
+    "Name": "Kelle, Carl Dr. [von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Inneres und Unterricht",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Kelle_Carl_1859_1935.xml",
+    "krp_person_id": "krp_person_id__208"
+  },
+  "209": {
+    "id": 209,
+    "order": "176.00000000000000000000",
+    "Name": "Stockhammer",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Verkehrswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__209"
+  },
+  "210": {
+    "id": 210,
+    "order": "177.00000000000000000000",
+    "Name": "Wernisch, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gutsbesitzer, Vorschlag zum Vizepräsidenten des Landeskulturrates für Kärnten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__210"
+  },
+  "211": {
+    "id": 211,
+    "order": "178.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__211"
+  },
+  "212": {
+    "id": 212,
+    "order": "179.00000000000000000000",
+    "Name": "Gruber, Hermann",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vizepräsident des Landeskulturrates für Kärnten; Gutsbesitzer in Kärnten Gasselhof",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__212"
+  },
+  "213": {
+    "id": 213,
+    "order": "180.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__213"
+  },
+  "214": {
+    "id": 214,
+    "order": "181.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__214"
+  },
+  "215": {
+    "id": 215,
+    "order": "182.00000000000000000000",
+    "Name": "Binder, Anton Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Land- und Forstwirtschaft",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__215"
+  },
+  "216": {
+    "id": 216,
+    "order": "183.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__216"
+  },
+  "217": {
+    "id": 217,
+    "order": "184.00000000000000000000",
+    "Name": "Alter, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Land- und Forstwirtschaft",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__217"
+  },
+  "218": {
+    "id": 218,
+    "order": "185.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__218"
+  },
+  "219": {
+    "id": 219,
+    "order": "186.00000000000000000000",
+    "Name": "Fischer, Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Verkehrswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__219"
+  },
+  "220": {
+    "id": 220,
+    "order": "187.00000000000000000000",
+    "Name": "Kniep, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat Staatsamt für Verkehrswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__220"
+  },
+  "221": {
+    "id": 221,
+    "order": "188.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__221"
   }
 }
