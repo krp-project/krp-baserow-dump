@@ -1255,8 +1255,8 @@
     "Name": "Ziller, Karl",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Funktion": "Staatsamte für Heereswesen",
-    "Quelle": "",
+    "Funktion": "Staatsamte für Heereswesen, ab August 1920 Vorstand des Militärliquidierungsinspektorates",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19201228&query=%22Oberst+Ziller%22&ref=anno-search&seite=3",
     "krp_person_id": "krp_person_id__139"
   },
   "140": {
@@ -1278,16 +1278,6 @@
     "Funktion": "Finanzrat",
     "Quelle": "",
     "krp_person_id": "krp_person_id__141"
-  },
-  "142": {
-    "id": 142,
-    "order": "141.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__142"
   },
   "143": {
     "id": 143,
@@ -1339,16 +1329,6 @@
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_L/Lanzendoerfer_Ferdinand_1868_1943.xml",
     "krp_person_id": "krp_person_id__147"
   },
-  "148": {
-    "id": 148,
-    "order": "147.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__148"
-  },
   "149": {
     "id": 149,
     "order": "148.00000000000000000000",
@@ -1368,16 +1348,6 @@
     "Funktion": "Leiter der \"Oesterreichischen Propagandastelle\"",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_C/Chlumecky_Leopold_1873_1940.xml",
     "krp_person_id": "krp_person_id__150"
-  },
-  "151": {
-    "id": 151,
-    "order": "150.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__151"
   },
   "184": {
     "id": 184,
@@ -1399,16 +1369,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__185"
   },
-  "186": {
-    "id": 186,
-    "order": "153.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__186"
-  },
   "187": {
     "id": 187,
     "order": "154.00000000000000000000",
@@ -1418,16 +1378,6 @@
     "Funktion": "Historiker",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_R/Redlich_Oswald_1858_1944.xml",
     "krp_person_id": "krp_person_id__187"
-  },
-  "188": {
-    "id": 188,
-    "order": "155.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__188"
   },
   "189": {
     "id": 189,
@@ -1449,16 +1399,6 @@
     "Quelle": "https://www.parlament.gv.at/person/1677",
     "krp_person_id": "krp_person_id__190"
   },
-  "191": {
-    "id": 191,
-    "order": "158.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__191"
-  },
   "192": {
     "id": 192,
     "order": "159.00000000000000000000",
@@ -1469,16 +1409,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__192"
   },
-  "193": {
-    "id": 193,
-    "order": "160.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__193"
-  },
   "194": {
     "id": 194,
     "order": "161.00000000000000000000",
@@ -1488,16 +1418,6 @@
     "Funktion": "Kommandant der Arbeiterwehr",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dnt&datum=19191109&query=%22Geiser%22&ref=anno-search&seite=10",
     "krp_person_id": "krp_person_id__194"
-  },
-  "195": {
-    "id": 195,
-    "order": "162.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__195"
   },
   "196": {
     "id": 196,
@@ -1528,16 +1448,6 @@
     "Funktion": "Tschechoslowakischer Offizier",
     "Quelle": "",
     "krp_person_id": "krp_person_id__198"
-  },
-  "199": {
-    "id": 199,
-    "order": "166.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__199"
   },
   "200": {
     "id": 200,
@@ -1599,16 +1509,6 @@
     "Quelle": "https://en.wikipedia.org/wiki/Gilchrist_Baker_Stockton",
     "krp_person_id": "krp_person_id__205"
   },
-  "206": {
-    "id": 206,
-    "order": "173.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__206"
-  },
   "207": {
     "id": 207,
     "order": "174.00000000000000000000",
@@ -1649,16 +1549,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__210"
   },
-  "211": {
-    "id": 211,
-    "order": "178.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__211"
-  },
   "212": {
     "id": 212,
     "order": "179.00000000000000000000",
@@ -1668,26 +1558,6 @@
     "Funktion": "Vizepräsident des Landeskulturrates für Kärnten; Gutsbesitzer in Kärnten Gasselhof",
     "Quelle": "",
     "krp_person_id": "krp_person_id__212"
-  },
-  "213": {
-    "id": 213,
-    "order": "180.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__213"
-  },
-  "214": {
-    "id": 214,
-    "order": "181.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__214"
   },
   "215": {
     "id": 215,
@@ -1699,16 +1569,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__215"
   },
-  "216": {
-    "id": 216,
-    "order": "183.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__216"
-  },
   "217": {
     "id": 217,
     "order": "184.00000000000000000000",
@@ -1718,16 +1578,6 @@
     "Funktion": "Sektionschef Staatsamt für Land- und Forstwirtschaft",
     "Quelle": "",
     "krp_person_id": "krp_person_id__217"
-  },
-  "218": {
-    "id": 218,
-    "order": "185.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__218"
   },
   "219": {
     "id": 219,
@@ -1758,5 +1608,295 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__221"
+  },
+  "223": {
+    "id": 223,
+    "order": "189.00000000000000000000",
+    "Name": "Neurath, Ludwig [von Neudenegg]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vorstandsvorsitzende der Creditanstalt für Handel und Gewerbe",
+    "Quelle": "https://www.lexikon-provenienzforschung.org/neurath-ludwig",
+    "krp_person_id": "krp_person_id__223"
+  },
+  "224": {
+    "id": 224,
+    "order": "190.00000000000000000000",
+    "Name": "Rogers, Howard L.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bankier aus New York",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19311101&query=%22Howard+Rogers%22&ref=anno-search&seite=22",
+    "krp_person_id": "krp_person_id__224"
+  },
+  "225": {
+    "id": 225,
+    "order": "191.00000000000000000000",
+    "Name": "Whitson, G.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Entsendet von Firma Stone & Webster",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__225"
+  },
+  "226": {
+    "id": 226,
+    "order": "192.00000000000000000000",
+    "Name": "Pohl, Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberbergrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__226"
+  },
+  "227": {
+    "id": 227,
+    "order": "193.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__227"
+  },
+  "228": {
+    "id": 228,
+    "order": "194.00000000000000000000",
+    "Name": "Plener, Ernst [Freiherr von] Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter des liquidierenden gemeinsamen Obersten Rechnungshofes",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_P/Plener_Ernest_1841_1923.xml",
+    "krp_person_id": "krp_person_id__228"
+  },
+  "229": {
+    "id": 229,
+    "order": "195.00000000000000000000",
+    "Name": "Foris, Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Schweizer Ingenieur",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__229"
+  },
+  "230": {
+    "id": 230,
+    "order": "196.00000000000000000000",
+    "Name": "Jentl, Bernhard Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sekretär der Handels- und Gewerbekammer in Graz",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=ozv&datum=19200201&query=%22Dr.+Bernhard+Jentl%22&ref=anno-search&seite=4",
+    "krp_person_id": "krp_person_id__230"
+  },
+  "231": {
+    "id": 231,
+    "order": "197.00000000000000000000",
+    "Name": "Speil-Ostheim, Oskar? Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vom Staatsamt für Verkehrswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__231"
+  },
+  "232": {
+    "id": 232,
+    "order": "198.00000000000000000000",
+    "Name": "Allizé, Henry",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gesandter",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=tag&datum=19330911&query=%22Alliz%c3%a9%22&ref=anno-search&seite=4",
+    "krp_person_id": "krp_person_id__232"
+  },
+  "233": {
+    "id": 233,
+    "order": "199.00000000000000000000",
+    "Name": "Pesta, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Minsterialrat im Staatsamt für Verkehrswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__233"
+  },
+  "234": {
+    "id": 234,
+    "order": "200.00000000000000000000",
+    "Name": "Kienböck, Viktor Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Rechtsanwalt",
+    "Quelle": "https://www.parlament.gv.at/person/1964",
+    "krp_person_id": "krp_person_id__234"
+  },
+  "235": {
+    "id": 235,
+    "order": "201.00000000000000000000",
+    "Name": "Tomschik, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Nationalversammlung (SDAP)",
+    "Quelle": "https://www.parlament.gv.at/person/1382",
+    "krp_person_id": "krp_person_id__235"
+  },
+  "236": {
+    "id": 236,
+    "order": "202.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__236"
+  },
+  "237": {
+    "id": 237,
+    "order": "203.00000000000000000000",
+    "Name": "Zelenka, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Nationalversammlung (SDAP)",
+    "Quelle": "https://www.parlament.gv.at/person/1633",
+    "krp_person_id": "krp_person_id__237"
+  },
+  "238": {
+    "id": 238,
+    "order": "204.00000000000000000000",
+    "Name": "Phil[l]potts, O. S.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwg&datum=19191130&query=%22Philpotts%22&ref=anno-search&seite=12",
+    "krp_person_id": "krp_person_id__238"
+  },
+  "239": {
+    "id": 239,
+    "order": "205.00000000000000000000",
+    "Name": "Goode, William",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied des Obersten Wirtschaftsrates",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191015&query=%22William+Goode%22&ref=anno-search&seite=5",
+    "krp_person_id": "krp_person_id__239"
+  },
+  "240": {
+    "id": 240,
+    "order": "206.00000000000000000000",
+    "Name": "Hamburger, Fritz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident der Vereinigung der österreichischen Industrie in Wien",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__240"
+  },
+  "241": {
+    "id": 241,
+    "order": "207.00000000000000000000",
+    "Name": "Hummer, Gustav Mag.pharm.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Prov Nationalversammlung",
+    "Quelle": "; https://www.parlament.gv.at/person/701https://www.geschichtewiki.wien.gv.at/St.-Rudolf-Apotheke",
+    "krp_person_id": "krp_person_id__241"
+  },
+  "242": {
+    "id": 242,
+    "order": "208.00000000000000000000",
+    "Name": "Jüptner",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberfinanzrat [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__242"
+  },
+  "243": {
+    "id": 243,
+    "order": "209.00000000000000000000",
+    "Name": "Hlawač, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Finanzen",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19211130&query=%22Ministerialrat+Dr.+Hlawa%c4%8d%22&ref=anno-search&seite=5",
+    "krp_person_id": "krp_person_id__243"
+  },
+  "244": {
+    "id": 244,
+    "order": "210.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__244"
+  },
+  "245": {
+    "id": 245,
+    "order": "211.00000000000000000000",
+    "Name": "Ehrenfeld-Pop",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__245"
+  },
+  "246": {
+    "id": 246,
+    "order": "212.00000000000000000000",
+    "Name": "Rücker [Rucker?]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__246"
+  },
+  "247": {
+    "id": 247,
+    "order": "213.00000000000000000000",
+    "Name": "Kunze, Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__247"
+  },
+  "248": {
+    "id": 248,
+    "order": "214.00000000000000000000",
+    "Name": "Vielgut",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Direktor Papierindustrie",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__248"
+  },
+  "249": {
+    "id": 249,
+    "order": "215.00000000000000000000",
+    "Name": "Redinger, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__249"
+  },
+  "250": {
+    "id": 250,
+    "order": "216.00000000000000000000",
+    "Name": "Scapinelli, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Zentraldirektor der Staatserziehungsanstalten Sektionsrat",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__250"
+  },
+  "251": {
+    "id": 251,
+    "order": "217.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__251"
   }
 }

@@ -38,7 +38,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -76,7 +76,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -120,7 +120,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "1",
     "str_vertr_anhang_koll": true
@@ -176,7 +176,7 @@
     ],
     "konzept": false,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": "10",
     "str_vertr_anhang_koll": true
@@ -220,7 +220,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -264,7 +264,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "6",
     "str_vertr_anhang_koll": true
@@ -308,7 +308,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -358,7 +358,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
@@ -408,7 +408,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "2",
     "str_vertr_anhang_koll": true
@@ -452,7 +452,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "8",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -496,7 +496,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -540,7 +540,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "1",
     "str_vertr_anhang_koll": true
@@ -584,7 +584,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -634,7 +634,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "1",
     "str_vertr_anhang_koll": true
@@ -672,7 +672,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -716,7 +716,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -760,7 +760,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -798,7 +798,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -842,7 +842,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -886,7 +886,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -924,7 +924,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -968,7 +968,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1018,7 +1018,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": "11",
     "str_vertr_anhang_koll": true
@@ -1056,7 +1056,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1100,7 +1100,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1144,7 +1144,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "3",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1188,7 +1188,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "3",
     "str_vertr_anhang_koll": true
@@ -1232,7 +1232,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1270,7 +1270,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1314,7 +1314,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "19",
     "str_vertr_anhang_koll": true
@@ -1358,7 +1358,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1402,7 +1402,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1446,7 +1446,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1490,7 +1490,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "15",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1534,7 +1534,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1578,7 +1578,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "5",
     "str_vertr_anhang_koll": true
@@ -1622,7 +1622,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": false
@@ -1666,7 +1666,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1716,7 +1716,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "3",
     "str_vertr_anhang_koll": true
@@ -1760,7 +1760,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1804,7 +1804,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1848,7 +1848,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1892,7 +1892,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "9",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1936,7 +1936,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -1986,7 +1986,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": "6",
     "str_vertr_anhang_koll": true
@@ -2030,7 +2030,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "10",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2080,7 +2080,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "2",
     "str_vertr_anhang_koll": true
@@ -2124,7 +2124,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2168,7 +2168,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2218,7 +2218,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "3",
     "str_vertr_anhang_koll": true
@@ -2268,7 +2268,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": "3",
     "str_vertr_anhang_koll": true
@@ -2318,7 +2318,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "6",
     "str_vertr_anhang_koll": true
@@ -2368,7 +2368,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "34",
     "str_vertr_anhang_koll": true
@@ -2412,7 +2412,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "3",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2456,7 +2456,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2500,7 +2500,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2544,7 +2544,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "1",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2588,7 +2588,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2638,7 +2638,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2682,7 +2682,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2732,7 +2732,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "16",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2782,7 +2782,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": "15",
     "str_vertr_anhang_koll": true
@@ -2832,7 +2832,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "19",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
@@ -2876,7 +2876,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2920,7 +2920,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -2964,7 +2964,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3008,7 +3008,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3052,7 +3052,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3096,7 +3096,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3140,7 +3140,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3190,7 +3190,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "10",
     "str_vertr_anhang_koll": true
@@ -3240,7 +3240,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": "1",
     "str_vertr_anhang_koll": true
@@ -3284,7 +3284,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3334,7 +3334,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "26",
     "str_vertr_anhang_gesamtseitenzahl": "34",
     "str_vertr_anhang_koll": true
@@ -3378,7 +3378,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "16",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3428,7 +3428,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "18",
     "str_vertr_anhang_gesamtseitenzahl": "61",
     "str_vertr_anhang_koll": true
@@ -3472,7 +3472,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3522,7 +3522,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "10",
     "str_vertr_anhang_gesamtseitenzahl": "11",
     "str_vertr_anhang_koll": true
@@ -3566,7 +3566,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": false,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3616,7 +3616,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": "11",
     "str_vertr_anhang_koll": true
@@ -3666,7 +3666,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
@@ -3710,7 +3710,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3754,7 +3754,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3804,7 +3804,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
@@ -3848,7 +3848,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3892,7 +3892,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -3942,7 +3942,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
@@ -3992,7 +3992,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "22",
     "str_vertr_anhang_gesamtseitenzahl": "7",
     "str_vertr_anhang_koll": true
@@ -4042,7 +4042,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "9",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
@@ -4092,7 +4092,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": "6",
     "str_vertr_anhang_koll": true
@@ -4136,7 +4136,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": true,
+    "digitalisat_komplett": false,
     "steno_gesamtseitenzahl": "9",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -5776,7 +5776,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": "14",
     "str_vertr_anhang_koll": true
@@ -5820,7 +5820,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -5850,7 +5850,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "bis hier (ab KRP 164) auf jeder Komponente Farbkarte, nicht nur zu Beginn",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "23",
     "steno_trans": [
@@ -5864,7 +5864,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -5908,7 +5908,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "23",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -5946,7 +5946,7 @@
     "vertr_anhang_trans": [],
     "konzept": false,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "0",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -5976,7 +5976,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Undeklarierte Beilagen",
+    "anmerkungen_dokument": "Undeklarierte Beilagen (Entwurf zu Pkt 2)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "23",
     "steno_trans": [
@@ -5990,7 +5990,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
