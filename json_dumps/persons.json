@@ -1898,5 +1898,185 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__251"
+  },
+  "252": {
+    "id": 252,
+    "order": "218.00000000000000000000",
+    "Name": "Halban, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat Staatsamt für Volksernährung [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__252"
+  },
+  "253": {
+    "id": 253,
+    "order": "219.00000000000000000000",
+    "Name": "Kaltenbrunner, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat Staatsamt für Finanzen [III]",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dvb&datum=19200111&query=%22Sektionsrat+Kaltenbrunner%22&ref=anno-search&seite=5",
+    "krp_person_id": "krp_person_id__253"
+  },
+  "254": {
+    "id": 254,
+    "order": "220.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__254"
+  },
+  "255": {
+    "id": 255,
+    "order": "221.00000000000000000000",
+    "Name": "Hartl, Karl Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Magistratsdirektor Gemeinde Wien",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19190701&query=%22Magistratsdirektor+Dr.+Hartl%22&ref=anno-search&seite=9",
+    "krp_person_id": "krp_person_id__255"
+  },
+  "256": {
+    "id": 256,
+    "order": "222.00000000000000000000",
+    "Name": "Müller, Rudolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Landesrat des Landes Niederösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__256"
+  },
+  "257": {
+    "id": 257,
+    "order": "223.00000000000000000000",
+    "Name": "Neumann, Jakob",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bürgermeister Stadt Wien",
+    "Quelle": "https://www.parlament.gv.at/person/1673",
+    "krp_person_id": "krp_person_id__257"
+  },
+  "258": {
+    "id": 258,
+    "order": "224.00000000000000000000",
+    "Name": "Breitner",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Stadtrat der Gemeinde Wien",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__258"
+  },
+  "259": {
+    "id": 259,
+    "order": "225.00000000000000000000",
+    "Name": "Speiser",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Stadtrat der Gemeinde Wien",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__259"
+  },
+  "260": {
+    "id": 260,
+    "order": "226.00000000000000000000",
+    "Name": "Schneller",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberst, Staatsamt für Heereswesen [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__260"
+  },
+  "261": {
+    "id": 261,
+    "order": "227.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__261"
+  },
+  "264": {
+    "id": 264,
+    "order": "228.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__264"
+  },
+  "265": {
+    "id": 265,
+    "order": "229.00000000000000000000",
+    "Name": "Cilek, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 getötet",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__265"
+  },
+  "266": {
+    "id": 266,
+    "order": "230.00000000000000000000",
+    "Name": "Stams, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 getötet",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__266"
+  },
+  "267": {
+    "id": 267,
+    "order": "231.00000000000000000000",
+    "Name": "Burg, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 schwer verletzt",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__267"
+  },
+  "268": {
+    "id": 268,
+    "order": "232.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__268"
+  },
+  "269": {
+    "id": 269,
+    "order": "233.00000000000000000000",
+    "Name": "Gottlieb-Billroth, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Finanzen [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__269"
+  },
+  "270": {
+    "id": 270,
+    "order": "234.00000000000000000000",
+    "Name": "Grünwald, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__270"
+  },
+  "271": {
+    "id": 271,
+    "order": "235.00000000000000000000",
+    "Name": "Mörth, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__271"
   }
 }
