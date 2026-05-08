@@ -2078,5 +2078,265 @@
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__271"
+  },
+  "272": {
+    "id": 272,
+    "order": "236.00000000000000000000",
+    "Name": "Hauser, Johann Nepomuk",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präsident des Hauptausschusses der Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/534",
+    "krp_person_id": "krp_person_id__272"
+  },
+  "273": {
+    "id": 273,
+    "order": "237.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__273"
+  },
+  "274": {
+    "id": 274,
+    "order": "238.00000000000000000000",
+    "Name": "Seipel, Ignaz Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Abgeordneter der Konst. Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/1992",
+    "krp_person_id": "krp_person_id__274"
+  },
+  "275": {
+    "id": 275,
+    "order": "239.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__275"
+  },
+  "276": {
+    "id": 276,
+    "order": "240.00000000000000000000",
+    "Name": "Gürtler, Alfred Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Konst. Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/624",
+    "krp_person_id": "krp_person_id__276"
+  },
+  "277": {
+    "id": 277,
+    "order": "241.00000000000000000000",
+    "Name": "Adler, Friedrich Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Konst. Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/10",
+    "krp_person_id": "krp_person_id__277"
+  },
+  "278": {
+    "id": 278,
+    "order": "242.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__278"
+  },
+  "279": {
+    "id": 279,
+    "order": "243.00000000000000000000",
+    "Name": "Dittes, Pauk Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Direktor des Elektrisierungsamtes der österreichischen Staatsbahnen",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_D/Dittes_Paul_1871_1940.xml",
+    "krp_person_id": "krp_person_id__279"
+  },
+  "280": {
+    "id": 280,
+    "order": "244.00000000000000000000",
+    "Name": "Hold, Richard Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Justiz [III]",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__280"
+  },
+  "281": {
+    "id": 281,
+    "order": "245.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__281"
+  },
+  "282": {
+    "id": 282,
+    "order": "246.00000000000000000000",
+    "Name": "Allina, Heinrich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Kunst. Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/51",
+    "krp_person_id": "krp_person_id__282"
+  },
+  "283": {
+    "id": 283,
+    "order": "247.00000000000000000000",
+    "Name": "Friedmann, Max",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Konst. Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/395",
+    "krp_person_id": "krp_person_id__283"
+  },
+  "284": {
+    "id": 284,
+    "order": "248.00000000000000000000",
+    "Name": "Logan",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Colonel; Mitglied Reparationskommission",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__284"
+  },
+  "285": {
+    "id": 285,
+    "order": "249.00000000000000000000",
+    "Name": "Smith,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Colonel; Mitglied Reparationskommission",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__285"
+  },
+  "286": {
+    "id": 286,
+    "order": "250.00000000000000000000",
+    "Name": "Bösbauer, Hans",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Chefredakteur \"Die Neue Zeitung\"",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Die_Neue_Zeitung",
+    "krp_person_id": "krp_person_id__286"
+  },
+  "287": {
+    "id": 287,
+    "order": "251.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__287"
+  },
+  "288": {
+    "id": 288,
+    "order": "252.00000000000000000000",
+    "Name": "Bourcart, Charles-Daniel Dr. jur.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gesandter der Bundesrepublik Schweiz",
+    "Quelle": "https://geschichte.univie.ac.at/de/personen/charles-daniel-bourcart",
+    "krp_person_id": "krp_person_id__288"
+  },
+  "289": {
+    "id": 289,
+    "order": "253.00000000000000000000",
+    "Name": "Roller, Alfred",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bühnenbildner, Maler",
+    "Quelle": "https://www.biographien.ac.at/oebl_9/224.pdf",
+    "krp_person_id": "krp_person_id__289"
+  },
+  "290": {
+    "id": 290,
+    "order": "254.00000000000000000000",
+    "Name": "Garzarolli, Karl? [von Thurnlackh] junior",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Finanzprokuraturssekretär",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_Garzarolli_von_Thurnlackh_junior",
+    "krp_person_id": "krp_person_id__290"
+  },
+  "291": {
+    "id": 291,
+    "order": "255.00000000000000000000",
+    "Name": "Hölzl, Anton Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Konst. Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/613",
+    "krp_person_id": "krp_person_id__291"
+  },
+  "292": {
+    "id": 292,
+    "order": "256.00000000000000000000",
+    "Name": "Nitti, Francesco Saverio",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerpräsident Italien Juni 1919-Juni 1920",
+    "Quelle": "https://de.wikipedia.org/wiki/Francesco_Saverio_Nitti",
+    "krp_person_id": "krp_person_id__292"
+  },
+  "293": {
+    "id": 293,
+    "order": "257.00000000000000000000",
+    "Name": "Stark, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberlehrer des Ruhestandes in Weilburg",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__293"
+  },
+  "294": {
+    "id": 294,
+    "order": "258.00000000000000000000",
+    "Name": "Falser, Stephan",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ersatzmann am VfGH bis 1920",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__294"
+  },
+  "295": {
+    "id": 295,
+    "order": "259.00000000000000000000",
+    "Name": "Erler, Eduard Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ersatzmann am VfGH bis 1920",
+    "Quelle": "https://www.parlament.gv.at/person/272",
+    "krp_person_id": "krp_person_id__295"
+  },
+  "296": {
+    "id": 296,
+    "order": "260.00000000000000000000",
+    "Name": "Bernegger, Matthias Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ersatzmann am VfGH ab 1920",
+    "Quelle": "https://www.vfgh.gv.at/verfassungsgerichtshof/verfassungsrichter/mitglieder_tabelle.de.html",
+    "krp_person_id": "krp_person_id__296"
+  },
+  "297": {
+    "id": 297,
+    "order": "261.00000000000000000000",
+    "Name": "Jäger, Ernst Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Rechtsanwalt in Linz",
+    "Quelle": "https://de.wikipedia.org/wiki/Ernst_Jäger_(Politiker)",
+    "krp_person_id": "krp_person_id__297"
   }
 }
