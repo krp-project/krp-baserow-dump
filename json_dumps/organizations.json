@@ -2,15 +2,449 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "",
+    "Name": "AG Elektrizitätswerk Wels",
     "Anmerkungen": "",
-    "Aktiv": false
+    "Aktiv": false,
+    "Quelle": "https://www.eww.at/ueber-uns/unternehmensgruppe"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
+    "Name": "Anglo-österreichischen Bank",
     "Anmerkungen": "",
-    "Aktiv": false
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Anglo-%C3%B6sterreichische_Bank"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "[Allgemeine österreichische] Bodencreditanstalt",
+    "Anmerkungen": null,
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "Bankhaus Kuhn, Loeb & Co",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "Name": "Berufsgenossenschaftliche Unfallversicherungsanstalt",
+    "Anmerkungen": "Quellenlink für BUV für Ö. Eisenbahnen (!): https://alex.onb.ac.at/cgi-content/alex?aid=rgb&datum=18900004&seite=00000221",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "Name": "Creditanstalt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Creditanstalt-Bankverein"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "Name": "Daimler-Motoren-AG",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.austrodaimler.at/firmengeschichte/"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "Name": "Donaudampfschiffahrtsgesellschaft",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "Name": "Eltz’sche Spinnerei",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "Name": "[Erzherzogliche] Ludwig Viktor[‘sche] Familienstiftung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=2575899"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "Name": "Firma B. Wetzler & Co.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA#Stueck__00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "Name": "Firma Glesinger S.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "Name": "Firma Jakob Neurath",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "Name": "Firma Stone & Webster",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200625&seite=8&zoom=33&query=%22firma%22%2B%22stone%22%2B%22webster%22&ref=anno-search"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "Name": "Graz-Köflacher Eisenbahn- und Bergbau-Gesellschaft",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200714&seite=14&zoom=33&query=%22Graz%2BK%C3%B6flacher%2BEisenbahn-%2Bund%2BBergbau-Gesellschaft%22&ref=anno-search"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "Name": "Holenia Franz & Co.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "Name": "Internationale Bureau zum Schutze des gewerblichen Eigentums",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "Name": "Ingenieure Mayreder, Kraus & Co.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Rudolf_Mayreder"
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "Name": "„Inva“ Buch-, Kunst-, Steindruckerei und Lithographie des Zentralverbandes der deutschösterreichischen Kriegsbeschädigten, Gesellschaft mbH",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200626&seite=14&zoom=33&query=%22inva%22&ref=anno-search"
+  },
+  "56": {
+    "id": 56,
+    "order": "19.50000000000000000000",
+    "Name": "Internationale Liquidierungskommission",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "Name": "Kantonalbank",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://hls-dhs-dss.ch/de/articles/014065/2015-04-08/"
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "Name": "Kupfer- und Zinnhütte Betriebsgesellschaft mbH.",
+    "Anmerkungen": "derzeitiger Konsens, muss noch recherchiert werden",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1920&page=135&size=45&qid=57T0KCMCR2SNTO8KP3JPVAJIUJ4J8D"
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "Name": "Länderzentralbüro",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200731&seite=20&zoom=33&query=%22l%C3%A4nderzentralbureau%22&ref=anno-search"
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "Name": "Metall- & Erz-Gesellschaft mbH.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "Name": "Militär-Witwen- und Waisenfonds",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://sammlung.wienmuseum.at/en/object/117147-wfw-militaer-witwen-und-waisenfonds/\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19190606&seite=3&zoom=33&query=%22milit%C3%A4r-witwen%2Bund%2Bwaisenfonds%22&ref=anno-search"
+  },
+  "25": {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "Name": "Militärsanitätsanstalten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=3977515\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=ozp&datum=19190201&seite=3&zoom=33&query=%22milit%C3%A4rsanit%C3%A4tsanstalten%22&ref=anno-search"
+  },
+  "26": {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "Name": "„Montana“ Bergbau-Gesellschaft m.b.H.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/163682"
+  },
+  "27": {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "Name": "Morgan Harjes & Co.",
+    "Anmerkungen": "Reliablere Ressource recherchieren",
+    "Aktiv": false,
+    "Quelle": "https://en.wikipedia.org/wiki/Morgan,_Harjes_%26_Co."
+  },
+  "28": {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "Name": "niederösterreichische Landes-Hypothekenanstalt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=548&size=45&qid=BWZEZ13XUJIB3JGTLYW8HQTRBHCRM4"
+  },
+  "29": {
+    "id": 29,
+    "order": "29.00000000000000000000",
+    "Name": "[Oesterreichisch-]Alpine Montangesellschaft",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=5710"
+  },
+  "30": {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "Name": "Österreichischen Immobiliarbank AG",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19120004&seite=00001109&size=45"
+  },
+  "31": {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "Name": "River Syndicated Ltd",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://discovery.nationalarchives.gov.uk/results/r?_q=River+Syndicated+Ltd&_sd=1919&_ed=1920&_hb="
+  },
+  "32": {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "Name": "Redlich Brüder & Berger",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "33": {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "Name": "Reichraminger Holzindustrie-Gesellschaft mbH.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19220504&seite=9&zoom=33&query=%22Reichraminger%22%2B%22Holzindustrie-Gesellschaft%22&ref=anno-search"
+  },
+  "34": {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "Name": "Roth’sche Fabrik",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19170825&seite=3&zoom=33&query=%22rothsche%2Bfabrik%22&ref=anno-search"
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "Name": "Ruetzwerk",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19200323&seite=2&zoom=33&query=%22ruetzwerk%22&ref=anno-search"
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "Name": "Süddeutsche Donau-Dampf-Schifffahrts-Gesellschaft",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.archivportal-d.de/item/SXWFR3RDPE5BS5UKNKHRNUSECUCUPIGD?facetValues%5B%5D=context%3DEWI22NIIAWMEBPYNYMJZVWD2M27AHPFP&lang=de&sort=random_300214365908502145+desc&offset=32&hitNumber=41"
+  },
+  "37": {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "Name": "Staatsangestellten-Fürsorgeanstalt „Stafa“",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191228&seite=4&zoom=33&query=%22staatsangestellten%22%2B%22f%C3%BCrsorgeanstalt%22&ref=anno-search"
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "Name": "Steinkohlenbergwerk und Kalkwerkschaft Weyer Gesellschaft m.b.H.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/153386"
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "Name": "Telegraphen-Korrespondenz-Bureau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190630&seite=2&zoom=33&query=%22Telegraphen-Korrespondenz-Bureau%22&ref=anno-search"
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "Name": "Technische Hochschule",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Technische_Hochschule"
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "Name": "Tecta Grundbesitz- und Verwaltungs-Gesellschaft-mbH",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "Name": "Treuga AG für Veredlungsverkehr und für treuhändige Güterverwertung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200715&seite=10&zoom=33&query=%22treuga%22&ref=anno-search"
+  },
+  "43": {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "Name": "United States Grain Corporation",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.archives.gov/research/guide-fed-records/groups/005.html/1000#5.1\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19191002&seite=7&zoom=33&query=%22Grain%2BCorporation%22&ref=anno-search"
+  },
+  "44": {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "Name": "Virginierzigarren-Erzeugung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=zei&datum=19180613&seite=14&zoom=33&query=%22virginier%2Bzigarre%22&ref=anno-search"
+  },
+  "45": {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "Name": "Virginier-Fabrik",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dsp&datum=19200826&seite=5&zoom=33&query=%22virginier-fabrik%22&ref=anno-search"
+  },
+  "46": {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "Name": "Waldviertler Elektrizitätsgenossenschaft",
+    "Anmerkungen": "Zu besprechen: Hier mit \"rGmbH\" am Schluss https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=481&size=45&qid=5AODNP18592CDN4T1AMD5NFGE409IF",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=waw&datum=1919&page=364&size=45&qid=GCO37GKVJXDYY227BTO29F9ME939EM"
+  },
+  "47": {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "Name": "WEWA - Wasserkraft- und Elektrizitätswirtschaftsamt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.oesta.gv.at/veroeffentlichungen/archivale-des-monats/Archivale-des-Monats-Juni-23.html"
+  },
+  "48": {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "Name": "Wiener Städtische Elektrizitäts-Werke",
+    "Anmerkungen": "derzeitiger Konsens, muss noch recherchiert werden",
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/St%C3%A4dtische_Elektrizit%C3%A4tswerke"
+  },
+  "49": {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "Name": "Wolfsegg-Traunthaler Kohlenwerks-AG",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/160308"
+  },
+  "50": {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "Name": "Wollzentrale AG",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=ibn&datum=19170430&seite=8&zoom=33&query=%22Wollzentrale%2BAG%22&ref=anno-search"
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "Name": "Zentral-Preisprüfungskommission",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "OESTA: AT-OeStA/AdR AuS BMfVE ZPPK"
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "Name": "Zentral- Ein- und Verkaufbüro",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "Name": "Zwischenstaatsamtliches Komitee",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "Name": "Oesterreichisch-ungarische Bank",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://viewer.onb.ac.at/131DD9E2"
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "Name": "Staatliche Industriewerke",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191219&seite=7&zoom=33&query=%22staatliche%22%2B%22industriewerke%22%2B%22linder%22&ref=anno-search"
   }
 }

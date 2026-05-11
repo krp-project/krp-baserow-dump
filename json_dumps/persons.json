@@ -965,7 +965,7 @@
     "Name": "Peter",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Funktion": "Sektionschef",
+    "Funktion": "Sektionschef Staatsamt für Äußeres [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__107"
   },
@@ -1255,7 +1255,7 @@
     "Name": "Ziller, Karl",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Funktion": "Staatsamte für Heereswesen, ab August 1920 Vorstand des Militärliquidierungsinspektorates",
+    "Funktion": "Staatsamte für Heereswesen [III], ab August 1920 Vorstand des Militärliquidierungsinspektorates",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19201228&query=%22Oberst+Ziller%22&ref=anno-search&seite=3",
     "krp_person_id": "krp_person_id__139"
   },
@@ -1599,16 +1599,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__220"
   },
-  "221": {
-    "id": 221,
-    "order": "188.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__221"
-  },
   "223": {
     "id": 223,
     "order": "189.00000000000000000000",
@@ -1648,16 +1638,6 @@
     "Funktion": "Oberbergrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__226"
-  },
-  "227": {
-    "id": 227,
-    "order": "193.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__227"
   },
   "228": {
     "id": 228,
@@ -1739,16 +1719,6 @@
     "Quelle": "https://www.parlament.gv.at/person/1382",
     "krp_person_id": "krp_person_id__235"
   },
-  "236": {
-    "id": 236,
-    "order": "202.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__236"
-  },
   "237": {
     "id": 237,
     "order": "203.00000000000000000000",
@@ -1819,16 +1789,6 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19211130&query=%22Ministerialrat+Dr.+Hlawa%c4%8d%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__243"
   },
-  "244": {
-    "id": 244,
-    "order": "210.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__244"
-  },
   "245": {
     "id": 245,
     "order": "211.00000000000000000000",
@@ -1889,16 +1849,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__250"
   },
-  "251": {
-    "id": 251,
-    "order": "217.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__251"
-  },
   "252": {
     "id": 252,
     "order": "218.00000000000000000000",
@@ -1918,16 +1868,6 @@
     "Funktion": "Sektionsrat Staatsamt für Finanzen [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dvb&datum=19200111&query=%22Sektionsrat+Kaltenbrunner%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__253"
-  },
-  "254": {
-    "id": 254,
-    "order": "220.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__254"
   },
   "255": {
     "id": 255,
@@ -1989,26 +1929,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__260"
   },
-  "261": {
-    "id": 261,
-    "order": "227.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__261"
-  },
-  "264": {
-    "id": 264,
-    "order": "228.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__264"
-  },
   "265": {
     "id": 265,
     "order": "229.00000000000000000000",
@@ -2038,16 +1958,6 @@
     "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 schwer verletzt",
     "Quelle": "",
     "krp_person_id": "krp_person_id__267"
-  },
-  "268": {
-    "id": 268,
-    "order": "232.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__268"
   },
   "269": {
     "id": 269,
@@ -2089,16 +1999,6 @@
     "Quelle": "https://www.parlament.gv.at/person/534",
     "krp_person_id": "krp_person_id__272"
   },
-  "273": {
-    "id": 273,
-    "order": "237.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__273"
-  },
   "274": {
     "id": 274,
     "order": "238.00000000000000000000",
@@ -2108,16 +2008,6 @@
     "Funktion": "Abgeordneter der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/1992",
     "krp_person_id": "krp_person_id__274"
-  },
-  "275": {
-    "id": 275,
-    "order": "239.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__275"
   },
   "276": {
     "id": 276,
@@ -2139,16 +2029,6 @@
     "Quelle": "https://www.parlament.gv.at/person/10",
     "krp_person_id": "krp_person_id__277"
   },
-  "278": {
-    "id": 278,
-    "order": "242.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__278"
-  },
   "279": {
     "id": 279,
     "order": "243.00000000000000000000",
@@ -2168,16 +2048,6 @@
     "Funktion": "Ministerialrat Staatsamt für Justiz [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__280"
-  },
-  "281": {
-    "id": 281,
-    "order": "245.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__281"
   },
   "282": {
     "id": 282,
@@ -2228,16 +2098,6 @@
     "Funktion": "Chefredakteur \"Die Neue Zeitung\"",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Die_Neue_Zeitung",
     "krp_person_id": "krp_person_id__286"
-  },
-  "287": {
-    "id": 287,
-    "order": "251.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__287"
   },
   "288": {
     "id": 288,
@@ -2338,5 +2198,255 @@
     "Funktion": "Rechtsanwalt in Linz",
     "Quelle": "https://de.wikipedia.org/wiki/Ernst_Jäger_(Politiker)",
     "krp_person_id": "krp_person_id__297"
+  },
+  "298": {
+    "id": 298,
+    "order": "262.00000000000000000000",
+    "Name": "Zweifel,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Fabrikdirektor in Neunkirchen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__298"
+  },
+  "299": {
+    "id": 299,
+    "order": "263.00000000000000000000",
+    "Name": "Ludwig (Anton Joseph) Viktor, Erzherzog von Österreich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "jüngster Brüder Kaiser Franz Josephs",
+    "Quelle": "https://www.biographien.ac.at/oebl_5/351.pdf",
+    "krp_person_id": "krp_person_id__299"
+  },
+  "301": {
+    "id": 301,
+    "order": "265.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Maria Josefa",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Testamentserbin des Lustschlosses Kleßheim",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__301"
+  },
+  "302": {
+    "id": 302,
+    "order": "266.00000000000000000000",
+    "Name": "Jung Georg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Eigentümer des Hotel de l’Europe in Salzburg",
+    "Quelle": "https://de.wikipedia.org/wiki/Hotel_de_l%E2%80%99Europe_(Salzburg)",
+    "krp_person_id": "krp_person_id__302"
+  },
+  "303": {
+    "id": 303,
+    "order": "267.00000000000000000000",
+    "Name": "Wollheim",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19221121&query=%22ministerialrat+Wollheim%22&ref=anno-search&seite=2",
+    "krp_person_id": "krp_person_id__303"
+  },
+  "304": {
+    "id": 304,
+    "order": "268.00000000000000000000",
+    "Name": "Dubowy, Ernst Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Justiz [III]",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200518&query=%22ministerialrat+Dr.+Dubowy%22&ref=anno-search&seite=9",
+    "krp_person_id": "krp_person_id__304"
+  },
+  "305": {
+    "id": 305,
+    "order": "269.00000000000000000000",
+    "Name": "Linder,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Generaldirektor Industriewerke",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__305"
+  },
+  "306": {
+    "id": 306,
+    "order": "270.00000000000000000000",
+    "Name": "Troubridge, Ernest",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vorsitzender der Internationalen Donaukommission",
+    "Quelle": "https://de.wikipedia.org/wiki/Ernest_Troubridge",
+    "krp_person_id": "krp_person_id__306"
+  },
+  "307": {
+    "id": 307,
+    "order": "271.00000000000000000000",
+    "Name": "Buchinger, Rudolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/122",
+    "krp_person_id": "krp_person_id__307"
+  },
+  "309": {
+    "id": 309,
+    "order": "273.00000000000000000000",
+    "Name": "Smitka, Johann",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied der Nationalversammlung",
+    "Quelle": "https://www.parlament.gv.at/person/1893",
+    "krp_person_id": "krp_person_id__309"
+  },
+  "310": {
+    "id": 310,
+    "order": "274.00000000000000000000",
+    "Name": "Oppenheimer, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Äußeres",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19221016&query=%22Richard+Oppenheimer%22&ref=anno-search&seite=1",
+    "krp_person_id": "krp_person_id__310"
+  },
+  "312": {
+    "id": 312,
+    "order": "276.00000000000000000000",
+    "Name": "Heinz, Franz Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Inneres und Unterricht [III]",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200209&query=%22Franz+Heinz%22&ref=anno-search&seite=7",
+    "krp_person_id": "krp_person_id__312"
+  },
+  "313": {
+    "id": 313,
+    "order": "277.00000000000000000000",
+    "Name": "Haager, Karl Dr. [Edler von Vanderhaag]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für Volksernäherung",
+    "Quelle": "https://austriaca.at/0xc1aa5572%200x004015b5.pdf",
+    "krp_person_id": "krp_person_id__313"
+  },
+  "315": {
+    "id": 315,
+    "order": "279.00000000000000000000",
+    "Name": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19210413&query=%22alfred+rappaport%22&ref=anno-search&seite=7",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__315"
+  },
+  "316": {
+    "id": 316,
+    "order": "280.00000000000000000000",
+    "Name": "Rappaport, Alfred",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Äußeres [III]",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19210413&query=%22alfred+rappaport%22&ref=anno-search&seite=7",
+    "krp_person_id": "krp_person_id__316"
+  },
+  "319": {
+    "id": 319,
+    "order": "283.00000000000000000000",
+    "Name": "Paltauf, Rudolf Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef Staatsamt für Justiz",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=gez&datum=19200141&query=(text:%22rudolf+Paltauf%22)&ref=anno-search&seite=13",
+    "krp_person_id": "krp_person_id__319"
+  },
+  "320": {
+    "id": 320,
+    "order": "284.00000000000000000000",
+    "Name": "Barrés,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Präses des interalliierten Luftfahrtüberwachungsausschusses",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=drf&datum=19200515&query=%22Luftfahrt%22&ref=anno-search&seite=1",
+    "krp_person_id": "krp_person_id__320"
+  },
+  "321": {
+    "id": 321,
+    "order": "285.00000000000000000000",
+    "Name": "Wallace,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Washington KRP 182",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=drf&datum=19200515&query=%22Herr+Wallace%22&ref=anno-search&seite=1",
+    "krp_person_id": "krp_person_id__321"
+  },
+  "322": {
+    "id": 322,
+    "order": "286.00000000000000000000",
+    "Name": "Torretta, Pietro Tomasi",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "italienischer Gesandter",
+    "Quelle": "https://de.wikipedia.org/wiki/Pietro_Tomasi_Della_Torretta",
+    "krp_person_id": "krp_person_id__322"
+  },
+  "323": {
+    "id": 323,
+    "order": "287.00000000000000000000",
+    "Name": "Habsburg-Lothringen, Rainer",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__323"
+  },
+  "324": {
+    "id": 324,
+    "order": "288.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__324"
+  },
+  "325": {
+    "id": 325,
+    "order": "289.00000000000000000000",
+    "Name": "Dittrich, Bruno",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Korvettenkapitän",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
+    "krp_person_id": "krp_person_id__325"
+  },
+  "326": {
+    "id": 326,
+    "order": "290.00000000000000000000",
+    "Name": "Wettendorfer,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hauptmann",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
+    "krp_person_id": "krp_person_id__326"
+  },
+  "327": {
+    "id": 327,
+    "order": "291.00000000000000000000",
+    "Name": "Egger, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberfinanzrat",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=svb&datum=19200903&query=%22Oberfinanzrat+Egger%22&ref=anno-search&seite=6",
+    "krp_person_id": "krp_person_id__327"
+  },
+  "328": {
+    "id": 328,
+    "order": "292.00000000000000000000",
+    "Name": "Ruber",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat Staatsamt für Inneres und Unterricht [III]",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200501&query=%22Sektionsrat+Ruber%22&ref=anno-search&seite=5",
+    "krp_person_id": "krp_person_id__328"
   }
 }

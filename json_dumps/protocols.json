@@ -6029,7 +6029,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -6072,7 +6072,7 @@
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
-    "digitalisat_komplett": false,
+    "digitalisat_komplett": true,
     "steno_gesamtseitenzahl": "17",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
@@ -7077,20 +7077,20 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "6",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Präsenzliste sowie Beilage über die Instruktionen zur Abgrenzungskommission",
+    "anmerkungen_dokument": "Präsenzliste sowie Beilage über die Instruktionen zur Abgrenzungskommission\n\nSteno A ist transkribiert, Steno B nicht",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "29",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
@@ -7098,7 +7098,7 @@
     "konzept": true,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
