@@ -93,7 +93,7 @@
     "Name": "Firma Glesinger S.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396732"
   },
   "13": {
     "id": 13,
@@ -125,7 +125,7 @@
     "Name": "Holenia Franz & Co.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396750"
   },
   "17": {
     "id": 17,
@@ -261,7 +261,7 @@
     "Name": "Redlich Brüder & Berger",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396823"
   },
   "33": {
     "id": 33,
@@ -333,7 +333,7 @@
     "Name": "Tecta Grundbesitz- und Verwaltungs-Gesellschaft-mbH",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396860"
   },
   "42": {
     "id": 42,
@@ -446,5 +446,37 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191219&seite=7&zoom=33&query=%22staatliche%22%2B%22industriewerke%22%2B%22linder%22&ref=anno-search"
+  },
+  "57": {
+    "id": 57,
+    "order": "56.00000000000000000000",
+    "Name": "Erzherzoglich Ludwig Viktor'sche Familienstiftung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://sammlung-online.salzburgmuseum.at/detail/collection/1c8f3738-deaa-4fd3-8e65-356a0a9bdfe4"
+  },
+  "58": {
+    "id": 58,
+    "order": "57.00000000000000000000",
+    "Name": "Mayreder, Kraus & Co. Bauholdingges.M.b.H.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.aeiou.at/aeiou.encyclop.m/m403821.htm"
+  },
+  "59": {
+    "id": 59,
+    "order": "58.00000000000000000000",
+    "Name": "interalliierter Luftfahrtüberwachungsausschuss",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "60": {
+    "id": 60,
+    "order": "59.00000000000000000000",
+    "Name": "Interalliierte Heeresüberwachungsausschuss",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
   }
 }

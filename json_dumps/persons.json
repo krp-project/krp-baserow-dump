@@ -1072,7 +1072,7 @@
   "118": {
     "id": 118,
     "order": "117.00000000000000000000",
-    "Name": "Vetter, Adolf",
+    "Name": "Vetter, Adolf Dr.",
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Sektionschef",
@@ -2262,7 +2262,7 @@
   "305": {
     "id": 305,
     "order": "269.00000000000000000000",
-    "Name": "Linder,",
+    "Name": "Linder, Ing.",
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Generaldirektor Industriewerke",
@@ -2399,16 +2399,6 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__323"
   },
-  "324": {
-    "id": 324,
-    "order": "288.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__324"
-  },
   "325": {
     "id": 325,
     "order": "289.00000000000000000000",
@@ -2448,5 +2438,435 @@
     "Funktion": "Sektionsrat Staatsamt für Inneres und Unterricht [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200501&query=%22Sektionsrat+Ruber%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__328"
+  },
+  "329": {
+    "id": 329,
+    "order": "293.00000000000000000000",
+    "Name": "Schwegel, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat Staatskanzlei",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19200814&query=%22Sektionsrat+Dr.+Schwegel%22&ref=anno-search&seite=5",
+    "krp_person_id": "krp_person_id__329"
+  },
+  "330": {
+    "id": 330,
+    "order": "294.00000000000000000000",
+    "Name": "Peter",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "früherer Fregattenkapitän; Vertreter bei Grenzbestimmungskommission",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gpt&datum=19200709&query=%22Fregattenkapit%c3%a4n+Peter%22&ref=anno-search&seite=14",
+    "krp_person_id": "krp_person_id__330"
+  },
+  "331": {
+    "id": 331,
+    "order": "295.00000000000000000000",
+    "Name": "Aub,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "kaufmännischer Direktor der staatlichen Industriewerke",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19200725&query=%22Direktor+Aub%22&ref=anno-search&seite=16",
+    "krp_person_id": "krp_person_id__331"
+  },
+  "332": {
+    "id": 332,
+    "order": "296.00000000000000000000",
+    "Name": "Kurz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "technischer Direktor der staatlichen Industriewerke",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__332"
+  },
+  "333": {
+    "id": 333,
+    "order": "297.00000000000000000000",
+    "Name": "Thomes, Albert",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Direktor des Internationalen Arbeitsamtes",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__333"
+  },
+  "334": {
+    "id": 334,
+    "order": "298.00000000000000000000",
+    "Name": "de L‘Epine",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "französischer Kapitän",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__334"
+  },
+  "335": {
+    "id": 335,
+    "order": "299.00000000000000000000",
+    "Name": "Bartsch, Robert (Johann Heinrich Friedrich) Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat Staatsamt für soziale Verwaltung [III]",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_B/Bartsch_Robert_1874_1955.xml",
+    "krp_person_id": "krp_person_id__335"
+  },
+  "336": {
+    "id": 336,
+    "order": "300.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__336"
+  },
+  "337": {
+    "id": 337,
+    "order": "301.00000000000000000000",
+    "Name": "Bunau-Varilla Maurice",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Besitzer der Freischürfe und Grubenmasse am Rathausberg; Anmerkung in KRP 189 S. 8 Moritz geschrieben.",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19230505&query=%22Bunau-Varilla%22&ref=anno-search&seite=7",
+    "krp_person_id": "krp_person_id__337"
+  },
+  "338": {
+    "id": 338,
+    "order": "302.00000000000000000000",
+    "Name": "Schönemann, Adolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Unterbeamter in Graz",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gre&datum=19200225&query=%22Adolf+Sch%c3%b6nemann%22&ref=anno-search&seite=3",
+    "krp_person_id": "krp_person_id__338"
+  },
+  "339": {
+    "id": 339,
+    "order": "303.00000000000000000000",
+    "Name": "Kronholz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Konsul, Staatsamt für Volksernährung [III]",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19200410&query=%22Konsul+Kronholz%22&ref=anno-search&seite=9",
+    "krp_person_id": "krp_person_id__339"
+  },
+  "340": {
+    "id": 340,
+    "order": "304.00000000000000000000",
+    "Name": "Löwe, Ferdinand",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Direktor der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://musiklexikon.ac.at/ml/musik_L/Loewe_Ferdinand.xml",
+    "krp_person_id": "krp_person_id__340"
+  },
+  "341": {
+    "id": 341,
+    "order": "305.00000000000000000000",
+    "Name": "Mandyczewski, Eusebius Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Mandyczewski_Eusebius_von.xml",
+    "krp_person_id": "krp_person_id__341"
+  },
+  "342": {
+    "id": 342,
+    "order": "306.00000000000000000000",
+    "Name": "Schlemmer-Ambros, Irene",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professorin an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://musiklexikon.ac.at/ml/musik_A/Ambros_August_Wilhelm.xml",
+    "krp_person_id": "krp_person_id__342"
+  },
+  "343": {
+    "id": 343,
+    "order": "307.00000000000000000000",
+    "Name": "Forsten, Philipp",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "1894–1926 Prof. am Konservatorium der GdM bzw. an der Wiener MAkad.",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_F/Forsten_Filip.xml",
+    "krp_person_id": "krp_person_id__343"
+  },
+  "344": {
+    "id": 344,
+    "order": "308.00000000000000000000",
+    "Name": "Geiringer Gustav",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Lehrer für Sologesang",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_G/Geiringer_Ehepaar.xml",
+    "krp_person_id": "krp_person_id__344"
+  },
+  "345": {
+    "id": 345,
+    "order": "309.00000000000000000000",
+    "Name": "Haböck, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_H/Haboeck_Franz.xml",
+    "krp_person_id": "krp_person_id__345"
+  },
+  "346": {
+    "id": 346,
+    "order": "310.00000000000000000000",
+    "Name": "Thomas, Eugen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_T/Thomas_Eugen.xml",
+    "krp_person_id": "krp_person_id__346"
+  },
+  "347": {
+    "id": 347,
+    "order": "311.00000000000000000000",
+    "Name": "Reinhold, Hugo",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_R/Reinhold_Hugo.xml",
+    "krp_person_id": "krp_person_id__347"
+  },
+  "348": {
+    "id": 348,
+    "order": "312.00000000000000000000",
+    "Name": "Papier-Paumgartner, Rosa",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professorin an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_P/Paumgartner_Rosa_1858_1932.xml",
+    "krp_person_id": "krp_person_id__348"
+  },
+  "349": {
+    "id": 349,
+    "order": "313.00000000000000000000",
+    "Name": "Hofmann, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_H/Hofmann_Josef.xml",
+    "krp_person_id": "krp_person_id__349"
+  },
+  "350": {
+    "id": 350,
+    "order": "314.00000000000000000000",
+    "Name": "Schmidt, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_S/Schmidt_Franz.xml",
+    "krp_person_id": "krp_person_id__350"
+  },
+  "351": {
+    "id": 351,
+    "order": "315.00000000000000000000",
+    "Name": "Prohaska, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://biographien.ac.at/oebl/oebl_P/Prohaska_Karl_1869_1927.xml",
+    "krp_person_id": "krp_person_id__351"
+  },
+  "383": {
+    "id": 383,
+    "order": "316.00000000000000000000",
+    "Name": "Grümmer, Paul",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://musiklexikon.ac.at/0xc1aa5576_0x003c59ef",
+    "krp_person_id": "krp_person_id__383"
+  },
+  "384": {
+    "id": 384,
+    "order": "317.00000000000000000000",
+    "Name": "Marx, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
+    "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Marx_Joseph.xml",
+    "krp_person_id": "krp_person_id__384"
+  },
+  "385": {
+    "id": 385,
+    "order": "318.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__385"
+  },
+  "416": {
+    "id": 416,
+    "order": "319.00000000000000000000",
+    "Name": "Pöstinger, Mathias",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Kapitän, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__416"
+  },
+  "417": {
+    "id": 417,
+    "order": "320.00000000000000000000",
+    "Name": "Zsiska, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Kapitän, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__417"
+  },
+  "418": {
+    "id": 418,
+    "order": "321.00000000000000000000",
+    "Name": "Kotzian, Mathias",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__418"
+  },
+  "419": {
+    "id": 419,
+    "order": "322.00000000000000000000",
+    "Name": "Kogler, Raimund",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__419"
+  },
+  "450": {
+    "id": 450,
+    "order": "323.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__450"
+  },
+  "451": {
+    "id": 451,
+    "order": "324.00000000000000000000",
+    "Name": "Kogler, Raimund",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__451"
+  },
+  "452": {
+    "id": 452,
+    "order": "325.00000000000000000000",
+    "Name": "Obermaier, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Steuermann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__452"
+  },
+  "453": {
+    "id": 453,
+    "order": "326.00000000000000000000",
+    "Name": "Griesmüller, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Steuermann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__453"
+  },
+  "454": {
+    "id": 454,
+    "order": "327.00000000000000000000",
+    "Name": "Hartmannsgruber, Eberhard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__454"
+  },
+  "455": {
+    "id": 455,
+    "order": "328.00000000000000000000",
+    "Name": "Schwarzinger, Ernst",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__455"
+  },
+  "456": {
+    "id": 456,
+    "order": "329.00000000000000000000",
+    "Name": "Ring, Ferdinand",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__456"
+  },
+  "457": {
+    "id": 457,
+    "order": "330.00000000000000000000",
+    "Name": "Boninchi, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__457"
+  },
+  "458": {
+    "id": 458,
+    "order": "331.00000000000000000000",
+    "Name": "Sonnberger, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__458"
+  },
+  "459": {
+    "id": 459,
+    "order": "332.00000000000000000000",
+    "Name": "Haider, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__459"
+  },
+  "460": {
+    "id": 460,
+    "order": "333.00000000000000000000",
+    "Name": "Breuer, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__460"
+  },
+  "461": {
+    "id": 461,
+    "order": "334.00000000000000000000",
+    "Name": "Wiesmaier, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Maschinenwärter, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__461"
+  },
+  "462": {
+    "id": 462,
+    "order": "335.00000000000000000000",
+    "Name": "Schlosser, Rudolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__462"
   }
 }

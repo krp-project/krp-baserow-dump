@@ -7144,5 +7144,38 @@
     "steno_gesamtseitenzahl": "20",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
+  },
+  "209": {
+    "id": 209,
+    "order": "164.00000000000000000000",
+    "krp_id": "",
+    "date": null,
+    "written_date": "",
+    "title": "",
+    "orig_file_name": "",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null,
+    "steno_anzahl": null,
+    "anzahl_beilagen": null,
+    "docx_done": null,
+    "str_vertr_anhang": false,
+    "vertr_anhang": false,
+    "reinschrift": false,
+    "anmerkungen_dokument": "",
+    "archivalien_nachdigitalisiert": "",
+    "kartonnummer": null,
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
+    "konzept": false,
+    "tagesordnung": false,
+    "digitalisat_komplett": false,
+    "steno_gesamtseitenzahl": null,
+    "str_vertr_anhang_gesamtseitenzahl": null,
+    "str_vertr_anhang_koll": false
   }
 }
