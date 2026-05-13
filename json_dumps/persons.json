@@ -1732,10 +1732,10 @@
   "238": {
     "id": 238,
     "order": "204.00000000000000000000",
-    "Name": "Phil[l]potts, O. S.",
+    "Name": "Phillpotts, Owen S.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Funktion": "",
+    "Funktion": "Handelsattaché",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwg&datum=19191130&query=%22Philpotts%22&ref=anno-search&seite=12",
     "krp_person_id": "krp_person_id__238"
   },
@@ -2865,8 +2865,118 @@
     "Name": "Schlosser, Rudolf",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Funktion": "",
+    "Funktion": "Baggerschiffmann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__462"
+  },
+  "463": {
+    "id": 463,
+    "order": "336.00000000000000000000",
+    "Name": "Cnobloch, Hans Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gesandter",
+    "Quelle": "https://www.bmeia.gv.at/oeb-budapest/ueber-uns/geschichte",
+    "krp_person_id": "krp_person_id__463"
+  },
+  "464": {
+    "id": 464,
+    "order": "337.00000000000000000000",
+    "Name": "Lers",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "ungarischer Staatssekretär",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19170716&query=%22Staatssekretär+Lers%22&ref=anno-search&seite=4",
+    "krp_person_id": "krp_person_id__464"
+  },
+  "465": {
+    "id": 465,
+    "order": "338.00000000000000000000",
+    "Name": "Pozzi",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hofrat, Zentralgrenzkommission",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19240509&query=%22Hofrat+Pozzi%22&ref=anno-search&seite=7",
+    "krp_person_id": "krp_person_id__465"
+  },
+  "466": {
+    "id": 466,
+    "order": "339.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__466"
+  },
+  "467": {
+    "id": 467,
+    "order": "340.00000000000000000000",
+    "Name": "Mannlicher, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat Staatskanzlei",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__467"
+  },
+  "468": {
+    "id": 468,
+    "order": "341.00000000000000000000",
+    "Name": "Bernhard, Alphons",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberstleutnant Innsbruck",
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=fst&datum=19200821&query=%22Alphons+Bernhard%22&ref=anno-search&seite=3",
+    "krp_person_id": "krp_person_id__468"
+  },
+  "469": {
+    "id": 469,
+    "order": "342.00000000000000000000",
+    "Name": "Schüch",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberst, Delegierter der Abgrenzungskommission für die ungarische Grenze",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__469"
+  },
+  "470": {
+    "id": 470,
+    "order": "343.00000000000000000000",
+    "Name": "Metzger,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberst, Delegierter für die Abgrenzungskommission für die tschechoslowakische Grenze",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__470"
+  },
+  "471": {
+    "id": 471,
+    "order": "344.00000000000000000000",
+    "Name": "Steyrer,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Major, Delegierter für die Abgrenzungskommission für die jugoslawische Grenze",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__471"
+  },
+  "472": {
+    "id": 472,
+    "order": "345.00000000000000000000",
+    "Name": "Kohler",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hauptmann, Gehilfe des Delegierten für die Abgrenzungskommission für die italienische Grenze",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__472"
+  },
+  "473": {
+    "id": 473,
+    "order": "346.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__473"
   }
 }
