@@ -39,6 +39,14 @@
     "Aktiv": false,
     "Quelle": ""
   },
+  "97": {
+    "id": 97,
+    "order": "5.50000000000000000000",
+    "Name": "Credit-Institute für öffentliche Unternehmungen und Arbeiten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
@@ -54,6 +62,30 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": "https://www.austrodaimler.at/firmengeschichte/"
+  },
+  "98": {
+    "id": 98,
+    "order": "7.33333333333333303727",
+    "Name": "Allgemeine österreichische Boden-Credit-Anstalt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck%20%204c4ae136-840a-4d52-b747-b8e62f3d7449VERA#Stueck__4c4ae136-840a-4d52-b747-b8e62f3d7449VERA"
+  },
+  "93": {
+    "id": 93,
+    "order": "7.50000000000000000000",
+    "Name": "Arbeiter-Unfallversicherungsanstalt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "94": {
+    "id": 94,
+    "order": "7.66666666666666696273",
+    "Name": "Deutschösterreichische Lebensmitteleinfuhrstelle (Dölest)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.parlament.gv.at/dokument/KN/I-KN/381/imfname_719385.pdf"
   },
   "8": {
     "id": 8,
@@ -119,6 +151,14 @@
     "Aktiv": false,
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200714&seite=14&zoom=33&query=%22Graz%2BK%C3%B6flacher%2BEisenbahn-%2Bund%2BBergbau-Gesellschaft%22&ref=anno-search"
   },
+  "96": {
+    "id": 96,
+    "order": "15.50000000000000000000",
+    "Name": "\"Henry\" Seifen-, Kerzen- und Fettwarenfabrik GmbH",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
@@ -150,6 +190,14 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200626&seite=14&zoom=33&query=%22inva%22&ref=anno-search"
+  },
+  "95": {
+    "id": 95,
+    "order": "19.33333333333333214910",
+    "Name": "Interalliierte Lebensmittelkommission",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
   },
   "56": {
     "id": 56,
