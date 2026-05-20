@@ -159,6 +159,30 @@
     "Aktiv": false,
     "Quelle": ""
   },
+  "102": {
+    "id": 102,
+    "order": "15.66666666666666607455",
+    "Name": "Spedition Caro & Jellinek",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "104": {
+    "id": 104,
+    "order": "15.71428571428571352442",
+    "Name": "Reichsvollzugsausschusses der Soldatenräte Deutschösterreichs",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "103": {
+    "id": 103,
+    "order": "15.75000000000000000000",
+    "Name": "Gemeinde Wien-Städtische Straßenbahnen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
@@ -203,6 +227,22 @@
     "id": 56,
     "order": "19.50000000000000000000",
     "Name": "Internationale Liquidierungskommission",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "19.66666666666666785090",
+    "Name": "Kärntner Forstverein",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://kaerntner-forstverein.at/wp-content/uploads/2022/05/Festschrift-web.pdf"
+  },
+  "100": {
+    "id": 100,
+    "order": "19.75000000000000000000",
+    "Name": "Internationalen Komitee vom Roten Kreuz",
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": ""
@@ -462,6 +502,14 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": "OESTA: AT-OeStA/AdR AuS BMfVE ZPPK"
+  },
+  "101": {
+    "id": 101,
+    "order": "51.50000000000000000000",
+    "Name": "Zentralbureau für Seuchenbekämpfung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
   },
   "52": {
     "id": 52,
