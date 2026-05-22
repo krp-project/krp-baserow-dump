@@ -1755,14 +1755,14 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "fehlen Steno S. 1, 2 und 7 zu transkribieren",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
@@ -1798,7 +1798,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "2. Seite des 2. Stenos nicht digitalisiert, Achtung auf Reihenfolge der Stenos beim Digitalisieren",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_trans": [
