@@ -4472,9 +4472,9 @@
     "kartonnummer": "18",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
