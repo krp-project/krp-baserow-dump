@@ -574,5 +574,13 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": ""
+  },
+  "105": {
+    "id": 105,
+    "order": "60.00000000000000000000",
+    "Name": "Firma Kreidl, Heller & Co.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
   }
 }
