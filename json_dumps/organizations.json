@@ -582,5 +582,13 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": ""
+  },
+  "106": {
+    "id": 106,
+    "order": "61.00000000000000000000",
+    "Name": "Mitterberger Kupfer AG",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://wiki.sn.at/wiki/Mitterberger_Kupferbergbau_(Unternehmen)"
   }
 }
