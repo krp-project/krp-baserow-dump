@@ -1,4 +1,14 @@
 {
+  "481": {
+    "id": 481,
+    "order": "0.50000000000000000000",
+    "Name": "Bašta",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Tschechoslowakischer Sektionschef",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__481"
+  },
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
@@ -38,6 +48,16 @@
     "Funktion": "Sektionsrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
     "krp_person_id": "krp_person_id__39"
+  },
+  "475": {
+    "id": 475,
+    "order": "3.66666666666666651864",
+    "Name": "Decker, Achilles",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Außerordentlicher Professor an der Exportakademie Wien",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__475"
   },
   "4": {
     "id": 4,
@@ -399,6 +419,16 @@
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
     "krp_person_id": "krp_person_id__43"
   },
+  "477": {
+    "id": 477,
+    "order": "43.50000000000000000000",
+    "Name": "Cunningham, Thomas",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberster britischer Militärattaché in Wien",
+    "Quelle": "Robert Hoffmann, Die Mission Sir Thomas Cuninghames in Wien 1919. Britische Österreichpolitik zur Zeit Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
+    "krp_person_id": "krp_person_id__477"
+  },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
@@ -406,7 +436,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
-    "Quelle": "ÖBL Online-Edition, Lfg. 6 (27.11.2017); Österreichischer Amtskalender, 1922, S. 39.",
+    "Quelle": "der Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
     "krp_person_id": "krp_person_id__44"
   },
   "46": {
@@ -769,6 +799,16 @@
     "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 545; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1687.",
     "krp_person_id": "krp_person_id__85"
   },
+  "482": {
+    "id": 482,
+    "order": "84.50000000000000000000",
+    "Name": "Weiskirchner, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bürgermeister Wiens",
+    "Quelle": "https://www.biographien.ac.at/oebl_16/81.pdf;https://www.biographien.ac.at/oebl_16/82.pdf",
+    "krp_person_id": "krp_person_id__482"
+  },
   "86": {
     "id": 86,
     "order": "85.00000000000000000000",
@@ -1128,6 +1168,16 @@
     "Funktion": "Chef der amerikanischen Lebensmittelkommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__125"
+  },
+  "480": {
+    "id": 480,
+    "order": "124.50000000000000000000",
+    "Name": "Burger",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Tschechoslowakischer Sektionschef",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__480"
   },
   "126": {
     "id": 126,
@@ -1999,6 +2049,16 @@
     "Quelle": "https://www.parlament.gv.at/person/534",
     "krp_person_id": "krp_person_id__272"
   },
+  "476": {
+    "id": 476,
+    "order": "237.00000000000000000000",
+    "Name": "Segré, Roberto",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter der italienischen Waffenstillstandskommission",
+    "Quelle": "https://pro.unibz.it/library/bupress/publications/fulltext/9788860461735_10.pdf - S. 259",
+    "krp_person_id": "krp_person_id__476"
+  },
   "274": {
     "id": 274,
     "order": "238.00000000000000000000",
@@ -2118,6 +2178,16 @@
     "Funktion": "Bühnenbildner, Maler",
     "Quelle": "https://www.biographien.ac.at/oebl_9/224.pdf",
     "krp_person_id": "krp_person_id__289"
+  },
+  "479": {
+    "id": 479,
+    "order": "253.50000000000000000000",
+    "Name": "Ganglbauer, Ernest",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Stellvertretender Vertreter der Internationalen Liquidiuerungskommission",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__479"
   },
   "290": {
     "id": 290,
@@ -2358,6 +2428,16 @@
     "Funktion": "Sektionschef Staatsamt für Justiz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=gez&datum=19200141&query=(text:%22rudolf+Paltauf%22)&ref=anno-search&seite=13",
     "krp_person_id": "krp_person_id__319"
+  },
+  "474": {
+    "id": 474,
+    "order": "283.50000000000000000000",
+    "Name": "Bamberger, Max Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Technischen Hochschule in Wien",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__474"
   },
   "320": {
     "id": 320,
