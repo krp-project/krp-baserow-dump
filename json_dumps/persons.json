@@ -419,6 +419,16 @@
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
     "krp_person_id": "krp_person_id__43"
   },
+  "488": {
+    "id": 488,
+    "order": "43.33333333333333570181",
+    "Name": "Curzon, George Nathaniel",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Britischer Außenminister",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__488"
+  },
   "477": {
     "id": 477,
     "order": "43.50000000000000000000",
@@ -595,7 +605,7 @@
     "Name": "Kralowsky, Emil Dr.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Funktion": "Sektionschef im Staatsamt für Heerwesen",
+    "Funktion": "des Staatssiegelamte",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 110.",
     "krp_person_id": "krp_person_id__64"
   },
@@ -1119,6 +1129,16 @@
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_V/Vetter_Adolf_1867_1942.xml",
     "krp_person_id": "krp_person_id__118"
   },
+  "483": {
+    "id": 483,
+    "order": "117.50000000000000000000",
+    "Name": "Schöpfer, Ämilian Prof. Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vorsitzende der Staatskommission für Kriegsgefangene",
+    "Quelle": "https://www.parlament.gv.at/person/1764",
+    "krp_person_id": "krp_person_id__483"
+  },
   "119": {
     "id": 119,
     "order": "118.00000000000000000000",
@@ -1499,6 +1519,16 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__198"
   },
+  "485": {
+    "id": 485,
+    "order": "166.00000000000000000000",
+    "Name": "Kowy, Jakob Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter des Büros des Staatssiegelamtes",
+    "Quelle": "Staatsrat Bd. 3, S. 723f.",
+    "krp_person_id": "krp_person_id__485"
+  },
   "200": {
     "id": 200,
     "order": "167.00000000000000000000",
@@ -1648,6 +1678,16 @@
     "Funktion": "Sektionsrat Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__220"
+  },
+  "486": {
+    "id": 486,
+    "order": "188.00000000000000000000",
+    "Name": "Neumann, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Rechtsanwalt von Erzherzog Friedrich",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__486"
   },
   "223": {
     "id": 223,
@@ -1919,6 +1959,16 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dvb&datum=19200111&query=%22Sektionsrat+Kaltenbrunner%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__253"
   },
+  "489": {
+    "id": 489,
+    "order": "220.00000000000000000000",
+    "Name": "Harpner, Gustav Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Rechtsanwalt in Wien",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__489"
+  },
   "255": {
     "id": 255,
     "order": "221.00000000000000000000",
@@ -2138,6 +2188,16 @@
     "Funktion": "Colonel; Mitglied Reparationskommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__284"
+  },
+  "484": {
+    "id": 484,
+    "order": "248.50000000000000000000",
+    "Name": "Slatin, Rudolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Mitglied in der Staatskommission für Kriegsgefangene",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_S/Slatin_Rudolf_1857_1932.xml",
+    "krp_person_id": "krp_person_id__484"
   },
   "285": {
     "id": 285,
@@ -2858,6 +2918,16 @@
     "Funktion": "Steuermann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__453"
+  },
+  "487": {
+    "id": 487,
+    "order": "326.50000000000000000000",
+    "Name": "Hartmann, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gesandter Deutschösterreichs in Berlin",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__487"
   },
   "454": {
     "id": 454,
