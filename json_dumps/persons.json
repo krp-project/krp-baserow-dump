@@ -109,6 +109,16 @@
     "Quelle": "https://www.parlament.gv.at/person/4332",
     "krp_person_id": "krp_person_id__8"
   },
+  "494": {
+    "id": 494,
+    "order": "8.50000000000000000000",
+    "Name": "Feitler, Sigmund Prof. Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Exportakademie",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__494"
+  },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
@@ -379,6 +389,16 @@
     "Quelle": "https://www.parlament.gv.at/person/1380",
     "krp_person_id": "krp_person_id__35"
   },
+  "509": {
+    "id": 509,
+    "order": "35.50000000000000000000",
+    "Name": "Wagner, Dominik",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gendarm",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__509"
+  },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
@@ -439,6 +459,16 @@
     "Quelle": "Robert Hoffmann, Die Mission Sir Thomas Cuninghames in Wien 1919. Britische Österreichpolitik zur Zeit Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
     "krp_person_id": "krp_person_id__477"
   },
+  "506": {
+    "id": 506,
+    "order": "43.66666666666666429819",
+    "Name": "Dametz, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bürgermeister von Linz",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__506"
+  },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
@@ -488,6 +518,16 @@
     "Funktion": "Sektionschef in der Staatskanzlei",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 29.",
     "krp_person_id": "krp_person_id__50"
+  },
+  "491": {
+    "id": 491,
+    "order": "50.50000000000000000000",
+    "Name": "Gruntzel, Josef Prof. Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Exportakademie",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__491"
   },
   "51": {
     "id": 51,
@@ -555,9 +595,19 @@
     "Name": "Homann, Emil [Freiherr v. Herimberg Dr.mont.h.c.?",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Funktion": "Leiter d liquidierenden Kriegsministeriums",
+    "Funktion": "Leiter des liquidierenden Kriegsministeriums",
     "Quelle": "Österreichisches Biographisches Lexikon 1815–1950 (ÖBL). Band 2, Verlag der Österreichischen Akademie der Wissenschaften, Wien 1959, S.411f. Homann von Herimberg, Emil Frh.",
     "krp_person_id": "krp_person_id__59"
+  },
+  "507": {
+    "id": 507,
+    "order": "58.50000000000000000000",
+    "Name": "Hugelmann, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialsekretär",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__507"
   },
   "60": {
     "id": 60,
@@ -899,6 +949,16 @@
     "Quelle": "https://www.parlament.gv.at/person/182",
     "krp_person_id": "krp_person_id__94"
   },
+  "502": {
+    "id": 502,
+    "order": "93.50000000000000000000",
+    "Name": "Wimmer, Ferdinand [Freiherr von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ehemliger K. u. K. Finanzminister",
+    "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1225370043",
+    "krp_person_id": "krp_person_id__502"
+  },
   "95": {
     "id": 95,
     "order": "94.00000000000000000000",
@@ -1038,6 +1098,16 @@
     "Funktion": "Ministerialrat, Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190418&query=%22Rudolf+Kloss%22&ref=anno-search&seite=1",
     "krp_person_id": "krp_person_id__109"
+  },
+  "500": {
+    "id": 500,
+    "order": "108.50000000000000000000",
+    "Name": "Kollmann, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Abgeordneter in der Konst. Nationalversammlung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__500"
   },
   "110": {
     "id": 110,
@@ -1618,6 +1688,16 @@
     "Funktion": "Ministerialrat Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__209"
+  },
+  "505": {
+    "id": 505,
+    "order": "176.50000000000000000000",
+    "Name": "Wernigg, Maria",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hilfsämterdirektorswaise",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__505"
   },
   "210": {
     "id": 210,
@@ -2209,6 +2289,16 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__285"
   },
+  "508": {
+    "id": 508,
+    "order": "249.50000000000000000000",
+    "Name": "Boog, Adolf [von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Feldmarschallleutnant",
+    "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1314980769",
+    "krp_person_id": "krp_person_id__508"
+  },
   "286": {
     "id": 286,
     "order": "250.00000000000000000000",
@@ -2369,6 +2459,16 @@
     "Quelle": "https://de.wikipedia.org/wiki/Hotel_de_l%E2%80%99Europe_(Salzburg)",
     "krp_person_id": "krp_person_id__302"
   },
+  "497": {
+    "id": 497,
+    "order": "266.50000000000000000000",
+    "Name": "Wokral, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bürgermeister der Stadt Steyr",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__497"
+  },
   "303": {
     "id": 303,
     "order": "267.00000000000000000000",
@@ -2438,6 +2538,16 @@
     "Funktion": "Sektionschef Staatsamt für Äußeres",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19221016&query=%22Richard+Oppenheimer%22&ref=anno-search&seite=1",
     "krp_person_id": "krp_person_id__310"
+  },
+  "490": {
+    "id": 490,
+    "order": "275.00000000000000000000",
+    "Name": "Heiderich, Franz Prof. Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Exportakademie",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__490"
   },
   "312": {
     "id": 312,
@@ -2559,6 +2669,16 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
     "krp_person_id": "krp_person_id__326"
   },
+  "504": {
+    "id": 504,
+    "order": "290.50000000000000000000",
+    "Name": "Eckl, Herta",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hilfsämterdirektorstochter",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__504"
+  },
   "327": {
     "id": 327,
     "order": "291.00000000000000000000",
@@ -2609,6 +2729,16 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19200725&query=%22Direktor+Aub%22&ref=anno-search&seite=16",
     "krp_person_id": "krp_person_id__331"
   },
+  "499": {
+    "id": 499,
+    "order": "295.50000000000000000000",
+    "Name": "Kunzl, F. Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Obmann des allgemeinen Schutzbundes für Kriegsteilnehmer",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__499"
+  },
   "332": {
     "id": 332,
     "order": "296.00000000000000000000",
@@ -2649,16 +2779,6 @@
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_B/Bartsch_Robert_1874_1955.xml",
     "krp_person_id": "krp_person_id__335"
   },
-  "336": {
-    "id": 336,
-    "order": "300.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__336"
-  },
   "337": {
     "id": 337,
     "order": "301.00000000000000000000",
@@ -2678,6 +2798,16 @@
     "Funktion": "Unterbeamter in Graz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gre&datum=19200225&query=%22Adolf+Sch%c3%b6nemann%22&ref=anno-search&seite=3",
     "krp_person_id": "krp_person_id__338"
+  },
+  "503": {
+    "id": 503,
+    "order": "302.50000000000000000000",
+    "Name": "Kratzig, Wilhelmine",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Kanzleiadjunktentochter",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__503"
   },
   "339": {
     "id": 339,
@@ -2789,6 +2919,16 @@
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_H/Hofmann_Josef.xml",
     "krp_person_id": "krp_person_id__349"
   },
+  "493": {
+    "id": 493,
+    "order": "313.50000000000000000000",
+    "Name": "Schmid, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der Exportakademie",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__493"
+  },
   "350": {
     "id": 350,
     "order": "314.00000000000000000000",
@@ -2798,6 +2938,16 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_S/Schmidt_Franz.xml",
     "krp_person_id": "krp_person_id__350"
+  },
+  "495": {
+    "id": 495,
+    "order": "314.50000000000000000000",
+    "Name": "Priebsch, Josef Prof. Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Außerordentlicher Professor an der Exportakademie",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__495"
   },
   "351": {
     "id": 351,
@@ -2828,16 +2978,6 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Marx_Joseph.xml",
     "krp_person_id": "krp_person_id__384"
-  },
-  "385": {
-    "id": 385,
-    "order": "318.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__385"
   },
   "416": {
     "id": 416,
@@ -2878,16 +3018,6 @@
     "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__419"
-  },
-  "450": {
-    "id": 450,
-    "order": "323.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__450"
   },
   "451": {
     "id": 451,
@@ -2938,6 +3068,16 @@
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__454"
+  },
+  "496": {
+    "id": 496,
+    "order": "327.50000000000000000000",
+    "Name": "Schürff, Hans Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Abgeordnerter in der Nationalversammlung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__496"
   },
   "455": {
     "id": 455,
@@ -3049,16 +3189,6 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19240509&query=%22Hofrat+Pozzi%22&ref=anno-search&seite=7",
     "krp_person_id": "krp_person_id__465"
   },
-  "466": {
-    "id": 466,
-    "order": "339.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__466"
-  },
   "467": {
     "id": 467,
     "order": "340.00000000000000000000",
@@ -3118,15 +3248,5 @@
     "Funktion": "Hauptmann, Gehilfe des Delegierten für die Abgrenzungskommission für die italienische Grenze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__472"
-  },
-  "473": {
-    "id": 473,
-    "order": "346.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Funktion": "",
-    "Quelle": "",
-    "krp_person_id": "krp_person_id__473"
   }
 }
