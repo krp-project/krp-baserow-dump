@@ -249,6 +249,16 @@
     "Quelle": "https://www.parlament.gv.at/person/1146",
     "krp_person_id": "krp_person_id__21"
   },
+  "555": {
+    "id": 555,
+    "order": "21.50000000000000000000",
+    "Name": "Parma, Robert [von]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Herzog",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__555"
+  },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
@@ -459,6 +469,16 @@
     "Quelle": "Robert Hoffmann, Die Mission Sir Thomas Cuninghames in Wien 1919. Britische Österreichpolitik zur Zeit Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
     "krp_person_id": "krp_person_id__477"
   },
+  "557": {
+    "id": 557,
+    "order": "43.60000000000000142109",
+    "Name": "Czech, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__557"
+  },
   "506": {
     "id": 506,
     "order": "43.66666666666666429819",
@@ -638,6 +658,16 @@
     "Funktion": "Sektionschef für im Staatsamt für soziale Verwaltung",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1511; Kabinettsratsprotokolle Renner Bd. 1, S. 55.",
     "krp_person_id": "krp_person_id__62"
+  },
+  "547": {
+    "id": 547,
+    "order": "61.50000000000000000000",
+    "Name": "Klimburg, Otto",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef in der bosnisch herzegowinischen Abteilung des liquidierenden gemeinsamen Finanzministeriums",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__547"
   },
   "63": {
     "id": 63,
@@ -849,6 +879,16 @@
     "Quelle": "ÖBL 1815-1950, Bd. 12 (Lfg. 55, 2001), S. 56f; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1639.",
     "krp_person_id": "krp_person_id__84"
   },
+  "542": {
+    "id": 542,
+    "order": "83.50000000000000000000",
+    "Name": "Teufel, Oskar",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Reichsratsabgeordneter der Deutschradikalen Partei",
+    "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1027122671",
+    "krp_person_id": "krp_person_id__542"
+  },
   "85": {
     "id": 85,
     "order": "84.00000000000000000000",
@@ -969,6 +1009,16 @@
     "Quelle": "https://www.parlament.gv.at/person/1511",
     "krp_person_id": "krp_person_id__95"
   },
+  "548": {
+    "id": 548,
+    "order": "95.00000000000000000000",
+    "Name": "Hutchinson,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vertreter der amerikanischen Mission",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__548"
+  },
   "97": {
     "id": 97,
     "order": "96.00000000000000000000",
@@ -1028,6 +1078,26 @@
     "Funktion": "Präsident des Reichsgerichts",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_Grabmayr_von_Angerheim",
     "krp_person_id": "krp_person_id__102"
+  },
+  "561": {
+    "id": 561,
+    "order": "101.33333333333332859638",
+    "Name": "Benedikt, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Rechtswanwalt",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__561"
+  },
+  "549": {
+    "id": 549,
+    "order": "101.50000000000000000000",
+    "Name": "Berchtold, Leopold [Graf]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ehemaliger Oberstkämmerer",
+    "Quelle": "https://www.biographien.ac.at/oebl_1/71.pdf",
+    "krp_person_id": "krp_person_id__549"
   },
   "103": {
     "id": 103,
@@ -1159,6 +1229,16 @@
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Franz_Martin_Haberditzl",
     "krp_person_id": "krp_person_id__114"
   },
+  "554": {
+    "id": 554,
+    "order": "113.50000000000000000000",
+    "Name": "Leifer,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Finanzrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__554"
+  },
   "115": {
     "id": 115,
     "order": "114.00000000000000000000",
@@ -1278,6 +1358,16 @@
     "Funktion": "englische Lebensmittelkommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__126"
+  },
+  "545": {
+    "id": 545,
+    "order": "125.50000000000000000000",
+    "Name": "Habsburg-Lothringen, Heinrich Ferdinand",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormalig Erzherzog Heinrich Ferdinand",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__545"
   },
   "127": {
     "id": 127,
@@ -1458,6 +1548,26 @@
     "Funktion": "Leiter der Fachgruppe VI im Staatsamt für Heerwesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__146"
+  },
+  "559": {
+    "id": 559,
+    "order": "145.33333333333334280724",
+    "Name": "Lamberg, Josefine",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Kaufinteressenten für eine Parzelle des Benediktinerstiftes St. Peter",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__559"
+  },
+  "558": {
+    "id": 558,
+    "order": "145.50000000000000000000",
+    "Name": "Lamberg, Kunibald",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Kaufinteressenten für eine Parzelle des Benediktinerstiftes St. Peter",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__558"
   },
   "147": {
     "id": 147,
@@ -1778,6 +1888,16 @@
     "Funktion": "Vorstandsvorsitzende der Creditanstalt für Handel und Gewerbe",
     "Quelle": "https://www.lexikon-provenienzforschung.org/neurath-ludwig",
     "krp_person_id": "krp_person_id__223"
+  },
+  "562": {
+    "id": 562,
+    "order": "189.50000000000000000000",
+    "Name": "Rintelen, Anton",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Landeshauptmann der Steiermark",
+    "Quelle": "https://www.biographien.ac.at/oebl/oebl_R/Rintelen_Anton_1876_1946.xml",
+    "krp_person_id": "krp_person_id__562"
   },
   "224": {
     "id": 224,
@@ -2159,6 +2279,16 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__270"
   },
+  "550": {
+    "id": 550,
+    "order": "234.50000000000000000000",
+    "Name": "Millsteiger, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__550"
+  },
   "271": {
     "id": 271,
     "order": "235.00000000000000000000",
@@ -2268,6 +2398,16 @@
     "Funktion": "Colonel; Mitglied Reparationskommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__284"
+  },
+  "560": {
+    "id": 560,
+    "order": "248.33333333333334280724",
+    "Name": "Singer, Julius",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Kommerzialrate",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__560"
   },
   "484": {
     "id": 484,
@@ -2529,6 +2669,16 @@
     "Quelle": "https://www.parlament.gv.at/person/1893",
     "krp_person_id": "krp_person_id__309"
   },
+  "543": {
+    "id": 543,
+    "order": "273.50000000000000000000",
+    "Name": "Oldofredi",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat und Vertreter Deutsch-Südmährens bei der Pariser Friedenskonferenz",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__543"
+  },
   "310": {
     "id": 310,
     "order": "274.00000000000000000000",
@@ -2639,6 +2789,16 @@
     "Quelle": "https://de.wikipedia.org/wiki/Pietro_Tomasi_Della_Torretta",
     "krp_person_id": "krp_person_id__322"
   },
+  "544": {
+    "id": 544,
+    "order": "286.50000000000000000000",
+    "Name": "Habsburg-Lothringen, Peter Ferdinand",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "vormalig Erzherzog  Peter Ferdinand",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__544"
+  },
   "323": {
     "id": 323,
     "order": "287.00000000000000000000",
@@ -2719,6 +2879,16 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gpt&datum=19200709&query=%22Fregattenkapit%c3%a4n+Peter%22&ref=anno-search&seite=14",
     "krp_person_id": "krp_person_id__330"
   },
+  "546": {
+    "id": 546,
+    "order": "294.50000000000000000000",
+    "Name": "Amon,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__546"
+  },
   "331": {
     "id": 331,
     "order": "295.00000000000000000000",
@@ -2788,6 +2958,26 @@
     "Funktion": "Besitzer der Freischürfe und Grubenmasse am Rathausberg; Anmerkung in KRP 189 S. 8 Moritz geschrieben.",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19230505&query=%22Bunau-Varilla%22&ref=anno-search&seite=7",
     "krp_person_id": "krp_person_id__337"
+  },
+  "552": {
+    "id": 552,
+    "order": "301.50000000000000000000",
+    "Name": "Schoeller, Paul",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Gutsbesitzer",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__552"
+  },
+  "556": {
+    "id": 556,
+    "order": "301.66666666666668561447",
+    "Name": "Scholz, Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberfinanzrat im Staatsamt für Finanzen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__556"
   },
   "338": {
     "id": 338,
@@ -2899,6 +3089,16 @@
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_R/Reinhold_Hugo.xml",
     "krp_person_id": "krp_person_id__347"
   },
+  "553": {
+    "id": 553,
+    "order": "311.50000000000000000000",
+    "Name": "Pantz,",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__553"
+  },
   "348": {
     "id": 348,
     "order": "312.00000000000000000000",
@@ -2968,6 +3168,16 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://musiklexikon.ac.at/0xc1aa5576_0x003c59ef",
     "krp_person_id": "krp_person_id__383"
+  },
+  "551": {
+    "id": 551,
+    "order": "316.50000000000000000000",
+    "Name": "Marschall, Rudolf Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor an der bildenden Akademie der Künste",
+    "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D129250821",
+    "krp_person_id": "krp_person_id__551"
   },
   "384": {
     "id": 384,
