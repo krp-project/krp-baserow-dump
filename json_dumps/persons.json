@@ -179,6 +179,16 @@
     "Quelle": "https://www.parlament.gv.at/person/4329",
     "krp_person_id": "krp_person_id__14"
   },
+  "606": {
+    "id": 606,
+    "order": "14.50000000000000000000",
+    "Name": "Ljubicic",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__606"
+  },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
@@ -569,6 +579,16 @@
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 373.",
     "krp_person_id": "krp_person_id__52"
   },
+  "603": {
+    "id": 603,
+    "order": "53.00000000000000000000",
+    "Name": "Haala, Adalbert",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Finanzen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__603"
+  },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
@@ -749,6 +769,16 @@
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1593.",
     "krp_person_id": "krp_person_id__70"
   },
+  "604": {
+    "id": 604,
+    "order": "69.50000000000000000000",
+    "Name": "Pawlitza, Josef",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hofrat der Finanz-Landesdirektion",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__604"
+  },
   "71": {
     "id": 71,
     "order": "70.00000000000000000000",
@@ -769,6 +799,16 @@
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1606.",
     "krp_person_id": "krp_person_id__72"
   },
+  "602": {
+    "id": 602,
+    "order": "71.50000000000000000000",
+    "Name": "Pokorny, Adolf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Feldmarschallleutnant",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__602"
+  },
   "73": {
     "id": 73,
     "order": "72.00000000000000000000",
@@ -788,6 +828,16 @@
     "Funktion": "Sektionschef im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1613.",
     "krp_person_id": "krp_person_id__74"
+  },
+  "600": {
+    "id": 600,
+    "order": "73.50000000000000000000",
+    "Name": "Rehrl, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Landeshauptmannstellvertreter von Salzburg",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__600"
   },
   "75": {
     "id": 75,
@@ -918,6 +968,16 @@
     "Funktion": "Ministerialrat; Sektionschef im Staatsamt für Inneres",
     "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 770.",
     "krp_person_id": "krp_person_id__86"
+  },
+  "599": {
+    "id": 599,
+    "order": "86.00000000000000000000",
+    "Name": "Wildner, Heinrich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Generalkonsul",
+    "Quelle": "https://austria-forum.org/af/Biographien/Wildner%2C_Heinrich",
+    "krp_person_id": "krp_person_id__599"
   },
   "88": {
     "id": 88,
@@ -1318,6 +1378,16 @@
     "Funktion": "Präsident der Polizeidirektion in Wien",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Johannes_Schober",
     "krp_person_id": "krp_person_id__121"
+  },
+  "598": {
+    "id": 598,
+    "order": "121.00000000000000000000",
+    "Name": "Calonder, Felix Loius",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Schweizer Bundespräsident",
+    "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118666681",
+    "krp_person_id": "krp_person_id__598"
   },
   "123": {
     "id": 123,
@@ -1739,6 +1809,16 @@
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_F/Fleischhacker_Robert_1855_1937.xml",
     "krp_person_id": "krp_person_id__202"
   },
+  "605": {
+    "id": 605,
+    "order": "169.50000000000000000000",
+    "Name": "Gerstmann, Siegfried",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vorstand des Zentralax- und Gebührenbemessungsamtes",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__605"
+  },
   "203": {
     "id": 203,
     "order": "170.00000000000000000000",
@@ -1988,6 +2068,16 @@
     "Funktion": "Minsterialrat im Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__233"
+  },
+  "601": {
+    "id": 601,
+    "order": "199.50000000000000000000",
+    "Name": "Kelsen, Hans",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Verfassungsrechtler",
+    "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118561219",
+    "krp_person_id": "krp_person_id__601"
   },
   "234": {
     "id": 234,
@@ -3458,5 +3548,35 @@
     "Funktion": "Hauptmann, Gehilfe des Delegierten für die Abgrenzungskommission für die italienische Grenze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__472"
+  },
+  "595": {
+    "id": 595,
+    "order": "346.00000000000000000000",
+    "Name": "Spitzmüller, Alexander",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "k.k. Handelsminister a.D.; k.k. Finanzminister a.D.; k.u.k. Finanzminster a.D.",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__595"
+  },
+  "596": {
+    "id": 596,
+    "order": "347.00000000000000000000",
+    "Name": "Goebel, Karl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamte für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__596"
+  },
+  "597": {
+    "id": 597,
+    "order": "348.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__597"
   }
 }
