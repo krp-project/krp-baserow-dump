@@ -167,6 +167,14 @@
     "Aktiv": false,
     "Quelle": ""
   },
+  "107": {
+    "id": 107,
+    "order": "15.69999999999999928946",
+    "Name": "Reichsbank",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
+  },
   "104": {
     "id": 104,
     "order": "15.71428571428571352442",

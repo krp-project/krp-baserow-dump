@@ -389,6 +389,16 @@
     "Quelle": "https://www.parlament.gv.at/person/3028",
     "krp_person_id": "krp_person_id__33"
   },
+  "610": {
+    "id": 610,
+    "order": "33.50000000000000000000",
+    "Name": "Tunk, Eduard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Leiter des liquidierenden Ministeriums für Landesverteidigung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__610"
+  },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
@@ -418,6 +428,16 @@
     "Funktion": "Gendarm",
     "Quelle": "",
     "krp_person_id": "krp_person_id__509"
+  },
+  "620": {
+    "id": 620,
+    "order": "35.66666666666666429819",
+    "Name": "Wagner, Richard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vertragsangestellter des Reichsbildungsamtes",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__620"
   },
   "36": {
     "id": 36,
@@ -608,6 +628,16 @@
     "Funktion": "Sektionschef im Staatsamt für Heerwesen, \nDeutschösterreichischer Liquidierungskommissär\nfür das liquidierende Kriegsministerium und das\nliquidierende Landesverteidigungsministerium,\n1920 Österreichischer Vertreter im bevollmächtigten\nKollegium für das liquidierende Kriegsministerium",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 449.",
     "krp_person_id": "krp_person_id__55"
+  },
+  "619": {
+    "id": 619,
+    "order": "55.50000000000000000000",
+    "Name": "Hellmer, Hans",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ziviladjutant des Staatssekretärs für Heereswesen",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__619"
   },
   "57": {
     "id": 57,
@@ -849,6 +879,16 @@
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483.",
     "krp_person_id": "krp_person_id__75"
   },
+  "630": {
+    "id": 630,
+    "order": "74.50000000000000000000",
+    "Name": "Romaszkan, Josef Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__630"
+  },
   "76": {
     "id": 76,
     "order": "75.00000000000000000000",
@@ -888,6 +928,16 @@
     "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 417.",
     "krp_person_id": "krp_person_id__79"
+  },
+  "624": {
+    "id": 624,
+    "order": "78.50000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__624"
   },
   "80": {
     "id": 80,
@@ -1189,6 +1239,16 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__105"
   },
+  "613": {
+    "id": 613,
+    "order": "104.50000000000000000000",
+    "Name": "Kiesling, Julius",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__613"
+  },
   "106": {
     "id": 106,
     "order": "105.00000000000000000000",
@@ -1238,6 +1298,16 @@
     "Funktion": "Abgeordneter in der Konst. Nationalversammlung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__500"
+  },
+  "618": {
+    "id": 618,
+    "order": "108.66666666666667140362",
+    "Name": "Kořim, Franz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Hilfsämter-Oberdirektor im Staatsamt für Volksernährung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__618"
   },
   "110": {
     "id": 110,
@@ -1649,6 +1719,16 @@
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_L/Lanzendoerfer_Ferdinand_1868_1943.xml",
     "krp_person_id": "krp_person_id__147"
   },
+  "629": {
+    "id": 629,
+    "order": "147.00000000000000000000",
+    "Name": "Karzel, Georg Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bergrat im Hauptmünzamt",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__629"
+  },
   "149": {
     "id": 149,
     "order": "148.00000000000000000000",
@@ -1989,6 +2069,16 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19311101&query=%22Howard+Rogers%22&ref=anno-search&seite=22",
     "krp_person_id": "krp_person_id__224"
   },
+  "608": {
+    "id": 608,
+    "order": "190.50000000000000000000",
+    "Name": "Weyda, Lothar",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Polizeipräsident in der Steiermark",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__608"
+  },
   "225": {
     "id": 225,
     "order": "191.00000000000000000000",
@@ -2018,6 +2108,16 @@
     "Funktion": "Leiter des liquidierenden gemeinsamen Obersten Rechnungshofes",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_P/Plener_Ernest_1841_1923.xml",
     "krp_person_id": "krp_person_id__228"
+  },
+  "621": {
+    "id": 621,
+    "order": "194.50000000000000000000",
+    "Name": "Fontana, Oskar",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Vertragsangestellter des Reichsbildungsamtes",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__621"
   },
   "229": {
     "id": 229,
@@ -2188,6 +2288,16 @@
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__246"
+  },
+  "609": {
+    "id": 609,
+    "order": "212.50000000000000000000",
+    "Name": "Kunz, Gottfried Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Polizeidirektor in Graz",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__609"
   },
   "247": {
     "id": 247,
@@ -2399,6 +2509,16 @@
     "Quelle": "https://www.parlament.gv.at/person/534",
     "krp_person_id": "krp_person_id__272"
   },
+  "617": {
+    "id": 617,
+    "order": "236.50000000000000000000",
+    "Name": "Seidmann, Karl Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsamt für Volksernährung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__617"
+  },
   "476": {
     "id": 476,
     "order": "237.00000000000000000000",
@@ -2549,6 +2669,16 @@
     "Quelle": "https://geschichte.univie.ac.at/de/personen/charles-daniel-bourcart",
     "krp_person_id": "krp_person_id__288"
   },
+  "622": {
+    "id": 622,
+    "order": "252.50000000000000000000",
+    "Name": "Rodler, Walter Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionschef im Staatsamt für soziale Verwaltung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__622"
+  },
   "289": {
     "id": 289,
     "order": "253.00000000000000000000",
@@ -2639,6 +2769,16 @@
     "Quelle": "https://www.vfgh.gv.at/verfassungsgerichtshof/verfassungsrichter/mitglieder_tabelle.de.html",
     "krp_person_id": "krp_person_id__296"
   },
+  "611": {
+    "id": 611,
+    "order": "260.50000000000000000000",
+    "Name": "Jacobi, Adolf Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberbaurat im Staatsamt für Handel und Gewebe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__611"
+  },
   "297": {
     "id": 297,
     "order": "261.00000000000000000000",
@@ -2708,6 +2848,26 @@
     "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19221121&query=%22ministerialrat+Wollheim%22&ref=anno-search&seite=2",
     "krp_person_id": "krp_person_id__303"
+  },
+  "612": {
+    "id": 612,
+    "order": "267.33333333333331438553",
+    "Name": "Dorschel, Otmar Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Oberbaurat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__612"
+  },
+  "607": {
+    "id": 607,
+    "order": "267.50000000000000000000",
+    "Name": "Drucker, Adolf Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Direkter des Handelsmuseums",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__607"
   },
   "304": {
     "id": 304,
@@ -2839,6 +2999,16 @@
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=gez&datum=19200141&query=(text:%22rudolf+Paltauf%22)&ref=anno-search&seite=13",
     "krp_person_id": "krp_person_id__319"
   },
+  "615": {
+    "id": 615,
+    "order": "283.33333333333331438553",
+    "Name": "Ballacs, Josef Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__615"
+  },
   "474": {
     "id": 474,
     "order": "283.50000000000000000000",
@@ -2848,6 +3018,16 @@
     "Funktion": "Professor an der Technischen Hochschule in Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__474"
+  },
+  "614": {
+    "id": 614,
+    "order": "283.66666666666668561447",
+    "Name": "Bandl, Erich Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Sektionsrat im Staatsamt für Volksernährung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__614"
   },
   "320": {
     "id": 320,
@@ -2918,6 +3098,16 @@
     "Funktion": "Hauptmann",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
     "krp_person_id": "krp_person_id__326"
+  },
+  "627": {
+    "id": 627,
+    "order": "290.33333333333331438553",
+    "Name": "Dvořák, Max Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Professor der Kunstgeschichte an der Universität Wien",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__627"
   },
   "504": {
     "id": 504,
@@ -3109,6 +3299,16 @@
     "Quelle": "https://musiklexikon.ac.at/ml/musik_L/Loewe_Ferdinand.xml",
     "krp_person_id": "krp_person_id__340"
   },
+  "623": {
+    "id": 623,
+    "order": "304.50000000000000000000",
+    "Name": "Ludwig, Eduard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Publizistischer Mitarbeiter Eduard Ludwig",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__623"
+  },
   "341": {
     "id": 341,
     "order": "305.00000000000000000000",
@@ -3118,6 +3318,16 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Mandyczewski_Eusebius_von.xml",
     "krp_person_id": "krp_person_id__341"
+  },
+  "625": {
+    "id": 625,
+    "order": "305.50000000000000000000",
+    "Name": "Scheuch, Leopold",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Landesschulinspektor",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__625"
   },
   "342": {
     "id": 342,
@@ -3399,6 +3609,16 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__456"
   },
+  "628": {
+    "id": 628,
+    "order": "329.50000000000000000000",
+    "Name": "Bolzer, Ferdinand Ing.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bergrat im Hauptmünzamt",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__628"
+  },
   "457": {
     "id": 457,
     "order": "330.00000000000000000000",
@@ -3469,6 +3689,16 @@
     "Quelle": "https://www.bmeia.gv.at/oeb-budapest/ueber-uns/geschichte",
     "krp_person_id": "krp_person_id__463"
   },
+  "616": {
+    "id": 616,
+    "order": "336.50000000000000000000",
+    "Name": "Lenz, Franz Dr.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Staatsamt für Volksernährung",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__616"
+  },
   "464": {
     "id": 464,
     "order": "337.00000000000000000000",
@@ -3518,6 +3748,16 @@
     "Funktion": "Oberst, Delegierter der Abgrenzungskommission für die ungarische Grenze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__469"
+  },
+  "626": {
+    "id": 626,
+    "order": "342.50000000000000000000",
+    "Name": "Mengele, Benno",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Funktion": "Bezirksschulinspektor",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__626"
   },
   "470": {
     "id": 470,
