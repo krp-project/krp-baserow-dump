@@ -598,5 +598,21 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": "https://wiki.sn.at/wiki/Mitterberger_Kupferbergbau_(Unternehmen)"
+  },
+  "108": {
+    "id": 108,
+    "order": "62.00000000000000000000",
+    "Name": "Donaudampfschiffahrtsgesellschaft",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft"
+  },
+  "109": {
+    "id": 109,
+    "order": "63.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": ""
   }
 }
