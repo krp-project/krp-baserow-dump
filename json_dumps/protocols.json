@@ -1534,7 +1534,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "",
+    "anmerkungen_dokument": "4. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_trans": [],
@@ -1712,7 +1712,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "5. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_trans": [
@@ -1884,7 +1884,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "6. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_trans": [
@@ -2252,7 +2252,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "nicht verzeichnete Beilage zu Pkt 8: Antrag Staatssekretär Dr. Bauer Aufnahme in nächste TO",
+    "anmerkungen_dokument": "nicht verzeichnete Beilage zu Pkt 8: Antrag Staatssekretär Dr. Bauer Aufnahme in nächste TO, 8. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_trans": [
@@ -2522,7 +2522,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "9. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "11",
     "steno_trans": [
@@ -5087,7 +5087,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Präsenzliste",
+    "anmerkungen_dokument": "Präsenzliste, 21. Personalsitzung??? (lediglich Hinweis auf Personalsitzung im Steno)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "21",
     "steno_trans": [
@@ -5388,7 +5388,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": true,
     "reinschrift": true,
-    "anmerkungen_dokument": "Anhang ist nicht vertr., hier aber unter vertr. vermerkt (11 Seiten)!",
+    "anmerkungen_dokument": "Anhang ist nicht vertr., hier aber unter vertr. vermerkt (11 Seiten)!, 22. Personalsitzung",
     "archivalien_nachdigitalisiert": "Reinschrift, Beilage (3. zu Pkt 5; 6. zu Pkt 10 - jeweils einzelne Seiten zu ersetzen; 7. zu Pkt. 11 ganz; ), Konzept, Anhang, TO (AH)",
     "kartonnummer": "22",
     "steno_trans": [
@@ -5560,7 +5560,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "24. Personalsitzung",
     "archivalien_nachdigitalisiert": "Reinschrift, Beilagen (2. zu Pkt. 2 - S. 11&12, 16&17, 24&25; 7. zu Pkt 7 - gesamt; 10. zu Pkt 9 - S. 64), Konzept, TO (AH);",
     "kartonnummer": "22",
     "steno_trans": [
