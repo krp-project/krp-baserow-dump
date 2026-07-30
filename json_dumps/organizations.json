@@ -614,5 +614,13 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": ""
+  },
+  "110": {
+    "id": 110,
+    "order": "64.00000000000000000000",
+    "Name": "Firma Kola & Co.",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19210830&query=%22Firma+Kola%22&ref=anno-search&seite=11"
   }
 }
