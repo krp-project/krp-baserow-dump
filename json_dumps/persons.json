@@ -2,3811 +2,4192 @@
   "481": {
     "id": 481,
     "order": "0.50000000000000000000",
-    "Name": "Bašta",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bašta",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Tschechoslowakischer Sektionschef",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__481"
+    "krp_person_id": "krp_person_id__481",
+    "wikidata_url": ""
   },
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "Bauer, Otto Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bauer, Otto Dr.",
+    "anmerkungen": "",
+    "gnd_url": "https://d-nb.info/gnd/118507346",
     "Funktion": "Staatsekretär für Äußeres [I]; des Äußeren [II]",
     "Quelle": "https://www.parlament.gv.at/person/78",
-    "krp_person_id": "krp_person_id__1"
+    "krp_person_id": "krp_person_id__1",
+    "wikidata_url": ""
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "Beck, Eugen [Ritter von Mannagetta und Lerchenau] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Beck, Eugen [Ritter von Mannagetta und Lerchenau] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatsekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/4331",
-    "krp_person_id": "krp_person_id__2"
+    "krp_person_id": "krp_person_id__2",
+    "wikidata_url": ""
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "Name": "Bratusch, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bratusch, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsekretär für Justiz [II]",
     "Quelle": "https://www.parlament.gv.at/person/3025",
-    "krp_person_id": "krp_person_id__3"
+    "krp_person_id": "krp_person_id__3",
+    "wikidata_url": ""
   },
   "39": {
     "id": 39,
     "order": "3.50000000000000000000",
-    "Name": "Brauneis, Viktor Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Brauneis, Viktor Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
-    "krp_person_id": "krp_person_id__39"
+    "krp_person_id": "krp_person_id__39",
+    "wikidata_url": ""
   },
   "475": {
     "id": 475,
     "order": "3.66666666666666651864",
-    "Name": "Decker, Achilles",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Decker, Achilles",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Außerordentlicher Professor an der Exportakademie Wien",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__475"
+    "krp_person_id": "krp_person_id__475",
+    "wikidata_url": ""
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "Name": "Deutsch, Julius Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Deutsch, Julius Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Heerwesen [I]; Staatsekretär für Heerwesen [II]; für Heereswesen [III]",
     "Quelle": "https://www.parlament.gv.at/person/208",
-    "krp_person_id": "krp_person_id__4"
+    "krp_person_id": "krp_person_id__4",
+    "wikidata_url": ""
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "Name": "Eisler, Arnold Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Eisler, Arnold Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Justiz [III]",
     "Quelle": "https://www.parlament.gv.at/person/286",
-    "krp_person_id": "krp_person_id__5"
+    "krp_person_id": "krp_person_id__5",
+    "wikidata_url": ""
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "Name": "Eldersch, Matthias",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Eldersch, Matthias",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Inneres [II]; Staatssekretär für Inneres und Unterricht [III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Justiz [III]",
     "Quelle": "https://www.parlament.gv.at/person/289",
-    "krp_person_id": "krp_person_id__6"
+    "krp_person_id": "krp_person_id__6",
+    "wikidata_url": ""
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "Name": "Ellenbogen, Wilhelm Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ellenbogen, Wilhelm Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Handel und Gewerbe, Industrie und Bauten [II-III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Handel etc. [III]",
     "Quelle": "https://www.parlament.gv.at/person/291",
-    "krp_person_id": "krp_person_id__7"
+    "krp_person_id": "krp_person_id__7",
+    "wikidata_url": ""
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "Name": "Enderes, Bruno [von] Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Enderes, Bruno [von] Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatsekretär für Verkehrswesen [I]; Sektionschef im Staatsamt für Verkehrswesen [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/4332",
-    "krp_person_id": "krp_person_id__8"
+    "krp_person_id": "krp_person_id__8",
+    "wikidata_url": ""
   },
   "494": {
     "id": 494,
     "order": "8.50000000000000000000",
-    "Name": "Feitler, Sigmund Prof. Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Feitler, Sigmund Prof. Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__494"
+    "krp_person_id": "krp_person_id__494",
+    "wikidata_url": ""
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "Name": "Fink, Jodok",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Fink, Jodok",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizekanzler [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/328",
-    "krp_person_id": "krp_person_id__9"
+    "krp_person_id": "krp_person_id__9",
+    "wikidata_url": ""
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "Name": "Glöckel, Otto",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Glöckel, Otto",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Inneres [I]; Unterstaatssekretär für Unterricht im Inneres und Unterreicht [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/412",
-    "krp_person_id": "krp_person_id__10"
+    "krp_person_id": "krp_person_id__10",
+    "wikidata_url": ""
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "Name": "Grimm, Ferdinand [von] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Grimm, Ferdinand [von] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/64421",
-    "krp_person_id": "krp_person_id__11"
+    "krp_person_id": "krp_person_id__11",
+    "wikidata_url": ""
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "Name": "Hanusch, Ferdinand",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hanusch, Ferdinand",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsekretär für soziale Fürsorge [I]; soziale Verwaltung [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1947",
-    "krp_person_id": "krp_person_id__12"
+    "krp_person_id": "krp_person_id__12",
+    "wikidata_url": ""
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "Name": "Jukel, Karl Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jukel, Karl Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Verkehrswesen [I]",
     "Quelle": "https://www.parlament.gv.at/person/741",
-    "krp_person_id": "krp_person_id__13"
+    "krp_person_id": "krp_person_id__13",
+    "wikidata_url": ""
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "Name": "Kaup, Ignaz Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kaup, Ignaz Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Volksgesundheit [I]; Unterstaatssekretär für Volksgesundheit [II]; Sektionschef im Staatsamt für soziale Verwaltung ab 20.03.1919",
     "Quelle": "https://www.parlament.gv.at/person/4329",
-    "krp_person_id": "krp_person_id__14"
+    "krp_person_id": "krp_person_id__14",
+    "wikidata_url": ""
   },
   "606": {
     "id": 606,
     "order": "14.50000000000000000000",
-    "Name": "Ljubicic",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ljubicic",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__606"
+    "krp_person_id": "krp_person_id__606",
+    "wikidata_url": ""
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "Name": "Loewenfeld-Russ, Johann Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Loewenfeld-Russ, Johann Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Volksernährung [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/4327",
-    "krp_person_id": "krp_person_id__15"
+    "krp_person_id": "krp_person_id__15",
+    "wikidata_url": ""
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "Name": "Marckhl, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Marckhl, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Inneres [I]",
     "Quelle": "https://www.parlament.gv.at/person/1072",
-    "krp_person_id": "krp_person_id__16"
+    "krp_person_id": "krp_person_id__16",
+    "wikidata_url": ""
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "Name": "Mataja, Heinrich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mataja, Heinrich",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Inneres [I]",
     "Quelle": "https://www.parlament.gv.at/person/1086",
-    "krp_person_id": "krp_person_id__17"
+    "krp_person_id": "krp_person_id__17",
+    "wikidata_url": ""
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "Name": "Mayer, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mayer, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Heerwesen [I]",
     "Quelle": "https://www.parlament.gv.at/person/1102",
-    "krp_person_id": "krp_person_id__18"
+    "krp_person_id": "krp_person_id__18",
+    "wikidata_url": ""
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "Name": "Mayr, Michael Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mayr, Michael Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär ohne Portefeuille [II]; Staatssekretär, Vorsitz im Kabinett u Leiter d Staatskanzlei [III; ]Zuständig für Verfassungs- und Verwaltungsreformen [III]",
     "Quelle": "https://www.parlament.gv.at/person/1120",
-    "krp_person_id": "krp_person_id__19"
+    "krp_person_id": "krp_person_id__19",
+    "wikidata_url": ""
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "Name": "Miklas, Wilhelm",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Miklas, Wilhelm",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Kultus [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1143",
-    "krp_person_id": "krp_person_id__20"
+    "krp_person_id": "krp_person_id__20",
+    "wikidata_url": ""
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "Name": "Pacher, Rafael",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pacher, Rafael",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Unterricht [I]",
     "Quelle": "https://www.parlament.gv.at/person/1146",
-    "krp_person_id": "krp_person_id__21"
+    "krp_person_id": "krp_person_id__21",
+    "wikidata_url": ""
   },
   "555": {
     "id": 555,
     "order": "21.50000000000000000000",
-    "Name": "Parma, Robert [von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Parma, Robert [von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Herzog",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__555"
+    "krp_person_id": "krp_person_id__555",
+    "wikidata_url": ""
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "Name": "Paul, Ludwig",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Paul, Ludwig",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Verkehrswesen [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/3026",
-    "krp_person_id": "krp_person_id__22"
+    "krp_person_id": "krp_person_id__22",
+    "wikidata_url": ""
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "Name": "Pflügl, Egon [Edler von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pflügl, Egon [Edler von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Äußeres [I]; des Äußeren [II]",
     "Quelle": "https://www.parlament.gv.at/person/4333",
-    "krp_person_id": "krp_person_id__23"
+    "krp_person_id": "krp_person_id__23",
+    "wikidata_url": ""
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "Name": "Ramek, Rudolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ramek, Rudolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsekretär für Justiz [III]",
     "Quelle": "https://www.parlament.gv.at/person/1526",
-    "krp_person_id": "krp_person_id__24"
+    "krp_person_id": "krp_person_id__24",
+    "wikidata_url": ""
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "Name": "Reisch, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Reisch, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Finanzen [III]",
     "Quelle": "https://www.parlament.gv.at/person/3027",
-    "krp_person_id": "krp_person_id__25"
+    "krp_person_id": "krp_person_id__25",
+    "wikidata_url": ""
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
-    "Name": "Renner, Karl Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Renner, Karl Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatskanzler [I-III]; Leiter Staatsämter für Inneres und für Unterricht [II]; nach 26.07.1919 Staatssekretär des Äußeren [II]; für Äußeres [III]; Betraut mit der einstweiligen Führung des Staatsamtes für Land- und Forstwirtschaft\n25.06.1920-07.07.1920",
     "Quelle": "https://www.parlament.gv.at/person/1664",
-    "krp_person_id": "krp_person_id__26"
+    "krp_person_id": "krp_person_id__26",
+    "wikidata_url": ""
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "Name": "Resch, Josef Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Resch, Josef Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatsekretär für soziale Fürsorge [I]; für soziale Verwaltung [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1668",
-    "krp_person_id": "krp_person_id__27"
+    "krp_person_id": "krp_person_id__27",
+    "wikidata_url": ""
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "Name": "Roller, Julius Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Roller, Julius Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Justiz [I]",
     "Quelle": "https://www.parlament.gv.at/person/1703",
-    "krp_person_id": "krp_person_id__28"
+    "krp_person_id": "krp_person_id__28",
+    "wikidata_url": ""
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "Name": "Schumpeter, Josef Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schumpeter, Josef Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Finanzen [II]",
     "Quelle": "https://www.parlament.gv.at/person/4328",
-    "krp_person_id": "krp_person_id__29"
+    "krp_person_id": "krp_person_id__29",
+    "wikidata_url": ""
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "Name": "Seitz, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Seitz, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident der Provisorischen Nationalversammlung und Vorsitzender des Staatsrates [I]; Erster Präsident der Konstituierenden Nationalversammlung [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1783",
-    "krp_person_id": "krp_person_id__30"
+    "krp_person_id": "krp_person_id__30",
+    "wikidata_url": ""
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "Name": "Steinwender, Otto Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Steinwender, Otto Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Finanzen [I]",
     "Quelle": "https://www.parlament.gv.at/person/1888",
-    "krp_person_id": "krp_person_id__31"
+    "krp_person_id": "krp_person_id__31",
+    "wikidata_url": ""
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "Name": "Stöckler, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stöckler, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Land- und Forstwirtschaft [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/1892",
-    "krp_person_id": "krp_person_id__32"
+    "krp_person_id": "krp_person_id__32",
+    "wikidata_url": ""
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "Name": "Tandler, Julius Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Tandler, Julius Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatsekretär für Volksgesundheit [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/3028",
-    "krp_person_id": "krp_person_id__33"
+    "krp_person_id": "krp_person_id__33",
+    "wikidata_url": ""
   },
   "610": {
     "id": 610,
     "order": "33.50000000000000000000",
-    "Name": "Tunk, Eduard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Tunk, Eduard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter des liquidierenden Ministeriums für Landesverteidigung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__610"
+    "krp_person_id": "krp_person_id__610",
+    "wikidata_url": ""
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "Name": "Urban, Karl Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Urban, Karl Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Gewerbe,  Industrie und Handel [I]; Staatssekretär für Kriegs- und Übergangswirtschaft [I]",
     "Quelle": "https://www.parlament.gv.at/person/1333",
-    "krp_person_id": "krp_person_id__34"
+    "krp_person_id": "krp_person_id__34",
+    "wikidata_url": ""
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "Name": "Waber, Leopold Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Waber, Leopold Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Äußeres [I]",
     "Quelle": "https://www.parlament.gv.at/person/1380",
-    "krp_person_id": "krp_person_id__35"
+    "krp_person_id": "krp_person_id__35",
+    "wikidata_url": ""
   },
   "509": {
     "id": 509,
     "order": "35.50000000000000000000",
-    "Name": "Wagner, Dominik",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wagner, Dominik",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Gendarm",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__509"
+    "krp_person_id": "krp_person_id__509",
+    "wikidata_url": ""
   },
   "620": {
     "id": 620,
     "order": "35.66666666666666429819",
-    "Name": "Wagner, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wagner, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vertragsangestellter des Reichsbildungsamtes",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__620"
+    "krp_person_id": "krp_person_id__620",
+    "wikidata_url": ""
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "Name": "Waiss, Erwin Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Waiss, Erwin Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Heerwesen [I-II]; Heereswesen [III]",
     "Quelle": "https://www.parlament.gv.at/person/1401",
-    "krp_person_id": "krp_person_id__36"
+    "krp_person_id": "krp_person_id__36",
+    "wikidata_url": ""
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "Name": "Wallenstorfer, Norbert",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wallenstorfer, Norbert",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterstaatssekretär für Volksernährung [I]",
     "Quelle": "https://www.parlament.gv.at/person/3023",
-    "krp_person_id": "krp_person_id__37"
+    "krp_person_id": "krp_person_id__37",
+    "wikidata_url": ""
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "Name": "Zerdik, Johann Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zerdik, Johann Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatssekretär für Öffentliche Arbeiten [I]; Handel und Gewerbe, Industrie und Bauten [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1635",
-    "krp_person_id": "krp_person_id__38"
+    "krp_person_id": "krp_person_id__38",
+    "wikidata_url": ""
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "Name": "Breisky, Walter",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Breisky, Walter",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat in der Staatskanzlei",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
-    "krp_person_id": "krp_person_id__43"
+    "krp_person_id": "krp_person_id__43",
+    "wikidata_url": ""
   },
   "488": {
     "id": 488,
     "order": "43.33333333333333570181",
-    "Name": "Curzon, George Nathaniel",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Curzon, George Nathaniel",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Britischer Außenminister",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__488"
+    "krp_person_id": "krp_person_id__488",
+    "wikidata_url": ""
   },
   "477": {
     "id": 477,
     "order": "43.50000000000000000000",
-    "Name": "Cunningham, Thomas",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Cunningham, Thomas",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberster britischer Militärattaché in Wien",
     "Quelle": "Robert Hoffmann, Die Mission Sir Thomas Cuninghames in Wien 1919. Britische Österreichpolitik zur Zeit Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
-    "krp_person_id": "krp_person_id__477"
+    "krp_person_id": "krp_person_id__477",
+    "wikidata_url": ""
   },
   "557": {
     "id": 557,
     "order": "43.60000000000000142109",
-    "Name": "Czech, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Czech, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__557"
+    "krp_person_id": "krp_person_id__557",
+    "wikidata_url": ""
   },
   "506": {
     "id": 506,
     "order": "43.66666666666666429819",
-    "Name": "Dametz, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dametz, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bürgermeister von Linz",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__506"
+    "krp_person_id": "krp_person_id__506",
+    "wikidata_url": ""
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "Name": "Davy, Robert Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Davy, Robert Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
     "Quelle": "der Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
-    "krp_person_id": "krp_person_id__44"
+    "krp_person_id": "krp_person_id__44",
+    "wikidata_url": ""
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
-    "Name": "Dorrek, Dr. Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dorrek, Dr. Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438.",
-    "krp_person_id": "krp_person_id__46"
+    "krp_person_id": "krp_person_id__46",
+    "wikidata_url": ""
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "Name": "Durig, Ernst Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Durig, Ernst Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für Justiz",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 55.",
-    "krp_person_id": "krp_person_id__47"
+    "krp_person_id": "krp_person_id__47",
+    "wikidata_url": ""
   },
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "Name": "Feiler, Rudolf Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Feiler, Rudolf Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialsekretär im Staatsamt für Verkehrswesen",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 114.",
-    "krp_person_id": "krp_person_id__49"
+    "krp_person_id": "krp_person_id__49",
+    "wikidata_url": ""
   },
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
-    "Name": "Froehlich, Georg Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Froehlich, Georg Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef in der Staatskanzlei",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 29.",
-    "krp_person_id": "krp_person_id__50"
+    "krp_person_id": "krp_person_id__50",
+    "wikidata_url": ""
   },
   "491": {
     "id": 491,
     "order": "50.50000000000000000000",
-    "Name": "Gruntzel, Josef Prof. Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gruntzel, Josef Prof. Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__491"
+    "krp_person_id": "krp_person_id__491",
+    "wikidata_url": ""
   },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
-    "Name": "Grünberger, Alfred Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Grünberger, Alfred Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1476.",
-    "krp_person_id": "krp_person_id__51"
+    "krp_person_id": "krp_person_id__51",
+    "wikidata_url": ""
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "Name": "Günther [Ritter von Ollenburg], Alexander",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Günther [Ritter von Ollenburg], Alexander",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt des Äußern",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 373.",
-    "krp_person_id": "krp_person_id__52"
+    "krp_person_id": "krp_person_id__52",
+    "wikidata_url": ""
   },
   "603": {
     "id": 603,
     "order": "53.00000000000000000000",
-    "Name": "Haala, Adalbert",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Haala, Adalbert",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__603"
+    "krp_person_id": "krp_person_id__603",
+    "wikidata_url": ""
   },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
-    "Name": "Haas, Wilhelm",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Haas, Wilhelm",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483.",
-    "krp_person_id": "krp_person_id__54"
+    "krp_person_id": "krp_person_id__54",
+    "wikidata_url": ""
   },
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
-    "Name": "Hanausek, Wilhelm",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hanausek, Wilhelm",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für Heerwesen, \nDeutschösterreichischer Liquidierungskommissär\nfür das liquidierende Kriegsministerium und das\nliquidierende Landesverteidigungsministerium,\n1920 Österreichischer Vertreter im bevollmächtigten\nKollegium für das liquidierende Kriegsministerium",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 449.",
-    "krp_person_id": "krp_person_id__55"
+    "krp_person_id": "krp_person_id__55",
+    "wikidata_url": ""
   },
   "619": {
     "id": 619,
     "order": "55.50000000000000000000",
-    "Name": "Hellmer, Hans",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hellmer, Hans",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ziviladjutant des Staatssekretärs für Heereswesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__619"
+    "krp_person_id": "krp_person_id__619",
+    "wikidata_url": ""
   },
   "57": {
     "id": 57,
     "order": "56.00000000000000000000",
-    "Name": "Herman, Rudolf Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Herman, Rudolf Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Justiz",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 55.",
-    "krp_person_id": "krp_person_id__57"
+    "krp_person_id": "krp_person_id__57",
+    "wikidata_url": ""
   },
   "58": {
     "id": 58,
     "order": "57.00000000000000000000",
-    "Name": "Hoheisel, Konrad",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hoheisel, Konrad",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef [???]; Generalpostdirektor",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__58"
+    "krp_person_id": "krp_person_id__58",
+    "wikidata_url": ""
   },
   "59": {
     "id": 59,
     "order": "58.00000000000000000000",
-    "Name": "Homann, Emil [Freiherr v. Herimberg Dr.mont.h.c.?",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Homann, Emil [Freiherr v. Herimberg Dr.mont.h.c.?",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter des liquidierenden Kriegsministeriums",
     "Quelle": "Österreichisches Biographisches Lexikon 1815–1950 (ÖBL). Band 2, Verlag der Österreichischen Akademie der Wissenschaften, Wien 1959, S.411f. Homann von Herimberg, Emil Frh.",
-    "krp_person_id": "krp_person_id__59"
+    "krp_person_id": "krp_person_id__59",
+    "wikidata_url": ""
   },
   "507": {
     "id": 507,
     "order": "58.50000000000000000000",
-    "Name": "Hugelmann, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hugelmann, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialsekretär",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__507"
+    "krp_person_id": "krp_person_id__507",
+    "wikidata_url": ""
   },
   "60": {
     "id": 60,
     "order": "59.00000000000000000000",
-    "Name": "Hummel, Adolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hummel, Adolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
-    "krp_person_id": "krp_person_id__60"
+    "krp_person_id": "krp_person_id__60",
+    "wikidata_url": ""
   },
   "61": {
     "id": 61,
     "order": "60.00000000000000000000",
-    "Name": "Joas, Leopold Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Joas, Leopold Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für Finanzen",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 57; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1509.",
-    "krp_person_id": "krp_person_id__61"
+    "krp_person_id": "krp_person_id__61",
+    "wikidata_url": ""
   },
   "62": {
     "id": 62,
     "order": "61.00000000000000000000",
-    "Name": "Kaan, Julius Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kaan, Julius Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef für im Staatsamt für soziale Verwaltung",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1511; Kabinettsratsprotokolle Renner Bd. 1, S. 55.",
-    "krp_person_id": "krp_person_id__62"
+    "krp_person_id": "krp_person_id__62",
+    "wikidata_url": ""
   },
   "547": {
     "id": 547,
     "order": "61.50000000000000000000",
-    "Name": "Klimburg, Otto",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Klimburg, Otto",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef in der bosnisch herzegowinischen Abteilung des liquidierenden gemeinsamen Finanzministeriums",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__547"
+    "krp_person_id": "krp_person_id__547",
+    "wikidata_url": ""
   },
   "63": {
     "id": 63,
     "order": "62.00000000000000000000",
-    "Name": "Kloss, Rudolf Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kloss, Rudolf Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberbergrat im Staatsamt für öffentliche Arbeiten; Ministerialrat im Staatsamt für Handel\nund Gewerbe, Industrie und Bauten [II-III]",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 601; Österreichischer Amtskalender, 1922, S. 76.",
-    "krp_person_id": "krp_person_id__63"
+    "krp_person_id": "krp_person_id__63",
+    "wikidata_url": ""
   },
   "64": {
     "id": 64,
     "order": "63.00000000000000000000",
-    "Name": "Kralowsky, Emil Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kralowsky, Emil Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "des Staatssiegelamte",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 110.",
-    "krp_person_id": "krp_person_id__64"
+    "krp_person_id": "krp_person_id__64",
+    "wikidata_url": ""
   },
   "65": {
     "id": 65,
     "order": "64.00000000000000000000",
-    "Name": "Krasny, Arnold [von Ergen]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Krasny, Arnold [von Ergen]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten [1919 in den Ruhestand]; Staatskommission für Sozialisierung",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483; ÖBL 1815-1950, Bd. 4 (Lfg. 18, 1968), S. 213",
-    "krp_person_id": "krp_person_id__65"
+    "krp_person_id": "krp_person_id__65",
+    "wikidata_url": ""
   },
   "66": {
     "id": 66,
     "order": "65.00000000000000000000",
-    "Name": "Lederer, Emil Prof. Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lederer, Emil Prof. Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatskommission für Sozialisierung",
     "Quelle": "ÖBL 1815-1950, Bd. 5 (Lfg. 21, 1970), S. 82f.",
-    "krp_person_id": "krp_person_id__66"
+    "krp_person_id": "krp_person_id__66",
+    "wikidata_url": ""
   },
   "67": {
     "id": 67,
     "order": "66.00000000000000000000",
-    "Name": "Licht, Stefan [Edler von] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Licht, Stefan [Edler von] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsrat",
     "Quelle": "https://www.parlament.gv.at/person/875.",
-    "krp_person_id": "krp_person_id__67"
+    "krp_person_id": "krp_person_id__67",
+    "wikidata_url": ""
   },
   "68": {
     "id": 68,
     "order": "67.00000000000000000000",
-    "Name": "Mosing, Ernst [Edler von] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mosing, Ernst [Edler von] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberfinanzrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 439.",
-    "krp_person_id": "krp_person_id__68"
+    "krp_person_id": "krp_person_id__68",
+    "wikidata_url": ""
   },
   "69": {
     "id": 69,
     "order": "68.00000000000000000000",
-    "Name": "Mühlvenzl, Josef [Ritter von] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mühlvenzl, Josef [Ritter von] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für Finanzen; Mitglied in der Kommission für Kriegs- und Übergangswirtschaft",
     "Quelle": "Kabinettsratsprotokolle Renner Bd. 1, S. 605.",
-    "krp_person_id": "krp_person_id__69"
+    "krp_person_id": "krp_person_id__69",
+    "wikidata_url": ""
   },
   "70": {
     "id": 70,
     "order": "69.00000000000000000000",
-    "Name": "Okorn, Friedrich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Okorn, Friedrich",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Justiz",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1593.",
-    "krp_person_id": "krp_person_id__70"
+    "krp_person_id": "krp_person_id__70",
+    "wikidata_url": ""
   },
   "604": {
     "id": 604,
     "order": "69.50000000000000000000",
-    "Name": "Pawlitza, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pawlitza, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hofrat der Finanz-Landesdirektion",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__604"
+    "krp_person_id": "krp_person_id__604",
+    "wikidata_url": ""
   },
   "71": {
     "id": 71,
     "order": "70.00000000000000000000",
-    "Name": "Pergelt, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pergelt, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
-    "krp_person_id": "krp_person_id__71"
+    "krp_person_id": "krp_person_id__71",
+    "wikidata_url": ""
   },
   "72": {
     "id": 72,
     "order": "71.00000000000000000000",
-    "Name": "Pfersmann, Kamillo [von Eichenthal]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pfersmann, Kamillo [von Eichenthal]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat im Staatsamt für öffentliche Arbeiten",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1606.",
-    "krp_person_id": "krp_person_id__72"
+    "krp_person_id": "krp_person_id__72",
+    "wikidata_url": ""
   },
   "602": {
     "id": 602,
     "order": "71.50000000000000000000",
-    "Name": "Pokorny, Adolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pokorny, Adolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Feldmarschallleutnant",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__602"
+    "krp_person_id": "krp_person_id__602",
+    "wikidata_url": ""
   },
   "73": {
     "id": 73,
     "order": "72.00000000000000000000",
-    "Name": "Pokorny, Dr. Gustav – Anmerkung: (Wilhelm ist ausgeschlossen, da er 1918 in Pension ging)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pokorny, Dr. Gustav – Anmerkung: (Wilhelm ist ausgeschlossen, da er 1918 in Pension ging)",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten [zuvor Sektionsrat Ministerium für öffentliche Arbeiten]",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 601; Österreichischer Amtskalender, 1922, S. 763; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 484.",
-    "krp_person_id": "krp_person_id__73"
+    "krp_person_id": "krp_person_id__73",
+    "wikidata_url": ""
   },
   "74": {
     "id": 74,
     "order": "73.00000000000000000000",
-    "Name": "Pöschl, Moriz [Ritter von Hasemont] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pöschl, Moriz [Ritter von Hasemont] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1613.",
-    "krp_person_id": "krp_person_id__74"
+    "krp_person_id": "krp_person_id__74",
+    "wikidata_url": ""
   },
   "600": {
     "id": 600,
     "order": "73.50000000000000000000",
-    "Name": "Rehrl, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rehrl, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Landeshauptmannstellvertreter von Salzburg",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__600"
+    "krp_person_id": "krp_person_id__600",
+    "wikidata_url": ""
   },
   "75": {
     "id": 75,
     "order": "74.00000000000000000000",
-    "Name": "Reich, Rudolf Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Reich, Rudolf Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten; im letzten Jahr der Monarchie: Ministerialrat",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483.",
-    "krp_person_id": "krp_person_id__75"
+    "krp_person_id": "krp_person_id__75",
+    "wikidata_url": ""
   },
   "630": {
     "id": 630,
     "order": "74.50000000000000000000",
-    "Name": "Romaszkan, Josef Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Romaszkan, Josef Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__630"
+    "krp_person_id": "krp_person_id__630",
+    "wikidata_url": ""
   },
   "76": {
     "id": 76,
     "order": "75.00000000000000000000",
-    "Name": "Rotky, Otto Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rotky, Otto Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
-    "krp_person_id": "krp_person_id__76"
+    "krp_person_id": "krp_person_id__76",
+    "wikidata_url": ""
   },
   "77": {
     "id": 77,
     "order": "76.00000000000000000000",
-    "Name": "Salzer, Maximilian Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Salzer, Maximilian Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen [auch im K. K. Finanz-Ministerium] [1922 Sektionschef im Bundesministerium für Finanzen]",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1639; Österreichischer Amtskalender, 1922, S. 57.",
-    "krp_person_id": "krp_person_id__77"
+    "krp_person_id": "krp_person_id__77",
+    "wikidata_url": ""
   },
   "78": {
     "id": 78,
     "order": "77.00000000000000000000",
-    "Name": "Schauberger, Friedrich Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schauberger, Friedrich Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen [auch im K. K. Finanz-Ministerium] [1922 Sektionschef im Bundesministerium für Finanzen]",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438 1643; Österreichischer Amtskalender, 1922, S. 57",
-    "krp_person_id": "krp_person_id__78"
+    "krp_person_id": "krp_person_id__78",
+    "wikidata_url": ""
   },
   "79": {
     "id": 79,
     "order": "78.00000000000000000000",
-    "Name": "Schedlbauer, Leo Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schedlbauer, Leo Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 417.",
-    "krp_person_id": "krp_person_id__79"
+    "krp_person_id": "krp_person_id__79",
+    "wikidata_url": ""
   },
   "624": {
     "id": 624,
     "order": "78.50000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__624"
+    "krp_person_id": "krp_person_id__624",
+    "wikidata_url": ""
   },
   "80": {
     "id": 80,
     "order": "79.00000000000000000000",
-    "Name": "Schober, Johannes",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schober, Johannes",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident der Polizeidirektion Wien",
     "Quelle": "„Schober, Johannes“, in: Neue Deutsche Biographie 23 (2007), S. 347-348 [Onlinefassung]; URL: http://www.deutsche-biographie.de/.html",
-    "krp_person_id": "krp_person_id__80"
+    "krp_person_id": "krp_person_id__80",
+    "wikidata_url": ""
   },
   "81": {
     "id": 81,
     "order": "80.00000000000000000000",
-    "Name": "Schüller, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schüller, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für Äußeres",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1651.",
-    "krp_person_id": "krp_person_id__81"
+    "krp_person_id": "krp_person_id__81",
+    "wikidata_url": ""
   },
   "82": {
     "id": 82,
     "order": "81.00000000000000000000",
-    "Name": "Schwarzwald, Hermann Hofrat Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schwarzwald, Hermann Hofrat Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Österreichisches Biographisches Lexikon 1815–1950 (ÖBL). Band 12, Verlag der Österreichischen Akademie der Wissenschaften, Wien 2005, S. 35.",
-    "krp_person_id": "krp_person_id__82"
+    "krp_person_id": "krp_person_id__82",
+    "wikidata_url": ""
   },
   "84": {
     "id": 84,
     "order": "83.00000000000000000000",
-    "Name": "Schwiedland, Eugen Peter Hofrat Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schwiedland, Eugen Peter Hofrat Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "1917–1921, fachliche Mitarbeiter des General-Kommissariats für Kriegs- und Übergangswirtschaft",
     "Quelle": "ÖBL 1815-1950, Bd. 12 (Lfg. 55, 2001), S. 56f; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1639.",
-    "krp_person_id": "krp_person_id__84"
+    "krp_person_id": "krp_person_id__84",
+    "wikidata_url": ""
   },
   "542": {
     "id": 542,
     "order": "83.50000000000000000000",
-    "Name": "Teufel, Oskar",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Teufel, Oskar",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Reichsratsabgeordneter der Deutschradikalen Partei",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1027122671",
-    "krp_person_id": "krp_person_id__542"
+    "krp_person_id": "krp_person_id__542",
+    "wikidata_url": ""
   },
   "85": {
     "id": 85,
     "order": "84.00000000000000000000",
-    "Name": "Thaa, Gustav [Ritter von] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Thaa, Gustav [Ritter von] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 545; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1687.",
-    "krp_person_id": "krp_person_id__85"
+    "krp_person_id": "krp_person_id__85",
+    "wikidata_url": ""
   },
   "482": {
     "id": 482,
     "order": "84.50000000000000000000",
-    "Name": "Weiskirchner, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Weiskirchner, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bürgermeister Wiens",
     "Quelle": "https://www.biographien.ac.at/oebl_16/81.pdf;https://www.biographien.ac.at/oebl_16/82.pdf",
-    "krp_person_id": "krp_person_id__482"
+    "krp_person_id": "krp_person_id__482",
+    "wikidata_url": ""
   },
   "86": {
     "id": 86,
     "order": "85.00000000000000000000",
-    "Name": "Wenedikter, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wenedikter, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat; Sektionschef im Staatsamt für Inneres",
     "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 770.",
-    "krp_person_id": "krp_person_id__86"
+    "krp_person_id": "krp_person_id__86",
+    "wikidata_url": ""
   },
   "599": {
     "id": 599,
     "order": "86.00000000000000000000",
-    "Name": "Wildner, Heinrich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wildner, Heinrich",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Generalkonsul",
     "Quelle": "https://austria-forum.org/af/Biographien/Wildner%2C_Heinrich",
-    "krp_person_id": "krp_person_id__599"
+    "krp_person_id": "krp_person_id__599",
+    "wikidata_url": ""
   },
   "88": {
     "id": 88,
     "order": "87.00000000000000000000",
-    "Name": "Wilfling, August Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wilfling, August Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438; Österreichischer Amtskalender, 1922, S. 57.",
-    "krp_person_id": "krp_person_id__88"
+    "krp_person_id": "krp_person_id__88",
+    "wikidata_url": ""
   },
   "89": {
     "id": 89,
     "order": "88.00000000000000000000",
-    "Name": "Wollheim, Oskar Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wollheim, Oskar Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__89"
+    "krp_person_id": "krp_person_id__89",
+    "wikidata_url": ""
   },
   "90": {
     "id": 90,
     "order": "89.00000000000000000000",
-    "Name": "List, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "List, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident des Landeskulturrates Niederösterreich",
     "Quelle": "https://www.parlament.gv.at/person/896",
-    "krp_person_id": "krp_person_id__90"
+    "krp_person_id": "krp_person_id__90",
+    "wikidata_url": ""
   },
   "91": {
     "id": 91,
     "order": "90.00000000000000000000",
-    "Name": "Gruber, Rudolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gruber, Rudolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizepräsident des Landeskulturrates Niederösterreich",
     "Quelle": "https://www.parlament.gv.at/person/537",
-    "krp_person_id": "krp_person_id__91"
+    "krp_person_id": "krp_person_id__91",
+    "wikidata_url": ""
   },
   "92": {
     "id": 92,
     "order": "91.00000000000000000000",
-    "Name": "Hillbrand, Josef Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hillbrand, Josef Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident des Landeskulturrates Vorarlberg",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190912&query=%22Josef+Anton+Hillbrand%22&ref=anno-search&seite=1",
-    "krp_person_id": "krp_person_id__92"
+    "krp_person_id": "krp_person_id__92",
+    "wikidata_url": ""
   },
   "93": {
     "id": 93,
     "order": "92.00000000000000000000",
-    "Name": "Bechter, Gottlieb",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bechter, Gottlieb",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizepräsident des Landeskulturrates in Vorarlberg",
     "Quelle": "https://vorarlberg.at/web/landtag/-/bechter-gottlieb-oekonomierat-alt-gemeindevorsteher",
-    "krp_person_id": "krp_person_id__93"
+    "krp_person_id": "krp_person_id__93",
+    "wikidata_url": ""
   },
   "94": {
     "id": 94,
     "order": "93.00000000000000000000",
-    "Name": "Christoph, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Christoph, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizepräsident des Landeskulturrates Niederösterreich",
     "Quelle": "https://www.parlament.gv.at/person/182",
-    "krp_person_id": "krp_person_id__94"
+    "krp_person_id": "krp_person_id__94",
+    "wikidata_url": ""
   },
   "502": {
     "id": 502,
     "order": "93.50000000000000000000",
-    "Name": "Wimmer, Ferdinand [Freiherr von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wimmer, Ferdinand [Freiherr von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ehemliger K. u. K. Finanzminister",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1225370043",
-    "krp_person_id": "krp_person_id__502"
+    "krp_person_id": "krp_person_id__502",
+    "wikidata_url": ""
   },
   "95": {
     "id": 95,
     "order": "94.00000000000000000000",
-    "Name": "Winsauer, Ernst Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Winsauer, Ernst Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizepräsident des Landeskulturrates in Vorarlberg",
     "Quelle": "https://www.parlament.gv.at/person/1511",
-    "krp_person_id": "krp_person_id__95"
+    "krp_person_id": "krp_person_id__95",
+    "wikidata_url": ""
   },
   "548": {
     "id": 548,
     "order": "95.00000000000000000000",
-    "Name": "Hutchinson,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hutchinson,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vertreter der amerikanischen Mission",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__548"
+    "krp_person_id": "krp_person_id__548",
+    "wikidata_url": ""
   },
   "97": {
     "id": 97,
     "order": "96.00000000000000000000",
-    "Name": "Ippen, Theodor",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ippen, Theodor",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Gesandter",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_I/Ippen_Theodor_1861_1935.xml",
-    "krp_person_id": "krp_person_id__97"
+    "krp_person_id": "krp_person_id__97",
+    "wikidata_url": ""
   },
   "98": {
     "id": 98,
     "order": "97.00000000000000000000",
-    "Name": "Oberdorffer, Leonhard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oberdorffer, Leonhard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektonsrat der Staatskanzlei [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__98"
+    "krp_person_id": "krp_person_id__98",
+    "wikidata_url": ""
   },
   "99": {
     "id": 99,
     "order": "98.00000000000000000000",
-    "Name": "Weinczierl, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Weinczierl, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat; Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__99"
+    "krp_person_id": "krp_person_id__99",
+    "wikidata_url": ""
   },
   "100": {
     "id": 100,
     "order": "99.00000000000000000000",
-    "Name": "Syrowatk, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Syrowatk, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat, Staatskommisariat für Sachdemobilisierung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__100"
+    "krp_person_id": "krp_person_id__100",
+    "wikidata_url": ""
   },
   "101": {
     "id": 101,
     "order": "100.00000000000000000000",
-    "Name": "Pollak, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pollak, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Postrat, Staatskommissariat für Sachdemobilisierung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__101"
+    "krp_person_id": "krp_person_id__101",
+    "wikidata_url": ""
   },
   "102": {
     "id": 102,
     "order": "101.00000000000000000000",
-    "Name": "Grabmayr, Karl [von Angerheim]Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Grabmayr, Karl [von Angerheim]Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident des Reichsgerichts",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_Grabmayr_von_Angerheim",
-    "krp_person_id": "krp_person_id__102"
+    "krp_person_id": "krp_person_id__102",
+    "wikidata_url": ""
   },
   "561": {
     "id": 561,
     "order": "101.33333333333332859638",
-    "Name": "Benedikt, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Benedikt, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Rechtswanwalt",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__561"
+    "krp_person_id": "krp_person_id__561",
+    "wikidata_url": ""
   },
   "549": {
     "id": 549,
     "order": "101.50000000000000000000",
-    "Name": "Berchtold, Leopold [Graf]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Berchtold, Leopold [Graf]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ehemaliger Oberstkämmerer",
     "Quelle": "https://www.biographien.ac.at/oebl_1/71.pdf",
-    "krp_person_id": "krp_person_id__549"
+    "krp_person_id": "krp_person_id__549",
+    "wikidata_url": ""
   },
   "103": {
     "id": 103,
     "order": "102.00000000000000000000",
-    "Name": "Berka, Johann",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Berka, Johann",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Zweiter Präsident des Obersten Gerichts- und Kassationshofes",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__103"
+    "krp_person_id": "krp_person_id__103",
+    "wikidata_url": ""
   },
   "104": {
     "id": 104,
     "order": "103.00000000000000000000",
-    "Name": "Sylvester, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sylvester, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormaliger Staatsnotar",
     "Quelle": "https://www.parlament.gv.at/person/1928",
-    "krp_person_id": "krp_person_id__104"
+    "krp_person_id": "krp_person_id__104",
+    "wikidata_url": ""
   },
   "105": {
     "id": 105,
     "order": "104.00000000000000000000",
-    "Name": "Urbanitzky, Ida",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Urbanitzky, Ida",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberbergratswaise",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__105"
+    "krp_person_id": "krp_person_id__105",
+    "wikidata_url": ""
   },
   "613": {
     "id": 613,
     "order": "104.50000000000000000000",
-    "Name": "Kiesling, Julius",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kiesling, Julius",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__613"
+    "krp_person_id": "krp_person_id__613",
+    "wikidata_url": ""
   },
   "106": {
     "id": 106,
     "order": "105.00000000000000000000",
-    "Name": "Klein, Franz Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Klein, Franz Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Minister a. D.",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Franz_Klein",
-    "krp_person_id": "krp_person_id__106"
+    "krp_person_id": "krp_person_id__106",
+    "wikidata_url": ""
   },
   "107": {
     "id": 107,
     "order": "106.00000000000000000000",
-    "Name": "Peter",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Peter",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Äußeres [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__107"
+    "krp_person_id": "krp_person_id__107",
+    "wikidata_url": ""
   },
   "108": {
     "id": 108,
     "order": "107.00000000000000000000",
-    "Name": "Eichhoff, Johann Andreas [Freiherr von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Eichhoff, Johann Andreas [Freiherr von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__108"
+    "krp_person_id": "krp_person_id__108",
+    "wikidata_url": ""
   },
   "109": {
     "id": 109,
     "order": "108.00000000000000000000",
-    "Name": "Kloss, RudolfDr. (Anmerkung: Hans Kloss kann es nicht sein)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kloss, RudolfDr. (Anmerkung: Hans Kloss kann es nicht sein)",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat, Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190418&query=%22Rudolf+Kloss%22&ref=anno-search&seite=1",
-    "krp_person_id": "krp_person_id__109"
+    "krp_person_id": "krp_person_id__109",
+    "wikidata_url": ""
   },
   "500": {
     "id": 500,
     "order": "108.50000000000000000000",
-    "Name": "Kollmann, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kollmann, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Abgeordneter in der Konst. Nationalversammlung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__500"
+    "krp_person_id": "krp_person_id__500",
+    "wikidata_url": ""
   },
   "618": {
     "id": 618,
     "order": "108.66666666666667140362",
-    "Name": "Kořim, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kořim, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hilfsämter-Oberdirektor im Staatsamt für Volksernährung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__618"
+    "krp_person_id": "krp_person_id__618",
+    "wikidata_url": ""
   },
   "110": {
     "id": 110,
     "order": "109.00000000000000000000",
-    "Name": "Körner, Theodor Dr. h.c.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Körner, Theodor Dr. h.c.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberst, Staatsamt für Heereswesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__110"
+    "krp_person_id": "krp_person_id__110",
+    "wikidata_url": ""
   },
   "111": {
     "id": 111,
     "order": "110.00000000000000000000",
-    "Name": "Pfaundler, Hermann? Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pfaundler, Hermann? Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberfinanzrat",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__111"
+    "krp_person_id": "krp_person_id__111",
+    "wikidata_url": ""
   },
   "112": {
     "id": 112,
     "order": "111.00000000000000000000",
-    "Name": "Duveen, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Duveen, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Repräsentant des ersten New Yorker Kunsthandlungshauses",
     "Quelle": "https://de.wikipedia.org/wiki/Joseph_Duveen,_1._Baron_Duveen",
-    "krp_person_id": "krp_person_id__112"
+    "krp_person_id": "krp_person_id__112",
+    "wikidata_url": ""
   },
   "113": {
     "id": 113,
     "order": "112.00000000000000000000",
-    "Name": "Glück, Gustav? Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Glück, Gustav? Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hofmuseum, Mitglied des Beirates für Verwertung Kunstschätze",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__113"
+    "krp_person_id": "krp_person_id__113",
+    "wikidata_url": ""
   },
   "114": {
     "id": 114,
     "order": "113.00000000000000000000",
-    "Name": "Haberditzl, Franz Martin Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Haberditzl, Franz Martin Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsgalerie",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Franz_Martin_Haberditzl",
-    "krp_person_id": "krp_person_id__114"
+    "krp_person_id": "krp_person_id__114",
+    "wikidata_url": ""
   },
   "554": {
     "id": 554,
     "order": "113.50000000000000000000",
-    "Name": "Leifer,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Leifer,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Finanzrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__554"
+    "krp_person_id": "krp_person_id__554",
+    "wikidata_url": ""
   },
   "115": {
     "id": 115,
     "order": "114.00000000000000000000",
-    "Name": "Leisching, Eduard Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Leisching, Eduard Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Museum für Kunst und Industrie",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Eduard_Leisching",
-    "krp_person_id": "krp_person_id__115"
+    "krp_person_id": "krp_person_id__115",
+    "wikidata_url": ""
   },
   "116": {
     "id": 116,
     "order": "115.00000000000000000000",
-    "Name": "Tietze, Hans Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Tietze, Hans Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Unterricht",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Hans_Tietze",
-    "krp_person_id": "krp_person_id__116"
+    "krp_person_id": "krp_person_id__116",
+    "wikidata_url": ""
   },
   "117": {
     "id": 117,
     "order": "116.00000000000000000000",
-    "Name": "Alexy, Ludwig Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Alexy, Ludwig Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Stadterweiterungsfonds",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__117"
+    "krp_person_id": "krp_person_id__117",
+    "wikidata_url": ""
   },
   "118": {
     "id": 118,
     "order": "117.00000000000000000000",
-    "Name": "Vetter, Adolf Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Vetter, Adolf Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_V/Vetter_Adolf_1867_1942.xml",
-    "krp_person_id": "krp_person_id__118"
+    "krp_person_id": "krp_person_id__118",
+    "wikidata_url": ""
   },
   "483": {
     "id": 483,
     "order": "117.50000000000000000000",
-    "Name": "Schöpfer, Ämilian Prof. Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schöpfer, Ämilian Prof. Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vorsitzende der Staatskommission für Kriegsgefangene",
     "Quelle": "https://www.parlament.gv.at/person/1764",
-    "krp_person_id": "krp_person_id__483"
+    "krp_person_id": "krp_person_id__483",
+    "wikidata_url": ""
   },
   "119": {
     "id": 119,
     "order": "118.00000000000000000000",
-    "Name": "Schubert, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schubert, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Regierungsrat, Chef des Staatsdenkmalamtes",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__119"
+    "krp_person_id": "krp_person_id__119",
+    "wikidata_url": ""
   },
   "120": {
     "id": 120,
     "order": "119.00000000000000000000",
-    "Name": "Auspitz, Stephan",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Auspitz, Stephan",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "privater Kunstsammler",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__120"
+    "krp_person_id": "krp_person_id__120",
+    "wikidata_url": ""
   },
   "121": {
     "id": 121,
     "order": "120.00000000000000000000",
-    "Name": "Schober, Johannes",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schober, Johannes",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident der Polizeidirektion in Wien",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Johannes_Schober",
-    "krp_person_id": "krp_person_id__121"
+    "krp_person_id": "krp_person_id__121",
+    "wikidata_url": ""
   },
   "598": {
     "id": 598,
     "order": "121.00000000000000000000",
-    "Name": "Calonder, Felix Loius",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Calonder, Felix Loius",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Schweizer Bundespräsident",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118666681",
-    "krp_person_id": "krp_person_id__598"
+    "krp_person_id": "krp_person_id__598",
+    "wikidata_url": ""
   },
   "123": {
     "id": 123,
     "order": "122.00000000000000000000",
-    "Name": "Causey",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Causey",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__123"
+    "krp_person_id": "krp_person_id__123",
+    "wikidata_url": ""
   },
   "125": {
     "id": 125,
     "order": "124.00000000000000000000",
-    "Name": "Gregory",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gregory",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Chef der amerikanischen Lebensmittelkommission",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__125"
+    "krp_person_id": "krp_person_id__125",
+    "wikidata_url": ""
   },
   "480": {
     "id": 480,
     "order": "124.50000000000000000000",
-    "Name": "Burger",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Burger",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Tschechoslowakischer Sektionschef",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__480"
+    "krp_person_id": "krp_person_id__480",
+    "wikidata_url": ""
   },
   "126": {
     "id": 126,
     "order": "125.00000000000000000000",
-    "Name": "Buttler",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Buttler",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "englische Lebensmittelkommission",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__126"
+    "krp_person_id": "krp_person_id__126",
+    "wikidata_url": ""
   },
   "545": {
     "id": 545,
     "order": "125.50000000000000000000",
-    "Name": "Habsburg-Lothringen, Heinrich Ferdinand",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Heinrich Ferdinand",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormalig Erzherzog Heinrich Ferdinand",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__545"
+    "krp_person_id": "krp_person_id__545",
+    "wikidata_url": ""
   },
   "127": {
     "id": 127,
     "order": "126.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Hubert",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Hubert",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Erzherzog Hubert Salvator von Österreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__127"
+    "krp_person_id": "krp_person_id__127",
+    "wikidata_url": ""
   },
   "128": {
     "id": 128,
     "order": "127.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Erzherzog Franz",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__128"
+    "krp_person_id": "krp_person_id__128",
+    "wikidata_url": ""
   },
   "129": {
     "id": 129,
     "order": "128.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Alice",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Alice",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Großherzogin von Toscana",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__129"
+    "krp_person_id": "krp_person_id__129",
+    "wikidata_url": ""
   },
   "130": {
     "id": 130,
     "order": "129.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Josef Ferdinand",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Josef Ferdinand",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Erzherzog Josef Ferdinand",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__130"
+    "krp_person_id": "krp_person_id__130",
+    "wikidata_url": ""
   },
   "132": {
     "id": 132,
     "order": "131.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Margarete",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Margarete",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Erzherzogin Margarete",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__132"
+    "krp_person_id": "krp_person_id__132",
+    "wikidata_url": ""
   },
   "133": {
     "id": 133,
     "order": "132.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Agnes",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Agnes",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Erzherzogin Agnes von Österreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__133"
+    "krp_person_id": "krp_person_id__133",
+    "wikidata_url": ""
   },
   "134": {
     "id": 134,
     "order": "133.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Germana",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Germana",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Erzherzogin Germana  von Österreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__134"
+    "krp_person_id": "krp_person_id__134",
+    "wikidata_url": ""
   },
   "135": {
     "id": 135,
     "order": "134.00000000000000000000",
-    "Name": "Noven, Heinrich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Noven, Heinrich",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormals Erzherzog Heinrich Ferdinand",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__135"
+    "krp_person_id": "krp_person_id__135",
+    "wikidata_url": ""
   },
   "136": {
     "id": 136,
     "order": "135.00000000000000000000",
-    "Name": "Lindner, Alois",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lindner, Alois",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "1918 Mitbegründer des Revolutionären Arbeiterrats in München",
     "Quelle": "Alois Lindner : das Leben des bayerischen Abenteurers und Revolutionärs / Norman Dankerl",
-    "krp_person_id": "krp_person_id__136"
+    "krp_person_id": "krp_person_id__136",
+    "wikidata_url": ""
   },
   "137": {
     "id": 137,
     "order": "136.00000000000000000000",
-    "Name": "Trenkwald, Hermann [von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Trenkwald, Hermann [von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizedirektor des österreichischen Museums für Kunst und Industrie; Regierungsrat",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_T/Trenkwald_Hermann_1866_1942.xml",
-    "krp_person_id": "krp_person_id__137"
+    "krp_person_id": "krp_person_id__137",
+    "wikidata_url": ""
   },
   "138": {
     "id": 138,
     "order": "137.00000000000000000000",
-    "Name": "Sever, Albert",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sever, Albert",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Landeshauptmann Niederösterreich",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_S/Sever_Albert_1867_1942.xml",
-    "krp_person_id": "krp_person_id__138"
+    "krp_person_id": "krp_person_id__138",
+    "wikidata_url": ""
   },
   "139": {
     "id": 139,
     "order": "138.00000000000000000000",
-    "Name": "Ziller, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ziller, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsamte für Heereswesen [III], ab August 1920 Vorstand des Militärliquidierungsinspektorates",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19201228&query=%22Oberst+Ziller%22&ref=anno-search&seite=3",
-    "krp_person_id": "krp_person_id__139"
+    "krp_person_id": "krp_person_id__139",
+    "wikidata_url": ""
   },
   "140": {
     "id": 140,
     "order": "139.00000000000000000000",
-    "Name": "Boschan",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Boschan",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Äußeres",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__140"
+    "krp_person_id": "krp_person_id__140",
+    "wikidata_url": ""
   },
   "141": {
     "id": 141,
     "order": "140.00000000000000000000",
-    "Name": "Hornik, Fritz Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hornik, Fritz Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Finanzrat",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__141"
+    "krp_person_id": "krp_person_id__141",
+    "wikidata_url": ""
   },
   "143": {
     "id": 143,
     "order": "142.00000000000000000000",
-    "Name": "Mauelère",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mauelère",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "französisches Mitglied der Reparationskommission",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__143"
+    "krp_person_id": "krp_person_id__143",
+    "wikidata_url": ""
   },
   "144": {
     "id": 144,
     "order": "143.00000000000000000000",
-    "Name": "Otavský, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Otavský, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "tschechoslowakischer Liquidierungskommissär",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__144"
+    "krp_person_id": "krp_person_id__144",
+    "wikidata_url": ""
   },
   "145": {
     "id": 145,
     "order": "144.00000000000000000000",
-    "Name": "Geist, Hermann Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Geist, Hermann Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter der amerikanischen Kinderhilfsaktion",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dnt&datum=19190506&query=%22Kinderhilfsaktion%22&ref=anno-search&seite=3",
-    "krp_person_id": "krp_person_id__145"
+    "krp_person_id": "krp_person_id__145",
+    "wikidata_url": ""
   },
   "146": {
     "id": 146,
     "order": "145.00000000000000000000",
-    "Name": "Lelewer, Georg Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lelewer, Georg Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter der Fachgruppe VI im Staatsamt für Heerwesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__146"
+    "krp_person_id": "krp_person_id__146",
+    "wikidata_url": ""
   },
   "559": {
     "id": 559,
     "order": "145.33333333333334280724",
-    "Name": "Lamberg, Josefine",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lamberg, Josefine",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Kaufinteressenten für eine Parzelle des Benediktinerstiftes St. Peter",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__559"
+    "krp_person_id": "krp_person_id__559",
+    "wikidata_url": ""
   },
   "558": {
     "id": 558,
     "order": "145.50000000000000000000",
-    "Name": "Lamberg, Kunibald",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lamberg, Kunibald",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Kaufinteressenten für eine Parzelle des Benediktinerstiftes St. Peter",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__558"
+    "krp_person_id": "krp_person_id__558",
+    "wikidata_url": ""
   },
   "147": {
     "id": 147,
     "order": "146.00000000000000000000",
-    "Name": "Lanzendörfer, Ferdinand",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lanzendörfer, Ferdinand",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Militäroberintendant",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_L/Lanzendoerfer_Ferdinand_1868_1943.xml",
-    "krp_person_id": "krp_person_id__147"
+    "krp_person_id": "krp_person_id__147",
+    "wikidata_url": ""
   },
   "629": {
     "id": 629,
     "order": "147.00000000000000000000",
-    "Name": "Karzel, Georg Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Karzel, Georg Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bergrat im Hauptmünzamt",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__629"
+    "krp_person_id": "krp_person_id__629",
+    "wikidata_url": ""
   },
   "149": {
     "id": 149,
     "order": "148.00000000000000000000",
-    "Name": "Katz, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Katz, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__149"
+    "krp_person_id": "krp_person_id__149",
+    "wikidata_url": ""
   },
   "150": {
     "id": 150,
     "order": "149.00000000000000000000",
-    "Name": "Chlumecky, Leopold [Freiherr von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Chlumecky, Leopold [Freiherr von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter der \"Oesterreichischen Propagandastelle\"",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_C/Chlumecky_Leopold_1873_1940.xml",
-    "krp_person_id": "krp_person_id__150"
+    "krp_person_id": "krp_person_id__150",
+    "wikidata_url": ""
   },
   "184": {
     "id": 184,
     "order": "151.00000000000000000000",
-    "Name": "Coumont, Eduard Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Coumont, Eduard Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Rechtsanwalt",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_C/Coumont_Eduard_1861_1930.xml",
-    "krp_person_id": "krp_person_id__184"
+    "krp_person_id": "krp_person_id__184",
+    "wikidata_url": ""
   },
   "185": {
     "id": 185,
     "order": "152.00000000000000000000",
-    "Name": "Stritzl, Friedrich Dr. [Edler von Artstatt]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stritzl, Friedrich Dr. [Edler von Artstatt]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Rechtsanwalt",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__185"
+    "krp_person_id": "krp_person_id__185",
+    "wikidata_url": ""
   },
   "187": {
     "id": 187,
     "order": "154.00000000000000000000",
-    "Name": "Redlich, Oswald Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Redlich, Oswald Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Historiker",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_R/Redlich_Oswald_1858_1944.xml",
-    "krp_person_id": "krp_person_id__187"
+    "krp_person_id": "krp_person_id__187",
+    "wikidata_url": ""
   },
   "189": {
     "id": 189,
     "order": "156.00000000000000000000",
-    "Name": "Krasny, Arnold Dr. [von Ergen]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Krasny, Arnold Dr. [von Ergen]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Krasny-Ergen_Arnold_1869_1937.xml",
-    "krp_person_id": "krp_person_id__189"
+    "krp_person_id": "krp_person_id__189",
+    "wikidata_url": ""
   },
   "190": {
     "id": 190,
     "order": "157.00000000000000000000",
-    "Name": "Richter, Paul",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Richter, Paul",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizepräsident der Staatskommission für Kriegsgefangenen- und Zivilinterniertenangelegenheiten",
     "Quelle": "https://www.parlament.gv.at/person/1677",
-    "krp_person_id": "krp_person_id__190"
+    "krp_person_id": "krp_person_id__190",
+    "wikidata_url": ""
   },
   "192": {
     "id": 192,
     "order": "159.00000000000000000000",
-    "Name": "Egghard, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Egghard, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Inneres und Unterricht",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__192"
+    "krp_person_id": "krp_person_id__192",
+    "wikidata_url": ""
   },
   "194": {
     "id": 194,
     "order": "161.00000000000000000000",
-    "Name": "Geiser, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Geiser, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Kommandant der Arbeiterwehr",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dnt&datum=19191109&query=%22Geiser%22&ref=anno-search&seite=10",
-    "krp_person_id": "krp_person_id__194"
+    "krp_person_id": "krp_person_id__194",
+    "wikidata_url": ""
   },
   "196": {
     "id": 196,
     "order": "163.00000000000000000000",
-    "Name": "Hübner, Roman",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hübner, Roman",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Tschechoslowakischer Oberleutnant",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__196"
+    "krp_person_id": "krp_person_id__196",
+    "wikidata_url": ""
   },
   "197": {
     "id": 197,
     "order": "164.00000000000000000000",
-    "Name": "Neander, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Neander, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Tschechoslowakischer Offizier",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__197"
+    "krp_person_id": "krp_person_id__197",
+    "wikidata_url": ""
   },
   "198": {
     "id": 198,
     "order": "165.00000000000000000000",
-    "Name": "Zavodsky, Gustav",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zavodsky, Gustav",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Tschechoslowakischer Offizier",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__198"
+    "krp_person_id": "krp_person_id__198",
+    "wikidata_url": ""
   },
   "485": {
     "id": 485,
     "order": "166.00000000000000000000",
-    "Name": "Kowy, Jakob Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kowy, Jakob Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter des Büros des Staatssiegelamtes",
     "Quelle": "Staatsrat Bd. 3, S. 723f.",
-    "krp_person_id": "krp_person_id__485"
+    "krp_person_id": "krp_person_id__485",
+    "wikidata_url": ""
   },
   "200": {
     "id": 200,
     "order": "167.00000000000000000000",
-    "Name": "Kun, Béla",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kun, Béla",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Volkskommissar",
     "Quelle": "https://litkult1920er.aau.at/litkult-lexikon/kun-bela/",
-    "krp_person_id": "krp_person_id__200"
+    "krp_person_id": "krp_person_id__200",
+    "wikidata_url": ""
   },
   "201": {
     "id": 201,
     "order": "168.00000000000000000000",
-    "Name": "Schuhmacher, Franz Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schuhmacher, Franz Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Senatspräsident",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_s/Schumacher_Franz_1861_1939.xml",
-    "krp_person_id": "krp_person_id__201"
+    "krp_person_id": "krp_person_id__201",
+    "wikidata_url": ""
   },
   "202": {
     "id": 202,
     "order": "169.00000000000000000000",
-    "Name": "Fleischhacker, Robert Dr. [von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Fleischhacker, Robert Dr. [von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bürgermeister von Graz 1912-1914",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_F/Fleischhacker_Robert_1855_1937.xml",
-    "krp_person_id": "krp_person_id__202"
+    "krp_person_id": "krp_person_id__202",
+    "wikidata_url": ""
   },
   "605": {
     "id": 605,
     "order": "169.50000000000000000000",
-    "Name": "Gerstmann, Siegfried",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gerstmann, Siegfried",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vorstand des Zentralax- und Gebührenbemessungsamtes",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__605"
+    "krp_person_id": "krp_person_id__605",
+    "wikidata_url": ""
   },
   "203": {
     "id": 203,
     "order": "170.00000000000000000000",
-    "Name": "Glanz, Egon Dr. [von Eiche, Freiherr]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Glanz, Egon Dr. [von Eiche, Freiherr]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hofrat der ehemaligen politischen Verwaltung Triest",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__203"
+    "krp_person_id": "krp_person_id__203",
+    "wikidata_url": ""
   },
   "204": {
     "id": 204,
     "order": "171.00000000000000000000",
-    "Name": "Keil, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Keil, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Weihbischof der Salzburger Erzdiözese",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Keil_Anton_1854_1926.xml",
-    "krp_person_id": "krp_person_id__204"
+    "krp_person_id": "krp_person_id__204",
+    "wikidata_url": ""
   },
   "205": {
     "id": 205,
     "order": "172.00000000000000000000",
-    "Name": "Stockton, Gilchrist Baker",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stockton, Gilchrist Baker",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter der amerikanischen Hilfsaktion",
     "Quelle": "https://en.wikipedia.org/wiki/Gilchrist_Baker_Stockton",
-    "krp_person_id": "krp_person_id__205"
+    "krp_person_id": "krp_person_id__205",
+    "wikidata_url": ""
   },
   "207": {
     "id": 207,
     "order": "174.00000000000000000000",
-    "Name": "Hoover, Herbert Clark",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hoover, Herbert Clark",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "amerikanischer Lebensmittelkontrollor",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__207"
+    "krp_person_id": "krp_person_id__207",
+    "wikidata_url": ""
   },
   "208": {
     "id": 208,
     "order": "175.00000000000000000000",
-    "Name": "Kelle, Carl Dr. [von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kelle, Carl Dr. [von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Inneres und Unterricht",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Kelle_Carl_1859_1935.xml",
-    "krp_person_id": "krp_person_id__208"
+    "krp_person_id": "krp_person_id__208",
+    "wikidata_url": ""
   },
   "209": {
     "id": 209,
     "order": "176.00000000000000000000",
-    "Name": "Stockhammer",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stockhammer",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Verkehrswesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__209"
+    "krp_person_id": "krp_person_id__209",
+    "wikidata_url": ""
   },
   "505": {
     "id": 505,
     "order": "176.50000000000000000000",
-    "Name": "Wernigg, Maria",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wernigg, Maria",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hilfsämterdirektorswaise",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__505"
+    "krp_person_id": "krp_person_id__505",
+    "wikidata_url": ""
   },
   "210": {
     "id": 210,
     "order": "177.00000000000000000000",
-    "Name": "Wernisch, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wernisch, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Gutsbesitzer, Vorschlag zum Vizepräsidenten des Landeskulturrates für Kärnten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__210"
+    "krp_person_id": "krp_person_id__210",
+    "wikidata_url": ""
   },
   "212": {
     "id": 212,
     "order": "179.00000000000000000000",
-    "Name": "Gruber, Hermann",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gruber, Hermann",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vizepräsident des Landeskulturrates für Kärnten; Gutsbesitzer in Kärnten Gasselhof",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__212"
+    "krp_person_id": "krp_person_id__212",
+    "wikidata_url": ""
   },
   "215": {
     "id": 215,
     "order": "182.00000000000000000000",
-    "Name": "Binder, Anton Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Binder, Anton Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Land- und Forstwirtschaft",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__215"
+    "krp_person_id": "krp_person_id__215",
+    "wikidata_url": ""
   },
   "217": {
     "id": 217,
     "order": "184.00000000000000000000",
-    "Name": "Alter, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Alter, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Land- und Forstwirtschaft",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__217"
+    "krp_person_id": "krp_person_id__217",
+    "wikidata_url": ""
   },
   "219": {
     "id": 219,
     "order": "186.00000000000000000000",
-    "Name": "Fischer, Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Fischer, Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Verkehrswesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__219"
+    "krp_person_id": "krp_person_id__219",
+    "wikidata_url": ""
   },
   "220": {
     "id": 220,
     "order": "187.00000000000000000000",
-    "Name": "Kniep, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kniep, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat Staatsamt für Verkehrswesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__220"
+    "krp_person_id": "krp_person_id__220",
+    "wikidata_url": ""
   },
   "486": {
     "id": 486,
     "order": "188.00000000000000000000",
-    "Name": "Neumann, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Neumann, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Rechtsanwalt von Erzherzog Friedrich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__486"
+    "krp_person_id": "krp_person_id__486",
+    "wikidata_url": ""
   },
   "223": {
     "id": 223,
     "order": "189.00000000000000000000",
-    "Name": "Neurath, Ludwig [von Neudenegg]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Neurath, Ludwig [von Neudenegg]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vorstandsvorsitzende der Creditanstalt für Handel und Gewerbe",
     "Quelle": "https://www.lexikon-provenienzforschung.org/neurath-ludwig",
-    "krp_person_id": "krp_person_id__223"
+    "krp_person_id": "krp_person_id__223",
+    "wikidata_url": ""
   },
   "562": {
     "id": 562,
     "order": "189.50000000000000000000",
-    "Name": "Rintelen, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rintelen, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Landeshauptmann der Steiermark",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_R/Rintelen_Anton_1876_1946.xml",
-    "krp_person_id": "krp_person_id__562"
+    "krp_person_id": "krp_person_id__562",
+    "wikidata_url": ""
   },
   "224": {
     "id": 224,
     "order": "190.00000000000000000000",
-    "Name": "Rogers, Howard L.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rogers, Howard L.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bankier aus New York",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19311101&query=%22Howard+Rogers%22&ref=anno-search&seite=22",
-    "krp_person_id": "krp_person_id__224"
+    "krp_person_id": "krp_person_id__224",
+    "wikidata_url": ""
   },
   "608": {
     "id": 608,
     "order": "190.50000000000000000000",
-    "Name": "Weyda, Lothar",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Weyda, Lothar",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Polizeipräsident in der Steiermark",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__608"
+    "krp_person_id": "krp_person_id__608",
+    "wikidata_url": ""
   },
   "225": {
     "id": 225,
     "order": "191.00000000000000000000",
-    "Name": "Whitson, G.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Whitson, G.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Entsendet von Firma Stone & Webster",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__225"
+    "krp_person_id": "krp_person_id__225",
+    "wikidata_url": ""
   },
   "226": {
     "id": 226,
     "order": "192.00000000000000000000",
-    "Name": "Pohl, Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pohl, Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberbergrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__226"
+    "krp_person_id": "krp_person_id__226",
+    "wikidata_url": ""
   },
   "228": {
     "id": 228,
     "order": "194.00000000000000000000",
-    "Name": "Plener, Ernst [Freiherr von] Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Plener, Ernst [Freiherr von] Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter des liquidierenden gemeinsamen Obersten Rechnungshofes",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_P/Plener_Ernest_1841_1923.xml",
-    "krp_person_id": "krp_person_id__228"
+    "krp_person_id": "krp_person_id__228",
+    "wikidata_url": ""
   },
   "621": {
     "id": 621,
     "order": "194.50000000000000000000",
-    "Name": "Fontana, Oskar",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Fontana, Oskar",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vertragsangestellter des Reichsbildungsamtes",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__621"
+    "krp_person_id": "krp_person_id__621",
+    "wikidata_url": ""
   },
   "229": {
     "id": 229,
     "order": "195.00000000000000000000",
-    "Name": "Foris, Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Foris, Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Schweizer Ingenieur",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__229"
+    "krp_person_id": "krp_person_id__229",
+    "wikidata_url": ""
   },
   "230": {
     "id": 230,
     "order": "196.00000000000000000000",
-    "Name": "Jentl, Bernhard Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jentl, Bernhard Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sekretär der Handels- und Gewerbekammer in Graz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=ozv&datum=19200201&query=%22Dr.+Bernhard+Jentl%22&ref=anno-search&seite=4",
-    "krp_person_id": "krp_person_id__230"
+    "krp_person_id": "krp_person_id__230",
+    "wikidata_url": ""
   },
   "231": {
     "id": 231,
     "order": "197.00000000000000000000",
-    "Name": "Speil-Ostheim, Oskar? Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Speil-Ostheim, Oskar? Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vom Staatsamt für Verkehrswesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__231"
+    "krp_person_id": "krp_person_id__231",
+    "wikidata_url": ""
   },
   "232": {
     "id": 232,
     "order": "198.00000000000000000000",
-    "Name": "Allizé, Henry",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Allizé, Henry",
+    "anmerkungen": "",
+    "gnd_url": "https://d-nb.info/gnd/133539296",
     "Funktion": "Gesandter",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=tag&datum=19330911&query=%22Alliz%c3%a9%22&ref=anno-search&seite=4",
-    "krp_person_id": "krp_person_id__232"
+    "krp_person_id": "krp_person_id__232",
+    "wikidata_url": ""
   },
   "233": {
     "id": 233,
     "order": "199.00000000000000000000",
-    "Name": "Pesta, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pesta, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Minsterialrat im Staatsamt für Verkehrswesen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__233"
+    "krp_person_id": "krp_person_id__233",
+    "wikidata_url": ""
   },
   "601": {
     "id": 601,
     "order": "199.50000000000000000000",
-    "Name": "Kelsen, Hans",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kelsen, Hans",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Verfassungsrechtler",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118561219",
-    "krp_person_id": "krp_person_id__601"
+    "krp_person_id": "krp_person_id__601",
+    "wikidata_url": ""
   },
   "234": {
     "id": 234,
     "order": "200.00000000000000000000",
-    "Name": "Kienböck, Viktor Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kienböck, Viktor Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Rechtsanwalt",
     "Quelle": "https://www.parlament.gv.at/person/1964",
-    "krp_person_id": "krp_person_id__234"
+    "krp_person_id": "krp_person_id__234",
+    "wikidata_url": ""
   },
   "235": {
     "id": 235,
     "order": "201.00000000000000000000",
-    "Name": "Tomschik, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Tomschik, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Nationalversammlung (SDAP)",
     "Quelle": "https://www.parlament.gv.at/person/1382",
-    "krp_person_id": "krp_person_id__235"
+    "krp_person_id": "krp_person_id__235",
+    "wikidata_url": ""
   },
   "237": {
     "id": 237,
     "order": "203.00000000000000000000",
-    "Name": "Zelenka, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zelenka, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Nationalversammlung (SDAP)",
     "Quelle": "https://www.parlament.gv.at/person/1633",
-    "krp_person_id": "krp_person_id__237"
+    "krp_person_id": "krp_person_id__237",
+    "wikidata_url": ""
   },
   "238": {
     "id": 238,
     "order": "204.00000000000000000000",
-    "Name": "Phillpotts, Owen S.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Phillpotts, Owen S.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Handelsattaché",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwg&datum=19191130&query=%22Philpotts%22&ref=anno-search&seite=12",
-    "krp_person_id": "krp_person_id__238"
+    "krp_person_id": "krp_person_id__238",
+    "wikidata_url": ""
   },
   "239": {
     "id": 239,
     "order": "205.00000000000000000000",
-    "Name": "Goode, William",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Goode, William",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied des Obersten Wirtschaftsrates",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191015&query=%22William+Goode%22&ref=anno-search&seite=5",
-    "krp_person_id": "krp_person_id__239"
+    "krp_person_id": "krp_person_id__239",
+    "wikidata_url": ""
   },
   "240": {
     "id": 240,
     "order": "206.00000000000000000000",
-    "Name": "Hamburger, Fritz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hamburger, Fritz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident der Vereinigung der österreichischen Industrie in Wien",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__240"
+    "krp_person_id": "krp_person_id__240",
+    "wikidata_url": ""
   },
   "241": {
     "id": 241,
     "order": "207.00000000000000000000",
-    "Name": "Hummer, Gustav Mag.pharm.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hummer, Gustav Mag.pharm.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Prov Nationalversammlung",
     "Quelle": "; https://www.parlament.gv.at/person/701https://www.geschichtewiki.wien.gv.at/St.-Rudolf-Apotheke",
-    "krp_person_id": "krp_person_id__241"
+    "krp_person_id": "krp_person_id__241",
+    "wikidata_url": ""
   },
   "242": {
     "id": 242,
     "order": "208.00000000000000000000",
-    "Name": "Jüptner",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jüptner",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberfinanzrat [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__242"
+    "krp_person_id": "krp_person_id__242",
+    "wikidata_url": ""
   },
   "243": {
     "id": 243,
     "order": "209.00000000000000000000",
-    "Name": "Hlawač, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hlawač, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Finanzen",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19211130&query=%22Ministerialrat+Dr.+Hlawa%c4%8d%22&ref=anno-search&seite=5",
-    "krp_person_id": "krp_person_id__243"
+    "krp_person_id": "krp_person_id__243",
+    "wikidata_url": ""
   },
   "245": {
     "id": 245,
     "order": "211.00000000000000000000",
-    "Name": "Ehrenfeld-Pop",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ehrenfeld-Pop",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__245"
+    "krp_person_id": "krp_person_id__245",
+    "wikidata_url": ""
   },
   "246": {
     "id": 246,
     "order": "212.00000000000000000000",
-    "Name": "Rücker [Rucker?]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rücker [Rucker?]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__246"
+    "krp_person_id": "krp_person_id__246",
+    "wikidata_url": ""
   },
   "609": {
     "id": 609,
     "order": "212.50000000000000000000",
-    "Name": "Kunz, Gottfried Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kunz, Gottfried Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Polizeidirektor in Graz",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__609"
+    "krp_person_id": "krp_person_id__609",
+    "wikidata_url": ""
   },
   "247": {
     "id": 247,
     "order": "213.00000000000000000000",
-    "Name": "Kunze, Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kunze, Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__247"
+    "krp_person_id": "krp_person_id__247",
+    "wikidata_url": ""
   },
   "248": {
     "id": 248,
     "order": "214.00000000000000000000",
-    "Name": "Vielgut",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Vielgut",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Direktor Papierindustrie",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__248"
+    "krp_person_id": "krp_person_id__248",
+    "wikidata_url": ""
   },
   "249": {
     "id": 249,
     "order": "215.00000000000000000000",
-    "Name": "Redinger, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Redinger, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__249"
+    "krp_person_id": "krp_person_id__249",
+    "wikidata_url": ""
   },
   "250": {
     "id": 250,
     "order": "216.00000000000000000000",
-    "Name": "Scapinelli, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Scapinelli, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Zentraldirektor der Staatserziehungsanstalten Sektionsrat",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__250"
+    "krp_person_id": "krp_person_id__250",
+    "wikidata_url": ""
   },
   "252": {
     "id": 252,
     "order": "218.00000000000000000000",
-    "Name": "Halban, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Halban, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat Staatsamt für Volksernährung [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__252"
+    "krp_person_id": "krp_person_id__252",
+    "wikidata_url": ""
   },
   "253": {
     "id": 253,
     "order": "219.00000000000000000000",
-    "Name": "Kaltenbrunner, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kaltenbrunner, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat Staatsamt für Finanzen [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dvb&datum=19200111&query=%22Sektionsrat+Kaltenbrunner%22&ref=anno-search&seite=5",
-    "krp_person_id": "krp_person_id__253"
+    "krp_person_id": "krp_person_id__253",
+    "wikidata_url": ""
   },
   "489": {
     "id": 489,
     "order": "220.00000000000000000000",
-    "Name": "Harpner, Gustav Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Harpner, Gustav Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Rechtsanwalt in Wien",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__489"
+    "krp_person_id": "krp_person_id__489",
+    "wikidata_url": ""
   },
   "255": {
     "id": 255,
     "order": "221.00000000000000000000",
-    "Name": "Hartl, Karl Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hartl, Karl Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Magistratsdirektor Gemeinde Wien",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19190701&query=%22Magistratsdirektor+Dr.+Hartl%22&ref=anno-search&seite=9",
-    "krp_person_id": "krp_person_id__255"
+    "krp_person_id": "krp_person_id__255",
+    "wikidata_url": ""
   },
   "256": {
     "id": 256,
     "order": "222.00000000000000000000",
-    "Name": "Müller, Rudolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Müller, Rudolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Landesrat des Landes Niederösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__256"
+    "krp_person_id": "krp_person_id__256",
+    "wikidata_url": ""
   },
   "257": {
     "id": 257,
     "order": "223.00000000000000000000",
-    "Name": "Neumann, Jakob",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Neumann, Jakob",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bürgermeister Stadt Wien",
     "Quelle": "https://www.parlament.gv.at/person/1673",
-    "krp_person_id": "krp_person_id__257"
+    "krp_person_id": "krp_person_id__257",
+    "wikidata_url": ""
   },
   "258": {
     "id": 258,
     "order": "224.00000000000000000000",
-    "Name": "Breitner",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Breitner",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Stadtrat der Gemeinde Wien",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__258"
+    "krp_person_id": "krp_person_id__258",
+    "wikidata_url": ""
   },
   "259": {
     "id": 259,
     "order": "225.00000000000000000000",
-    "Name": "Speiser",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Speiser",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Stadtrat der Gemeinde Wien",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__259"
+    "krp_person_id": "krp_person_id__259",
+    "wikidata_url": ""
   },
   "260": {
     "id": 260,
     "order": "226.00000000000000000000",
-    "Name": "Schneller",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schneller",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberst, Staatsamt für Heereswesen [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__260"
+    "krp_person_id": "krp_person_id__260",
+    "wikidata_url": ""
   },
   "265": {
     "id": 265,
     "order": "229.00000000000000000000",
-    "Name": "Cilek, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Cilek, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 getötet",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__265"
+    "krp_person_id": "krp_person_id__265",
+    "wikidata_url": ""
   },
   "266": {
     "id": 266,
     "order": "230.00000000000000000000",
-    "Name": "Stams, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stams, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 getötet",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__266"
+    "krp_person_id": "krp_person_id__266",
+    "wikidata_url": ""
   },
   "267": {
     "id": 267,
     "order": "231.00000000000000000000",
-    "Name": "Burg, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Burg, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 schwer verletzt",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__267"
+    "krp_person_id": "krp_person_id__267",
+    "wikidata_url": ""
   },
   "269": {
     "id": 269,
     "order": "233.00000000000000000000",
-    "Name": "Gottlieb-Billroth, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gottlieb-Billroth, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Finanzen [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__269"
+    "krp_person_id": "krp_person_id__269",
+    "wikidata_url": ""
   },
   "270": {
     "id": 270,
     "order": "234.00000000000000000000",
-    "Name": "Grünwald, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Grünwald, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__270"
+    "krp_person_id": "krp_person_id__270",
+    "wikidata_url": ""
   },
   "550": {
     "id": 550,
     "order": "234.50000000000000000000",
-    "Name": "Millsteiger, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Millsteiger, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__550"
+    "krp_person_id": "krp_person_id__550",
+    "wikidata_url": ""
   },
   "271": {
     "id": 271,
     "order": "235.00000000000000000000",
-    "Name": "Mörth, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mörth, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__271"
+    "krp_person_id": "krp_person_id__271",
+    "wikidata_url": ""
   },
   "272": {
     "id": 272,
     "order": "236.00000000000000000000",
-    "Name": "Hauser, Johann Nepomuk",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hauser, Johann Nepomuk",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präsident des Hauptausschusses der Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/534",
-    "krp_person_id": "krp_person_id__272"
+    "krp_person_id": "krp_person_id__272",
+    "wikidata_url": ""
   },
   "617": {
     "id": 617,
     "order": "236.50000000000000000000",
-    "Name": "Seidmann, Karl Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Seidmann, Karl Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsamt für Volksernährung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__617"
+    "krp_person_id": "krp_person_id__617",
+    "wikidata_url": ""
   },
   "476": {
     "id": 476,
     "order": "237.00000000000000000000",
-    "Name": "Segré, Roberto",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Segré, Roberto",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Leiter der italienischen Waffenstillstandskommission",
     "Quelle": "https://pro.unibz.it/library/bupress/publications/fulltext/9788860461735_10.pdf - S. 259",
-    "krp_person_id": "krp_person_id__476"
+    "krp_person_id": "krp_person_id__476",
+    "wikidata_url": ""
   },
   "274": {
     "id": 274,
     "order": "238.00000000000000000000",
-    "Name": "Seipel, Ignaz Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Seipel, Ignaz Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Abgeordneter der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/1992",
-    "krp_person_id": "krp_person_id__274"
+    "krp_person_id": "krp_person_id__274",
+    "wikidata_url": ""
   },
   "276": {
     "id": 276,
     "order": "240.00000000000000000000",
-    "Name": "Gürtler, Alfred Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gürtler, Alfred Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/624",
-    "krp_person_id": "krp_person_id__276"
+    "krp_person_id": "krp_person_id__276",
+    "wikidata_url": ""
   },
   "277": {
     "id": 277,
     "order": "241.00000000000000000000",
-    "Name": "Adler, Friedrich Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Adler, Friedrich Dr.",
+    "anmerkungen": "",
+    "gnd_url": "https://d-nb.info/gnd/118960407",
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/10",
-    "krp_person_id": "krp_person_id__277"
+    "krp_person_id": "krp_person_id__277",
+    "wikidata_url": ""
   },
   "279": {
     "id": 279,
     "order": "243.00000000000000000000",
-    "Name": "Dittes, Pauk Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dittes, Pauk Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Direktor des Elektrisierungsamtes der österreichischen Staatsbahnen",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_D/Dittes_Paul_1871_1940.xml",
-    "krp_person_id": "krp_person_id__279"
+    "krp_person_id": "krp_person_id__279",
+    "wikidata_url": ""
   },
   "280": {
     "id": 280,
     "order": "244.00000000000000000000",
-    "Name": "Hold, Richard Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hold, Richard Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Justiz [III]",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__280"
+    "krp_person_id": "krp_person_id__280",
+    "wikidata_url": ""
   },
   "282": {
     "id": 282,
     "order": "246.00000000000000000000",
-    "Name": "Allina, Heinrich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Allina, Heinrich",
+    "anmerkungen": "",
+    "gnd_url": "https://d-nb.info/gnd/1374721611",
     "Funktion": "Mitglied der Kunst. Nationalversammlung",
-    "Quelle": "https://www.parlament.gv.at/person/51",
-    "krp_person_id": "krp_person_id__282"
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__282",
+    "wikidata_url": ""
   },
   "283": {
     "id": 283,
     "order": "247.00000000000000000000",
-    "Name": "Friedmann, Max",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Friedmann, Max",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/395",
-    "krp_person_id": "krp_person_id__283"
+    "krp_person_id": "krp_person_id__283",
+    "wikidata_url": ""
   },
   "284": {
     "id": 284,
     "order": "248.00000000000000000000",
-    "Name": "Logan",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Logan",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Colonel; Mitglied Reparationskommission",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__284"
+    "krp_person_id": "krp_person_id__284",
+    "wikidata_url": ""
   },
   "560": {
     "id": 560,
     "order": "248.33333333333334280724",
-    "Name": "Singer, Julius",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Singer, Julius",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Kommerzialrate",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__560"
+    "krp_person_id": "krp_person_id__560",
+    "wikidata_url": ""
   },
   "484": {
     "id": 484,
     "order": "248.50000000000000000000",
-    "Name": "Slatin, Rudolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Slatin, Rudolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied in der Staatskommission für Kriegsgefangene",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_S/Slatin_Rudolf_1857_1932.xml",
-    "krp_person_id": "krp_person_id__484"
+    "krp_person_id": "krp_person_id__484",
+    "wikidata_url": ""
   },
   "285": {
     "id": 285,
     "order": "249.00000000000000000000",
-    "Name": "Smith,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Smith,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Colonel; Mitglied Reparationskommission",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__285"
+    "krp_person_id": "krp_person_id__285",
+    "wikidata_url": ""
   },
   "508": {
     "id": 508,
     "order": "249.50000000000000000000",
-    "Name": "Boog, Adolf [von]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Boog, Adolf [von]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Feldmarschallleutnant",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1314980769",
-    "krp_person_id": "krp_person_id__508"
+    "krp_person_id": "krp_person_id__508",
+    "wikidata_url": ""
   },
   "286": {
     "id": 286,
     "order": "250.00000000000000000000",
-    "Name": "Bösbauer, Hans",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bösbauer, Hans",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Chefredakteur \"Die Neue Zeitung\"",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Die_Neue_Zeitung",
-    "krp_person_id": "krp_person_id__286"
+    "krp_person_id": "krp_person_id__286",
+    "wikidata_url": ""
   },
   "288": {
     "id": 288,
     "order": "252.00000000000000000000",
-    "Name": "Bourcart, Charles-Daniel Dr. jur.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bourcart, Charles-Daniel Dr. jur.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Gesandter der Bundesrepublik Schweiz",
     "Quelle": "https://geschichte.univie.ac.at/de/personen/charles-daniel-bourcart",
-    "krp_person_id": "krp_person_id__288"
+    "krp_person_id": "krp_person_id__288",
+    "wikidata_url": ""
   },
   "622": {
     "id": 622,
     "order": "252.50000000000000000000",
-    "Name": "Rodler, Walter Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rodler, Walter Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamt für soziale Verwaltung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__622"
+    "krp_person_id": "krp_person_id__622",
+    "wikidata_url": ""
   },
   "289": {
     "id": 289,
     "order": "253.00000000000000000000",
-    "Name": "Roller, Alfred",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Roller, Alfred",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bühnenbildner, Maler",
     "Quelle": "https://www.biographien.ac.at/oebl_9/224.pdf",
-    "krp_person_id": "krp_person_id__289"
+    "krp_person_id": "krp_person_id__289",
+    "wikidata_url": ""
   },
   "479": {
     "id": 479,
     "order": "253.50000000000000000000",
-    "Name": "Ganglbauer, Ernest",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ganglbauer, Ernest",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Stellvertretender Vertreter der Internationalen Liquidiuerungskommission",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__479"
+    "krp_person_id": "krp_person_id__479",
+    "wikidata_url": ""
   },
   "290": {
     "id": 290,
     "order": "254.00000000000000000000",
-    "Name": "Garzarolli, Karl? [von Thurnlackh] junior",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Garzarolli, Karl? [von Thurnlackh] junior",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Finanzprokuraturssekretär",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_Garzarolli_von_Thurnlackh_junior",
-    "krp_person_id": "krp_person_id__290"
+    "krp_person_id": "krp_person_id__290",
+    "wikidata_url": ""
   },
   "291": {
     "id": 291,
     "order": "255.00000000000000000000",
-    "Name": "Hölzl, Anton Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hölzl, Anton Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/613",
-    "krp_person_id": "krp_person_id__291"
+    "krp_person_id": "krp_person_id__291",
+    "wikidata_url": ""
   },
   "292": {
     "id": 292,
     "order": "256.00000000000000000000",
-    "Name": "Nitti, Francesco Saverio",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Nitti, Francesco Saverio",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerpräsident Italien Juni 1919-Juni 1920",
     "Quelle": "https://de.wikipedia.org/wiki/Francesco_Saverio_Nitti",
-    "krp_person_id": "krp_person_id__292"
+    "krp_person_id": "krp_person_id__292",
+    "wikidata_url": ""
   },
   "293": {
     "id": 293,
     "order": "257.00000000000000000000",
-    "Name": "Stark, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stark, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberlehrer des Ruhestandes in Weilburg",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__293"
+    "krp_person_id": "krp_person_id__293",
+    "wikidata_url": ""
   },
   "294": {
     "id": 294,
     "order": "258.00000000000000000000",
-    "Name": "Falser, Stephan",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Falser, Stephan",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ersatzmann am VfGH bis 1920",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__294"
+    "krp_person_id": "krp_person_id__294",
+    "wikidata_url": ""
   },
   "295": {
     "id": 295,
     "order": "259.00000000000000000000",
-    "Name": "Erler, Eduard Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Erler, Eduard Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ersatzmann am VfGH bis 1920",
     "Quelle": "https://www.parlament.gv.at/person/272",
-    "krp_person_id": "krp_person_id__295"
+    "krp_person_id": "krp_person_id__295",
+    "wikidata_url": ""
   },
   "296": {
     "id": 296,
     "order": "260.00000000000000000000",
-    "Name": "Bernegger, Matthias Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bernegger, Matthias Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ersatzmann am VfGH ab 1920",
     "Quelle": "https://www.vfgh.gv.at/verfassungsgerichtshof/verfassungsrichter/mitglieder_tabelle.de.html",
-    "krp_person_id": "krp_person_id__296"
+    "krp_person_id": "krp_person_id__296",
+    "wikidata_url": ""
   },
   "611": {
     "id": 611,
     "order": "260.50000000000000000000",
-    "Name": "Jacobi, Adolf Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jacobi, Adolf Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberbaurat im Staatsamt für Handel und Gewebe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__611"
+    "krp_person_id": "krp_person_id__611",
+    "wikidata_url": ""
   },
   "297": {
     "id": 297,
     "order": "261.00000000000000000000",
-    "Name": "Jäger, Ernst Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jäger, Ernst Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Rechtsanwalt in Linz",
     "Quelle": "https://de.wikipedia.org/wiki/Ernst_Jäger_(Politiker)",
-    "krp_person_id": "krp_person_id__297"
+    "krp_person_id": "krp_person_id__297",
+    "wikidata_url": ""
   },
   "298": {
     "id": 298,
     "order": "262.00000000000000000000",
-    "Name": "Zweifel,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zweifel,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Fabrikdirektor in Neunkirchen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__298"
+    "krp_person_id": "krp_person_id__298",
+    "wikidata_url": ""
   },
   "299": {
     "id": 299,
     "order": "263.00000000000000000000",
-    "Name": "Ludwig (Anton Joseph) Viktor, Erzherzog von Österreich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ludwig (Anton Joseph) Viktor, Erzherzog von Österreich",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "jüngster Brüder Kaiser Franz Josephs",
     "Quelle": "https://www.biographien.ac.at/oebl_5/351.pdf",
-    "krp_person_id": "krp_person_id__299"
+    "krp_person_id": "krp_person_id__299",
+    "wikidata_url": ""
   },
   "301": {
     "id": 301,
     "order": "265.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Maria Josefa",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Maria Josefa",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Testamentserbin des Lustschlosses Kleßheim",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__301"
+    "krp_person_id": "krp_person_id__301",
+    "wikidata_url": ""
   },
   "302": {
     "id": 302,
     "order": "266.00000000000000000000",
-    "Name": "Jung Georg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jung Georg",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Eigentümer des Hotel de l’Europe in Salzburg",
     "Quelle": "https://de.wikipedia.org/wiki/Hotel_de_l%E2%80%99Europe_(Salzburg)",
-    "krp_person_id": "krp_person_id__302"
+    "krp_person_id": "krp_person_id__302",
+    "wikidata_url": ""
   },
   "497": {
     "id": 497,
     "order": "266.50000000000000000000",
-    "Name": "Wokral, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wokral, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bürgermeister der Stadt Steyr",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__497"
+    "krp_person_id": "krp_person_id__497",
+    "wikidata_url": ""
   },
   "303": {
     "id": 303,
     "order": "267.00000000000000000000",
-    "Name": "Wollheim",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wollheim",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19221121&query=%22ministerialrat+Wollheim%22&ref=anno-search&seite=2",
-    "krp_person_id": "krp_person_id__303"
+    "krp_person_id": "krp_person_id__303",
+    "wikidata_url": ""
   },
   "612": {
     "id": 612,
     "order": "267.33333333333331438553",
-    "Name": "Dorschel, Otmar Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dorschel, Otmar Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberbaurat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__612"
+    "krp_person_id": "krp_person_id__612",
+    "wikidata_url": ""
   },
   "607": {
     "id": 607,
     "order": "267.50000000000000000000",
-    "Name": "Drucker, Adolf Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Drucker, Adolf Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Direkter des Handelsmuseums",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__607"
+    "krp_person_id": "krp_person_id__607",
+    "wikidata_url": ""
   },
   "304": {
     "id": 304,
     "order": "268.00000000000000000000",
-    "Name": "Dubowy, Ernst Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dubowy, Ernst Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Justiz [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200518&query=%22ministerialrat+Dr.+Dubowy%22&ref=anno-search&seite=9",
-    "krp_person_id": "krp_person_id__304"
+    "krp_person_id": "krp_person_id__304",
+    "wikidata_url": ""
   },
   "305": {
     "id": 305,
     "order": "269.00000000000000000000",
-    "Name": "Linder, Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Linder, Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Generaldirektor Industriewerke",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__305"
+    "krp_person_id": "krp_person_id__305",
+    "wikidata_url": ""
   },
   "306": {
     "id": 306,
     "order": "270.00000000000000000000",
-    "Name": "Troubridge, Ernest",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Troubridge, Ernest",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Vorsitzender der Internationalen Donaukommission",
     "Quelle": "https://de.wikipedia.org/wiki/Ernest_Troubridge",
-    "krp_person_id": "krp_person_id__306"
+    "krp_person_id": "krp_person_id__306",
+    "wikidata_url": ""
   },
   "307": {
     "id": 307,
     "order": "271.00000000000000000000",
-    "Name": "Buchinger, Rudolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Buchinger, Rudolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/122",
-    "krp_person_id": "krp_person_id__307"
+    "krp_person_id": "krp_person_id__307",
+    "wikidata_url": ""
   },
   "309": {
     "id": 309,
     "order": "273.00000000000000000000",
-    "Name": "Smitka, Johann",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Smitka, Johann",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Mitglied der Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/1893",
-    "krp_person_id": "krp_person_id__309"
+    "krp_person_id": "krp_person_id__309",
+    "wikidata_url": ""
   },
   "543": {
     "id": 543,
     "order": "273.50000000000000000000",
-    "Name": "Oldofredi",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oldofredi",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat und Vertreter Deutsch-Südmährens bei der Pariser Friedenskonferenz",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__543"
+    "krp_person_id": "krp_person_id__543",
+    "wikidata_url": ""
   },
   "310": {
     "id": 310,
     "order": "274.00000000000000000000",
-    "Name": "Oppenheimer, Richard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oppenheimer, Richard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Äußeres",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19221016&query=%22Richard+Oppenheimer%22&ref=anno-search&seite=1",
-    "krp_person_id": "krp_person_id__310"
+    "krp_person_id": "krp_person_id__310",
+    "wikidata_url": ""
   },
   "490": {
     "id": 490,
     "order": "275.00000000000000000000",
-    "Name": "Heiderich, Franz Prof. Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Heiderich, Franz Prof. Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__490"
+    "krp_person_id": "krp_person_id__490",
+    "wikidata_url": ""
   },
   "312": {
     "id": 312,
     "order": "276.00000000000000000000",
-    "Name": "Heinz, Franz Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Heinz, Franz Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Inneres und Unterricht [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200209&query=%22Franz+Heinz%22&ref=anno-search&seite=7",
-    "krp_person_id": "krp_person_id__312"
+    "krp_person_id": "krp_person_id__312",
+    "wikidata_url": ""
   },
   "313": {
     "id": 313,
     "order": "277.00000000000000000000",
-    "Name": "Haager, Karl Dr. [Edler von Vanderhaag]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Haager, Karl Dr. [Edler von Vanderhaag]",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für Volksernäherung",
     "Quelle": "https://austriaca.at/0xc1aa5572%200x004015b5.pdf",
-    "krp_person_id": "krp_person_id__313"
+    "krp_person_id": "krp_person_id__313",
+    "wikidata_url": ""
   },
   "315": {
     "id": 315,
     "order": "279.00000000000000000000",
-    "Name": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19210413&query=%22alfred+rappaport%22&ref=anno-search&seite=7",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19210413&query=%22alfred+rappaport%22&ref=anno-search&seite=7",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__315"
+    "krp_person_id": "krp_person_id__315",
+    "wikidata_url": ""
   },
   "316": {
     "id": 316,
     "order": "280.00000000000000000000",
-    "Name": "Rappaport, Alfred",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rappaport, Alfred",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Äußeres [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19210413&query=%22alfred+rappaport%22&ref=anno-search&seite=7",
-    "krp_person_id": "krp_person_id__316"
+    "krp_person_id": "krp_person_id__316",
+    "wikidata_url": ""
   },
   "319": {
     "id": 319,
     "order": "283.00000000000000000000",
-    "Name": "Paltauf, Rudolf Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Paltauf, Rudolf Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef Staatsamt für Justiz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=gez&datum=19200141&query=(text:%22rudolf+Paltauf%22)&ref=anno-search&seite=13",
-    "krp_person_id": "krp_person_id__319"
+    "krp_person_id": "krp_person_id__319",
+    "wikidata_url": ""
   },
   "615": {
     "id": 615,
     "order": "283.33333333333331438553",
-    "Name": "Ballacs, Josef Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ballacs, Josef Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__615"
+    "krp_person_id": "krp_person_id__615",
+    "wikidata_url": ""
   },
   "474": {
     "id": 474,
     "order": "283.50000000000000000000",
-    "Name": "Bamberger, Max Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bamberger, Max Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Technischen Hochschule in Wien",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__474"
+    "krp_person_id": "krp_person_id__474",
+    "wikidata_url": ""
   },
   "614": {
     "id": 614,
     "order": "283.66666666666668561447",
-    "Name": "Bandl, Erich Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bandl, Erich Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat im Staatsamt für Volksernährung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__614"
+    "krp_person_id": "krp_person_id__614",
+    "wikidata_url": ""
   },
   "320": {
     "id": 320,
     "order": "284.00000000000000000000",
-    "Name": "Barrés,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Barrés,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Präses des interalliierten Luftfahrtüberwachungsausschusses",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=drf&datum=19200515&query=%22Luftfahrt%22&ref=anno-search&seite=1",
-    "krp_person_id": "krp_person_id__320"
+    "krp_person_id": "krp_person_id__320",
+    "wikidata_url": ""
   },
   "321": {
     "id": 321,
     "order": "285.00000000000000000000",
-    "Name": "Wallace,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wallace,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Washington KRP 182",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=drf&datum=19200515&query=%22Herr+Wallace%22&ref=anno-search&seite=1",
-    "krp_person_id": "krp_person_id__321"
+    "krp_person_id": "krp_person_id__321",
+    "wikidata_url": ""
   },
   "322": {
     "id": 322,
     "order": "286.00000000000000000000",
-    "Name": "Torretta, Pietro Tomasi",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Torretta, Pietro Tomasi",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "italienischer Gesandter",
     "Quelle": "https://de.wikipedia.org/wiki/Pietro_Tomasi_Della_Torretta",
-    "krp_person_id": "krp_person_id__322"
+    "krp_person_id": "krp_person_id__322",
+    "wikidata_url": ""
   },
   "544": {
     "id": 544,
     "order": "286.50000000000000000000",
-    "Name": "Habsburg-Lothringen, Peter Ferdinand",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Peter Ferdinand",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "vormalig Erzherzog  Peter Ferdinand",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__544"
+    "krp_person_id": "krp_person_id__544",
+    "wikidata_url": ""
   },
   "323": {
     "id": 323,
     "order": "287.00000000000000000000",
-    "Name": "Habsburg-Lothringen, Rainer",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Habsburg-Lothringen, Rainer",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__323"
+    "krp_person_id": "krp_person_id__323",
+    "wikidata_url": ""
   },
   "325": {
     "id": 325,
     "order": "289.00000000000000000000",
-    "Name": "Dittrich, Bruno",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dittrich, Bruno",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Korvettenkapitän",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
-    "krp_person_id": "krp_person_id__325"
+    "krp_person_id": "krp_person_id__325",
+    "wikidata_url": ""
   },
   "326": {
     "id": 326,
     "order": "290.00000000000000000000",
-    "Name": "Wettendorfer,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wettendorfer,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hauptmann",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
-    "krp_person_id": "krp_person_id__326"
+    "krp_person_id": "krp_person_id__326",
+    "wikidata_url": ""
   },
   "627": {
     "id": 627,
     "order": "290.33333333333331438553",
-    "Name": "Dvořák, Max Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dvořák, Max Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor der Kunstgeschichte an der Universität Wien",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__627"
+    "krp_person_id": "krp_person_id__627",
+    "wikidata_url": ""
   },
   "504": {
     "id": 504,
     "order": "290.50000000000000000000",
-    "Name": "Eckl, Herta",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Eckl, Herta",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hilfsämterdirektorstochter",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__504"
+    "krp_person_id": "krp_person_id__504",
+    "wikidata_url": ""
   },
   "327": {
     "id": 327,
     "order": "291.00000000000000000000",
-    "Name": "Egger, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Egger, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberfinanzrat",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=svb&datum=19200903&query=%22Oberfinanzrat+Egger%22&ref=anno-search&seite=6",
-    "krp_person_id": "krp_person_id__327"
+    "krp_person_id": "krp_person_id__327",
+    "wikidata_url": ""
   },
   "328": {
     "id": 328,
     "order": "292.00000000000000000000",
-    "Name": "Ruber",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ruber",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat Staatsamt für Inneres und Unterricht [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200501&query=%22Sektionsrat+Ruber%22&ref=anno-search&seite=5",
-    "krp_person_id": "krp_person_id__328"
+    "krp_person_id": "krp_person_id__328",
+    "wikidata_url": ""
   },
   "329": {
     "id": 329,
     "order": "293.00000000000000000000",
-    "Name": "Schwegel, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schwegel, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat Staatskanzlei",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19200814&query=%22Sektionsrat+Dr.+Schwegel%22&ref=anno-search&seite=5",
-    "krp_person_id": "krp_person_id__329"
+    "krp_person_id": "krp_person_id__329",
+    "wikidata_url": ""
   },
   "330": {
     "id": 330,
     "order": "294.00000000000000000000",
-    "Name": "Peter",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Peter",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "früherer Fregattenkapitän; Vertreter bei Grenzbestimmungskommission",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gpt&datum=19200709&query=%22Fregattenkapit%c3%a4n+Peter%22&ref=anno-search&seite=14",
-    "krp_person_id": "krp_person_id__330"
+    "krp_person_id": "krp_person_id__330",
+    "wikidata_url": ""
   },
   "546": {
     "id": 546,
     "order": "294.50000000000000000000",
-    "Name": "Amon,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Amon,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__546"
+    "krp_person_id": "krp_person_id__546",
+    "wikidata_url": ""
   },
   "331": {
     "id": 331,
     "order": "295.00000000000000000000",
-    "Name": "Aub,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Aub,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "kaufmännischer Direktor der staatlichen Industriewerke",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19200725&query=%22Direktor+Aub%22&ref=anno-search&seite=16",
-    "krp_person_id": "krp_person_id__331"
+    "krp_person_id": "krp_person_id__331",
+    "wikidata_url": ""
   },
   "499": {
     "id": 499,
     "order": "295.50000000000000000000",
-    "Name": "Kunzl, F. Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kunzl, F. Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Obmann des allgemeinen Schutzbundes für Kriegsteilnehmer",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__499"
+    "krp_person_id": "krp_person_id__499",
+    "wikidata_url": ""
   },
   "332": {
     "id": 332,
     "order": "296.00000000000000000000",
-    "Name": "Kurz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kurz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "technischer Direktor der staatlichen Industriewerke",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__332"
+    "krp_person_id": "krp_person_id__332",
+    "wikidata_url": ""
   },
   "333": {
     "id": 333,
     "order": "297.00000000000000000000",
-    "Name": "Thomes, Albert",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Thomes, Albert",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Direktor des Internationalen Arbeitsamtes",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__333"
+    "krp_person_id": "krp_person_id__333",
+    "wikidata_url": ""
   },
   "334": {
     "id": 334,
     "order": "298.00000000000000000000",
-    "Name": "de L‘Epine",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "de L‘Epine",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "französischer Kapitän",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__334"
+    "krp_person_id": "krp_person_id__334",
+    "wikidata_url": ""
   },
   "335": {
     "id": 335,
     "order": "299.00000000000000000000",
-    "Name": "Bartsch, Robert (Johann Heinrich Friedrich) Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bartsch, Robert (Johann Heinrich Friedrich) Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Ministerialrat Staatsamt für soziale Verwaltung [III]",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_B/Bartsch_Robert_1874_1955.xml",
-    "krp_person_id": "krp_person_id__335"
+    "krp_person_id": "krp_person_id__335",
+    "wikidata_url": ""
   },
   "337": {
     "id": 337,
     "order": "301.00000000000000000000",
-    "Name": "Bunau-Varilla Maurice",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bunau-Varilla Maurice",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Besitzer der Freischürfe und Grubenmasse am Rathausberg; Anmerkung in KRP 189 S. 8 Moritz geschrieben.",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19230505&query=%22Bunau-Varilla%22&ref=anno-search&seite=7",
-    "krp_person_id": "krp_person_id__337"
+    "krp_person_id": "krp_person_id__337",
+    "wikidata_url": ""
   },
   "552": {
     "id": 552,
     "order": "301.50000000000000000000",
-    "Name": "Schoeller, Paul",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schoeller, Paul",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Gutsbesitzer",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__552"
+    "krp_person_id": "krp_person_id__552",
+    "wikidata_url": ""
   },
   "556": {
     "id": 556,
     "order": "301.66666666666668561447",
-    "Name": "Scholz, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Scholz, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberfinanzrat im Staatsamt für Finanzen",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__556"
+    "krp_person_id": "krp_person_id__556",
+    "wikidata_url": ""
   },
   "338": {
     "id": 338,
     "order": "302.00000000000000000000",
-    "Name": "Schönemann, Adolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schönemann, Adolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Unterbeamter in Graz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gre&datum=19200225&query=%22Adolf+Sch%c3%b6nemann%22&ref=anno-search&seite=3",
-    "krp_person_id": "krp_person_id__338"
+    "krp_person_id": "krp_person_id__338",
+    "wikidata_url": ""
   },
   "503": {
     "id": 503,
     "order": "302.50000000000000000000",
-    "Name": "Kratzig, Wilhelmine",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kratzig, Wilhelmine",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Kanzleiadjunktentochter",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__503"
+    "krp_person_id": "krp_person_id__503",
+    "wikidata_url": ""
   },
   "339": {
     "id": 339,
     "order": "303.00000000000000000000",
-    "Name": "Kronholz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kronholz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Konsul, Staatsamt für Volksernährung [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19200410&query=%22Konsul+Kronholz%22&ref=anno-search&seite=9",
-    "krp_person_id": "krp_person_id__339"
+    "krp_person_id": "krp_person_id__339",
+    "wikidata_url": ""
   },
   "340": {
     "id": 340,
     "order": "304.00000000000000000000",
-    "Name": "Löwe, Ferdinand",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Löwe, Ferdinand",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Direktor der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://musiklexikon.ac.at/ml/musik_L/Loewe_Ferdinand.xml",
-    "krp_person_id": "krp_person_id__340"
+    "krp_person_id": "krp_person_id__340",
+    "wikidata_url": ""
   },
   "623": {
     "id": 623,
     "order": "304.50000000000000000000",
-    "Name": "Ludwig, Eduard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ludwig, Eduard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Publizistischer Mitarbeiter Eduard Ludwig",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__623"
+    "krp_person_id": "krp_person_id__623",
+    "wikidata_url": ""
   },
   "341": {
     "id": 341,
     "order": "305.00000000000000000000",
-    "Name": "Mandyczewski, Eusebius Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mandyczewski, Eusebius Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Mandyczewski_Eusebius_von.xml",
-    "krp_person_id": "krp_person_id__341"
+    "krp_person_id": "krp_person_id__341",
+    "wikidata_url": ""
   },
   "625": {
     "id": 625,
     "order": "305.50000000000000000000",
-    "Name": "Scheuch, Leopold",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Scheuch, Leopold",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Landesschulinspektor",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__625"
+    "krp_person_id": "krp_person_id__625",
+    "wikidata_url": ""
   },
   "342": {
     "id": 342,
     "order": "306.00000000000000000000",
-    "Name": "Schlemmer-Ambros, Irene",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schlemmer-Ambros, Irene",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professorin an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://musiklexikon.ac.at/ml/musik_A/Ambros_August_Wilhelm.xml",
-    "krp_person_id": "krp_person_id__342"
+    "krp_person_id": "krp_person_id__342",
+    "wikidata_url": ""
   },
   "343": {
     "id": 343,
     "order": "307.00000000000000000000",
-    "Name": "Forsten, Philipp",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Forsten, Philipp",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "1894–1926 Prof. am Konservatorium der GdM bzw. an der Wiener MAkad.",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_F/Forsten_Filip.xml",
-    "krp_person_id": "krp_person_id__343"
+    "krp_person_id": "krp_person_id__343",
+    "wikidata_url": ""
   },
   "344": {
     "id": 344,
     "order": "308.00000000000000000000",
-    "Name": "Geiringer Gustav",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Geiringer Gustav",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Lehrer für Sologesang",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_G/Geiringer_Ehepaar.xml",
-    "krp_person_id": "krp_person_id__344"
+    "krp_person_id": "krp_person_id__344",
+    "wikidata_url": ""
   },
   "345": {
     "id": 345,
     "order": "309.00000000000000000000",
-    "Name": "Haböck, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Haböck, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_H/Haboeck_Franz.xml",
-    "krp_person_id": "krp_person_id__345"
+    "krp_person_id": "krp_person_id__345",
+    "wikidata_url": ""
   },
   "346": {
     "id": 346,
     "order": "310.00000000000000000000",
-    "Name": "Thomas, Eugen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Thomas, Eugen",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_T/Thomas_Eugen.xml",
-    "krp_person_id": "krp_person_id__346"
+    "krp_person_id": "krp_person_id__346",
+    "wikidata_url": ""
   },
   "347": {
     "id": 347,
     "order": "311.00000000000000000000",
-    "Name": "Reinhold, Hugo",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Reinhold, Hugo",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_R/Reinhold_Hugo.xml",
-    "krp_person_id": "krp_person_id__347"
+    "krp_person_id": "krp_person_id__347",
+    "wikidata_url": ""
   },
   "553": {
     "id": 553,
     "order": "311.50000000000000000000",
-    "Name": "Pantz,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pantz,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__553"
+    "krp_person_id": "krp_person_id__553",
+    "wikidata_url": ""
   },
   "348": {
     "id": 348,
     "order": "312.00000000000000000000",
-    "Name": "Papier-Paumgartner, Rosa",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Papier-Paumgartner, Rosa",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professorin an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_P/Paumgartner_Rosa_1858_1932.xml",
-    "krp_person_id": "krp_person_id__348"
+    "krp_person_id": "krp_person_id__348",
+    "wikidata_url": ""
   },
   "349": {
     "id": 349,
     "order": "313.00000000000000000000",
-    "Name": "Hofmann, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hofmann, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_H/Hofmann_Josef.xml",
-    "krp_person_id": "krp_person_id__349"
+    "krp_person_id": "krp_person_id__349",
+    "wikidata_url": ""
   },
   "493": {
     "id": 493,
     "order": "313.50000000000000000000",
-    "Name": "Schmid, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schmid, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__493"
+    "krp_person_id": "krp_person_id__493",
+    "wikidata_url": ""
   },
   "350": {
     "id": 350,
     "order": "314.00000000000000000000",
-    "Name": "Schmidt, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schmidt, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_S/Schmidt_Franz.xml",
-    "krp_person_id": "krp_person_id__350"
+    "krp_person_id": "krp_person_id__350",
+    "wikidata_url": ""
   },
   "495": {
     "id": 495,
     "order": "314.50000000000000000000",
-    "Name": "Priebsch, Josef Prof. Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Priebsch, Josef Prof. Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Außerordentlicher Professor an der Exportakademie",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__495"
+    "krp_person_id": "krp_person_id__495",
+    "wikidata_url": ""
   },
   "351": {
     "id": 351,
     "order": "315.00000000000000000000",
-    "Name": "Prohaska, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Prohaska, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://biographien.ac.at/oebl/oebl_P/Prohaska_Karl_1869_1927.xml",
-    "krp_person_id": "krp_person_id__351"
+    "krp_person_id": "krp_person_id__351",
+    "wikidata_url": ""
   },
   "383": {
     "id": 383,
     "order": "316.00000000000000000000",
-    "Name": "Grümmer, Paul",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Grümmer, Paul",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://musiklexikon.ac.at/0xc1aa5576_0x003c59ef",
-    "krp_person_id": "krp_person_id__383"
+    "krp_person_id": "krp_person_id__383",
+    "wikidata_url": ""
   },
   "551": {
     "id": 551,
     "order": "316.50000000000000000000",
-    "Name": "Marschall, Rudolf Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Marschall, Rudolf Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der bildenden Akademie der Künste",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D129250821",
-    "krp_person_id": "krp_person_id__551"
+    "krp_person_id": "krp_person_id__551",
+    "wikidata_url": ""
   },
   "384": {
     "id": 384,
     "order": "317.00000000000000000000",
-    "Name": "Marx, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Marx, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Marx_Joseph.xml",
-    "krp_person_id": "krp_person_id__384"
+    "krp_person_id": "krp_person_id__384",
+    "wikidata_url": ""
   },
   "416": {
     "id": 416,
     "order": "319.00000000000000000000",
-    "Name": "Pöstinger, Mathias",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pöstinger, Mathias",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Kapitän, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__416"
+    "krp_person_id": "krp_person_id__416",
+    "wikidata_url": ""
   },
   "417": {
     "id": 417,
     "order": "320.00000000000000000000",
-    "Name": "Zsiska, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zsiska, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Kapitän, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__417"
+    "krp_person_id": "krp_person_id__417",
+    "wikidata_url": ""
   },
   "418": {
     "id": 418,
     "order": "321.00000000000000000000",
-    "Name": "Kotzian, Mathias",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kotzian, Mathias",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__418"
+    "krp_person_id": "krp_person_id__418",
+    "wikidata_url": ""
   },
   "419": {
     "id": 419,
     "order": "322.00000000000000000000",
-    "Name": "Kogler, Raimund",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kogler, Raimund",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__419"
+    "krp_person_id": "krp_person_id__419",
+    "wikidata_url": ""
   },
   "452": {
     "id": 452,
     "order": "325.00000000000000000000",
-    "Name": "Obermaier, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Obermaier, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Steuermann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__452"
+    "krp_person_id": "krp_person_id__452",
+    "wikidata_url": ""
   },
   "453": {
     "id": 453,
     "order": "326.00000000000000000000",
-    "Name": "Griesmüller, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Griesmüller, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Steuermann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__453"
+    "krp_person_id": "krp_person_id__453",
+    "wikidata_url": ""
   },
   "487": {
     "id": 487,
     "order": "326.50000000000000000000",
-    "Name": "Hartmann, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hartmann, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Gesandter Deutschösterreichs in Berlin",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__487"
+    "krp_person_id": "krp_person_id__487",
+    "wikidata_url": ""
   },
   "454": {
     "id": 454,
     "order": "327.00000000000000000000",
-    "Name": "Hartmannsgruber, Eberhard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hartmannsgruber, Eberhard",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__454"
+    "krp_person_id": "krp_person_id__454",
+    "wikidata_url": ""
   },
   "496": {
     "id": 496,
     "order": "327.50000000000000000000",
-    "Name": "Schürff, Hans Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schürff, Hans Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Abgeordnerter in der Nationalversammlung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__496"
+    "krp_person_id": "krp_person_id__496",
+    "wikidata_url": ""
   },
   "455": {
     "id": 455,
     "order": "328.00000000000000000000",
-    "Name": "Schwarzinger, Ernst",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schwarzinger, Ernst",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__455"
+    "krp_person_id": "krp_person_id__455",
+    "wikidata_url": ""
   },
   "456": {
     "id": 456,
     "order": "329.00000000000000000000",
-    "Name": "Ring, Ferdinand",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ring, Ferdinand",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__456"
+    "krp_person_id": "krp_person_id__456",
+    "wikidata_url": ""
   },
   "628": {
     "id": 628,
     "order": "329.50000000000000000000",
-    "Name": "Bolzer, Ferdinand Ing.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bolzer, Ferdinand Ing.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bergrat im Hauptmünzamt",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__628"
+    "krp_person_id": "krp_person_id__628",
+    "wikidata_url": ""
   },
   "457": {
     "id": 457,
     "order": "330.00000000000000000000",
-    "Name": "Boninchi, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Boninchi, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__457"
+    "krp_person_id": "krp_person_id__457",
+    "wikidata_url": ""
   },
   "458": {
     "id": 458,
     "order": "331.00000000000000000000",
-    "Name": "Sonnberger, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sonnberger, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__458"
+    "krp_person_id": "krp_person_id__458",
+    "wikidata_url": ""
   },
   "459": {
     "id": 459,
     "order": "332.00000000000000000000",
-    "Name": "Haider, Franz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Haider, Franz",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__459"
+    "krp_person_id": "krp_person_id__459",
+    "wikidata_url": ""
   },
   "460": {
     "id": 460,
     "order": "333.00000000000000000000",
-    "Name": "Breuer, Anton",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Breuer, Anton",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__460"
+    "krp_person_id": "krp_person_id__460",
+    "wikidata_url": ""
   },
   "461": {
     "id": 461,
     "order": "334.00000000000000000000",
-    "Name": "Wiesmaier, Josef",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wiesmaier, Josef",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Maschinenwärter, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__461"
+    "krp_person_id": "krp_person_id__461",
+    "wikidata_url": ""
   },
   "462": {
     "id": 462,
     "order": "335.00000000000000000000",
-    "Name": "Schlosser, Rudolf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schlosser, Rudolf",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Baggerschiffmann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__462"
+    "krp_person_id": "krp_person_id__462",
+    "wikidata_url": ""
   },
   "463": {
     "id": 463,
     "order": "336.00000000000000000000",
-    "Name": "Cnobloch, Hans Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Cnobloch, Hans Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Gesandter",
     "Quelle": "https://www.bmeia.gv.at/oeb-budapest/ueber-uns/geschichte",
-    "krp_person_id": "krp_person_id__463"
+    "krp_person_id": "krp_person_id__463",
+    "wikidata_url": ""
   },
   "616": {
     "id": 616,
     "order": "336.50000000000000000000",
-    "Name": "Lenz, Franz Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lenz, Franz Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Staatsamt für Volksernährung",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__616"
+    "krp_person_id": "krp_person_id__616",
+    "wikidata_url": ""
   },
   "464": {
     "id": 464,
     "order": "337.00000000000000000000",
-    "Name": "Lers",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lers",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "ungarischer Staatssekretär",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19170716&query=%22Staatssekretär+Lers%22&ref=anno-search&seite=4",
-    "krp_person_id": "krp_person_id__464"
+    "krp_person_id": "krp_person_id__464",
+    "wikidata_url": ""
   },
   "465": {
     "id": 465,
     "order": "338.00000000000000000000",
-    "Name": "Pozzi",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pozzi",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hofrat, Zentralgrenzkommission",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19240509&query=%22Hofrat+Pozzi%22&ref=anno-search&seite=7",
-    "krp_person_id": "krp_person_id__465"
+    "krp_person_id": "krp_person_id__465",
+    "wikidata_url": ""
   },
   "467": {
     "id": 467,
     "order": "340.00000000000000000000",
-    "Name": "Mannlicher, Dr.",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mannlicher, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionsrat Staatskanzlei",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__467"
+    "krp_person_id": "krp_person_id__467",
+    "wikidata_url": ""
   },
   "468": {
     "id": 468,
     "order": "341.00000000000000000000",
-    "Name": "Bernhard, Alphons",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bernhard, Alphons",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberstleutnant Innsbruck",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=fst&datum=19200821&query=%22Alphons+Bernhard%22&ref=anno-search&seite=3",
-    "krp_person_id": "krp_person_id__468"
+    "krp_person_id": "krp_person_id__468",
+    "wikidata_url": ""
   },
   "469": {
     "id": 469,
     "order": "342.00000000000000000000",
-    "Name": "Schüch",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schüch",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberst, Delegierter der Abgrenzungskommission für die ungarische Grenze",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__469"
+    "krp_person_id": "krp_person_id__469",
+    "wikidata_url": ""
   },
   "626": {
     "id": 626,
     "order": "342.50000000000000000000",
-    "Name": "Mengele, Benno",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mengele, Benno",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Bezirksschulinspektor",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__626"
+    "krp_person_id": "krp_person_id__626",
+    "wikidata_url": ""
   },
   "470": {
     "id": 470,
     "order": "343.00000000000000000000",
-    "Name": "Metzger,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Metzger,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Oberst, Delegierter für die Abgrenzungskommission für die tschechoslowakische Grenze",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__470"
+    "krp_person_id": "krp_person_id__470",
+    "wikidata_url": ""
   },
   "471": {
     "id": 471,
     "order": "344.00000000000000000000",
-    "Name": "Steyrer,",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Steyrer,",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Major, Delegierter für die Abgrenzungskommission für die jugoslawische Grenze",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__471"
+    "krp_person_id": "krp_person_id__471",
+    "wikidata_url": ""
   },
   "472": {
     "id": 472,
     "order": "345.00000000000000000000",
-    "Name": "Kohler",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kohler",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Hauptmann, Gehilfe des Delegierten für die Abgrenzungskommission für die italienische Grenze",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__472"
+    "krp_person_id": "krp_person_id__472",
+    "wikidata_url": ""
   },
   "595": {
     "id": 595,
     "order": "346.00000000000000000000",
-    "Name": "Spitzmüller, Alexander",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Spitzmüller, Alexander",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "k.k. Handelsminister a.D.; k.k. Finanzminister a.D.; k.u.k. Finanzminster a.D.",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__595"
+    "krp_person_id": "krp_person_id__595",
+    "wikidata_url": ""
   },
   "596": {
     "id": 596,
     "order": "347.00000000000000000000",
-    "Name": "Goebel, Karl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Goebel, Karl",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "Sektionschef im Staatsamte für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__596"
+    "krp_person_id": "krp_person_id__596",
+    "wikidata_url": ""
   },
   "597": {
     "id": 597,
     "order": "348.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "",
+    "anmerkungen": "",
+    "gnd_url": "",
     "Funktion": "",
     "Quelle": "",
-    "krp_person_id": "krp_person_id__597"
+    "krp_person_id": "krp_person_id__597",
+    "wikidata_url": ""
   }
 }
