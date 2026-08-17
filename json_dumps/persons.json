@@ -8,7 +8,11 @@
     "Funktion": "Tschechoslowakischer Sektionschef",
     "Quelle": "",
     "krp_person_id": "krp_person_id__481",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "1": {
     "id": 1,
@@ -19,7 +23,11 @@
     "Funktion": "Staatsekretär für Äußeres [I]; des Äußeren [II]",
     "Quelle": "https://www.parlament.gv.at/person/78",
     "krp_person_id": "krp_person_id__1",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "2": {
     "id": 2,
@@ -30,7 +38,11 @@
     "Funktion": "Unterstaatsekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/4331",
     "krp_person_id": "krp_person_id__2",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "3": {
     "id": 3,
@@ -41,7 +53,11 @@
     "Funktion": "Staatsekretär für Justiz [II]",
     "Quelle": "https://www.parlament.gv.at/person/3025",
     "krp_person_id": "krp_person_id__3",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "39": {
     "id": 39,
@@ -52,7 +68,11 @@
     "Funktion": "Sektionsrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
     "krp_person_id": "krp_person_id__39",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "475": {
     "id": 475,
@@ -63,7 +83,11 @@
     "Funktion": "Außerordentlicher Professor an der Exportakademie Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__475",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "4": {
     "id": 4,
@@ -74,7 +98,11 @@
     "Funktion": "Unterstaatssekretär für Heerwesen [I]; Staatsekretär für Heerwesen [II]; für Heereswesen [III]",
     "Quelle": "https://www.parlament.gv.at/person/208",
     "krp_person_id": "krp_person_id__4",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "5": {
     "id": 5,
@@ -85,7 +113,11 @@
     "Funktion": "Unterstaatssekretär für Justiz [III]",
     "Quelle": "https://www.parlament.gv.at/person/286",
     "krp_person_id": "krp_person_id__5",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "6": {
     "id": 6,
@@ -96,7 +128,11 @@
     "Funktion": "Unterstaatssekretär für Inneres [II]; Staatssekretär für Inneres und Unterricht [III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Justiz [III]",
     "Quelle": "https://www.parlament.gv.at/person/289",
     "krp_person_id": "krp_person_id__6",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "7": {
     "id": 7,
@@ -107,7 +143,11 @@
     "Funktion": "Unterstaatssekretär für Handel und Gewerbe, Industrie und Bauten [II-III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Handel etc. [III]",
     "Quelle": "https://www.parlament.gv.at/person/291",
     "krp_person_id": "krp_person_id__7",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "8": {
     "id": 8,
@@ -118,7 +158,11 @@
     "Funktion": "Unterstaatsekretär für Verkehrswesen [I]; Sektionschef im Staatsamt für Verkehrswesen [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/4332",
     "krp_person_id": "krp_person_id__8",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "494": {
     "id": 494,
@@ -129,7 +173,11 @@
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
     "krp_person_id": "krp_person_id__494",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "9": {
     "id": 9,
@@ -140,7 +188,11 @@
     "Funktion": "Vizekanzler [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/328",
     "krp_person_id": "krp_person_id__9",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "10": {
     "id": 10,
@@ -151,7 +203,11 @@
     "Funktion": "Unterstaatssekretär für Inneres [I]; Unterstaatssekretär für Unterricht im Inneres und Unterreicht [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/412",
     "krp_person_id": "krp_person_id__10",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "11": {
     "id": 11,
@@ -162,7 +218,11 @@
     "Funktion": "Unterstaatssekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/64421",
     "krp_person_id": "krp_person_id__11",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "12": {
     "id": 12,
@@ -173,7 +233,11 @@
     "Funktion": "Staatsekretär für soziale Fürsorge [I]; soziale Verwaltung [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1947",
     "krp_person_id": "krp_person_id__12",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "13": {
     "id": 13,
@@ -184,7 +248,11 @@
     "Funktion": "Staatssekretär für Verkehrswesen [I]",
     "Quelle": "https://www.parlament.gv.at/person/741",
     "krp_person_id": "krp_person_id__13",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "14": {
     "id": 14,
@@ -195,7 +263,11 @@
     "Funktion": "Staatssekretär für Volksgesundheit [I]; Unterstaatssekretär für Volksgesundheit [II]; Sektionschef im Staatsamt für soziale Verwaltung ab 20.03.1919",
     "Quelle": "https://www.parlament.gv.at/person/4329",
     "krp_person_id": "krp_person_id__14",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "606": {
     "id": 606,
@@ -206,7 +278,11 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__606",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "15": {
     "id": 15,
@@ -217,7 +293,11 @@
     "Funktion": "Staatssekretär für Volksernährung [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/4327",
     "krp_person_id": "krp_person_id__15",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "16": {
     "id": 16,
@@ -228,7 +308,11 @@
     "Funktion": "Unterstaatssekretär für Inneres [I]",
     "Quelle": "https://www.parlament.gv.at/person/1072",
     "krp_person_id": "krp_person_id__16",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "17": {
     "id": 17,
@@ -239,7 +323,11 @@
     "Funktion": "Staatssekretär für Inneres [I]",
     "Quelle": "https://www.parlament.gv.at/person/1086",
     "krp_person_id": "krp_person_id__17",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "18": {
     "id": 18,
@@ -250,7 +338,11 @@
     "Funktion": "Staatssekretär für Heerwesen [I]",
     "Quelle": "https://www.parlament.gv.at/person/1102",
     "krp_person_id": "krp_person_id__18",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "19": {
     "id": 19,
@@ -261,7 +353,11 @@
     "Funktion": "Staatssekretär ohne Portefeuille [II]; Staatssekretär, Vorsitz im Kabinett u Leiter d Staatskanzlei [III; ]Zuständig für Verfassungs- und Verwaltungsreformen [III]",
     "Quelle": "https://www.parlament.gv.at/person/1120",
     "krp_person_id": "krp_person_id__19",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "20": {
     "id": 20,
@@ -272,7 +368,11 @@
     "Funktion": "Unterstaatssekretär für Kultus [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1143",
     "krp_person_id": "krp_person_id__20",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "21": {
     "id": 21,
@@ -283,7 +383,11 @@
     "Funktion": "Staatssekretär für Unterricht [I]",
     "Quelle": "https://www.parlament.gv.at/person/1146",
     "krp_person_id": "krp_person_id__21",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "555": {
     "id": 555,
@@ -294,7 +398,11 @@
     "Funktion": "Herzog",
     "Quelle": "",
     "krp_person_id": "krp_person_id__555",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "22": {
     "id": 22,
@@ -305,7 +413,11 @@
     "Funktion": "Staatssekretär für Verkehrswesen [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/3026",
     "krp_person_id": "krp_person_id__22",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "23": {
     "id": 23,
@@ -316,7 +428,11 @@
     "Funktion": "Unterstaatssekretär für Äußeres [I]; des Äußeren [II]",
     "Quelle": "https://www.parlament.gv.at/person/4333",
     "krp_person_id": "krp_person_id__23",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "24": {
     "id": 24,
@@ -327,7 +443,11 @@
     "Funktion": "Staatsekretär für Justiz [III]",
     "Quelle": "https://www.parlament.gv.at/person/1526",
     "krp_person_id": "krp_person_id__24",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "25": {
     "id": 25,
@@ -338,7 +458,11 @@
     "Funktion": "Staatssekretär für Finanzen [III]",
     "Quelle": "https://www.parlament.gv.at/person/3027",
     "krp_person_id": "krp_person_id__25",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "26": {
     "id": 26,
@@ -349,7 +473,11 @@
     "Funktion": "Staatskanzler [I-III]; Leiter Staatsämter für Inneres und für Unterricht [II]; nach 26.07.1919 Staatssekretär des Äußeren [II]; für Äußeres [III]; Betraut mit der einstweiligen Führung des Staatsamtes für Land- und Forstwirtschaft\n25.06.1920-07.07.1920",
     "Quelle": "https://www.parlament.gv.at/person/1664",
     "krp_person_id": "krp_person_id__26",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "27": {
     "id": 27,
@@ -360,7 +488,11 @@
     "Funktion": "Unterstaatsekretär für soziale Fürsorge [I]; für soziale Verwaltung [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1668",
     "krp_person_id": "krp_person_id__27",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "28": {
     "id": 28,
@@ -371,7 +503,11 @@
     "Funktion": "Staatssekretär für Justiz [I]",
     "Quelle": "https://www.parlament.gv.at/person/1703",
     "krp_person_id": "krp_person_id__28",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "29": {
     "id": 29,
@@ -382,7 +518,11 @@
     "Funktion": "Staatssekretär für Finanzen [II]",
     "Quelle": "https://www.parlament.gv.at/person/4328",
     "krp_person_id": "krp_person_id__29",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "30": {
     "id": 30,
@@ -393,7 +533,11 @@
     "Funktion": "Präsident der Provisorischen Nationalversammlung und Vorsitzender des Staatsrates [I]; Erster Präsident der Konstituierenden Nationalversammlung [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1783",
     "krp_person_id": "krp_person_id__30",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "31": {
     "id": 31,
@@ -404,7 +548,11 @@
     "Funktion": "Staatssekretär für Finanzen [I]",
     "Quelle": "https://www.parlament.gv.at/person/1888",
     "krp_person_id": "krp_person_id__31",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "32": {
     "id": 32,
@@ -415,7 +563,11 @@
     "Funktion": "Staatssekretär für Land- und Forstwirtschaft [I-III]",
     "Quelle": "https://www.parlament.gv.at/person/1892",
     "krp_person_id": "krp_person_id__32",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "33": {
     "id": 33,
@@ -426,7 +578,11 @@
     "Funktion": "Unterstaatsekretär für Volksgesundheit [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/3028",
     "krp_person_id": "krp_person_id__33",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "610": {
     "id": 610,
@@ -437,7 +593,11 @@
     "Funktion": "Leiter des liquidierenden Ministeriums für Landesverteidigung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__610",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "34": {
     "id": 34,
@@ -448,7 +608,11 @@
     "Funktion": "Staatssekretär für Gewerbe,  Industrie und Handel [I]; Staatssekretär für Kriegs- und Übergangswirtschaft [I]",
     "Quelle": "https://www.parlament.gv.at/person/1333",
     "krp_person_id": "krp_person_id__34",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "35": {
     "id": 35,
@@ -459,7 +623,11 @@
     "Funktion": "Unterstaatssekretär für Äußeres [I]",
     "Quelle": "https://www.parlament.gv.at/person/1380",
     "krp_person_id": "krp_person_id__35",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "509": {
     "id": 509,
@@ -470,7 +638,11 @@
     "Funktion": "Gendarm",
     "Quelle": "",
     "krp_person_id": "krp_person_id__509",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "620": {
     "id": 620,
@@ -481,7 +653,11 @@
     "Funktion": "Vertragsangestellter des Reichsbildungsamtes",
     "Quelle": "",
     "krp_person_id": "krp_person_id__620",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "36": {
     "id": 36,
@@ -492,7 +668,11 @@
     "Funktion": "Unterstaatssekretär für Heerwesen [I-II]; Heereswesen [III]",
     "Quelle": "https://www.parlament.gv.at/person/1401",
     "krp_person_id": "krp_person_id__36",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "37": {
     "id": 37,
@@ -503,7 +683,11 @@
     "Funktion": "Unterstaatssekretär für Volksernährung [I]",
     "Quelle": "https://www.parlament.gv.at/person/3023",
     "krp_person_id": "krp_person_id__37",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "38": {
     "id": 38,
@@ -514,7 +698,11 @@
     "Funktion": "Staatssekretär für Öffentliche Arbeiten [I]; Handel und Gewerbe, Industrie und Bauten [II-III]",
     "Quelle": "https://www.parlament.gv.at/person/1635",
     "krp_person_id": "krp_person_id__38",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "43": {
     "id": 43,
@@ -525,7 +713,11 @@
     "Funktion": "Ministerialrat in der Staatskanzlei",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1413",
     "krp_person_id": "krp_person_id__43",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "488": {
     "id": 488,
@@ -536,7 +728,11 @@
     "Funktion": "Britischer Außenminister",
     "Quelle": "",
     "krp_person_id": "krp_person_id__488",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "477": {
     "id": 477,
@@ -547,7 +743,11 @@
     "Funktion": "Oberster britischer Militärattaché in Wien",
     "Quelle": "Robert Hoffmann, Die Mission Sir Thomas Cuninghames in Wien 1919. Britische Österreichpolitik zur Zeit Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
     "krp_person_id": "krp_person_id__477",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "557": {
     "id": 557,
@@ -558,7 +758,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__557",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "506": {
     "id": 506,
@@ -569,7 +773,11 @@
     "Funktion": "Bürgermeister von Linz",
     "Quelle": "",
     "krp_person_id": "krp_person_id__506",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "44": {
     "id": 44,
@@ -580,7 +788,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
     "Quelle": "der Pariser Friedenskonferenz. Phil. Diss., Salzburg 1971, 241 Seiten. (Nicht veröffentlicht.)",
     "krp_person_id": "krp_person_id__44",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "46": {
     "id": 46,
@@ -591,7 +803,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438.",
     "krp_person_id": "krp_person_id__46",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "47": {
     "id": 47,
@@ -602,7 +818,11 @@
     "Funktion": "Sektionschef im Staatsamt für Justiz",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 55.",
     "krp_person_id": "krp_person_id__47",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "49": {
     "id": 49,
@@ -613,7 +833,11 @@
     "Funktion": "Ministerialsekretär im Staatsamt für Verkehrswesen",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 114.",
     "krp_person_id": "krp_person_id__49",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "50": {
     "id": 50,
@@ -624,7 +848,11 @@
     "Funktion": "Sektionschef in der Staatskanzlei",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 29.",
     "krp_person_id": "krp_person_id__50",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "491": {
     "id": 491,
@@ -635,7 +863,11 @@
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
     "krp_person_id": "krp_person_id__491",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "51": {
     "id": 51,
@@ -646,7 +878,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1476.",
     "krp_person_id": "krp_person_id__51",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "52": {
     "id": 52,
@@ -657,7 +893,11 @@
     "Funktion": "Sektionschef im Staatsamt des Äußern",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 373.",
     "krp_person_id": "krp_person_id__52",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "603": {
     "id": 603,
@@ -668,7 +908,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__603",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "54": {
     "id": 54,
@@ -679,7 +923,11 @@
     "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483.",
     "krp_person_id": "krp_person_id__54",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "55": {
     "id": 55,
@@ -690,7 +938,11 @@
     "Funktion": "Sektionschef im Staatsamt für Heerwesen, \nDeutschösterreichischer Liquidierungskommissär\nfür das liquidierende Kriegsministerium und das\nliquidierende Landesverteidigungsministerium,\n1920 Österreichischer Vertreter im bevollmächtigten\nKollegium für das liquidierende Kriegsministerium",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 449.",
     "krp_person_id": "krp_person_id__55",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "619": {
     "id": 619,
@@ -701,7 +953,11 @@
     "Funktion": "Ziviladjutant des Staatssekretärs für Heereswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__619",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "57": {
     "id": 57,
@@ -712,7 +968,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Justiz",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 55.",
     "krp_person_id": "krp_person_id__57",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "58": {
     "id": 58,
@@ -723,7 +983,11 @@
     "Funktion": "Sektionschef [???]; Generalpostdirektor",
     "Quelle": "",
     "krp_person_id": "krp_person_id__58",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "59": {
     "id": 59,
@@ -734,7 +998,11 @@
     "Funktion": "Leiter des liquidierenden Kriegsministeriums",
     "Quelle": "Österreichisches Biographisches Lexikon 1815–1950 (ÖBL). Band 2, Verlag der Österreichischen Akademie der Wissenschaften, Wien 1959, S.411f. Homann von Herimberg, Emil Frh.",
     "krp_person_id": "krp_person_id__59",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "507": {
     "id": 507,
@@ -745,7 +1013,11 @@
     "Funktion": "Ministerialsekretär",
     "Quelle": "",
     "krp_person_id": "krp_person_id__507",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "60": {
     "id": 60,
@@ -756,7 +1028,11 @@
     "Funktion": "",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
     "krp_person_id": "krp_person_id__60",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "61": {
     "id": 61,
@@ -767,7 +1043,11 @@
     "Funktion": "Sektionschef im Staatsamt für Finanzen",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 57; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1509.",
     "krp_person_id": "krp_person_id__61",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "62": {
     "id": 62,
@@ -778,7 +1058,11 @@
     "Funktion": "Sektionschef für im Staatsamt für soziale Verwaltung",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1511; Kabinettsratsprotokolle Renner Bd. 1, S. 55.",
     "krp_person_id": "krp_person_id__62",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "547": {
     "id": 547,
@@ -789,7 +1073,11 @@
     "Funktion": "Sektionschef in der bosnisch herzegowinischen Abteilung des liquidierenden gemeinsamen Finanzministeriums",
     "Quelle": "",
     "krp_person_id": "krp_person_id__547",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "63": {
     "id": 63,
@@ -800,7 +1088,11 @@
     "Funktion": "Oberbergrat im Staatsamt für öffentliche Arbeiten; Ministerialrat im Staatsamt für Handel\nund Gewerbe, Industrie und Bauten [II-III]",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 601; Österreichischer Amtskalender, 1922, S. 76.",
     "krp_person_id": "krp_person_id__63",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "64": {
     "id": 64,
@@ -811,7 +1103,11 @@
     "Funktion": "des Staatssiegelamte",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 110.",
     "krp_person_id": "krp_person_id__64",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "65": {
     "id": 65,
@@ -822,7 +1118,11 @@
     "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten [1919 in den Ruhestand]; Staatskommission für Sozialisierung",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483; ÖBL 1815-1950, Bd. 4 (Lfg. 18, 1968), S. 213",
     "krp_person_id": "krp_person_id__65",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "66": {
     "id": 66,
@@ -833,7 +1133,11 @@
     "Funktion": "Staatskommission für Sozialisierung",
     "Quelle": "ÖBL 1815-1950, Bd. 5 (Lfg. 21, 1970), S. 82f.",
     "krp_person_id": "krp_person_id__66",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "67": {
     "id": 67,
@@ -844,7 +1148,11 @@
     "Funktion": "Staatsrat",
     "Quelle": "https://www.parlament.gv.at/person/875.",
     "krp_person_id": "krp_person_id__67",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "68": {
     "id": 68,
@@ -855,7 +1163,11 @@
     "Funktion": "Oberfinanzrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 439.",
     "krp_person_id": "krp_person_id__68",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "69": {
     "id": 69,
@@ -866,7 +1178,11 @@
     "Funktion": "Sektionschef im Staatsamt für Finanzen; Mitglied in der Kommission für Kriegs- und Übergangswirtschaft",
     "Quelle": "Kabinettsratsprotokolle Renner Bd. 1, S. 605.",
     "krp_person_id": "krp_person_id__69",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "70": {
     "id": 70,
@@ -877,7 +1193,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Justiz",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1593.",
     "krp_person_id": "krp_person_id__70",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "604": {
     "id": 604,
@@ -888,7 +1208,11 @@
     "Funktion": "Hofrat der Finanz-Landesdirektion",
     "Quelle": "",
     "krp_person_id": "krp_person_id__604",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "71": {
     "id": 71,
@@ -899,7 +1223,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
     "krp_person_id": "krp_person_id__71",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "72": {
     "id": 72,
@@ -910,7 +1238,11 @@
     "Funktion": "Sektionsrat im Staatsamt für öffentliche Arbeiten",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1606.",
     "krp_person_id": "krp_person_id__72",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "602": {
     "id": 602,
@@ -921,7 +1253,11 @@
     "Funktion": "Feldmarschallleutnant",
     "Quelle": "",
     "krp_person_id": "krp_person_id__602",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "73": {
     "id": 73,
@@ -932,7 +1268,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten [zuvor Sektionsrat Ministerium für öffentliche Arbeiten]",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 601; Österreichischer Amtskalender, 1922, S. 763; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 484.",
     "krp_person_id": "krp_person_id__73",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "74": {
     "id": 74,
@@ -943,7 +1283,11 @@
     "Funktion": "Sektionschef im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1613.",
     "krp_person_id": "krp_person_id__74",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "600": {
     "id": 600,
@@ -954,7 +1298,11 @@
     "Funktion": "Landeshauptmannstellvertreter von Salzburg",
     "Quelle": "",
     "krp_person_id": "krp_person_id__600",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "75": {
     "id": 75,
@@ -965,7 +1313,11 @@
     "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten; im letzten Jahr der Monarchie: Ministerialrat",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 483.",
     "krp_person_id": "krp_person_id__75",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "630": {
     "id": 630,
@@ -976,7 +1328,11 @@
     "Funktion": "Sektionsrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__630",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "76": {
     "id": 76,
@@ -987,7 +1343,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "Österreichischer Amtskalender, 1922, S. 76.",
     "krp_person_id": "krp_person_id__76",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "77": {
     "id": 77,
@@ -998,7 +1358,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen [auch im K. K. Finanz-Ministerium] [1922 Sektionschef im Bundesministerium für Finanzen]",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1639; Österreichischer Amtskalender, 1922, S. 57.",
     "krp_person_id": "krp_person_id__77",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "78": {
     "id": 78,
@@ -1009,7 +1373,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen [auch im K. K. Finanz-Ministerium] [1922 Sektionschef im Bundesministerium für Finanzen]",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438 1643; Österreichischer Amtskalender, 1922, S. 57",
     "krp_person_id": "krp_person_id__78",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "79": {
     "id": 79,
@@ -1020,7 +1388,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Inneres und Unterricht",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 417.",
     "krp_person_id": "krp_person_id__79",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "624": {
     "id": 624,
@@ -1031,7 +1403,11 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__624",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "80": {
     "id": 80,
@@ -1042,7 +1418,11 @@
     "Funktion": "Präsident der Polizeidirektion Wien",
     "Quelle": "„Schober, Johannes“, in: Neue Deutsche Biographie 23 (2007), S. 347-348 [Onlinefassung]; URL: http://www.deutsche-biographie.de/.html",
     "krp_person_id": "krp_person_id__80",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "81": {
     "id": 81,
@@ -1053,7 +1433,11 @@
     "Funktion": "Sektionschef im Staatsamt für Äußeres",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1651.",
     "krp_person_id": "krp_person_id__81",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "82": {
     "id": 82,
@@ -1064,7 +1448,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Österreichisches Biographisches Lexikon 1815–1950 (ÖBL). Band 12, Verlag der Österreichischen Akademie der Wissenschaften, Wien 2005, S. 35.",
     "krp_person_id": "krp_person_id__82",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "84": {
     "id": 84,
@@ -1075,7 +1463,11 @@
     "Funktion": "1917–1921, fachliche Mitarbeiter des General-Kommissariats für Kriegs- und Übergangswirtschaft",
     "Quelle": "ÖBL 1815-1950, Bd. 12 (Lfg. 55, 2001), S. 56f; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1639.",
     "krp_person_id": "krp_person_id__84",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "542": {
     "id": 542,
@@ -1086,7 +1478,11 @@
     "Funktion": "Reichsratsabgeordneter der Deutschradikalen Partei",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1027122671",
     "krp_person_id": "krp_person_id__542",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "85": {
     "id": 85,
@@ -1097,7 +1493,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 545; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 1687.",
     "krp_person_id": "krp_person_id__85",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "482": {
     "id": 482,
@@ -1108,7 +1508,11 @@
     "Funktion": "Bürgermeister Wiens",
     "Quelle": "https://www.biographien.ac.at/oebl_16/81.pdf;https://www.biographien.ac.at/oebl_16/82.pdf",
     "krp_person_id": "krp_person_id__482",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "86": {
     "id": 86,
@@ -1119,7 +1523,11 @@
     "Funktion": "Ministerialrat; Sektionschef im Staatsamt für Inneres",
     "Quelle": "Der österreichische Staatsrat, Bd. 3, S. 770.",
     "krp_person_id": "krp_person_id__86",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "599": {
     "id": 599,
@@ -1130,7 +1538,11 @@
     "Funktion": "Generalkonsul",
     "Quelle": "https://austria-forum.org/af/Biographien/Wildner%2C_Heinrich",
     "krp_person_id": "krp_person_id__599",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "88": {
     "id": 88,
@@ -1141,7 +1553,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 438; Österreichischer Amtskalender, 1922, S. 57.",
     "krp_person_id": "krp_person_id__88",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "89": {
     "id": 89,
@@ -1152,7 +1568,11 @@
     "Funktion": "Ministerialrat",
     "Quelle": "",
     "krp_person_id": "krp_person_id__89",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "90": {
     "id": 90,
@@ -1163,7 +1583,11 @@
     "Funktion": "Präsident des Landeskulturrates Niederösterreich",
     "Quelle": "https://www.parlament.gv.at/person/896",
     "krp_person_id": "krp_person_id__90",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "91": {
     "id": 91,
@@ -1174,7 +1598,11 @@
     "Funktion": "Vizepräsident des Landeskulturrates Niederösterreich",
     "Quelle": "https://www.parlament.gv.at/person/537",
     "krp_person_id": "krp_person_id__91",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "92": {
     "id": 92,
@@ -1185,7 +1613,11 @@
     "Funktion": "Präsident des Landeskulturrates Vorarlberg",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190912&query=%22Josef+Anton+Hillbrand%22&ref=anno-search&seite=1",
     "krp_person_id": "krp_person_id__92",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "93": {
     "id": 93,
@@ -1196,7 +1628,11 @@
     "Funktion": "Vizepräsident des Landeskulturrates in Vorarlberg",
     "Quelle": "https://vorarlberg.at/web/landtag/-/bechter-gottlieb-oekonomierat-alt-gemeindevorsteher",
     "krp_person_id": "krp_person_id__93",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "94": {
     "id": 94,
@@ -1207,7 +1643,11 @@
     "Funktion": "Vizepräsident des Landeskulturrates Niederösterreich",
     "Quelle": "https://www.parlament.gv.at/person/182",
     "krp_person_id": "krp_person_id__94",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "502": {
     "id": 502,
@@ -1218,7 +1658,11 @@
     "Funktion": "Ehemliger K. u. K. Finanzminister",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1225370043",
     "krp_person_id": "krp_person_id__502",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "95": {
     "id": 95,
@@ -1229,7 +1673,11 @@
     "Funktion": "Vizepräsident des Landeskulturrates in Vorarlberg",
     "Quelle": "https://www.parlament.gv.at/person/1511",
     "krp_person_id": "krp_person_id__95",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "548": {
     "id": 548,
@@ -1240,7 +1688,11 @@
     "Funktion": "Vertreter der amerikanischen Mission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__548",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "97": {
     "id": 97,
@@ -1251,7 +1703,11 @@
     "Funktion": "Gesandter",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_I/Ippen_Theodor_1861_1935.xml",
     "krp_person_id": "krp_person_id__97",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "98": {
     "id": 98,
@@ -1262,7 +1718,11 @@
     "Funktion": "Sektonsrat der Staatskanzlei [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__98",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "99": {
     "id": 99,
@@ -1273,7 +1733,11 @@
     "Funktion": "Ministerialrat; Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__99",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "100": {
     "id": 100,
@@ -1284,7 +1748,11 @@
     "Funktion": "Sektionsrat, Staatskommisariat für Sachdemobilisierung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__100",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "101": {
     "id": 101,
@@ -1295,7 +1763,11 @@
     "Funktion": "Postrat, Staatskommissariat für Sachdemobilisierung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__101",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "102": {
     "id": 102,
@@ -1306,7 +1778,11 @@
     "Funktion": "Präsident des Reichsgerichts",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_Grabmayr_von_Angerheim",
     "krp_person_id": "krp_person_id__102",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "561": {
     "id": 561,
@@ -1317,7 +1793,11 @@
     "Funktion": "Rechtswanwalt",
     "Quelle": "",
     "krp_person_id": "krp_person_id__561",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "549": {
     "id": 549,
@@ -1328,7 +1808,11 @@
     "Funktion": "Ehemaliger Oberstkämmerer",
     "Quelle": "https://www.biographien.ac.at/oebl_1/71.pdf",
     "krp_person_id": "krp_person_id__549",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "103": {
     "id": 103,
@@ -1339,7 +1823,11 @@
     "Funktion": "Zweiter Präsident des Obersten Gerichts- und Kassationshofes",
     "Quelle": "",
     "krp_person_id": "krp_person_id__103",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "104": {
     "id": 104,
@@ -1350,7 +1838,11 @@
     "Funktion": "vormaliger Staatsnotar",
     "Quelle": "https://www.parlament.gv.at/person/1928",
     "krp_person_id": "krp_person_id__104",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "105": {
     "id": 105,
@@ -1361,7 +1853,11 @@
     "Funktion": "Oberbergratswaise",
     "Quelle": "",
     "krp_person_id": "krp_person_id__105",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "613": {
     "id": 613,
@@ -1372,7 +1868,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__613",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "106": {
     "id": 106,
@@ -1383,7 +1883,11 @@
     "Funktion": "Minister a. D.",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Franz_Klein",
     "krp_person_id": "krp_person_id__106",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "107": {
     "id": 107,
@@ -1394,7 +1898,11 @@
     "Funktion": "Sektionschef Staatsamt für Äußeres [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__107",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "108": {
     "id": 108,
@@ -1405,7 +1913,11 @@
     "Funktion": "Sektionschef",
     "Quelle": "",
     "krp_person_id": "krp_person_id__108",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "109": {
     "id": 109,
@@ -1416,7 +1928,11 @@
     "Funktion": "Ministerialrat, Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190418&query=%22Rudolf+Kloss%22&ref=anno-search&seite=1",
     "krp_person_id": "krp_person_id__109",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "500": {
     "id": 500,
@@ -1427,7 +1943,11 @@
     "Funktion": "Abgeordneter in der Konst. Nationalversammlung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__500",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "618": {
     "id": 618,
@@ -1438,7 +1958,11 @@
     "Funktion": "Hilfsämter-Oberdirektor im Staatsamt für Volksernährung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__618",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "110": {
     "id": 110,
@@ -1449,7 +1973,11 @@
     "Funktion": "Oberst, Staatsamt für Heereswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__110",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "111": {
     "id": 111,
@@ -1460,7 +1988,11 @@
     "Funktion": "Oberfinanzrat",
     "Quelle": "",
     "krp_person_id": "krp_person_id__111",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "112": {
     "id": 112,
@@ -1471,7 +2003,11 @@
     "Funktion": "Repräsentant des ersten New Yorker Kunsthandlungshauses",
     "Quelle": "https://de.wikipedia.org/wiki/Joseph_Duveen,_1._Baron_Duveen",
     "krp_person_id": "krp_person_id__112",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "113": {
     "id": 113,
@@ -1482,7 +2018,11 @@
     "Funktion": "Hofmuseum, Mitglied des Beirates für Verwertung Kunstschätze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__113",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "114": {
     "id": 114,
@@ -1493,7 +2033,11 @@
     "Funktion": "Staatsgalerie",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Franz_Martin_Haberditzl",
     "krp_person_id": "krp_person_id__114",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "554": {
     "id": 554,
@@ -1504,7 +2048,11 @@
     "Funktion": "Finanzrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__554",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "115": {
     "id": 115,
@@ -1515,7 +2063,11 @@
     "Funktion": "Museum für Kunst und Industrie",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Eduard_Leisching",
     "krp_person_id": "krp_person_id__115",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "116": {
     "id": 116,
@@ -1526,7 +2078,11 @@
     "Funktion": "Ministerialrat Staatsamt für Unterricht",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Hans_Tietze",
     "krp_person_id": "krp_person_id__116",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "117": {
     "id": 117,
@@ -1535,9 +2091,13 @@
     "anmerkungen": "",
     "gnd_url": "",
     "Funktion": "Sektionschef Stadterweiterungsfonds",
-    "Quelle": "",
+    "Quelle": "https://www.e-archiv.li/personDetail.aspx?eid=7&persID=30570&backurl=editionAZ.aspx%3Ftyp%3Dp%26letter%3DA%26eid%3D7",
     "krp_person_id": "krp_person_id__117",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": "1871-02-14",
+    "Sterbedatum": "1937-01-20",
+    "Geburtsort": "Salzburg",
+    "Sterbeort": "Wien"
   },
   "118": {
     "id": 118,
@@ -1548,7 +2108,11 @@
     "Funktion": "Sektionschef",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_V/Vetter_Adolf_1867_1942.xml",
     "krp_person_id": "krp_person_id__118",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "483": {
     "id": 483,
@@ -1559,7 +2123,11 @@
     "Funktion": "Vorsitzende der Staatskommission für Kriegsgefangene",
     "Quelle": "https://www.parlament.gv.at/person/1764",
     "krp_person_id": "krp_person_id__483",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "119": {
     "id": 119,
@@ -1570,7 +2138,11 @@
     "Funktion": "Regierungsrat, Chef des Staatsdenkmalamtes",
     "Quelle": "",
     "krp_person_id": "krp_person_id__119",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "120": {
     "id": 120,
@@ -1581,7 +2153,11 @@
     "Funktion": "privater Kunstsammler",
     "Quelle": "",
     "krp_person_id": "krp_person_id__120",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "121": {
     "id": 121,
@@ -1592,7 +2168,11 @@
     "Funktion": "Präsident der Polizeidirektion in Wien",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Johannes_Schober",
     "krp_person_id": "krp_person_id__121",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "598": {
     "id": 598,
@@ -1603,7 +2183,11 @@
     "Funktion": "Schweizer Bundespräsident",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118666681",
     "krp_person_id": "krp_person_id__598",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "123": {
     "id": 123,
@@ -1614,7 +2198,11 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__123",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "125": {
     "id": 125,
@@ -1625,7 +2213,11 @@
     "Funktion": "Chef der amerikanischen Lebensmittelkommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__125",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "480": {
     "id": 480,
@@ -1636,7 +2228,11 @@
     "Funktion": "Tschechoslowakischer Sektionschef",
     "Quelle": "",
     "krp_person_id": "krp_person_id__480",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "126": {
     "id": 126,
@@ -1647,7 +2243,11 @@
     "Funktion": "englische Lebensmittelkommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__126",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "545": {
     "id": 545,
@@ -1658,7 +2258,11 @@
     "Funktion": "vormalig Erzherzog Heinrich Ferdinand",
     "Quelle": "",
     "krp_person_id": "krp_person_id__545",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "127": {
     "id": 127,
@@ -1669,7 +2273,11 @@
     "Funktion": "vormals Erzherzog Hubert Salvator von Österreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__127",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "128": {
     "id": 128,
@@ -1680,7 +2288,11 @@
     "Funktion": "vormals Erzherzog Franz",
     "Quelle": "",
     "krp_person_id": "krp_person_id__128",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "129": {
     "id": 129,
@@ -1691,7 +2303,11 @@
     "Funktion": "vormals Großherzogin von Toscana",
     "Quelle": "",
     "krp_person_id": "krp_person_id__129",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "130": {
     "id": 130,
@@ -1702,7 +2318,11 @@
     "Funktion": "vormals Erzherzog Josef Ferdinand",
     "Quelle": "",
     "krp_person_id": "krp_person_id__130",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "132": {
     "id": 132,
@@ -1713,7 +2333,11 @@
     "Funktion": "vormals Erzherzogin Margarete",
     "Quelle": "",
     "krp_person_id": "krp_person_id__132",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "133": {
     "id": 133,
@@ -1724,7 +2348,11 @@
     "Funktion": "vormals Erzherzogin Agnes von Österreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__133",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "134": {
     "id": 134,
@@ -1735,7 +2363,11 @@
     "Funktion": "vormals Erzherzogin Germana  von Österreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__134",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "135": {
     "id": 135,
@@ -1746,7 +2378,11 @@
     "Funktion": "vormals Erzherzog Heinrich Ferdinand",
     "Quelle": "",
     "krp_person_id": "krp_person_id__135",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "136": {
     "id": 136,
@@ -1757,7 +2393,11 @@
     "Funktion": "1918 Mitbegründer des Revolutionären Arbeiterrats in München",
     "Quelle": "Alois Lindner : das Leben des bayerischen Abenteurers und Revolutionärs / Norman Dankerl",
     "krp_person_id": "krp_person_id__136",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "137": {
     "id": 137,
@@ -1768,7 +2408,11 @@
     "Funktion": "Vizedirektor des österreichischen Museums für Kunst und Industrie; Regierungsrat",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_T/Trenkwald_Hermann_1866_1942.xml",
     "krp_person_id": "krp_person_id__137",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "138": {
     "id": 138,
@@ -1779,7 +2423,11 @@
     "Funktion": "Landeshauptmann Niederösterreich",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_S/Sever_Albert_1867_1942.xml",
     "krp_person_id": "krp_person_id__138",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "139": {
     "id": 139,
@@ -1790,7 +2438,11 @@
     "Funktion": "Staatsamte für Heereswesen [III], ab August 1920 Vorstand des Militärliquidierungsinspektorates",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=awi&datum=19201228&query=%22Oberst+Ziller%22&ref=anno-search&seite=3",
     "krp_person_id": "krp_person_id__139",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "140": {
     "id": 140,
@@ -1801,7 +2453,11 @@
     "Funktion": "Ministerialrat Staatsamt für Äußeres",
     "Quelle": "",
     "krp_person_id": "krp_person_id__140",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "141": {
     "id": 141,
@@ -1812,7 +2468,11 @@
     "Funktion": "Finanzrat",
     "Quelle": "",
     "krp_person_id": "krp_person_id__141",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "143": {
     "id": 143,
@@ -1823,7 +2483,11 @@
     "Funktion": "französisches Mitglied der Reparationskommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__143",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "144": {
     "id": 144,
@@ -1834,7 +2498,11 @@
     "Funktion": "tschechoslowakischer Liquidierungskommissär",
     "Quelle": "",
     "krp_person_id": "krp_person_id__144",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "145": {
     "id": 145,
@@ -1845,7 +2513,11 @@
     "Funktion": "Leiter der amerikanischen Kinderhilfsaktion",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dnt&datum=19190506&query=%22Kinderhilfsaktion%22&ref=anno-search&seite=3",
     "krp_person_id": "krp_person_id__145",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "146": {
     "id": 146,
@@ -1856,7 +2528,11 @@
     "Funktion": "Leiter der Fachgruppe VI im Staatsamt für Heerwesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__146",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "559": {
     "id": 559,
@@ -1867,7 +2543,11 @@
     "Funktion": "Kaufinteressenten für eine Parzelle des Benediktinerstiftes St. Peter",
     "Quelle": "",
     "krp_person_id": "krp_person_id__559",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "558": {
     "id": 558,
@@ -1878,7 +2558,11 @@
     "Funktion": "Kaufinteressenten für eine Parzelle des Benediktinerstiftes St. Peter",
     "Quelle": "",
     "krp_person_id": "krp_person_id__558",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "147": {
     "id": 147,
@@ -1889,7 +2573,11 @@
     "Funktion": "Militäroberintendant",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_L/Lanzendoerfer_Ferdinand_1868_1943.xml",
     "krp_person_id": "krp_person_id__147",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "629": {
     "id": 629,
@@ -1900,7 +2588,11 @@
     "Funktion": "Bergrat im Hauptmünzamt",
     "Quelle": "",
     "krp_person_id": "krp_person_id__629",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "149": {
     "id": 149,
@@ -1911,7 +2603,11 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__149",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "150": {
     "id": 150,
@@ -1922,7 +2618,11 @@
     "Funktion": "Leiter der \"Oesterreichischen Propagandastelle\"",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_C/Chlumecky_Leopold_1873_1940.xml",
     "krp_person_id": "krp_person_id__150",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "184": {
     "id": 184,
@@ -1933,7 +2633,11 @@
     "Funktion": "Rechtsanwalt",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_C/Coumont_Eduard_1861_1930.xml",
     "krp_person_id": "krp_person_id__184",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "185": {
     "id": 185,
@@ -1944,7 +2648,11 @@
     "Funktion": "Rechtsanwalt",
     "Quelle": "",
     "krp_person_id": "krp_person_id__185",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "187": {
     "id": 187,
@@ -1955,7 +2663,11 @@
     "Funktion": "Historiker",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_R/Redlich_Oswald_1858_1944.xml",
     "krp_person_id": "krp_person_id__187",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "189": {
     "id": 189,
@@ -1966,7 +2678,11 @@
     "Funktion": "Sektionschef",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Krasny-Ergen_Arnold_1869_1937.xml",
     "krp_person_id": "krp_person_id__189",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "190": {
     "id": 190,
@@ -1977,7 +2693,11 @@
     "Funktion": "Vizepräsident der Staatskommission für Kriegsgefangenen- und Zivilinterniertenangelegenheiten",
     "Quelle": "https://www.parlament.gv.at/person/1677",
     "krp_person_id": "krp_person_id__190",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "192": {
     "id": 192,
@@ -1988,7 +2708,11 @@
     "Funktion": "Ministerialrat Staatsamt für Inneres und Unterricht",
     "Quelle": "",
     "krp_person_id": "krp_person_id__192",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "194": {
     "id": 194,
@@ -1999,7 +2723,11 @@
     "Funktion": "Kommandant der Arbeiterwehr",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dnt&datum=19191109&query=%22Geiser%22&ref=anno-search&seite=10",
     "krp_person_id": "krp_person_id__194",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "196": {
     "id": 196,
@@ -2010,7 +2738,11 @@
     "Funktion": "Tschechoslowakischer Oberleutnant",
     "Quelle": "",
     "krp_person_id": "krp_person_id__196",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "197": {
     "id": 197,
@@ -2021,7 +2753,11 @@
     "Funktion": "Tschechoslowakischer Offizier",
     "Quelle": "",
     "krp_person_id": "krp_person_id__197",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "198": {
     "id": 198,
@@ -2032,7 +2768,11 @@
     "Funktion": "Tschechoslowakischer Offizier",
     "Quelle": "",
     "krp_person_id": "krp_person_id__198",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "485": {
     "id": 485,
@@ -2043,7 +2783,11 @@
     "Funktion": "Leiter des Büros des Staatssiegelamtes",
     "Quelle": "Staatsrat Bd. 3, S. 723f.",
     "krp_person_id": "krp_person_id__485",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "200": {
     "id": 200,
@@ -2054,7 +2798,11 @@
     "Funktion": "Volkskommissar",
     "Quelle": "https://litkult1920er.aau.at/litkult-lexikon/kun-bela/",
     "krp_person_id": "krp_person_id__200",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "201": {
     "id": 201,
@@ -2065,7 +2813,11 @@
     "Funktion": "Senatspräsident",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_s/Schumacher_Franz_1861_1939.xml",
     "krp_person_id": "krp_person_id__201",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "202": {
     "id": 202,
@@ -2076,7 +2828,11 @@
     "Funktion": "Bürgermeister von Graz 1912-1914",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_F/Fleischhacker_Robert_1855_1937.xml",
     "krp_person_id": "krp_person_id__202",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "605": {
     "id": 605,
@@ -2087,7 +2843,11 @@
     "Funktion": "Vorstand des Zentralax- und Gebührenbemessungsamtes",
     "Quelle": "",
     "krp_person_id": "krp_person_id__605",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "203": {
     "id": 203,
@@ -2098,7 +2858,11 @@
     "Funktion": "Hofrat der ehemaligen politischen Verwaltung Triest",
     "Quelle": "",
     "krp_person_id": "krp_person_id__203",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "204": {
     "id": 204,
@@ -2109,7 +2873,11 @@
     "Funktion": "Weihbischof der Salzburger Erzdiözese",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Keil_Anton_1854_1926.xml",
     "krp_person_id": "krp_person_id__204",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "205": {
     "id": 205,
@@ -2120,7 +2888,11 @@
     "Funktion": "Leiter der amerikanischen Hilfsaktion",
     "Quelle": "https://en.wikipedia.org/wiki/Gilchrist_Baker_Stockton",
     "krp_person_id": "krp_person_id__205",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "207": {
     "id": 207,
@@ -2131,7 +2903,11 @@
     "Funktion": "amerikanischer Lebensmittelkontrollor",
     "Quelle": "",
     "krp_person_id": "krp_person_id__207",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "208": {
     "id": 208,
@@ -2142,7 +2918,11 @@
     "Funktion": "Sektionschef Staatsamt für Inneres und Unterricht",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Kelle_Carl_1859_1935.xml",
     "krp_person_id": "krp_person_id__208",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "209": {
     "id": 209,
@@ -2153,7 +2933,11 @@
     "Funktion": "Ministerialrat Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__209",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "505": {
     "id": 505,
@@ -2164,7 +2948,11 @@
     "Funktion": "Hilfsämterdirektorswaise",
     "Quelle": "",
     "krp_person_id": "krp_person_id__505",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "210": {
     "id": 210,
@@ -2175,7 +2963,11 @@
     "Funktion": "Gutsbesitzer, Vorschlag zum Vizepräsidenten des Landeskulturrates für Kärnten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__210",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "212": {
     "id": 212,
@@ -2186,7 +2978,11 @@
     "Funktion": "Vizepräsident des Landeskulturrates für Kärnten; Gutsbesitzer in Kärnten Gasselhof",
     "Quelle": "",
     "krp_person_id": "krp_person_id__212",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "215": {
     "id": 215,
@@ -2197,7 +2993,11 @@
     "Funktion": "Sektionschef Staatsamt für Land- und Forstwirtschaft",
     "Quelle": "",
     "krp_person_id": "krp_person_id__215",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "217": {
     "id": 217,
@@ -2208,7 +3008,11 @@
     "Funktion": "Sektionschef Staatsamt für Land- und Forstwirtschaft",
     "Quelle": "",
     "krp_person_id": "krp_person_id__217",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "219": {
     "id": 219,
@@ -2219,7 +3023,11 @@
     "Funktion": "Sektionschef Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__219",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "220": {
     "id": 220,
@@ -2230,7 +3038,11 @@
     "Funktion": "Sektionsrat Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__220",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "486": {
     "id": 486,
@@ -2241,7 +3053,11 @@
     "Funktion": "Rechtsanwalt von Erzherzog Friedrich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__486",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "223": {
     "id": 223,
@@ -2252,7 +3068,11 @@
     "Funktion": "Vorstandsvorsitzende der Creditanstalt für Handel und Gewerbe",
     "Quelle": "https://www.lexikon-provenienzforschung.org/neurath-ludwig",
     "krp_person_id": "krp_person_id__223",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "562": {
     "id": 562,
@@ -2263,7 +3083,11 @@
     "Funktion": "Landeshauptmann der Steiermark",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_R/Rintelen_Anton_1876_1946.xml",
     "krp_person_id": "krp_person_id__562",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "224": {
     "id": 224,
@@ -2274,7 +3098,11 @@
     "Funktion": "Bankier aus New York",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19311101&query=%22Howard+Rogers%22&ref=anno-search&seite=22",
     "krp_person_id": "krp_person_id__224",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "608": {
     "id": 608,
@@ -2285,7 +3113,11 @@
     "Funktion": "Polizeipräsident in der Steiermark",
     "Quelle": "",
     "krp_person_id": "krp_person_id__608",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "225": {
     "id": 225,
@@ -2296,7 +3128,11 @@
     "Funktion": "Entsendet von Firma Stone & Webster",
     "Quelle": "",
     "krp_person_id": "krp_person_id__225",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "226": {
     "id": 226,
@@ -2307,7 +3143,11 @@
     "Funktion": "Oberbergrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__226",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "228": {
     "id": 228,
@@ -2318,7 +3158,11 @@
     "Funktion": "Leiter des liquidierenden gemeinsamen Obersten Rechnungshofes",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_P/Plener_Ernest_1841_1923.xml",
     "krp_person_id": "krp_person_id__228",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "621": {
     "id": 621,
@@ -2329,7 +3173,11 @@
     "Funktion": "Vertragsangestellter des Reichsbildungsamtes",
     "Quelle": "",
     "krp_person_id": "krp_person_id__621",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "229": {
     "id": 229,
@@ -2340,7 +3188,11 @@
     "Funktion": "Schweizer Ingenieur",
     "Quelle": "",
     "krp_person_id": "krp_person_id__229",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "230": {
     "id": 230,
@@ -2351,7 +3203,11 @@
     "Funktion": "Sekretär der Handels- und Gewerbekammer in Graz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=ozv&datum=19200201&query=%22Dr.+Bernhard+Jentl%22&ref=anno-search&seite=4",
     "krp_person_id": "krp_person_id__230",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "231": {
     "id": 231,
@@ -2362,7 +3218,11 @@
     "Funktion": "vom Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__231",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "232": {
     "id": 232,
@@ -2373,7 +3233,11 @@
     "Funktion": "Gesandter",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=tag&datum=19330911&query=%22Alliz%c3%a9%22&ref=anno-search&seite=4",
     "krp_person_id": "krp_person_id__232",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "233": {
     "id": 233,
@@ -2384,7 +3248,11 @@
     "Funktion": "Minsterialrat im Staatsamt für Verkehrswesen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__233",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "601": {
     "id": 601,
@@ -2395,7 +3263,11 @@
     "Funktion": "Verfassungsrechtler",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D118561219",
     "krp_person_id": "krp_person_id__601",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "234": {
     "id": 234,
@@ -2406,7 +3278,11 @@
     "Funktion": "Rechtsanwalt",
     "Quelle": "https://www.parlament.gv.at/person/1964",
     "krp_person_id": "krp_person_id__234",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "235": {
     "id": 235,
@@ -2417,7 +3293,11 @@
     "Funktion": "Mitglied der Nationalversammlung (SDAP)",
     "Quelle": "https://www.parlament.gv.at/person/1382",
     "krp_person_id": "krp_person_id__235",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "237": {
     "id": 237,
@@ -2428,7 +3308,11 @@
     "Funktion": "Mitglied der Nationalversammlung (SDAP)",
     "Quelle": "https://www.parlament.gv.at/person/1633",
     "krp_person_id": "krp_person_id__237",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "238": {
     "id": 238,
@@ -2439,7 +3323,11 @@
     "Funktion": "Handelsattaché",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwg&datum=19191130&query=%22Philpotts%22&ref=anno-search&seite=12",
     "krp_person_id": "krp_person_id__238",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "239": {
     "id": 239,
@@ -2450,7 +3338,11 @@
     "Funktion": "Mitglied des Obersten Wirtschaftsrates",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191015&query=%22William+Goode%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__239",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "240": {
     "id": 240,
@@ -2461,7 +3353,11 @@
     "Funktion": "Präsident der Vereinigung der österreichischen Industrie in Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__240",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "241": {
     "id": 241,
@@ -2472,7 +3368,11 @@
     "Funktion": "Mitglied der Prov Nationalversammlung",
     "Quelle": "; https://www.parlament.gv.at/person/701https://www.geschichtewiki.wien.gv.at/St.-Rudolf-Apotheke",
     "krp_person_id": "krp_person_id__241",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "242": {
     "id": 242,
@@ -2483,7 +3383,11 @@
     "Funktion": "Oberfinanzrat [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__242",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "243": {
     "id": 243,
@@ -2494,7 +3398,11 @@
     "Funktion": "Ministerialrat Staatsamt für Finanzen",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19211130&query=%22Ministerialrat+Dr.+Hlawa%c4%8d%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__243",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "245": {
     "id": 245,
@@ -2505,7 +3413,11 @@
     "Funktion": "Sektionsrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__245",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "246": {
     "id": 246,
@@ -2516,7 +3428,11 @@
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__246",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "609": {
     "id": 609,
@@ -2527,7 +3443,11 @@
     "Funktion": "Polizeidirektor in Graz",
     "Quelle": "",
     "krp_person_id": "krp_person_id__609",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "247": {
     "id": 247,
@@ -2538,7 +3458,11 @@
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__247",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "248": {
     "id": 248,
@@ -2549,7 +3473,11 @@
     "Funktion": "Direktor Papierindustrie",
     "Quelle": "",
     "krp_person_id": "krp_person_id__248",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "249": {
     "id": 249,
@@ -2560,7 +3488,11 @@
     "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__249",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "250": {
     "id": 250,
@@ -2571,7 +3503,11 @@
     "Funktion": "Zentraldirektor der Staatserziehungsanstalten Sektionsrat",
     "Quelle": "",
     "krp_person_id": "krp_person_id__250",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "252": {
     "id": 252,
@@ -2582,7 +3518,11 @@
     "Funktion": "Sektionsrat Staatsamt für Volksernährung [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__252",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "253": {
     "id": 253,
@@ -2593,7 +3533,11 @@
     "Funktion": "Sektionsrat Staatsamt für Finanzen [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dvb&datum=19200111&query=%22Sektionsrat+Kaltenbrunner%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__253",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "489": {
     "id": 489,
@@ -2604,7 +3548,11 @@
     "Funktion": "Rechtsanwalt in Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__489",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "255": {
     "id": 255,
@@ -2615,7 +3563,11 @@
     "Funktion": "Magistratsdirektor Gemeinde Wien",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19190701&query=%22Magistratsdirektor+Dr.+Hartl%22&ref=anno-search&seite=9",
     "krp_person_id": "krp_person_id__255",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "256": {
     "id": 256,
@@ -2626,7 +3578,11 @@
     "Funktion": "Landesrat des Landes Niederösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__256",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "257": {
     "id": 257,
@@ -2637,7 +3593,11 @@
     "Funktion": "Bürgermeister Stadt Wien",
     "Quelle": "https://www.parlament.gv.at/person/1673",
     "krp_person_id": "krp_person_id__257",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "258": {
     "id": 258,
@@ -2648,7 +3608,11 @@
     "Funktion": "Stadtrat der Gemeinde Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__258",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "259": {
     "id": 259,
@@ -2659,7 +3623,11 @@
     "Funktion": "Stadtrat der Gemeinde Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__259",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "260": {
     "id": 260,
@@ -2670,7 +3638,11 @@
     "Funktion": "Oberst, Staatsamt für Heereswesen [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__260",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "265": {
     "id": 265,
@@ -2681,7 +3653,11 @@
     "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 getötet",
     "Quelle": "",
     "krp_person_id": "krp_person_id__265",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "266": {
     "id": 266,
@@ -2692,7 +3668,11 @@
     "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 getötet",
     "Quelle": "",
     "krp_person_id": "krp_person_id__266",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "267": {
     "id": 267,
@@ -2703,7 +3683,11 @@
     "Funktion": "provisorischer Gendarm; bei Demonstration in Wiener Neustadt am 10.2.1920 schwer verletzt",
     "Quelle": "",
     "krp_person_id": "krp_person_id__267",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "269": {
     "id": 269,
@@ -2714,7 +3698,11 @@
     "Funktion": "Sektionschef Staatsamt für Finanzen [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__269",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "270": {
     "id": 270,
@@ -2725,7 +3713,11 @@
     "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__270",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "550": {
     "id": 550,
@@ -2736,7 +3728,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Finanzen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__550",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "271": {
     "id": 271,
@@ -2747,7 +3743,11 @@
     "Funktion": "Ministerialrat Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__271",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "272": {
     "id": 272,
@@ -2758,7 +3758,11 @@
     "Funktion": "Präsident des Hauptausschusses der Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/534",
     "krp_person_id": "krp_person_id__272",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "617": {
     "id": 617,
@@ -2769,7 +3773,11 @@
     "Funktion": "Staatsamt für Volksernährung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__617",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "476": {
     "id": 476,
@@ -2780,7 +3788,11 @@
     "Funktion": "Leiter der italienischen Waffenstillstandskommission",
     "Quelle": "https://pro.unibz.it/library/bupress/publications/fulltext/9788860461735_10.pdf - S. 259",
     "krp_person_id": "krp_person_id__476",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "274": {
     "id": 274,
@@ -2791,7 +3803,11 @@
     "Funktion": "Abgeordneter der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/1992",
     "krp_person_id": "krp_person_id__274",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "276": {
     "id": 276,
@@ -2802,7 +3818,11 @@
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/624",
     "krp_person_id": "krp_person_id__276",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "277": {
     "id": 277,
@@ -2813,7 +3833,11 @@
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/10",
     "krp_person_id": "krp_person_id__277",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": "1879-07-09",
+    "Sterbedatum": "1960-01-02",
+    "Geburtsort": "Wien",
+    "Sterbeort": "Zürich"
   },
   "279": {
     "id": 279,
@@ -2824,7 +3848,11 @@
     "Funktion": "Direktor des Elektrisierungsamtes der österreichischen Staatsbahnen",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_D/Dittes_Paul_1871_1940.xml",
     "krp_person_id": "krp_person_id__279",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "280": {
     "id": 280,
@@ -2835,7 +3863,11 @@
     "Funktion": "Ministerialrat Staatsamt für Justiz [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__280",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "282": {
     "id": 282,
@@ -2846,7 +3878,11 @@
     "Funktion": "Mitglied der Kunst. Nationalversammlung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__282",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": "1878-11-24",
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "283": {
     "id": 283,
@@ -2857,7 +3893,11 @@
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/395",
     "krp_person_id": "krp_person_id__283",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "284": {
     "id": 284,
@@ -2868,7 +3908,11 @@
     "Funktion": "Colonel; Mitglied Reparationskommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__284",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "560": {
     "id": 560,
@@ -2879,7 +3923,11 @@
     "Funktion": "Kommerzialrate",
     "Quelle": "",
     "krp_person_id": "krp_person_id__560",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "484": {
     "id": 484,
@@ -2890,7 +3938,11 @@
     "Funktion": "Mitglied in der Staatskommission für Kriegsgefangene",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_S/Slatin_Rudolf_1857_1932.xml",
     "krp_person_id": "krp_person_id__484",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "285": {
     "id": 285,
@@ -2901,7 +3953,11 @@
     "Funktion": "Colonel; Mitglied Reparationskommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__285",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "508": {
     "id": 508,
@@ -2912,7 +3968,11 @@
     "Funktion": "Feldmarschallleutnant",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D1314980769",
     "krp_person_id": "krp_person_id__508",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "286": {
     "id": 286,
@@ -2923,7 +3983,11 @@
     "Funktion": "Chefredakteur \"Die Neue Zeitung\"",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Die_Neue_Zeitung",
     "krp_person_id": "krp_person_id__286",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "288": {
     "id": 288,
@@ -2934,7 +3998,11 @@
     "Funktion": "Gesandter der Bundesrepublik Schweiz",
     "Quelle": "https://geschichte.univie.ac.at/de/personen/charles-daniel-bourcart",
     "krp_person_id": "krp_person_id__288",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "622": {
     "id": 622,
@@ -2945,7 +4013,11 @@
     "Funktion": "Sektionschef im Staatsamt für soziale Verwaltung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__622",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "289": {
     "id": 289,
@@ -2956,7 +4028,11 @@
     "Funktion": "Bühnenbildner, Maler",
     "Quelle": "https://www.biographien.ac.at/oebl_9/224.pdf",
     "krp_person_id": "krp_person_id__289",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "479": {
     "id": 479,
@@ -2967,7 +4043,11 @@
     "Funktion": "Stellvertretender Vertreter der Internationalen Liquidiuerungskommission",
     "Quelle": "",
     "krp_person_id": "krp_person_id__479",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "290": {
     "id": 290,
@@ -2978,7 +4058,11 @@
     "Funktion": "Finanzprokuraturssekretär",
     "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_Garzarolli_von_Thurnlackh_junior",
     "krp_person_id": "krp_person_id__290",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "291": {
     "id": 291,
@@ -2989,7 +4073,11 @@
     "Funktion": "Mitglied der Konst. Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/613",
     "krp_person_id": "krp_person_id__291",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "292": {
     "id": 292,
@@ -3000,7 +4088,11 @@
     "Funktion": "Ministerpräsident Italien Juni 1919-Juni 1920",
     "Quelle": "https://de.wikipedia.org/wiki/Francesco_Saverio_Nitti",
     "krp_person_id": "krp_person_id__292",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "293": {
     "id": 293,
@@ -3011,7 +4103,11 @@
     "Funktion": "Oberlehrer des Ruhestandes in Weilburg",
     "Quelle": "",
     "krp_person_id": "krp_person_id__293",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "294": {
     "id": 294,
@@ -3022,7 +4118,11 @@
     "Funktion": "Ersatzmann am VfGH bis 1920",
     "Quelle": "",
     "krp_person_id": "krp_person_id__294",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "295": {
     "id": 295,
@@ -3033,7 +4133,11 @@
     "Funktion": "Ersatzmann am VfGH bis 1920",
     "Quelle": "https://www.parlament.gv.at/person/272",
     "krp_person_id": "krp_person_id__295",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "296": {
     "id": 296,
@@ -3044,7 +4148,11 @@
     "Funktion": "Ersatzmann am VfGH ab 1920",
     "Quelle": "https://www.vfgh.gv.at/verfassungsgerichtshof/verfassungsrichter/mitglieder_tabelle.de.html",
     "krp_person_id": "krp_person_id__296",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "611": {
     "id": 611,
@@ -3055,7 +4163,11 @@
     "Funktion": "Oberbaurat im Staatsamt für Handel und Gewebe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__611",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "297": {
     "id": 297,
@@ -3066,7 +4178,11 @@
     "Funktion": "Rechtsanwalt in Linz",
     "Quelle": "https://de.wikipedia.org/wiki/Ernst_Jäger_(Politiker)",
     "krp_person_id": "krp_person_id__297",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "298": {
     "id": 298,
@@ -3077,7 +4193,11 @@
     "Funktion": "Fabrikdirektor in Neunkirchen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__298",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "299": {
     "id": 299,
@@ -3088,7 +4208,11 @@
     "Funktion": "jüngster Brüder Kaiser Franz Josephs",
     "Quelle": "https://www.biographien.ac.at/oebl_5/351.pdf",
     "krp_person_id": "krp_person_id__299",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "301": {
     "id": 301,
@@ -3099,7 +4223,11 @@
     "Funktion": "Testamentserbin des Lustschlosses Kleßheim",
     "Quelle": "",
     "krp_person_id": "krp_person_id__301",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "302": {
     "id": 302,
@@ -3110,7 +4238,11 @@
     "Funktion": "Eigentümer des Hotel de l’Europe in Salzburg",
     "Quelle": "https://de.wikipedia.org/wiki/Hotel_de_l%E2%80%99Europe_(Salzburg)",
     "krp_person_id": "krp_person_id__302",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "497": {
     "id": 497,
@@ -3121,7 +4253,11 @@
     "Funktion": "Bürgermeister der Stadt Steyr",
     "Quelle": "",
     "krp_person_id": "krp_person_id__497",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "303": {
     "id": 303,
@@ -3132,7 +4268,11 @@
     "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19221121&query=%22ministerialrat+Wollheim%22&ref=anno-search&seite=2",
     "krp_person_id": "krp_person_id__303",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "612": {
     "id": 612,
@@ -3143,7 +4283,11 @@
     "Funktion": "Oberbaurat im Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__612",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "607": {
     "id": 607,
@@ -3154,7 +4298,11 @@
     "Funktion": "Direkter des Handelsmuseums",
     "Quelle": "",
     "krp_person_id": "krp_person_id__607",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "304": {
     "id": 304,
@@ -3165,7 +4313,11 @@
     "Funktion": "Ministerialrat Staatsamt für Justiz [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200518&query=%22ministerialrat+Dr.+Dubowy%22&ref=anno-search&seite=9",
     "krp_person_id": "krp_person_id__304",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "305": {
     "id": 305,
@@ -3176,7 +4328,11 @@
     "Funktion": "Generaldirektor Industriewerke",
     "Quelle": "",
     "krp_person_id": "krp_person_id__305",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "306": {
     "id": 306,
@@ -3187,7 +4343,11 @@
     "Funktion": "Vorsitzender der Internationalen Donaukommission",
     "Quelle": "https://de.wikipedia.org/wiki/Ernest_Troubridge",
     "krp_person_id": "krp_person_id__306",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "307": {
     "id": 307,
@@ -3198,7 +4358,11 @@
     "Funktion": "Mitglied der Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/122",
     "krp_person_id": "krp_person_id__307",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "309": {
     "id": 309,
@@ -3209,7 +4373,11 @@
     "Funktion": "Mitglied der Nationalversammlung",
     "Quelle": "https://www.parlament.gv.at/person/1893",
     "krp_person_id": "krp_person_id__309",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "543": {
     "id": 543,
@@ -3220,7 +4388,11 @@
     "Funktion": "Sektionsrat und Vertreter Deutsch-Südmährens bei der Pariser Friedenskonferenz",
     "Quelle": "",
     "krp_person_id": "krp_person_id__543",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "310": {
     "id": 310,
@@ -3231,7 +4403,11 @@
     "Funktion": "Sektionschef Staatsamt für Äußeres",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19221016&query=%22Richard+Oppenheimer%22&ref=anno-search&seite=1",
     "krp_person_id": "krp_person_id__310",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "490": {
     "id": 490,
@@ -3242,7 +4418,11 @@
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
     "krp_person_id": "krp_person_id__490",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "312": {
     "id": 312,
@@ -3253,7 +4433,11 @@
     "Funktion": "Sektionschef Staatsamt für Inneres und Unterricht [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200209&query=%22Franz+Heinz%22&ref=anno-search&seite=7",
     "krp_person_id": "krp_person_id__312",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "313": {
     "id": 313,
@@ -3264,7 +4448,11 @@
     "Funktion": "Ministerialrat Staatsamt für Volksernäherung",
     "Quelle": "https://austriaca.at/0xc1aa5572%200x004015b5.pdf",
     "krp_person_id": "krp_person_id__313",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "315": {
     "id": 315,
@@ -3275,7 +4463,11 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__315",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "316": {
     "id": 316,
@@ -3286,7 +4478,11 @@
     "Funktion": "Sektionschef Staatsamt für Äußeres [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19210413&query=%22alfred+rappaport%22&ref=anno-search&seite=7",
     "krp_person_id": "krp_person_id__316",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "319": {
     "id": 319,
@@ -3297,7 +4493,11 @@
     "Funktion": "Sektionschef Staatsamt für Justiz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=gez&datum=19200141&query=(text:%22rudolf+Paltauf%22)&ref=anno-search&seite=13",
     "krp_person_id": "krp_person_id__319",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "615": {
     "id": 615,
@@ -3308,7 +4508,11 @@
     "Funktion": "Ministerialrat im Staatsamt für Volksernährung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__615",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "474": {
     "id": 474,
@@ -3319,7 +4523,11 @@
     "Funktion": "Professor an der Technischen Hochschule in Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__474",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "614": {
     "id": 614,
@@ -3330,7 +4538,11 @@
     "Funktion": "Sektionsrat im Staatsamt für Volksernährung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__614",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "320": {
     "id": 320,
@@ -3341,7 +4553,11 @@
     "Funktion": "Präses des interalliierten Luftfahrtüberwachungsausschusses",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=drf&datum=19200515&query=%22Luftfahrt%22&ref=anno-search&seite=1",
     "krp_person_id": "krp_person_id__320",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "321": {
     "id": 321,
@@ -3352,7 +4568,11 @@
     "Funktion": "Washington KRP 182",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=drf&datum=19200515&query=%22Herr+Wallace%22&ref=anno-search&seite=1",
     "krp_person_id": "krp_person_id__321",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "322": {
     "id": 322,
@@ -3363,7 +4583,11 @@
     "Funktion": "italienischer Gesandter",
     "Quelle": "https://de.wikipedia.org/wiki/Pietro_Tomasi_Della_Torretta",
     "krp_person_id": "krp_person_id__322",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "544": {
     "id": 544,
@@ -3374,7 +4598,11 @@
     "Funktion": "vormalig Erzherzog  Peter Ferdinand",
     "Quelle": "",
     "krp_person_id": "krp_person_id__544",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "323": {
     "id": 323,
@@ -3385,7 +4613,11 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__323",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "325": {
     "id": 325,
@@ -3396,7 +4628,11 @@
     "Funktion": "Korvettenkapitän",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
     "krp_person_id": "krp_person_id__325",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "326": {
     "id": 326,
@@ -3407,7 +4643,11 @@
     "Funktion": "Hauptmann",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19200312&query=%22hauptmann+wettendorfer%22&ref=anno-search&seite=4",
     "krp_person_id": "krp_person_id__326",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "627": {
     "id": 627,
@@ -3418,7 +4658,11 @@
     "Funktion": "Professor der Kunstgeschichte an der Universität Wien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__627",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "504": {
     "id": 504,
@@ -3429,7 +4673,11 @@
     "Funktion": "Hilfsämterdirektorstochter",
     "Quelle": "",
     "krp_person_id": "krp_person_id__504",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "327": {
     "id": 327,
@@ -3440,7 +4688,11 @@
     "Funktion": "Oberfinanzrat",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=svb&datum=19200903&query=%22Oberfinanzrat+Egger%22&ref=anno-search&seite=6",
     "krp_person_id": "krp_person_id__327",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "328": {
     "id": 328,
@@ -3451,7 +4703,11 @@
     "Funktion": "Sektionsrat Staatsamt für Inneres und Unterricht [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200501&query=%22Sektionsrat+Ruber%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__328",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "329": {
     "id": 329,
@@ -3462,7 +4718,11 @@
     "Funktion": "Sektionsrat Staatskanzlei",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=rpt&datum=19200814&query=%22Sektionsrat+Dr.+Schwegel%22&ref=anno-search&seite=5",
     "krp_person_id": "krp_person_id__329",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "330": {
     "id": 330,
@@ -3473,7 +4733,11 @@
     "Funktion": "früherer Fregattenkapitän; Vertreter bei Grenzbestimmungskommission",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gpt&datum=19200709&query=%22Fregattenkapit%c3%a4n+Peter%22&ref=anno-search&seite=14",
     "krp_person_id": "krp_person_id__330",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "546": {
     "id": 546,
@@ -3484,7 +4748,11 @@
     "Funktion": "Professor",
     "Quelle": "",
     "krp_person_id": "krp_person_id__546",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "331": {
     "id": 331,
@@ -3495,7 +4763,11 @@
     "Funktion": "kaufmännischer Direktor der staatlichen Industriewerke",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19200725&query=%22Direktor+Aub%22&ref=anno-search&seite=16",
     "krp_person_id": "krp_person_id__331",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "499": {
     "id": 499,
@@ -3506,7 +4778,11 @@
     "Funktion": "Obmann des allgemeinen Schutzbundes für Kriegsteilnehmer",
     "Quelle": "",
     "krp_person_id": "krp_person_id__499",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "332": {
     "id": 332,
@@ -3517,7 +4793,11 @@
     "Funktion": "technischer Direktor der staatlichen Industriewerke",
     "Quelle": "",
     "krp_person_id": "krp_person_id__332",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "333": {
     "id": 333,
@@ -3528,7 +4808,11 @@
     "Funktion": "Direktor des Internationalen Arbeitsamtes",
     "Quelle": "",
     "krp_person_id": "krp_person_id__333",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "334": {
     "id": 334,
@@ -3539,7 +4823,11 @@
     "Funktion": "französischer Kapitän",
     "Quelle": "",
     "krp_person_id": "krp_person_id__334",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "335": {
     "id": 335,
@@ -3550,7 +4838,11 @@
     "Funktion": "Ministerialrat Staatsamt für soziale Verwaltung [III]",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_B/Bartsch_Robert_1874_1955.xml",
     "krp_person_id": "krp_person_id__335",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "337": {
     "id": 337,
@@ -3561,7 +4853,11 @@
     "Funktion": "Besitzer der Freischürfe und Grubenmasse am Rathausberg; Anmerkung in KRP 189 S. 8 Moritz geschrieben.",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19230505&query=%22Bunau-Varilla%22&ref=anno-search&seite=7",
     "krp_person_id": "krp_person_id__337",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "552": {
     "id": 552,
@@ -3572,7 +4868,11 @@
     "Funktion": "Gutsbesitzer",
     "Quelle": "",
     "krp_person_id": "krp_person_id__552",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "556": {
     "id": 556,
@@ -3583,7 +4883,11 @@
     "Funktion": "Oberfinanzrat im Staatsamt für Finanzen",
     "Quelle": "",
     "krp_person_id": "krp_person_id__556",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "338": {
     "id": 338,
@@ -3594,7 +4898,11 @@
     "Funktion": "Unterbeamter in Graz",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gre&datum=19200225&query=%22Adolf+Sch%c3%b6nemann%22&ref=anno-search&seite=3",
     "krp_person_id": "krp_person_id__338",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "503": {
     "id": 503,
@@ -3605,7 +4913,11 @@
     "Funktion": "Kanzleiadjunktentochter",
     "Quelle": "",
     "krp_person_id": "krp_person_id__503",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "339": {
     "id": 339,
@@ -3616,7 +4928,11 @@
     "Funktion": "Konsul, Staatsamt für Volksernährung [III]",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nwj&datum=19200410&query=%22Konsul+Kronholz%22&ref=anno-search&seite=9",
     "krp_person_id": "krp_person_id__339",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "340": {
     "id": 340,
@@ -3627,7 +4943,11 @@
     "Funktion": "Direktor der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://musiklexikon.ac.at/ml/musik_L/Loewe_Ferdinand.xml",
     "krp_person_id": "krp_person_id__340",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "623": {
     "id": 623,
@@ -3638,7 +4958,11 @@
     "Funktion": "Publizistischer Mitarbeiter Eduard Ludwig",
     "Quelle": "",
     "krp_person_id": "krp_person_id__623",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "341": {
     "id": 341,
@@ -3649,7 +4973,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Mandyczewski_Eusebius_von.xml",
     "krp_person_id": "krp_person_id__341",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "625": {
     "id": 625,
@@ -3660,7 +4988,11 @@
     "Funktion": "Landesschulinspektor",
     "Quelle": "",
     "krp_person_id": "krp_person_id__625",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "342": {
     "id": 342,
@@ -3671,7 +5003,11 @@
     "Funktion": "Professorin an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://musiklexikon.ac.at/ml/musik_A/Ambros_August_Wilhelm.xml",
     "krp_person_id": "krp_person_id__342",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "343": {
     "id": 343,
@@ -3682,7 +5018,11 @@
     "Funktion": "1894–1926 Prof. am Konservatorium der GdM bzw. an der Wiener MAkad.",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_F/Forsten_Filip.xml",
     "krp_person_id": "krp_person_id__343",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "344": {
     "id": 344,
@@ -3693,7 +5033,11 @@
     "Funktion": "Lehrer für Sologesang",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_G/Geiringer_Ehepaar.xml",
     "krp_person_id": "krp_person_id__344",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "345": {
     "id": 345,
@@ -3704,7 +5048,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_H/Haboeck_Franz.xml",
     "krp_person_id": "krp_person_id__345",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "346": {
     "id": 346,
@@ -3715,7 +5063,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_T/Thomas_Eugen.xml",
     "krp_person_id": "krp_person_id__346",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "347": {
     "id": 347,
@@ -3726,7 +5078,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_R/Reinhold_Hugo.xml",
     "krp_person_id": "krp_person_id__347",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "553": {
     "id": 553,
@@ -3737,7 +5093,11 @@
     "Funktion": "Sektionschef",
     "Quelle": "",
     "krp_person_id": "krp_person_id__553",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "348": {
     "id": 348,
@@ -3748,7 +5108,11 @@
     "Funktion": "Professorin an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.biographien.ac.at/oebl/oebl_P/Paumgartner_Rosa_1858_1932.xml",
     "krp_person_id": "krp_person_id__348",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "349": {
     "id": 349,
@@ -3759,7 +5123,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_H/Hofmann_Josef.xml",
     "krp_person_id": "krp_person_id__349",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "493": {
     "id": 493,
@@ -3770,7 +5138,11 @@
     "Funktion": "Professor an der Exportakademie",
     "Quelle": "",
     "krp_person_id": "krp_person_id__493",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "350": {
     "id": 350,
@@ -3781,7 +5153,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_S/Schmidt_Franz.xml",
     "krp_person_id": "krp_person_id__350",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "495": {
     "id": 495,
@@ -3792,7 +5168,11 @@
     "Funktion": "Außerordentlicher Professor an der Exportakademie",
     "Quelle": "",
     "krp_person_id": "krp_person_id__495",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "351": {
     "id": 351,
@@ -3803,7 +5183,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://biographien.ac.at/oebl/oebl_P/Prohaska_Karl_1869_1927.xml",
     "krp_person_id": "krp_person_id__351",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "383": {
     "id": 383,
@@ -3814,7 +5198,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://musiklexikon.ac.at/0xc1aa5576_0x003c59ef",
     "krp_person_id": "krp_person_id__383",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "551": {
     "id": 551,
@@ -3825,7 +5213,11 @@
     "Funktion": "Professor an der bildenden Akademie der Künste",
     "Quelle": "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D129250821",
     "krp_person_id": "krp_person_id__551",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "384": {
     "id": 384,
@@ -3836,7 +5228,11 @@
     "Funktion": "Professor an der Staatsakademie für Musik und darstellende Kunst",
     "Quelle": "https://www.musiklexikon.ac.at/ml/musik_M/Marx_Joseph.xml",
     "krp_person_id": "krp_person_id__384",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "416": {
     "id": 416,
@@ -3847,7 +5243,11 @@
     "Funktion": "Kapitän, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__416",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "417": {
     "id": 417,
@@ -3858,7 +5258,11 @@
     "Funktion": "Kapitän, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__417",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "418": {
     "id": 418,
@@ -3869,7 +5273,11 @@
     "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__418",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "419": {
     "id": 419,
@@ -3880,7 +5288,11 @@
     "Funktion": "Schiffsmaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__419",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "452": {
     "id": 452,
@@ -3891,7 +5303,11 @@
     "Funktion": "Steuermann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__452",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "453": {
     "id": 453,
@@ -3902,7 +5318,11 @@
     "Funktion": "Steuermann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__453",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "487": {
     "id": 487,
@@ -3913,7 +5333,11 @@
     "Funktion": "Gesandter Deutschösterreichs in Berlin",
     "Quelle": "",
     "krp_person_id": "krp_person_id__487",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "454": {
     "id": 454,
@@ -3924,7 +5348,11 @@
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__454",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "496": {
     "id": 496,
@@ -3935,7 +5363,11 @@
     "Funktion": "Abgeordnerter in der Nationalversammlung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__496",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "455": {
     "id": 455,
@@ -3946,7 +5378,11 @@
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__455",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "456": {
     "id": 456,
@@ -3957,7 +5393,11 @@
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__456",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "628": {
     "id": 628,
@@ -3968,7 +5408,11 @@
     "Funktion": "Bergrat im Hauptmünzamt",
     "Quelle": "",
     "krp_person_id": "krp_person_id__628",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "457": {
     "id": 457,
@@ -3979,7 +5423,11 @@
     "Funktion": "Baggermaschinist, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__457",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "458": {
     "id": 458,
@@ -3990,7 +5438,11 @@
     "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__458",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "459": {
     "id": 459,
@@ -4001,7 +5453,11 @@
     "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__459",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "460": {
     "id": 460,
@@ -4012,7 +5468,11 @@
     "Funktion": "Baggermeiser, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__460",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "461": {
     "id": 461,
@@ -4023,7 +5483,11 @@
     "Funktion": "Maschinenwärter, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__461",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "462": {
     "id": 462,
@@ -4034,7 +5498,11 @@
     "Funktion": "Baggerschiffmann, Angestellter der staatlichen Wasserbauverwaltung in Oberösterreich",
     "Quelle": "",
     "krp_person_id": "krp_person_id__462",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "463": {
     "id": 463,
@@ -4045,7 +5513,11 @@
     "Funktion": "Gesandter",
     "Quelle": "https://www.bmeia.gv.at/oeb-budapest/ueber-uns/geschichte",
     "krp_person_id": "krp_person_id__463",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "616": {
     "id": 616,
@@ -4056,7 +5528,11 @@
     "Funktion": "Staatsamt für Volksernährung",
     "Quelle": "",
     "krp_person_id": "krp_person_id__616",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "464": {
     "id": 464,
@@ -4067,7 +5543,11 @@
     "Funktion": "ungarischer Staatssekretär",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19170716&query=%22Staatssekretär+Lers%22&ref=anno-search&seite=4",
     "krp_person_id": "krp_person_id__464",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "465": {
     "id": 465,
@@ -4078,7 +5558,11 @@
     "Funktion": "Hofrat, Zentralgrenzkommission",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19240509&query=%22Hofrat+Pozzi%22&ref=anno-search&seite=7",
     "krp_person_id": "krp_person_id__465",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "467": {
     "id": 467,
@@ -4089,7 +5573,11 @@
     "Funktion": "Sektionsrat Staatskanzlei",
     "Quelle": "",
     "krp_person_id": "krp_person_id__467",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "468": {
     "id": 468,
@@ -4100,7 +5588,11 @@
     "Funktion": "Oberstleutnant Innsbruck",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=fst&datum=19200821&query=%22Alphons+Bernhard%22&ref=anno-search&seite=3",
     "krp_person_id": "krp_person_id__468",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "469": {
     "id": 469,
@@ -4111,7 +5603,11 @@
     "Funktion": "Oberst, Delegierter der Abgrenzungskommission für die ungarische Grenze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__469",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "626": {
     "id": 626,
@@ -4122,7 +5618,11 @@
     "Funktion": "Bezirksschulinspektor",
     "Quelle": "",
     "krp_person_id": "krp_person_id__626",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "470": {
     "id": 470,
@@ -4133,7 +5633,11 @@
     "Funktion": "Oberst, Delegierter für die Abgrenzungskommission für die tschechoslowakische Grenze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__470",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "471": {
     "id": 471,
@@ -4144,7 +5648,11 @@
     "Funktion": "Major, Delegierter für die Abgrenzungskommission für die jugoslawische Grenze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__471",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "472": {
     "id": 472,
@@ -4155,7 +5663,11 @@
     "Funktion": "Hauptmann, Gehilfe des Delegierten für die Abgrenzungskommission für die italienische Grenze",
     "Quelle": "",
     "krp_person_id": "krp_person_id__472",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "595": {
     "id": 595,
@@ -4166,7 +5678,11 @@
     "Funktion": "k.k. Handelsminister a.D.; k.k. Finanzminister a.D.; k.u.k. Finanzminster a.D.",
     "Quelle": "",
     "krp_person_id": "krp_person_id__595",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "596": {
     "id": 596,
@@ -4177,7 +5693,11 @@
     "Funktion": "Sektionschef im Staatsamte für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "",
     "krp_person_id": "krp_person_id__596",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   },
   "597": {
     "id": 597,
@@ -4188,6 +5708,10 @@
     "Funktion": "",
     "Quelle": "",
     "krp_person_id": "krp_person_id__597",
-    "wikidata_url": ""
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": null,
+    "Sterbeort": null
   }
 }
