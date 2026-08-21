@@ -4,13 +4,15 @@
     "order": "1.00000000000000000000",
     "Name": "",
     "Anmerkungen": "",
-    "Aktiv": false
+    "Aktiv": false,
+    "krp_work_id": "krp_work_id__1"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "Name": "",
     "Anmerkungen": "",
-    "Aktiv": false
+    "Aktiv": false,
+    "krp_work_id": "krp_work_id__2"
   }
 }

@@ -5,7 +5,8 @@
     "Name": "AG Elektrizitätswerk Wels",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.eww.at/ueber-uns/unternehmensgruppe"
+    "Quelle": "https://www.eww.at/ueber-uns/unternehmensgruppe",
+    "krp_org_id": "krp_org_id__1"
   },
   "2": {
     "id": 2,
@@ -13,7 +14,8 @@
     "Name": "Anglo-österreichischen Bank",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Anglo-%C3%B6sterreichische_Bank"
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Anglo-%C3%B6sterreichische_Bank",
+    "krp_org_id": "krp_org_id__2"
   },
   "3": {
     "id": 3,
@@ -21,7 +23,8 @@
     "Name": "[Allgemeine österreichische] Bodencreditanstalt",
     "Anmerkungen": null,
     "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt"
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt",
+    "krp_org_id": "krp_org_id__3"
   },
   "4": {
     "id": 4,
@@ -29,7 +32,8 @@
     "Name": "Bankhaus Kuhn, Loeb & Co",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__4"
   },
   "5": {
     "id": 5,
@@ -37,7 +41,8 @@
     "Name": "Berufsgenossenschaftliche Unfallversicherungsanstalt",
     "Anmerkungen": "Quellenlink für BUV für Ö. Eisenbahnen (!): https://alex.onb.ac.at/cgi-content/alex?aid=rgb&datum=18900004&seite=00000221",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__5"
   },
   "97": {
     "id": 97,
@@ -45,7 +50,8 @@
     "Name": "Credit-Institute für öffentliche Unternehmungen und Arbeiten",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__97"
   },
   "6": {
     "id": 6,
@@ -53,7 +59,8 @@
     "Name": "Creditanstalt",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Creditanstalt-Bankverein"
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Creditanstalt-Bankverein",
+    "krp_org_id": "krp_org_id__6"
   },
   "7": {
     "id": 7,
@@ -61,7 +68,8 @@
     "Name": "Daimler-Motoren-AG",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.austrodaimler.at/firmengeschichte/"
+    "Quelle": "https://www.austrodaimler.at/firmengeschichte/",
+    "krp_org_id": "krp_org_id__7"
   },
   "98": {
     "id": 98,
@@ -69,7 +77,8 @@
     "Name": "Allgemeine österreichische Boden-Credit-Anstalt",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck%20%204c4ae136-840a-4d52-b747-b8e62f3d7449VERA#Stueck__4c4ae136-840a-4d52-b747-b8e62f3d7449VERA"
+    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck%20%204c4ae136-840a-4d52-b747-b8e62f3d7449VERA#Stueck__4c4ae136-840a-4d52-b747-b8e62f3d7449VERA",
+    "krp_org_id": "krp_org_id__98"
   },
   "93": {
     "id": 93,
@@ -77,7 +86,8 @@
     "Name": "Arbeiter-Unfallversicherungsanstalt",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__93"
   },
   "94": {
     "id": 94,
@@ -85,7 +95,8 @@
     "Name": "Deutschösterreichische Lebensmitteleinfuhrstelle (Dölest)",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.parlament.gv.at/dokument/KN/I-KN/381/imfname_719385.pdf"
+    "Quelle": "https://www.parlament.gv.at/dokument/KN/I-KN/381/imfname_719385.pdf",
+    "krp_org_id": "krp_org_id__94"
   },
   "8": {
     "id": 8,
@@ -93,7 +104,8 @@
     "Name": "Donaudampfschiffahrtsgesellschaft",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__8"
   },
   "9": {
     "id": 9,
@@ -101,7 +113,8 @@
     "Name": "Eltz’sche Spinnerei",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__9"
   },
   "10": {
     "id": 10,
@@ -109,7 +122,8 @@
     "Name": "[Erzherzogliche] Ludwig Viktor[‘sche] Familienstiftung",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=2575899"
+    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=2575899",
+    "krp_org_id": "krp_org_id__10"
   },
   "11": {
     "id": 11,
@@ -117,7 +131,8 @@
     "Name": "Firma B. Wetzler & Co.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA#Stueck__00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA"
+    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA#Stueck__00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA",
+    "krp_org_id": "krp_org_id__11"
   },
   "12": {
     "id": 12,
@@ -125,7 +140,8 @@
     "Name": "Firma Glesinger S.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396732"
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396732",
+    "krp_org_id": "krp_org_id__12"
   },
   "13": {
     "id": 13,
@@ -133,7 +149,8 @@
     "Name": "Firma Jakob Neurath",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__13"
   },
   "14": {
     "id": 14,
@@ -141,7 +158,8 @@
     "Name": "Firma Stone & Webster",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200625&seite=8&zoom=33&query=%22firma%22%2B%22stone%22%2B%22webster%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200625&seite=8&zoom=33&query=%22firma%22%2B%22stone%22%2B%22webster%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__14"
   },
   "15": {
     "id": 15,
@@ -149,7 +167,8 @@
     "Name": "Graz-Köflacher Eisenbahn- und Bergbau-Gesellschaft",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200714&seite=14&zoom=33&query=%22Graz%2BK%C3%B6flacher%2BEisenbahn-%2Bund%2BBergbau-Gesellschaft%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200714&seite=14&zoom=33&query=%22Graz%2BK%C3%B6flacher%2BEisenbahn-%2Bund%2BBergbau-Gesellschaft%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__15"
   },
   "96": {
     "id": 96,
@@ -157,7 +176,8 @@
     "Name": "\"Henry\" Seifen-, Kerzen- und Fettwarenfabrik GmbH",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__96"
   },
   "102": {
     "id": 102,
@@ -165,7 +185,8 @@
     "Name": "Spedition Caro & Jellinek",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__102"
   },
   "107": {
     "id": 107,
@@ -173,7 +194,8 @@
     "Name": "Reichsbank",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__107"
   },
   "104": {
     "id": 104,
@@ -181,7 +203,8 @@
     "Name": "Reichsvollzugsausschusses der Soldatenräte Deutschösterreichs",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__104"
   },
   "103": {
     "id": 103,
@@ -189,7 +212,8 @@
     "Name": "Gemeinde Wien-Städtische Straßenbahnen",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__103"
   },
   "16": {
     "id": 16,
@@ -197,7 +221,8 @@
     "Name": "Holenia Franz & Co.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396750"
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396750",
+    "krp_org_id": "krp_org_id__16"
   },
   "17": {
     "id": 17,
@@ -205,7 +230,8 @@
     "Name": "Internationale Bureau zum Schutze des gewerblichen Eigentums",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__17"
   },
   "18": {
     "id": 18,
@@ -213,7 +239,8 @@
     "Name": "Ingenieure Mayreder, Kraus & Co.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Rudolf_Mayreder"
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Rudolf_Mayreder",
+    "krp_org_id": "krp_org_id__18"
   },
   "19": {
     "id": 19,
@@ -221,7 +248,8 @@
     "Name": "„Inva“ Buch-, Kunst-, Steindruckerei und Lithographie des Zentralverbandes der deutschösterreichischen Kriegsbeschädigten, Gesellschaft mbH",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200626&seite=14&zoom=33&query=%22inva%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200626&seite=14&zoom=33&query=%22inva%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__19"
   },
   "95": {
     "id": 95,
@@ -229,7 +257,8 @@
     "Name": "Interalliierte Lebensmittelkommission",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__95"
   },
   "56": {
     "id": 56,
@@ -237,7 +266,8 @@
     "Name": "Internationale Liquidierungskommission",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__56"
   },
   "99": {
     "id": 99,
@@ -245,7 +275,8 @@
     "Name": "Kärntner Forstverein",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://kaerntner-forstverein.at/wp-content/uploads/2022/05/Festschrift-web.pdf"
+    "Quelle": "https://kaerntner-forstverein.at/wp-content/uploads/2022/05/Festschrift-web.pdf",
+    "krp_org_id": "krp_org_id__99"
   },
   "100": {
     "id": 100,
@@ -253,7 +284,8 @@
     "Name": "Internationalen Komitee vom Roten Kreuz",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__100"
   },
   "20": {
     "id": 20,
@@ -261,7 +293,8 @@
     "Name": "Kantonalbank",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://hls-dhs-dss.ch/de/articles/014065/2015-04-08/"
+    "Quelle": "https://hls-dhs-dss.ch/de/articles/014065/2015-04-08/",
+    "krp_org_id": "krp_org_id__20"
   },
   "21": {
     "id": 21,
@@ -269,7 +302,8 @@
     "Name": "Kupfer- und Zinnhütte Betriebsgesellschaft mbH.",
     "Anmerkungen": "derzeitiger Konsens, muss noch recherchiert werden",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1920&page=135&size=45&qid=57T0KCMCR2SNTO8KP3JPVAJIUJ4J8D"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1920&page=135&size=45&qid=57T0KCMCR2SNTO8KP3JPVAJIUJ4J8D",
+    "krp_org_id": "krp_org_id__21"
   },
   "22": {
     "id": 22,
@@ -277,7 +311,8 @@
     "Name": "Länderzentralbüro",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200731&seite=20&zoom=33&query=%22l%C3%A4nderzentralbureau%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200731&seite=20&zoom=33&query=%22l%C3%A4nderzentralbureau%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__22"
   },
   "23": {
     "id": 23,
@@ -285,7 +320,8 @@
     "Name": "Metall- & Erz-Gesellschaft mbH.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__23"
   },
   "24": {
     "id": 24,
@@ -293,7 +329,8 @@
     "Name": "Militär-Witwen- und Waisenfonds",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://sammlung.wienmuseum.at/en/object/117147-wfw-militaer-witwen-und-waisenfonds/\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19190606&seite=3&zoom=33&query=%22milit%C3%A4r-witwen%2Bund%2Bwaisenfonds%22&ref=anno-search"
+    "Quelle": "https://sammlung.wienmuseum.at/en/object/117147-wfw-militaer-witwen-und-waisenfonds/\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19190606&seite=3&zoom=33&query=%22milit%C3%A4r-witwen%2Bund%2Bwaisenfonds%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__24"
   },
   "25": {
     "id": 25,
@@ -301,7 +338,8 @@
     "Name": "Militärsanitätsanstalten",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=3977515\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=ozp&datum=19190201&seite=3&zoom=33&query=%22milit%C3%A4rsanit%C3%A4tsanstalten%22&ref=anno-search"
+    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=3977515\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=ozp&datum=19190201&seite=3&zoom=33&query=%22milit%C3%A4rsanit%C3%A4tsanstalten%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__25"
   },
   "26": {
     "id": 26,
@@ -309,7 +347,8 @@
     "Name": "„Montana“ Bergbau-Gesellschaft m.b.H.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/163682"
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/163682",
+    "krp_org_id": "krp_org_id__26"
   },
   "27": {
     "id": 27,
@@ -317,7 +356,8 @@
     "Name": "Morgan Harjes & Co.",
     "Anmerkungen": "Reliablere Ressource recherchieren",
     "Aktiv": false,
-    "Quelle": "https://en.wikipedia.org/wiki/Morgan,_Harjes_%26_Co."
+    "Quelle": "https://en.wikipedia.org/wiki/Morgan,_Harjes_%26_Co.",
+    "krp_org_id": "krp_org_id__27"
   },
   "28": {
     "id": 28,
@@ -325,7 +365,8 @@
     "Name": "niederösterreichische Landes-Hypothekenanstalt",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=548&size=45&qid=BWZEZ13XUJIB3JGTLYW8HQTRBHCRM4"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=548&size=45&qid=BWZEZ13XUJIB3JGTLYW8HQTRBHCRM4",
+    "krp_org_id": "krp_org_id__28"
   },
   "29": {
     "id": 29,
@@ -333,7 +374,8 @@
     "Name": "[Oesterreichisch-]Alpine Montangesellschaft",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=5710"
+    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=5710",
+    "krp_org_id": "krp_org_id__29"
   },
   "30": {
     "id": 30,
@@ -341,7 +383,8 @@
     "Name": "Österreichischen Immobiliarbank AG",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19120004&seite=00001109&size=45"
+    "Quelle": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19120004&seite=00001109&size=45",
+    "krp_org_id": "krp_org_id__30"
   },
   "31": {
     "id": 31,
@@ -349,7 +392,8 @@
     "Name": "River Syndicated Ltd",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://discovery.nationalarchives.gov.uk/results/r?_q=River+Syndicated+Ltd&_sd=1919&_ed=1920&_hb="
+    "Quelle": "https://discovery.nationalarchives.gov.uk/results/r?_q=River+Syndicated+Ltd&_sd=1919&_ed=1920&_hb=",
+    "krp_org_id": "krp_org_id__31"
   },
   "32": {
     "id": 32,
@@ -357,7 +401,8 @@
     "Name": "Redlich Brüder & Berger",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396823"
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396823",
+    "krp_org_id": "krp_org_id__32"
   },
   "33": {
     "id": 33,
@@ -365,7 +410,8 @@
     "Name": "Reichraminger Holzindustrie-Gesellschaft mbH.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19220504&seite=9&zoom=33&query=%22Reichraminger%22%2B%22Holzindustrie-Gesellschaft%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19220504&seite=9&zoom=33&query=%22Reichraminger%22%2B%22Holzindustrie-Gesellschaft%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__33"
   },
   "34": {
     "id": 34,
@@ -373,7 +419,8 @@
     "Name": "Roth’sche Fabrik",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19170825&seite=3&zoom=33&query=%22rothsche%2Bfabrik%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19170825&seite=3&zoom=33&query=%22rothsche%2Bfabrik%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__34"
   },
   "35": {
     "id": 35,
@@ -381,7 +428,8 @@
     "Name": "Ruetzwerk",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19200323&seite=2&zoom=33&query=%22ruetzwerk%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19200323&seite=2&zoom=33&query=%22ruetzwerk%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__35"
   },
   "36": {
     "id": 36,
@@ -389,7 +437,8 @@
     "Name": "Süddeutsche Donau-Dampf-Schifffahrts-Gesellschaft",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.archivportal-d.de/item/SXWFR3RDPE5BS5UKNKHRNUSECUCUPIGD?facetValues%5B%5D=context%3DEWI22NIIAWMEBPYNYMJZVWD2M27AHPFP&lang=de&sort=random_300214365908502145+desc&offset=32&hitNumber=41"
+    "Quelle": "https://www.archivportal-d.de/item/SXWFR3RDPE5BS5UKNKHRNUSECUCUPIGD?facetValues%5B%5D=context%3DEWI22NIIAWMEBPYNYMJZVWD2M27AHPFP&lang=de&sort=random_300214365908502145+desc&offset=32&hitNumber=41",
+    "krp_org_id": "krp_org_id__36"
   },
   "37": {
     "id": 37,
@@ -397,7 +446,8 @@
     "Name": "Staatsangestellten-Fürsorgeanstalt „Stafa“",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191228&seite=4&zoom=33&query=%22staatsangestellten%22%2B%22f%C3%BCrsorgeanstalt%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191228&seite=4&zoom=33&query=%22staatsangestellten%22%2B%22f%C3%BCrsorgeanstalt%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__37"
   },
   "38": {
     "id": 38,
@@ -405,7 +455,8 @@
     "Name": "Steinkohlenbergwerk und Kalkwerkschaft Weyer Gesellschaft m.b.H.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/153386"
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/153386",
+    "krp_org_id": "krp_org_id__38"
   },
   "39": {
     "id": 39,
@@ -413,7 +464,8 @@
     "Name": "Telegraphen-Korrespondenz-Bureau",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190630&seite=2&zoom=33&query=%22Telegraphen-Korrespondenz-Bureau%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190630&seite=2&zoom=33&query=%22Telegraphen-Korrespondenz-Bureau%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__39"
   },
   "40": {
     "id": 40,
@@ -421,7 +473,8 @@
     "Name": "Technische Hochschule",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Technische_Hochschule"
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Technische_Hochschule",
+    "krp_org_id": "krp_org_id__40"
   },
   "41": {
     "id": 41,
@@ -429,7 +482,8 @@
     "Name": "Tecta Grundbesitz- und Verwaltungs-Gesellschaft-mbH",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396860"
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396860",
+    "krp_org_id": "krp_org_id__41"
   },
   "42": {
     "id": 42,
@@ -437,7 +491,8 @@
     "Name": "Treuga AG für Veredlungsverkehr und für treuhändige Güterverwertung",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200715&seite=10&zoom=33&query=%22treuga%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200715&seite=10&zoom=33&query=%22treuga%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__42"
   },
   "43": {
     "id": 43,
@@ -445,7 +500,8 @@
     "Name": "United States Grain Corporation",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.archives.gov/research/guide-fed-records/groups/005.html/1000#5.1\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19191002&seite=7&zoom=33&query=%22Grain%2BCorporation%22&ref=anno-search"
+    "Quelle": "https://www.archives.gov/research/guide-fed-records/groups/005.html/1000#5.1\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19191002&seite=7&zoom=33&query=%22Grain%2BCorporation%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__43"
   },
   "44": {
     "id": 44,
@@ -453,7 +509,8 @@
     "Name": "Virginierzigarren-Erzeugung",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=zei&datum=19180613&seite=14&zoom=33&query=%22virginier%2Bzigarre%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=zei&datum=19180613&seite=14&zoom=33&query=%22virginier%2Bzigarre%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__44"
   },
   "45": {
     "id": 45,
@@ -461,7 +518,8 @@
     "Name": "Virginier-Fabrik",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dsp&datum=19200826&seite=5&zoom=33&query=%22virginier-fabrik%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dsp&datum=19200826&seite=5&zoom=33&query=%22virginier-fabrik%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__45"
   },
   "46": {
     "id": 46,
@@ -469,7 +527,8 @@
     "Name": "Waldviertler Elektrizitätsgenossenschaft",
     "Anmerkungen": "Zu besprechen: Hier mit \"rGmbH\" am Schluss https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=481&size=45&qid=5AODNP18592CDN4T1AMD5NFGE409IF",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=waw&datum=1919&page=364&size=45&qid=GCO37GKVJXDYY227BTO29F9ME939EM"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=waw&datum=1919&page=364&size=45&qid=GCO37GKVJXDYY227BTO29F9ME939EM",
+    "krp_org_id": "krp_org_id__46"
   },
   "47": {
     "id": 47,
@@ -477,7 +536,8 @@
     "Name": "WEWA - Wasserkraft- und Elektrizitätswirtschaftsamt",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.oesta.gv.at/veroeffentlichungen/archivale-des-monats/Archivale-des-Monats-Juni-23.html"
+    "Quelle": "https://www.oesta.gv.at/veroeffentlichungen/archivale-des-monats/Archivale-des-Monats-Juni-23.html",
+    "krp_org_id": "krp_org_id__47"
   },
   "48": {
     "id": 48,
@@ -485,7 +545,8 @@
     "Name": "Wiener Städtische Elektrizitäts-Werke",
     "Anmerkungen": "derzeitiger Konsens, muss noch recherchiert werden",
     "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/St%C3%A4dtische_Elektrizit%C3%A4tswerke"
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/St%C3%A4dtische_Elektrizit%C3%A4tswerke",
+    "krp_org_id": "krp_org_id__48"
   },
   "49": {
     "id": 49,
@@ -493,7 +554,8 @@
     "Name": "Wolfsegg-Traunthaler Kohlenwerks-AG",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/160308"
+    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/160308",
+    "krp_org_id": "krp_org_id__49"
   },
   "50": {
     "id": 50,
@@ -501,7 +563,8 @@
     "Name": "Wollzentrale AG",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=ibn&datum=19170430&seite=8&zoom=33&query=%22Wollzentrale%2BAG%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=ibn&datum=19170430&seite=8&zoom=33&query=%22Wollzentrale%2BAG%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__50"
   },
   "51": {
     "id": 51,
@@ -509,7 +572,8 @@
     "Name": "Zentral-Preisprüfungskommission",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "OESTA: AT-OeStA/AdR AuS BMfVE ZPPK"
+    "Quelle": "OESTA: AT-OeStA/AdR AuS BMfVE ZPPK",
+    "krp_org_id": "krp_org_id__51"
   },
   "101": {
     "id": 101,
@@ -517,7 +581,8 @@
     "Name": "Zentralbureau für Seuchenbekämpfung",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__101"
   },
   "52": {
     "id": 52,
@@ -525,7 +590,8 @@
     "Name": "Zentral- Ein- und Verkaufbüro",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__52"
   },
   "53": {
     "id": 53,
@@ -533,7 +599,8 @@
     "Name": "Zwischenstaatsamtliches Komitee",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__53"
   },
   "54": {
     "id": 54,
@@ -541,7 +608,8 @@
     "Name": "Oesterreichisch-ungarische Bank",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://viewer.onb.ac.at/131DD9E2"
+    "Quelle": "https://viewer.onb.ac.at/131DD9E2",
+    "krp_org_id": "krp_org_id__54"
   },
   "55": {
     "id": 55,
@@ -549,7 +617,8 @@
     "Name": "Staatliche Industriewerke",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191219&seite=7&zoom=33&query=%22staatliche%22%2B%22industriewerke%22%2B%22linder%22&ref=anno-search"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191219&seite=7&zoom=33&query=%22staatliche%22%2B%22industriewerke%22%2B%22linder%22&ref=anno-search",
+    "krp_org_id": "krp_org_id__55"
   },
   "57": {
     "id": 57,
@@ -557,7 +626,8 @@
     "Name": "Erzherzoglich Ludwig Viktor'sche Familienstiftung",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://sammlung-online.salzburgmuseum.at/detail/collection/1c8f3738-deaa-4fd3-8e65-356a0a9bdfe4"
+    "Quelle": "https://sammlung-online.salzburgmuseum.at/detail/collection/1c8f3738-deaa-4fd3-8e65-356a0a9bdfe4",
+    "krp_org_id": "krp_org_id__57"
   },
   "58": {
     "id": 58,
@@ -565,7 +635,8 @@
     "Name": "Mayreder, Kraus & Co. Bauholdingges.M.b.H.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.aeiou.at/aeiou.encyclop.m/m403821.htm"
+    "Quelle": "https://www.aeiou.at/aeiou.encyclop.m/m403821.htm",
+    "krp_org_id": "krp_org_id__58"
   },
   "59": {
     "id": 59,
@@ -573,7 +644,8 @@
     "Name": "interalliierter Luftfahrtüberwachungsausschuss",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__59"
   },
   "60": {
     "id": 60,
@@ -581,7 +653,8 @@
     "Name": "Interalliierte Heeresüberwachungsausschuss",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__60"
   },
   "105": {
     "id": 105,
@@ -589,7 +662,8 @@
     "Name": "Firma Kreidl, Heller & Co.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__105"
   },
   "106": {
     "id": 106,
@@ -597,7 +671,8 @@
     "Name": "Mitterberger Kupfer AG",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://wiki.sn.at/wiki/Mitterberger_Kupferbergbau_(Unternehmen)"
+    "Quelle": "https://wiki.sn.at/wiki/Mitterberger_Kupferbergbau_(Unternehmen)",
+    "krp_org_id": "krp_org_id__106"
   },
   "108": {
     "id": 108,
@@ -605,7 +680,8 @@
     "Name": "Donaudampfschiffahrtsgesellschaft",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft"
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft",
+    "krp_org_id": "krp_org_id__108"
   },
   "109": {
     "id": 109,
@@ -613,7 +689,8 @@
     "Name": "",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": ""
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__109"
   },
   "110": {
     "id": 110,
@@ -621,6 +698,7 @@
     "Name": "Firma Kola & Co.",
     "Anmerkungen": "",
     "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19210830&query=%22Firma+Kola%22&ref=anno-search&seite=11"
+    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19210830&query=%22Firma+Kola%22&ref=anno-search&seite=11",
+    "krp_org_id": "krp_org_id__110"
   }
 }
