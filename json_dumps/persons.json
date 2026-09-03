@@ -1911,13 +1911,13 @@
     "anmerkungen": "",
     "gnd_url": "",
     "Funktion": "Sektionschef",
-    "Quelle": "",
+    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=87633",
     "krp_person_id": "krp_person_id__108",
     "wikidata_url": "",
-    "Geburtsdatum": null,
-    "Sterbedatum": null,
-    "Geburtsort": null,
-    "Sterbeort": null
+    "Geburtsdatum": "1871-09-07",
+    "Sterbedatum": "1963-03-22",
+    "Geburtsort": "Wien",
+    "Sterbeort": "Wien"
   },
   "109": {
     "id": 109,
@@ -4599,10 +4599,10 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__544",
     "wikidata_url": "",
-    "Geburtsdatum": null,
-    "Sterbedatum": null,
-    "Geburtsort": null,
-    "Sterbeort": null
+    "Geburtsdatum": "1874-05-12",
+    "Sterbedatum": "1948-11-09",
+    "Geburtsort": "Salzburg",
+    "Sterbeort": "St. Gilgen"
   },
   "323": {
     "id": 323,
@@ -5199,10 +5199,10 @@
     "Quelle": "https://musiklexikon.ac.at/0xc1aa5576_0x003c59ef",
     "krp_person_id": "krp_person_id__383",
     "wikidata_url": "",
-    "Geburtsdatum": null,
-    "Sterbedatum": null,
-    "Geburtsort": null,
-    "Sterbeort": null
+    "Geburtsdatum": "1879-02-26",
+    "Sterbedatum": "1965-10-30",
+    "Geburtsort": "Gera",
+    "Sterbeort": "Zug"
   },
   "551": {
     "id": 551,
