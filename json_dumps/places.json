@@ -2,17 +2,100 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "",
+    "Name": "Tschechoslowakei",
     "Anmerkungen": "",
     "Aktiv": false,
-    "krp_place_id": "krp_place_id__1"
+    "krp_place_id": "krp_place_id__1",
+    "Alternative Bezeichnungen": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
+    "Name": "Österreich",
     "Anmerkungen": "",
     "Aktiv": false,
-    "krp_place_id": "krp_place_id__2"
+    "krp_place_id": "krp_place_id__2",
+    "Alternative Bezeichnungen": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "Italien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__3",
+    "Alternative Bezeichnungen": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "Frankreich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__4",
+    "Alternative Bezeichnungen": null
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "Name": "Ungarn",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__5",
+    "Alternative Bezeichnungen": null
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "Name": "Deutsches Reich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__6",
+    "Alternative Bezeichnungen": null
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "Name": "Liechtenstein",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__7",
+    "Alternative Bezeichnungen": null
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "Name": "Schweiz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__8",
+    "Alternative Bezeichnungen": null
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "Name": "Königreich SHS",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__9",
+    "Alternative Bezeichnungen": null
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "Name": "Schweden",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__10",
+    "Alternative Bezeichnungen": null
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "Name": "Norwegen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__11",
+    "Alternative Bezeichnungen": null
   }
 }

@@ -95,7 +95,7 @@
     "label": "Deutsch, Julius Dr.",
     "anmerkungen": "",
     "gnd_url": "https://d-nb.info/gnd/118678027",
-    "Funktion": "Unterstaatssekretär für Heerwesen [I]; Staatsekretär für Heerwesen [II]; für Heereswesen [III]",
+    "Funktion": "Unterstaatssekretär für Heereswesen [I]; Staatssekretär für Heereswesen [II]; für Heereswesen [III]",
     "Quelle": "https://www.parlament.gv.at/person/208",
     "krp_person_id": "krp_person_id__4",
     "wikidata_url": "https://www.wikidata.org/wiki/Q78963",
@@ -5713,5 +5713,35 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null
+  },
+  "661": {
+    "id": 661,
+    "order": "349.00000000000000000000",
+    "label": "Alberti",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "Mitglied der interalliierten Mission, General",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__661",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": ""
+  },
+  "662": {
+    "id": 662,
+    "order": "350.00000000000000000000",
+    "label": "Curzon",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "Mitglied des englischen Oberhauses, Lord",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__662",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": ""
   }
 }
