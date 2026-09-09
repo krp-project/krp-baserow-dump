@@ -51,7 +51,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__6",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": "Deutschland"
   },
   "7": {
     "id": 7,
@@ -80,6 +80,15 @@
     "krp_place_id": "krp_place_id__9",
     "Alternative Bezeichnungen": null
   },
+  "13": {
+    "id": 13,
+    "order": "9.50000000000000000000",
+    "Name": "Salzburg (Land)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__13",
+    "Alternative Bezeichnungen": ""
+  },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
@@ -97,5 +106,509 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__11",
     "Alternative Bezeichnungen": null
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "Name": "Salzburg (Stadt)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__12",
+    "Alternative Bezeichnungen": ""
+  },
+  "14": {
+    "id": 14,
+    "order": "13.00000000000000000000",
+    "Name": "Paris",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__14",
+    "Alternative Bezeichnungen": ""
+  },
+  "15": {
+    "id": 15,
+    "order": "14.00000000000000000000",
+    "Name": "Wien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__15",
+    "Alternative Bezeichnungen": ""
+  },
+  "16": {
+    "id": 16,
+    "order": "15.00000000000000000000",
+    "Name": "Innsbruck",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__16",
+    "Alternative Bezeichnungen": ""
+  },
+  "17": {
+    "id": 17,
+    "order": "16.00000000000000000000",
+    "Name": "Klagenfurt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__17",
+    "Alternative Bezeichnungen": ""
+  },
+  "41": {
+    "id": 41,
+    "order": "16.50000000000000000000",
+    "Name": "Großbritannien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__41",
+    "Alternative Bezeichnungen": "England"
+  },
+  "18": {
+    "id": 18,
+    "order": "17.00000000000000000000",
+    "Name": "Graz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__18",
+    "Alternative Bezeichnungen": ""
+  },
+  "19": {
+    "id": 19,
+    "order": "18.00000000000000000000",
+    "Name": "Linz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__19",
+    "Alternative Bezeichnungen": ""
+  },
+  "20": {
+    "id": 20,
+    "order": "19.00000000000000000000",
+    "Name": "New York",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__20",
+    "Alternative Bezeichnungen": ""
+  },
+  "21": {
+    "id": 21,
+    "order": "20.00000000000000000000",
+    "Name": "Oberösterreich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__21",
+    "Alternative Bezeichnungen": ""
+  },
+  "22": {
+    "id": 22,
+    "order": "21.00000000000000000000",
+    "Name": "Niederösterreich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__22",
+    "Alternative Bezeichnungen": ""
+  },
+  "23": {
+    "id": 23,
+    "order": "22.00000000000000000000",
+    "Name": "Vereinigte Staaten von Amerika",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__23",
+    "Alternative Bezeichnungen": "Amerika"
+  },
+  "24": {
+    "id": 24,
+    "order": "23.00000000000000000000",
+    "Name": "St. Pölten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__24",
+    "Alternative Bezeichnungen": ""
+  },
+  "25": {
+    "id": 25,
+    "order": "24.00000000000000000000",
+    "Name": "Malmaison [Schloss]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__25",
+    "Alternative Bezeichnungen": ""
+  },
+  "26": {
+    "id": 26,
+    "order": "25.00000000000000000000",
+    "Name": "Sudetenland",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__26",
+    "Alternative Bezeichnungen": ""
+  },
+  "27": {
+    "id": 27,
+    "order": "26.00000000000000000000",
+    "Name": "St. Germain",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__27",
+    "Alternative Bezeichnungen": ""
+  },
+  "28": {
+    "id": 28,
+    "order": "27.00000000000000000000",
+    "Name": "Steiermark",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__28",
+    "Alternative Bezeichnungen": ""
+  },
+  "29": {
+    "id": 29,
+    "order": "28.00000000000000000000",
+    "Name": "Deutschböhmen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__29",
+    "Alternative Bezeichnungen": ""
+  },
+  "30": {
+    "id": 30,
+    "order": "29.00000000000000000000",
+    "Name": "Vorarlberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__30",
+    "Alternative Bezeichnungen": ""
+  },
+  "31": {
+    "id": 31,
+    "order": "30.00000000000000000000",
+    "Name": "Kärnten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__31",
+    "Alternative Bezeichnungen": ""
+  },
+  "32": {
+    "id": 32,
+    "order": "31.00000000000000000000",
+    "Name": "Tirol",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__32",
+    "Alternative Bezeichnungen": ""
+  },
+  "33": {
+    "id": 33,
+    "order": "32.00000000000000000000",
+    "Name": "Burgenland",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__33",
+    "Alternative Bezeichnungen": "Westungarn"
+  },
+  "34": {
+    "id": 34,
+    "order": "33.00000000000000000000",
+    "Name": "Sopron",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__34",
+    "Alternative Bezeichnungen": "Ödenburg"
+  },
+  "35": {
+    "id": 35,
+    "order": "34.00000000000000000000",
+    "Name": "Budapest",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__35",
+    "Alternative Bezeichnungen": ""
+  },
+  "36": {
+    "id": 36,
+    "order": "35.00000000000000000000",
+    "Name": "Österreich-Ungarn",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__36",
+    "Alternative Bezeichnungen": ""
+  },
+  "37": {
+    "id": 37,
+    "order": "36.00000000000000000000",
+    "Name": "Südtirol",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__37",
+    "Alternative Bezeichnungen": ""
+  },
+  "38": {
+    "id": 38,
+    "order": "37.00000000000000000000",
+    "Name": "Zwettl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__38",
+    "Alternative Bezeichnungen": ""
+  },
+  "39": {
+    "id": 39,
+    "order": "38.00000000000000000000",
+    "Name": "Eckartsau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__39",
+    "Alternative Bezeichnungen": ""
+  },
+  "42": {
+    "id": 42,
+    "order": "39.00000000000000000000",
+    "Name": "Prag",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__42",
+    "Alternative Bezeichnungen": ""
+  },
+  "43": {
+    "id": 43,
+    "order": "40.00000000000000000000",
+    "Name": "Böhmen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__43",
+    "Alternative Bezeichnungen": ""
+  },
+  "44": {
+    "id": 44,
+    "order": "41.00000000000000000000",
+    "Name": "Mähren",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__44",
+    "Alternative Bezeichnungen": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "42.00000000000000000000",
+    "Name": "Blumau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__45",
+    "Alternative Bezeichnungen": ""
+  },
+  "46": {
+    "id": 46,
+    "order": "43.00000000000000000000",
+    "Name": "Wöllersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__46",
+    "Alternative Bezeichnungen": ""
+  },
+  "47": {
+    "id": 47,
+    "order": "44.00000000000000000000",
+    "Name": "Ukraine",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__47",
+    "Alternative Bezeichnungen": ""
+  },
+  "48": {
+    "id": 48,
+    "order": "45.00000000000000000000",
+    "Name": "Russland",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__48",
+    "Alternative Bezeichnungen": ""
+  },
+  "49": {
+    "id": 49,
+    "order": "46.00000000000000000000",
+    "Name": "Rumänien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__49",
+    "Alternative Bezeichnungen": ""
+  },
+  "50": {
+    "id": 50,
+    "order": "47.00000000000000000000",
+    "Name": "Bulgarien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__50",
+    "Alternative Bezeichnungen": ""
+  },
+  "52": {
+    "id": 52,
+    "order": "49.00000000000000000000",
+    "Name": "Fischamend",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__52",
+    "Alternative Bezeichnungen": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "50.00000000000000000000",
+    "Name": "Weimar",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__53",
+    "Alternative Bezeichnungen": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "51.00000000000000000000",
+    "Name": "Jochberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__54",
+    "Alternative Bezeichnungen": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "52.00000000000000000000",
+    "Name": "Fischau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__55",
+    "Alternative Bezeichnungen": ""
+  },
+  "56": {
+    "id": 56,
+    "order": "53.00000000000000000000",
+    "Name": "Strass",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__56",
+    "Alternative Bezeichnungen": ""
+  },
+  "57": {
+    "id": 57,
+    "order": "54.00000000000000000000",
+    "Name": "Bruck",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__57",
+    "Alternative Bezeichnungen": ""
+  },
+  "58": {
+    "id": 58,
+    "order": "55.00000000000000000000",
+    "Name": "Liebenau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__58",
+    "Alternative Bezeichnungen": ""
+  },
+  "59": {
+    "id": 59,
+    "order": "56.00000000000000000000",
+    "Name": "Hainburg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__59",
+    "Alternative Bezeichnungen": ""
+  },
+  "60": {
+    "id": 60,
+    "order": "57.00000000000000000000",
+    "Name": "Hirtenberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__60",
+    "Alternative Bezeichnungen": ""
+  },
+  "61": {
+    "id": 61,
+    "order": "58.00000000000000000000",
+    "Name": "Zillingdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__61",
+    "Alternative Bezeichnungen": ""
+  },
+  "62": {
+    "id": 62,
+    "order": "59.00000000000000000000",
+    "Name": "Innsbruck",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__62",
+    "Alternative Bezeichnungen": ""
+  },
+  "63": {
+    "id": 63,
+    "order": "60.00000000000000000000",
+    "Name": "Berlin",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__63",
+    "Alternative Bezeichnungen": ""
+  },
+  "64": {
+    "id": 64,
+    "order": "61.00000000000000000000",
+    "Name": "Bratislava",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__64",
+    "Alternative Bezeichnungen": "Pressburg"
+  },
+  "65": {
+    "id": 65,
+    "order": "62.00000000000000000000",
+    "Name": "Wiener Neustadt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__65",
+    "Alternative Bezeichnungen": ""
+  },
+  "66": {
+    "id": 66,
+    "order": "63.00000000000000000000",
+    "Name": "Enns",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__66",
+    "Alternative Bezeichnungen": ""
+  },
+  "67": {
+    "id": 67,
+    "order": "64.00000000000000000000",
+    "Name": "Bukowina",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__67",
+    "Alternative Bezeichnungen": ""
+  },
+  "68": {
+    "id": 68,
+    "order": "65.00000000000000000000",
+    "Name": "Schlesien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__68",
+    "Alternative Bezeichnungen": ""
+  },
+  "69": {
+    "id": 69,
+    "order": "66.00000000000000000000",
+    "Name": "Gleisdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__69",
+    "Alternative Bezeichnungen": ""
+  },
+  "70": {
+    "id": 70,
+    "order": "67.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__70",
+    "Alternative Bezeichnungen": ""
   }
 }

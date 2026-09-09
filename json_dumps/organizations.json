@@ -700,5 +700,23 @@
     "Aktiv": false,
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19210830&query=%22Firma+Kola%22&ref=anno-search&seite=11",
     "krp_org_id": "krp_org_id__110"
+  },
+  "143": {
+    "id": 143,
+    "order": "65.00000000000000000000",
+    "Name": "Konstituierende Nationalversammlung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__143"
+  },
+  "144": {
+    "id": 144,
+    "order": "66.00000000000000000000",
+    "Name": "Papierfabriksverband",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__144"
   }
 }
