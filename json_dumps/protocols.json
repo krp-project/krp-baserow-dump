@@ -23,7 +23,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Steno: ein Absatz in Transkription ist nicht in Digitalisaten zu finden",
+    "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "6",
     "steno_trans": [
@@ -38,7 +38,7 @@
     "konzept": true,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "2",
+    "steno_gesamtseitenzahl": "3",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -66,7 +66,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Steno: ein Absatz in Transkription ist nicht in Digitalisaten zu finden\nBeilagen aus ÖStA Daten generiert",
+    "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Nur die Beilagen zu Pkt. 12 und 14 sind im Konvolut vorhanden",
     "kartonnummer": "6",
     "steno_trans": [],
@@ -103,7 +103,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Steno: ein Absatz in Transkription ist nicht in Digitalisaten zu finden",
+    "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": "Streng vertraulicher Anhang",
     "kartonnummer": "6",
     "steno_trans": [],
@@ -173,7 +173,7 @@
     "konzept": false,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "5",
+    "steno_gesamtseitenzahl": "6",
     "str_vertr_anhang_gesamtseitenzahl": "10",
     "str_vertr_anhang_koll": true
   },
@@ -351,7 +351,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "2",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
   },
@@ -1018,22 +1018,28 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "0",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "10",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "gibt Steno, aber sehr kurz - vlt nur zu einzelnen TOPs/Beilagen?; 2. Personalsitzung",
+    "anmerkungen_dokument": "gibt 2 Steno-Seiten & 1. Kurrent-Seite, scheint kein offizielles Steno zu sein, sondern ledigl. Notizen; 2. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "3",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -1190,7 +1196,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Gesetzentwurf wurde transkribiert, Achtung beim Digitalisieren: Steno im Original in der falschen Reihenfolge (Fortsetzung vor Beginn), vier Seiten nicht transkribiert",
+    "anmerkungen_dokument": "Gesetzentwurf wurde transkribiert, Steno S. 5-8 (Entwurf, Notizen) nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_trans": [
@@ -1233,7 +1239,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Konzept müsste nach Transkript vorhanden sein, erste Steno-Seite nicht transkribiert",
+    "anmerkungen_dokument": "Konzept müsste nach Transkript vorhanden sein, Steno S. 1 nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "7",
     "steno_trans": [
@@ -1334,7 +1340,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "6",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -1362,7 +1368,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Zwei Notizseiten abseits des offiziellen Stenos nicht transkribiert",
+    "anmerkungen_dokument": "Zwei Notizseiten (S. 1&2) abseits des offiziellen Stenos nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_trans": [
@@ -1405,7 +1411,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "letzte Stenoseite nicht digitalisiert - kann nicht abgeglichen werden",
+    "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "8",
     "steno_trans": [
@@ -1420,7 +1426,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "4",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -1749,13 +1755,13 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "3",
     "anzahl_beilagen": "11",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "fehlen Steno S. 1, 2 und 7 zu transkribieren",
+    "anmerkungen_dokument": "Erstes & drittes Steno nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_trans": [
@@ -1770,7 +1776,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "7",
+    "steno_gesamtseitenzahl": "8",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -1798,7 +1804,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "2. Seite des 2. Stenos nicht digitalisiert, Achtung auf Reihenfolge der Stenos beim Digitalisieren",
+    "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_trans": [
@@ -1813,7 +1819,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "6",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -1856,7 +1862,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "9",
+    "steno_gesamtseitenzahl": "8",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -1884,7 +1890,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "6. Personalsitzung",
+    "anmerkungen_dokument": "6. Personalsitzung; Steno: Türkis = von IS transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "9",
     "steno_trans": [
@@ -1927,7 +1933,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Doubletten der Beilagen aus KRP 79,80",
+    "anmerkungen_dokument": "Doubletten der Beilagen aus KRP 79,80; Steno: Wilde Sache. Steno A und B vermischt. Türkis: IS trans; Lila: Steno B; Grün: Steno A; Gelb: Unsicherheiten",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_trans": [
@@ -1970,7 +1976,7 @@
       "value": "Renner II (15. März – 17. Oktober 1919)",
       "color": "dark-purple"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "13",
     "docx_done": null,
     "str_vertr_anhang": false,
@@ -2019,7 +2025,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Evt. mehr als 2 Stenos",
+    "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_trans": [
@@ -2111,7 +2117,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Evt. mehr als 2 Stenos",
+    "anmerkungen_dokument": null,
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "10",
     "steno_trans": [
@@ -3727,7 +3733,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "10",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
   },
@@ -3749,7 +3755,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "3",
     "docx_done": null,
     "str_vertr_anhang": false,
@@ -3770,7 +3776,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "12",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -3813,7 +3819,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "24",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -3862,7 +3868,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
   },
@@ -3890,7 +3896,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Str. vertr. Anhang (TOP 6, 14); Steno A übersetzt, B noch nicht; 15. Personalsitzung",
+    "anmerkungen_dokument": "Str. vertr. Anhang (TOP 6, 14); Zweites Steno noch nicht transkribiert; 15. Personalsitzung",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "16",
     "steno_trans": [
@@ -3911,7 +3917,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "22",
+    "steno_gesamtseitenzahl": "19",
     "str_vertr_anhang_gesamtseitenzahl": "7",
     "str_vertr_anhang_koll": true
   },
@@ -3988,7 +3994,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "16. Personalsitzung, Geheimprotokoll (zusätzlich zum Str.geh.Prot.)",
+    "anmerkungen_dokument": "16. Personalsitzung, Geheimprotokoll (zusätzlich zum Str.geh.Prot.); Steno-Zettel (bei Div.Z.) auch transkripiert, aber bei Div.Z abgespeichert",
     "archivalien_nachdigitalisiert": "Geheimprotokoll in Rohdaten, muss extrahiert werden",
     "kartonnummer": "16",
     "steno_trans": [
@@ -4160,14 +4166,14 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Str.vertr.Anhang (TOP 2) nicht digit., nicht im Akt",
+    "anmerkungen_dokument": "Str.vertr.Anhang (TOP 2) nicht digit., nicht im Akt; letztes IMG nicht transkribiert (Anfang Steno B?)",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "17",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [
@@ -4369,7 +4375,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "10",
     "docx_done": null,
     "str_vertr_anhang": true,
@@ -4424,7 +4430,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Steno endet abrupt, dürfte in Originalen (und demnach im Steno) Seiten fehlen",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "18",
     "steno_trans": [
@@ -4461,13 +4467,13 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "3",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Steno A nicht übersetzt",
+    "anmerkungen_dokument": "Steno A fehlt, Steno B hat im Transkript Passagen, die nicht nachvollziehbar sind und endet abrupt",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "18",
     "steno_trans": [
@@ -4482,7 +4488,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "22",
+    "steno_gesamtseitenzahl": "15",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -4531,7 +4537,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -4629,7 +4635,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "32",
+    "steno_gesamtseitenzahl": "31",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -4715,7 +4721,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "12",
+    "steno_gesamtseitenzahl": "13",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -4758,7 +4764,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "22",
+    "steno_gesamtseitenzahl": "23",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -4952,20 +4958,20 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "10",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "Steno A: dürfte in Originalen (und demnach im Steno) Seiten fehlen, Steno B nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "20",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
@@ -5618,7 +5624,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "0",
+    "steno_gesamtseitenzahl": "2",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -5649,7 +5655,13 @@
     "anmerkungen_dokument": "Beilage A und B aus KRP 165 sowie mehrere undeklarierte Beilagen",
     "archivalien_nachdigitalisiert": "Str.vertr.Anh. & normaler Anh. (ohne vertraulich, hier aber als vertraulich verzeichnet (5 Seiten)",
     "kartonnummer": "23",
-    "steno_trans": [],
+    "steno_trans": [
+      {
+        "id": 22602,
+        "value": "Nein",
+        "color": "light-yellow"
+      }
+    ],
     "str_vertr_anhang_trans": [],
     "vertr_anhang_trans": [],
     "konzept": true,
@@ -5677,7 +5689,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "2",
+    "steno_anzahl": "1",
     "anzahl_beilagen": "5",
     "docx_done": null,
     "str_vertr_anhang": false,
@@ -5698,7 +5710,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "6",
+    "steno_gesamtseitenzahl": "5",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -5720,20 +5732,20 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "5",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "bis hier (ab KRP 164) auf jeder Komponente Farbkarte, nicht nur zu Beginn",
+    "anmerkungen_dokument": "bis hier (ab KRP 164) auf jeder Komponente Farbkarte, nicht nur zu Beginn. Steno A nicht transkribiert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "23",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
@@ -5784,7 +5796,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "23",
+    "steno_gesamtseitenzahl": "24",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -5864,7 +5876,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": true,
-    "steno_gesamtseitenzahl": "5",
+    "steno_gesamtseitenzahl": "7",
     "str_vertr_anhang_gesamtseitenzahl": "4",
     "str_vertr_anhang_koll": true
   },
@@ -5972,7 +5984,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 3)",
+    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 3); es dürfte das letzte Blatt von Steno B schon vor der Transkription abhanden gekommen sein",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "23",
     "steno_trans": [
@@ -6273,13 +6285,13 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "2",
+    "steno_anzahl": "3",
     "anzahl_beilagen": "0",
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 3) hat einen Bericht als Beilage; zusätzlich zu 2 Stenos ist eine kurze Steno-Notiz",
+    "anmerkungen_dokument": "Str.vertr.Anh. (TOP 3) hat einen Bericht als Beilage",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [
@@ -6328,7 +6340,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Auszug am Ende der Reinschrift deckt sich mit TOP 5",
+    "anmerkungen_dokument": "Auszug am Ende der Reinschrift deckt sich mit TOP 5; zusätzlich zu 2 Stenos ist eine kurze Steno-Notiz",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [
@@ -6365,7 +6377,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "2",
+    "steno_anzahl": "3",
     "anzahl_beilagen": "0",
     "docx_done": null,
     "str_vertr_anhang": false,
@@ -6414,7 +6426,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": null,
+    "anmerkungen_dokument": "dürften 2 Seiten im Original - und dementsprechend im Transkript - fehlen",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "25",
     "steno_trans": [
@@ -6598,7 +6610,7 @@
     "str_vertr_anhang": true,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "",
+    "anmerkungen_dokument": "letztes IMG [Zusatz zu Steno A] nicht transkribiert ,",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "27",
     "steno_trans": [
@@ -6911,7 +6923,7 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "2",
+    "steno_anzahl": "3",
     "anzahl_beilagen": "11",
     "docx_done": null,
     "str_vertr_anhang": false,
@@ -6922,9 +6934,9 @@
     "kartonnummer": "28",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
@@ -6932,7 +6944,7 @@
     "konzept": true,
     "tagesordnung": true,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "10",
+    "steno_gesamtseitenzahl": "11",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },
@@ -6997,20 +7009,20 @@
       "value": "Renner III (17. Oktober 1919 – 7. Juli 1920)",
       "color": "light-blue"
     },
-    "steno_anzahl": "1",
+    "steno_anzahl": "2",
     "anzahl_beilagen": "9",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Anhang (nicht str. vertr.)) und Personalanträge",
+    "anmerkungen_dokument": "Anhang (nicht str. vertr.)) und Personalanträge; Steno B nicht transkriibert",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "28",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
@@ -7046,14 +7058,14 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Präsenzliste",
+    "anmerkungen_dokument": "Präsenzliste;  Steno B nicht transkribiert; Übersetzung von A potenziell fehlerhaft",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "29",
     "steno_trans": [
       {
-        "id": 22601,
-        "value": "Ja",
-        "color": "red"
+        "id": 22603,
+        "value": "Fragmentarisch",
+        "color": "deep-dark-orange"
       }
     ],
     "str_vertr_anhang_trans": [],
@@ -7089,7 +7101,7 @@
     "str_vertr_anhang": false,
     "vertr_anhang": false,
     "reinschrift": true,
-    "anmerkungen_dokument": "Präsenzliste sowie Beilage über die Instruktionen zur Abgrenzungskommission\n\nSteno A ist transkribiert, Steno B nicht",
+    "anmerkungen_dokument": "Präsenzliste sowie Beilage über die Instruktionen zur Abgrenzungskommission;  Steno B nicht transkribiert; Übersetzung von A potenziell fehlerhaft",
     "archivalien_nachdigitalisiert": null,
     "kartonnummer": "29",
     "steno_trans": [
@@ -7104,7 +7116,7 @@
     "konzept": true,
     "tagesordnung": false,
     "digitalisat_komplett": false,
-    "steno_gesamtseitenzahl": "5",
+    "steno_gesamtseitenzahl": "4",
     "str_vertr_anhang_gesamtseitenzahl": null,
     "str_vertr_anhang_koll": false
   },

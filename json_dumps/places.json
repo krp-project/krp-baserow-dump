@@ -15,7 +15,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__2",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": "Deutschösterreich"
   },
   "3": {
     "id": 3,
@@ -506,7 +506,7 @@
   "59": {
     "id": 59,
     "order": "56.00000000000000000000",
-    "Name": "Hainburg",
+    "Name": "Hainburg an der Donau",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__59",
@@ -605,10 +605,1315 @@
   "70": {
     "id": 70,
     "order": "67.00000000000000000000",
-    "Name": "",
+    "Name": "Weiz",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__70",
+    "Alternative Bezeichnungen": ""
+  },
+  "71": {
+    "id": 71,
+    "order": "68.00000000000000000000",
+    "Name": "Loipersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__71",
+    "Alternative Bezeichnungen": ""
+  },
+  "72": {
+    "id": 72,
+    "order": "69.00000000000000000000",
+    "Name": "Völlerndorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__72",
+    "Alternative Bezeichnungen": ""
+  },
+  "73": {
+    "id": 73,
+    "order": "70.00000000000000000000",
+    "Name": "Gerersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__73",
+    "Alternative Bezeichnungen": ""
+  },
+  "74": {
+    "id": 74,
+    "order": "71.00000000000000000000",
+    "Name": "Südsteiermark",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__74",
+    "Alternative Bezeichnungen": ""
+  },
+  "75": {
+    "id": 75,
+    "order": "72.00000000000000000000",
+    "Name": "Ljubljana",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__75",
+    "Alternative Bezeichnungen": "Laibach"
+  },
+  "76": {
+    "id": 76,
+    "order": "73.00000000000000000000",
+    "Name": "Bukarest",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__76",
+    "Alternative Bezeichnungen": ""
+  },
+  "77": {
+    "id": 77,
+    "order": "74.00000000000000000000",
+    "Name": "Groß-Enzersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__77",
+    "Alternative Bezeichnungen": ""
+  },
+  "78": {
+    "id": 78,
+    "order": "75.00000000000000000000",
+    "Name": "Argentinien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__78",
+    "Alternative Bezeichnungen": ""
+  },
+  "79": {
+    "id": 79,
+    "order": "76.00000000000000000000",
+    "Name": "Polen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__79",
+    "Alternative Bezeichnungen": ""
+  },
+  "80": {
+    "id": 80,
+    "order": "77.00000000000000000000",
+    "Name": "London",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__80",
+    "Alternative Bezeichnungen": ""
+  },
+  "82": {
+    "id": 82,
+    "order": "79.00000000000000000000",
+    "Name": "Bern",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__82",
+    "Alternative Bezeichnungen": ""
+  },
+  "83": {
+    "id": 83,
+    "order": "80.00000000000000000000",
+    "Name": "Hohenberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__83",
+    "Alternative Bezeichnungen": ""
+  },
+  "84": {
+    "id": 84,
+    "order": "81.00000000000000000000",
+    "Name": "Traisen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__84",
+    "Alternative Bezeichnungen": ""
+  },
+  "85": {
+    "id": 85,
+    "order": "82.00000000000000000000",
+    "Name": "Mödling",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__85",
+    "Alternative Bezeichnungen": ""
+  },
+  "86": {
+    "id": 86,
+    "order": "83.00000000000000000000",
+    "Name": "Tulln",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__86",
+    "Alternative Bezeichnungen": ""
+  },
+  "87": {
+    "id": 87,
+    "order": "84.00000000000000000000",
+    "Name": "Mautern",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__87",
+    "Alternative Bezeichnungen": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "85.00000000000000000000",
+    "Name": "Stein an der Donau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__88",
+    "Alternative Bezeichnungen": ""
+  },
+  "89": {
+    "id": 89,
+    "order": "86.00000000000000000000",
+    "Name": "Vitis",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__89",
+    "Alternative Bezeichnungen": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "87.00000000000000000000",
+    "Name": "Kaltenbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__90",
+    "Alternative Bezeichnungen": ""
+  },
+  "91": {
+    "id": 91,
+    "order": "88.00000000000000000000",
+    "Name": "Schachersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__91",
+    "Alternative Bezeichnungen": ""
+  },
+  "92": {
+    "id": 92,
+    "order": "89.00000000000000000000",
+    "Name": "Schobersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__92",
+    "Alternative Bezeichnungen": ""
+  },
+  "93": {
+    "id": 93,
+    "order": "90.00000000000000000000",
+    "Name": "Triest",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__93",
+    "Alternative Bezeichnungen": ""
+  },
+  "94": {
+    "id": 94,
+    "order": "91.00000000000000000000",
+    "Name": "Lilienfeld",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__94",
+    "Alternative Bezeichnungen": ""
+  },
+  "95": {
+    "id": 95,
+    "order": "92.00000000000000000000",
+    "Name": "Schweigers",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__95",
+    "Alternative Bezeichnungen": ""
+  },
+  "96": {
+    "id": 96,
+    "order": "93.00000000000000000000",
+    "Name": "Oberstrahlbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__96",
+    "Alternative Bezeichnungen": ""
+  },
+  "97": {
+    "id": 97,
+    "order": "94.00000000000000000000",
+    "Name": "Finnland",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__97",
+    "Alternative Bezeichnungen": ""
+  },
+  "98": {
+    "id": 98,
+    "order": "95.00000000000000000000",
+    "Name": "Thenneberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__98",
+    "Alternative Bezeichnungen": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "96.00000000000000000000",
+    "Name": "Petzelsberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__99",
+    "Alternative Bezeichnungen": ""
+  },
+  "100": {
+    "id": 100,
+    "order": "97.00000000000000000000",
+    "Name": "Etzen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__100",
+    "Alternative Bezeichnungen": ""
+  },
+  "101": {
+    "id": 101,
+    "order": "98.00000000000000000000",
+    "Name": "Waidhofen an der Thaya",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__101",
+    "Alternative Bezeichnungen": ""
+  },
+  "102": {
+    "id": 102,
+    "order": "99.00000000000000000000",
+    "Name": "Natschbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__102",
+    "Alternative Bezeichnungen": ""
+  },
+  "103": {
+    "id": 103,
+    "order": "100.00000000000000000000",
+    "Name": "Muckendorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__103",
+    "Alternative Bezeichnungen": ""
+  },
+  "104": {
+    "id": 104,
+    "order": "101.00000000000000000000",
+    "Name": "Posselsdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__104",
+    "Alternative Bezeichnungen": ""
+  },
+  "105": {
+    "id": 105,
+    "order": "102.00000000000000000000",
+    "Name": "Sittendorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__105",
+    "Alternative Bezeichnungen": ""
+  },
+  "106": {
+    "id": 106,
+    "order": "103.00000000000000000000",
+    "Name": "Reidlingberg-Pyrafeld",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__106",
+    "Alternative Bezeichnungen": ""
+  },
+  "107": {
+    "id": 107,
+    "order": "104.00000000000000000000",
+    "Name": "Gopprechts",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__107",
+    "Alternative Bezeichnungen": ""
+  },
+  "108": {
+    "id": 108,
+    "order": "105.00000000000000000000",
+    "Name": "Walkenstein",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__108",
+    "Alternative Bezeichnungen": ""
+  },
+  "109": {
+    "id": 109,
+    "order": "106.00000000000000000000",
+    "Name": "Unter-Waltersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__109",
+    "Alternative Bezeichnungen": ""
+  },
+  "110": {
+    "id": 110,
+    "order": "107.00000000000000000000",
+    "Name": "Ungerbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__110",
+    "Alternative Bezeichnungen": ""
+  },
+  "111": {
+    "id": 111,
+    "order": "108.00000000000000000000",
+    "Name": "Fiecht",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__111",
+    "Alternative Bezeichnungen": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "109.00000000000000000000",
+    "Name": "Wels",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__112",
+    "Alternative Bezeichnungen": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "110.00000000000000000000",
+    "Name": "Kirchberg am Wechsel",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__113",
+    "Alternative Bezeichnungen": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "111.00000000000000000000",
+    "Name": "Zürich (Kanton)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__114",
+    "Alternative Bezeichnungen": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "112.00000000000000000000",
+    "Name": "Bregenz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__115",
+    "Alternative Bezeichnungen": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "113.00000000000000000000",
+    "Name": "St. Gallen (Stadt)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__116",
+    "Alternative Bezeichnungen": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "114.00000000000000000000",
+    "Name": "Zürich (Stadt)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__117",
+    "Alternative Bezeichnungen": ""
+  },
+  "118": {
+    "id": 118,
+    "order": "115.00000000000000000000",
+    "Name": "St. Gallen (Kanton)",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__118",
+    "Alternative Bezeichnungen": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "116.00000000000000000000",
+    "Name": "Stainach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__119",
+    "Alternative Bezeichnungen": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "117.00000000000000000000",
+    "Name": "Irdning",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__120",
+    "Alternative Bezeichnungen": ""
+  },
+  "121": {
+    "id": 121,
+    "order": "118.00000000000000000000",
+    "Name": "Attnang-Puchheim",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__121",
+    "Alternative Bezeichnungen": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "119.00000000000000000000",
+    "Name": "Jugoslawien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__122",
+    "Alternative Bezeichnungen": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "120.00000000000000000000",
+    "Name": "Krakau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__123",
+    "Alternative Bezeichnungen": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "121.00000000000000000000",
+    "Name": "Reitzenschlag",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__124",
+    "Alternative Bezeichnungen": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "122.00000000000000000000",
+    "Name": "Polnisch-Galizien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__125",
+    "Alternative Bezeichnungen": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "123.00000000000000000000",
+    "Name": "Waidhofen an der Ybbs",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__126",
+    "Alternative Bezeichnungen": ""
+  },
+  "128": {
+    "id": 128,
+    "order": "124.00000000000000000000",
+    "Name": "St. Josef bei Stainz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__128",
+    "Alternative Bezeichnungen": ""
+  },
+  "129": {
+    "id": 129,
+    "order": "125.00000000000000000000",
+    "Name": "Währing",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__129",
+    "Alternative Bezeichnungen": ""
+  },
+  "130": {
+    "id": 130,
+    "order": "126.00000000000000000000",
+    "Name": "Elsern",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__130",
+    "Alternative Bezeichnungen": ""
+  },
+  "131": {
+    "id": 131,
+    "order": "127.00000000000000000000",
+    "Name": "Ulrichs",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__131",
+    "Alternative Bezeichnungen": ""
+  },
+  "132": {
+    "id": 132,
+    "order": "128.00000000000000000000",
+    "Name": "Oberhöflein",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__132",
+    "Alternative Bezeichnungen": ""
+  },
+  "133": {
+    "id": 133,
+    "order": "129.00000000000000000000",
+    "Name": "Hagenberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__133",
+    "Alternative Bezeichnungen": ""
+  },
+  "134": {
+    "id": 134,
+    "order": "130.00000000000000000000",
+    "Name": "Kainraths",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__134",
+    "Alternative Bezeichnungen": ""
+  },
+  "135": {
+    "id": 135,
+    "order": "131.00000000000000000000",
+    "Name": "Lembach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__135",
+    "Alternative Bezeichnungen": ""
+  },
+  "136": {
+    "id": 136,
+    "order": "132.00000000000000000000",
+    "Name": "Staasdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__136",
+    "Alternative Bezeichnungen": ""
+  },
+  "137": {
+    "id": 137,
+    "order": "133.00000000000000000000",
+    "Name": "Lauterbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__137",
+    "Alternative Bezeichnungen": ""
+  },
+  "138": {
+    "id": 138,
+    "order": "134.00000000000000000000",
+    "Name": "Siebenhöf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__138",
+    "Alternative Bezeichnungen": ""
+  },
+  "139": {
+    "id": 139,
+    "order": "135.00000000000000000000",
+    "Name": "Heinrichs",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__139",
+    "Alternative Bezeichnungen": ""
+  },
+  "140": {
+    "id": 140,
+    "order": "136.00000000000000000000",
+    "Name": "St. Valentin-Landschach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__140",
+    "Alternative Bezeichnungen": ""
+  },
+  "141": {
+    "id": 141,
+    "order": "137.00000000000000000000",
+    "Name": "Goggitsch",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__141",
+    "Alternative Bezeichnungen": ""
+  },
+  "142": {
+    "id": 142,
+    "order": "138.00000000000000000000",
+    "Name": "Maigen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__142",
+    "Alternative Bezeichnungen": ""
+  },
+  "143": {
+    "id": 143,
+    "order": "139.00000000000000000000",
+    "Name": "Hippersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__143",
+    "Alternative Bezeichnungen": ""
+  },
+  "144": {
+    "id": 144,
+    "order": "140.00000000000000000000",
+    "Name": "St. Johann am Steinfelde",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__144",
+    "Alternative Bezeichnungen": ""
+  },
+  "145": {
+    "id": 145,
+    "order": "141.00000000000000000000",
+    "Name": "Paudorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__145",
+    "Alternative Bezeichnungen": ""
+  },
+  "146": {
+    "id": 146,
+    "order": "142.00000000000000000000",
+    "Name": "Klein-Burgstall",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__146",
+    "Alternative Bezeichnungen": ""
+  },
+  "147": {
+    "id": 147,
+    "order": "143.00000000000000000000",
+    "Name": "Raach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__147",
+    "Alternative Bezeichnungen": ""
+  },
+  "148": {
+    "id": 148,
+    "order": "144.00000000000000000000",
+    "Name": "Rodingersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__148",
+    "Alternative Bezeichnungen": ""
+  },
+  "149": {
+    "id": 149,
+    "order": "145.00000000000000000000",
+    "Name": "Eschenau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__149",
+    "Alternative Bezeichnungen": ""
+  },
+  "150": {
+    "id": 150,
+    "order": "146.00000000000000000000",
+    "Name": "Thumritz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__150",
+    "Alternative Bezeichnungen": ""
+  },
+  "151": {
+    "id": 151,
+    "order": "147.00000000000000000000",
+    "Name": "Ulrichskirchen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__151",
+    "Alternative Bezeichnungen": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "148.00000000000000000000",
+    "Name": "Pernegg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__152",
+    "Alternative Bezeichnungen": ""
+  },
+  "153": {
+    "id": 153,
+    "order": "149.00000000000000000000",
+    "Name": "Feistritz am Wechsel",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__153",
+    "Alternative Bezeichnungen": ""
+  },
+  "154": {
+    "id": 154,
+    "order": "150.00000000000000000000",
+    "Name": "Sallapulka",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__154",
+    "Alternative Bezeichnungen": ""
+  },
+  "155": {
+    "id": 155,
+    "order": "151.00000000000000000000",
+    "Name": "Göstling",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__155",
+    "Alternative Bezeichnungen": ""
+  },
+  "156": {
+    "id": 156,
+    "order": "152.00000000000000000000",
+    "Name": "Matzelsdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__156",
+    "Alternative Bezeichnungen": ""
+  },
+  "157": {
+    "id": 157,
+    "order": "153.00000000000000000000",
+    "Name": "Albrechtsberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__157",
+    "Alternative Bezeichnungen": ""
+  },
+  "158": {
+    "id": 158,
+    "order": "154.00000000000000000000",
+    "Name": "Nödersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__158",
+    "Alternative Bezeichnungen": ""
+  },
+  "159": {
+    "id": 159,
+    "order": "155.00000000000000000000",
+    "Name": "Preßburg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__159",
+    "Alternative Bezeichnungen": ""
+  },
+  "160": {
+    "id": 160,
+    "order": "156.00000000000000000000",
+    "Name": "Niederleis",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__160",
+    "Alternative Bezeichnungen": ""
+  },
+  "161": {
+    "id": 161,
+    "order": "157.00000000000000000000",
+    "Name": "Amerika",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__161",
+    "Alternative Bezeichnungen": ""
+  },
+  "162": {
+    "id": 162,
+    "order": "158.00000000000000000000",
+    "Name": "Diesendorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__162",
+    "Alternative Bezeichnungen": ""
+  },
+  "163": {
+    "id": 163,
+    "order": "159.00000000000000000000",
+    "Name": "Gloggnitz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__163",
+    "Alternative Bezeichnungen": ""
+  },
+  "164": {
+    "id": 164,
+    "order": "160.00000000000000000000",
+    "Name": "Asperhofen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__164",
+    "Alternative Bezeichnungen": ""
+  },
+  "165": {
+    "id": 165,
+    "order": "161.00000000000000000000",
+    "Name": "Neunkirchen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__165",
+    "Alternative Bezeichnungen": ""
+  },
+  "166": {
+    "id": 166,
+    "order": "162.00000000000000000000",
+    "Name": "Ternitz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__166",
+    "Alternative Bezeichnungen": ""
+  },
+  "167": {
+    "id": 167,
+    "order": "163.00000000000000000000",
+    "Name": "Melk",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__167",
+    "Alternative Bezeichnungen": ""
+  },
+  "168": {
+    "id": 168,
+    "order": "164.00000000000000000000",
+    "Name": "Laa an der Thai",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__168",
+    "Alternative Bezeichnungen": ""
+  },
+  "169": {
+    "id": 169,
+    "order": "165.00000000000000000000",
+    "Name": "Stockerau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__169",
+    "Alternative Bezeichnungen": ""
+  },
+  "170": {
+    "id": 170,
+    "order": "166.00000000000000000000",
+    "Name": "Ybbs an der Donau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__170",
+    "Alternative Bezeichnungen": ""
+  },
+  "171": {
+    "id": 171,
+    "order": "167.00000000000000000000",
+    "Name": "Danöfen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__171",
+    "Alternative Bezeichnungen": ""
+  },
+  "172": {
+    "id": 172,
+    "order": "168.00000000000000000000",
+    "Name": "Hettmannsdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__172",
+    "Alternative Bezeichnungen": ""
+  },
+  "173": {
+    "id": 173,
+    "order": "169.00000000000000000000",
+    "Name": "Türnitz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__173",
+    "Alternative Bezeichnungen": ""
+  },
+  "174": {
+    "id": 174,
+    "order": "170.00000000000000000000",
+    "Name": "Thomasberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__174",
+    "Alternative Bezeichnungen": ""
+  },
+  "175": {
+    "id": 175,
+    "order": "171.00000000000000000000",
+    "Name": "Michelhausen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__175",
+    "Alternative Bezeichnungen": ""
+  },
+  "176": {
+    "id": 176,
+    "order": "172.00000000000000000000",
+    "Name": "Wolfsberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__176",
+    "Alternative Bezeichnungen": ""
+  },
+  "177": {
+    "id": 177,
+    "order": "173.00000000000000000000",
+    "Name": "Reichaueramt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__177",
+    "Alternative Bezeichnungen": ""
+  },
+  "178": {
+    "id": 178,
+    "order": "174.00000000000000000000",
+    "Name": "Oberkirchen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__178",
+    "Alternative Bezeichnungen": ""
+  },
+  "179": {
+    "id": 179,
+    "order": "175.00000000000000000000",
+    "Name": "Bogenneusiedl-Streifing",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__179",
+    "Alternative Bezeichnungen": ""
+  },
+  "180": {
+    "id": 180,
+    "order": "176.00000000000000000000",
+    "Name": "Neueigen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__180",
+    "Alternative Bezeichnungen": ""
+  },
+  "181": {
+    "id": 181,
+    "order": "177.00000000000000000000",
+    "Name": "Willendorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__181",
+    "Alternative Bezeichnungen": ""
+  },
+  "182": {
+    "id": 182,
+    "order": "178.00000000000000000000",
+    "Name": "Göttlich",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__182",
+    "Alternative Bezeichnungen": ""
+  },
+  "183": {
+    "id": 183,
+    "order": "179.00000000000000000000",
+    "Name": "Kottingbrunn",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__183",
+    "Alternative Bezeichnungen": ""
+  },
+  "184": {
+    "id": 184,
+    "order": "180.00000000000000000000",
+    "Name": "Stiefern",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__184",
+    "Alternative Bezeichnungen": ""
+  },
+  "185": {
+    "id": 185,
+    "order": "181.00000000000000000000",
+    "Name": "Ebenfurth",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__185",
+    "Alternative Bezeichnungen": ""
+  },
+  "186": {
+    "id": 186,
+    "order": "182.00000000000000000000",
+    "Name": "Sollenau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__186",
+    "Alternative Bezeichnungen": ""
+  },
+  "187": {
+    "id": 187,
+    "order": "183.00000000000000000000",
+    "Name": "Schwarzach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__187",
+    "Alternative Bezeichnungen": ""
+  },
+  "188": {
+    "id": 188,
+    "order": "184.00000000000000000000",
+    "Name": "Hautzendorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__188",
+    "Alternative Bezeichnungen": ""
+  },
+  "189": {
+    "id": 189,
+    "order": "185.00000000000000000000",
+    "Name": "St. Veit",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__189",
+    "Alternative Bezeichnungen": ""
+  },
+  "190": {
+    "id": 190,
+    "order": "186.00000000000000000000",
+    "Name": "Maria-Enzersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__190",
+    "Alternative Bezeichnungen": ""
+  },
+  "191": {
+    "id": 191,
+    "order": "187.00000000000000000000",
+    "Name": "Wörgl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__191",
+    "Alternative Bezeichnungen": ""
+  },
+  "192": {
+    "id": 192,
+    "order": "188.00000000000000000000",
+    "Name": "Hinterbrühl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__192",
+    "Alternative Bezeichnungen": ""
+  },
+  "193": {
+    "id": 193,
+    "order": "189.00000000000000000000",
+    "Name": "Möllersdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__193",
+    "Alternative Bezeichnungen": ""
+  },
+  "194": {
+    "id": 194,
+    "order": "190.00000000000000000000",
+    "Name": "Villach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__194",
+    "Alternative Bezeichnungen": ""
+  },
+  "195": {
+    "id": 195,
+    "order": "191.00000000000000000000",
+    "Name": "Oftering",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__195",
+    "Alternative Bezeichnungen": ""
+  },
+  "196": {
+    "id": 196,
+    "order": "192.00000000000000000000",
+    "Name": "Steinach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__196",
+    "Alternative Bezeichnungen": ""
+  },
+  "197": {
+    "id": 197,
+    "order": "193.00000000000000000000",
+    "Name": "Buchkirchen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__197",
+    "Alternative Bezeichnungen": ""
+  },
+  "198": {
+    "id": 198,
+    "order": "194.00000000000000000000",
+    "Name": "Attnang-Puchheim",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__198",
+    "Alternative Bezeichnungen": ""
+  },
+  "199": {
+    "id": 199,
+    "order": "195.00000000000000000000",
+    "Name": "Leoben",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__199",
+    "Alternative Bezeichnungen": ""
+  },
+  "200": {
+    "id": 200,
+    "order": "196.00000000000000000000",
+    "Name": "Senftenberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__200",
+    "Alternative Bezeichnungen": ""
+  },
+  "201": {
+    "id": 201,
+    "order": "197.00000000000000000000",
+    "Name": "Oberkreuzstetten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__201",
+    "Alternative Bezeichnungen": ""
+  },
+  "203": {
+    "id": 203,
+    "order": "199.00000000000000000000",
+    "Name": "Gainfarn",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__203",
+    "Alternative Bezeichnungen": ""
+  },
+  "204": {
+    "id": 204,
+    "order": "200.00000000000000000000",
+    "Name": "Alt-Weitra",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__204",
+    "Alternative Bezeichnungen": ""
+  },
+  "205": {
+    "id": 205,
+    "order": "201.00000000000000000000",
+    "Name": "Wagram an der Donau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__205",
+    "Alternative Bezeichnungen": ""
+  },
+  "206": {
+    "id": 206,
+    "order": "202.00000000000000000000",
+    "Name": "Enzersfeld",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__206",
+    "Alternative Bezeichnungen": ""
+  },
+  "207": {
+    "id": 207,
+    "order": "203.00000000000000000000",
+    "Name": "Feldberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__207",
+    "Alternative Bezeichnungen": ""
+  },
+  "208": {
+    "id": 208,
+    "order": "204.00000000000000000000",
+    "Name": "Dorfstetten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__208",
+    "Alternative Bezeichnungen": ""
+  },
+  "209": {
+    "id": 209,
+    "order": "205.00000000000000000000",
+    "Name": "Schagges",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__209",
+    "Alternative Bezeichnungen": ""
+  },
+  "210": {
+    "id": 210,
+    "order": "206.00000000000000000000",
+    "Name": "Klausen-Leopoldsdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__210",
+    "Alternative Bezeichnungen": ""
+  },
+  "211": {
+    "id": 211,
+    "order": "207.00000000000000000000",
+    "Name": "Hohenems",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__211",
+    "Alternative Bezeichnungen": ""
+  },
+  "212": {
+    "id": 212,
+    "order": "208.00000000000000000000",
+    "Name": "Mäder",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__212",
+    "Alternative Bezeichnungen": ""
+  },
+  "213": {
+    "id": 213,
+    "order": "209.00000000000000000000",
+    "Name": "Altach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__213",
+    "Alternative Bezeichnungen": ""
+  },
+  "214": {
+    "id": 214,
+    "order": "210.00000000000000000000",
+    "Name": "Götzis",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__214",
+    "Alternative Bezeichnungen": ""
+  },
+  "215": {
+    "id": 215,
+    "order": "211.00000000000000000000",
+    "Name": "Schwaz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__215",
+    "Alternative Bezeichnungen": ""
+  },
+  "216": {
+    "id": 216,
+    "order": "212.00000000000000000000",
+    "Name": "Bezirk [Bezirk]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__216",
+    "Alternative Bezeichnungen": ""
+  },
+  "217": {
+    "id": 217,
+    "order": "213.00000000000000000000",
+    "Name": "Mank",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__217",
+    "Alternative Bezeichnungen": ""
+  },
+  "218": {
+    "id": 218,
+    "order": "214.00000000000000000000",
+    "Name": "Scheibbs",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__218",
     "Alternative Bezeichnungen": ""
   }
 }

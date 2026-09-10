@@ -718,5 +718,32 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__144"
+  },
+  "145": {
+    "id": 145,
+    "order": "67.00000000000000000000",
+    "Name": "Ankerbrotfabrik Mendl",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__145"
+  },
+  "146": {
+    "id": 146,
+    "order": "68.00000000000000000000",
+    "Name": "Czernowitzer Universität",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__146"
+  },
+  "147": {
+    "id": 147,
+    "order": "69.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__147"
   }
 }
