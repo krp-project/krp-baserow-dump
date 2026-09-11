@@ -1915,5 +1915,23 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__218",
     "Alternative Bezeichnungen": ""
+  },
+  "249": {
+    "id": 249,
+    "order": "215.00000000000000000000",
+    "Name": "Rom",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__249",
+    "Alternative Bezeichnungen": ""
+  },
+  "250": {
+    "id": 250,
+    "order": "216.00000000000000000000",
+    "Name": "Vatikan",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__250",
+    "Alternative Bezeichnungen": ""
   }
 }

@@ -5743,5 +5743,35 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": ""
+  },
+  "696": {
+    "id": 696,
+    "order": "352.00000000000000000000",
+    "label": "Zedtwitz",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__696",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": ""
+  },
+  "697": {
+    "id": 697,
+    "order": "353.00000000000000000000",
+    "label": "",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__697",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": ""
   }
 }

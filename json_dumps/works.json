@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "",
+    "Name": "Tschechoslowakische Verfassung",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_work_id": "krp_work_id__1"
@@ -10,9 +10,17 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
+    "Name": "Vertrag von St. Germain",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_work_id": "krp_work_id__2"
+  },
+  "34": {
+    "id": 34,
+    "order": "3.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_work_id": "krp_work_id__34"
   }
 }
