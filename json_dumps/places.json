@@ -71,6 +71,15 @@
     "krp_place_id": "krp_place_id__8",
     "Alternative Bezeichnungen": null
   },
+  "258": {
+    "id": 258,
+    "order": "8.50000000000000000000",
+    "Name": "Klein-Eberhard",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__258",
+    "Alternative Bezeichnungen": ""
+  },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
@@ -78,7 +87,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__9",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": "Jugoslawien"
   },
   "13": {
     "id": 13,
@@ -123,6 +132,15 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__14",
+    "Alternative Bezeichnungen": ""
+  },
+  "251": {
+    "id": 251,
+    "order": "13.50000000000000000000",
+    "Name": "Westukrainische Volksrepublik",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__251",
     "Alternative Bezeichnungen": ""
   },
   "15": {
@@ -386,6 +404,15 @@
     "krp_place_id": "krp_place_id__44",
     "Alternative Bezeichnungen": ""
   },
+  "284": {
+    "id": 284,
+    "order": "41.50000000000000000000",
+    "Name": "Bischofshofen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__284",
+    "Alternative Bezeichnungen": ""
+  },
   "45": {
     "id": 45,
     "order": "42.00000000000000000000",
@@ -456,6 +483,15 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__53",
+    "Alternative Bezeichnungen": ""
+  },
+  "259": {
+    "id": 259,
+    "order": "50.50000000000000000000",
+    "Name": "Jarolden",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__259",
     "Alternative Bezeichnungen": ""
   },
   "54": {
@@ -890,6 +926,15 @@
     "krp_place_id": "krp_place_id__102",
     "Alternative Bezeichnungen": ""
   },
+  "254": {
+    "id": 254,
+    "order": "99.50000000000000000000",
+    "Name": "München",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__254",
+    "Alternative Bezeichnungen": ""
+  },
   "103": {
     "id": 103,
     "order": "100.00000000000000000000",
@@ -1185,6 +1230,15 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__136",
+    "Alternative Bezeichnungen": ""
+  },
+  "257": {
+    "id": 257,
+    "order": "132.50000000000000000000",
+    "Name": "Laxenburg [Schloss]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__257",
     "Alternative Bezeichnungen": ""
   },
   "137": {
@@ -1637,6 +1691,15 @@
     "krp_place_id": "krp_place_id__186",
     "Alternative Bezeichnungen": ""
   },
+  "255": {
+    "id": 255,
+    "order": "182.50000000000000000000",
+    "Name": "Schönnbrunn [Schloss]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__255",
+    "Alternative Bezeichnungen": ""
+  },
   "187": {
     "id": 187,
     "order": "183.00000000000000000000",
@@ -1682,6 +1745,15 @@
     "krp_place_id": "krp_place_id__191",
     "Alternative Bezeichnungen": ""
   },
+  "256": {
+    "id": 256,
+    "order": "187.50000000000000000000",
+    "Name": "Hetzendorf [Schloss]",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__256",
+    "Alternative Bezeichnungen": ""
+  },
   "192": {
     "id": 192,
     "order": "188.00000000000000000000",
@@ -1689,6 +1761,15 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__192",
+    "Alternative Bezeichnungen": ""
+  },
+  "265": {
+    "id": 265,
+    "order": "188.50000000000000000000",
+    "Name": "Mollzegg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__265",
     "Alternative Bezeichnungen": ""
   },
   "193": {
@@ -1734,15 +1815,6 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__197",
-    "Alternative Bezeichnungen": ""
-  },
-  "198": {
-    "id": 198,
-    "order": "194.00000000000000000000",
-    "Name": "Attnang-Puchheim",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "krp_place_id": "krp_place_id__198",
     "Alternative Bezeichnungen": ""
   },
   "199": {
@@ -1932,6 +2004,231 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__250",
+    "Alternative Bezeichnungen": ""
+  },
+  "252": {
+    "id": 252,
+    "order": "217.00000000000000000000",
+    "Name": "Galizien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__252",
+    "Alternative Bezeichnungen": ""
+  },
+  "283": {
+    "id": 283,
+    "order": "217.50000000000000000000",
+    "Name": "Mühldorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__283",
+    "Alternative Bezeichnungen": ""
+  },
+  "253": {
+    "id": 253,
+    "order": "218.00000000000000000000",
+    "Name": "Münchner Räterpublik",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__253",
+    "Alternative Bezeichnungen": ""
+  },
+  "260": {
+    "id": 260,
+    "order": "219.00000000000000000000",
+    "Name": "Schrattenbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__260",
+    "Alternative Bezeichnungen": ""
+  },
+  "261": {
+    "id": 261,
+    "order": "220.00000000000000000000",
+    "Name": "Kirchberg am Wechsel",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__261",
+    "Alternative Bezeichnungen": ""
+  },
+  "262": {
+    "id": 262,
+    "order": "221.00000000000000000000",
+    "Name": "Trattenbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__262",
+    "Alternative Bezeichnungen": ""
+  },
+  "263": {
+    "id": 263,
+    "order": "222.00000000000000000000",
+    "Name": "Ottertal",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__263",
+    "Alternative Bezeichnungen": ""
+  },
+  "264": {
+    "id": 264,
+    "order": "223.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__264",
+    "Alternative Bezeichnungen": ""
+  },
+  "266": {
+    "id": 266,
+    "order": "224.00000000000000000000",
+    "Name": "Freistritz am Weichsel",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__266",
+    "Alternative Bezeichnungen": ""
+  },
+  "267": {
+    "id": 267,
+    "order": "225.00000000000000000000",
+    "Name": "St. Peter am Neuwald",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__267",
+    "Alternative Bezeichnungen": ""
+  },
+  "268": {
+    "id": 268,
+    "order": "226.00000000000000000000",
+    "Name": "Mariensee",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__268",
+    "Alternative Bezeichnungen": ""
+  },
+  "269": {
+    "id": 269,
+    "order": "227.00000000000000000000",
+    "Name": "Amt Aspang",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__269",
+    "Alternative Bezeichnungen": ""
+  },
+  "270": {
+    "id": 270,
+    "order": "228.00000000000000000000",
+    "Name": "Feichsen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__270",
+    "Alternative Bezeichnungen": ""
+  },
+  "271": {
+    "id": 271,
+    "order": "229.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__271",
+    "Alternative Bezeichnungen": ""
+  },
+  "272": {
+    "id": 272,
+    "order": "230.00000000000000000000",
+    "Name": "Purgstall",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__272",
+    "Alternative Bezeichnungen": ""
+  },
+  "273": {
+    "id": 273,
+    "order": "231.00000000000000000000",
+    "Name": "Süßenbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__273",
+    "Alternative Bezeichnungen": ""
+  },
+  "274": {
+    "id": 274,
+    "order": "232.00000000000000000000",
+    "Name": "Limbach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__274",
+    "Alternative Bezeichnungen": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "233.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__275",
+    "Alternative Bezeichnungen": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "234.00000000000000000000",
+    "Name": "Obermillstatt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__276",
+    "Alternative Bezeichnungen": ""
+  },
+  "277": {
+    "id": 277,
+    "order": "235.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__277",
+    "Alternative Bezeichnungen": ""
+  },
+  "278": {
+    "id": 278,
+    "order": "236.00000000000000000000",
+    "Name": "Görtschach-Förolach",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__278",
+    "Alternative Bezeichnungen": ""
+  },
+  "279": {
+    "id": 279,
+    "order": "237.00000000000000000000",
+    "Name": "Gnesau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__279",
+    "Alternative Bezeichnungen": ""
+  },
+  "280": {
+    "id": 280,
+    "order": "238.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__280",
+    "Alternative Bezeichnungen": ""
+  },
+  "281": {
+    "id": 281,
+    "order": "239.00000000000000000000",
+    "Name": "Zedtlitzdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__281",
+    "Alternative Bezeichnungen": ""
+  },
+  "282": {
+    "id": 282,
+    "order": "240.00000000000000000000",
+    "Name": "Patergassen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__282",
     "Alternative Bezeichnungen": ""
   }
 }
