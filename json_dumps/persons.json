@@ -5687,17 +5687,17 @@
   "597": {
     "id": 597,
     "order": "348.00000000000000000000",
-    "label": "",
+    "label": "Schraffl, Josef",
     "anmerkungen": "",
-    "gnd_url": "",
-    "Funktion": "",
-    "Quelle": "",
+    "gnd_url": "https://d-nb.info/gnd/1013959752",
+    "Funktion": "Landeshauptmann Tirol",
+    "Quelle": "https://www.parlament.gv.at/person/1769",
     "krp_person_id": "krp_person_id__597",
     "wikidata_url": "",
-    "Geburtsdatum": null,
-    "Sterbedatum": null,
-    "Geburtsort": null,
-    "Sterbeort": null
+    "Geburtsdatum": "1855-06-13",
+    "Sterbedatum": "1922-01-11",
+    "Geburtsort": "Sillian",
+    "Sterbeort": "Innsbruck"
   },
   "661": {
     "id": 661,

@@ -24,7 +24,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__3",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": "Königreich Italien"
   },
   "4": {
     "id": 4,
@@ -88,6 +88,24 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__9",
     "Alternative Bezeichnungen": "Jugoslawien"
+  },
+  "286": {
+    "id": 286,
+    "order": "9.25000000000000000000",
+    "Name": "Brenner",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__286",
+    "Alternative Bezeichnungen": ""
+  },
+  "285": {
+    "id": 285,
+    "order": "9.33333333333333392545",
+    "Name": "Salurner Klause",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__285",
+    "Alternative Bezeichnungen": ""
   },
   "13": {
     "id": 13,
@@ -357,7 +375,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__37",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "Deutsch-Südtirol"
   },
   "38": {
     "id": 38,
@@ -476,6 +494,15 @@
     "krp_place_id": "krp_place_id__52",
     "Alternative Bezeichnungen": ""
   },
+  "290": {
+    "id": 290,
+    "order": "49.50000000000000000000",
+    "Name": "Warschau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__290",
+    "Alternative Bezeichnungen": ""
+  },
   "53": {
     "id": 53,
     "order": "50.00000000000000000000",
@@ -537,6 +564,15 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__58",
+    "Alternative Bezeichnungen": ""
+  },
+  "289": {
+    "id": 289,
+    "order": "55.50000000000000000000",
+    "Name": "Hall in Tirol",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__289",
     "Alternative Bezeichnungen": ""
   },
   "59": {
@@ -1169,6 +1205,15 @@
     "krp_place_id": "krp_place_id__129",
     "Alternative Bezeichnungen": ""
   },
+  "291": {
+    "id": 291,
+    "order": "125.50000000000000000000",
+    "Name": "Ehrwald",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__291",
+    "Alternative Bezeichnungen": ""
+  },
   "130": {
     "id": 130,
     "order": "126.00000000000000000000",
@@ -1457,15 +1502,6 @@
     "krp_place_id": "krp_place_id__160",
     "Alternative Bezeichnungen": ""
   },
-  "161": {
-    "id": 161,
-    "order": "157.00000000000000000000",
-    "Name": "Amerika",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "krp_place_id": "krp_place_id__161",
-    "Alternative Bezeichnungen": ""
-  },
   "162": {
     "id": 162,
     "order": "158.00000000000000000000",
@@ -1655,6 +1691,15 @@
     "krp_place_id": "krp_place_id__182",
     "Alternative Bezeichnungen": ""
   },
+  "288": {
+    "id": 288,
+    "order": "178.50000000000000000000",
+    "Name": "Hernals",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__288",
+    "Alternative Bezeichnungen": ""
+  },
   "183": {
     "id": 183,
     "order": "179.00000000000000000000",
@@ -1662,6 +1707,15 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__183",
+    "Alternative Bezeichnungen": ""
+  },
+  "287": {
+    "id": 287,
+    "order": "179.50000000000000000000",
+    "Name": "Steyr",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__287",
     "Alternative Bezeichnungen": ""
   },
   "184": {
@@ -1824,6 +1878,15 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__199",
+    "Alternative Bezeichnungen": ""
+  },
+  "292": {
+    "id": 292,
+    "order": "195.50000000000000000000",
+    "Name": "Semmering",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__292",
     "Alternative Bezeichnungen": ""
   },
   "200": {
@@ -2072,7 +2135,7 @@
   "264": {
     "id": 264,
     "order": "223.00000000000000000000",
-    "Name": "",
+    "Name": "Mittel im Steinfelde",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__264",
@@ -2126,7 +2189,7 @@
   "271": {
     "id": 271,
     "order": "229.00000000000000000000",
-    "Name": "",
+    "Name": "St. Joachimsthal",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__271",
@@ -2162,7 +2225,7 @@
   "275": {
     "id": 275,
     "order": "233.00000000000000000000",
-    "Name": "",
+    "Name": "Innichen",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__275",
@@ -2180,7 +2243,7 @@
   "277": {
     "id": 277,
     "order": "235.00000000000000000000",
-    "Name": "",
+    "Name": "Sexten",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__277",
@@ -2207,7 +2270,7 @@
   "280": {
     "id": 280,
     "order": "238.00000000000000000000",
-    "Name": "",
+    "Name": "Koblach",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__280",
@@ -2229,6 +2292,123 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__282",
+    "Alternative Bezeichnungen": ""
+  },
+  "293": {
+    "id": 293,
+    "order": "241.00000000000000000000",
+    "Name": "Hetzendorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__293",
+    "Alternative Bezeichnungen": ""
+  },
+  "294": {
+    "id": 294,
+    "order": "242.00000000000000000000",
+    "Name": "Czernowitz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__294",
+    "Alternative Bezeichnungen": ""
+  },
+  "295": {
+    "id": 295,
+    "order": "243.00000000000000000000",
+    "Name": "Seckau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__295",
+    "Alternative Bezeichnungen": ""
+  },
+  "296": {
+    "id": 296,
+    "order": "244.00000000000000000000",
+    "Name": "Oberschlesien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__296",
+    "Alternative Bezeichnungen": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "245.00000000000000000000",
+    "Name": "Niederlande",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__297",
+    "Alternative Bezeichnungen": "Holland"
+  },
+  "298": {
+    "id": 298,
+    "order": "246.00000000000000000000",
+    "Name": "Waidmannsfeld",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__298",
+    "Alternative Bezeichnungen": ""
+  },
+  "299": {
+    "id": 299,
+    "order": "247.00000000000000000000",
+    "Name": "Mährisch-Ostrau",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__299",
+    "Alternative Bezeichnungen": ""
+  },
+  "300": {
+    "id": 300,
+    "order": "248.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__300",
+    "Alternative Bezeichnungen": ""
+  },
+  "301": {
+    "id": 301,
+    "order": "249.00000000000000000000",
+    "Name": "Schildern",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__301",
+    "Alternative Bezeichnungen": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "250.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__302",
+    "Alternative Bezeichnungen": ""
+  },
+  "303": {
+    "id": 303,
+    "order": "251.00000000000000000000",
+    "Name": "Thernberg",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__303",
+    "Alternative Bezeichnungen": ""
+  },
+  "304": {
+    "id": 304,
+    "order": "252.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__304",
+    "Alternative Bezeichnungen": ""
+  },
+  "305": {
+    "id": 305,
+    "order": "253.00000000000000000000",
+    "Name": "Brunn",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__305",
     "Alternative Bezeichnungen": ""
   }
 }

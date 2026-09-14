@@ -5,15 +5,17 @@
     "Name": "Tschechoslowakische Verfassung",
     "Anmerkungen": "",
     "Aktiv": false,
-    "krp_work_id": "krp_work_id__1"
+    "krp_work_id": "krp_work_id__1",
+    "Quelle": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "Name": "Vertrag von St. Germain",
-    "Anmerkungen": "",
+    "Anmerkungen": "StGBl. 303/1920",
     "Aktiv": false,
-    "krp_work_id": "krp_work_id__2"
+    "krp_work_id": "krp_work_id__2",
+    "Quelle": null
   },
   "34": {
     "id": 34,
@@ -21,6 +23,7 @@
     "Name": "",
     "Anmerkungen": "",
     "Aktiv": false,
-    "krp_work_id": "krp_work_id__34"
+    "krp_work_id": "krp_work_id__34",
+    "Quelle": null
   }
 }
