@@ -5773,5 +5773,20 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": ""
+  },
+  "698": {
+    "id": 698,
+    "order": "354.00000000000000000000",
+    "label": "Friedrich, Erzherzog von Österreich",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "",
+    "Quelle": "https://www.deutsche-biographie.de/gnd118861913.html#ndbcontent",
+    "krp_person_id": "krp_person_id__698",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": ""
   }
 }

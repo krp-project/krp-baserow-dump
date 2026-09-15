@@ -257,7 +257,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__208",
-    "TEI-Code": ""
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__208\">Interalliierte Wirtschaftskommission</rs>"
   },
   "17": {
     "id": 17,
@@ -297,7 +297,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__95",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__205\">Kriegswucheramt</rs>"
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__95\">Interalliierte Lebensmittelkommission</rs>"
   },
   "56": {
     "id": 56,
@@ -337,7 +337,7 @@
     "Aktiv": false,
     "Quelle": "https://hls-dhs-dss.ch/de/articles/014065/2015-04-08/",
     "krp_org_id": "krp_org_id__20",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__20\">Kantonalbank</rs>"
   },
   "21": {
     "id": 21,
@@ -377,7 +377,7 @@
     "Aktiv": false,
     "Quelle": "https://sammlung.wienmuseum.at/en/object/117147-wfw-militaer-witwen-und-waisenfonds/\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19190606&seite=3&zoom=33&query=%22milit%C3%A4r-witwen%2Bund%2Bwaisenfonds%22&ref=anno-search",
     "krp_org_id": "krp_org_id__24",
-    "TEI-Code": null
+    "TEI-Code": "\"<rs type=\"\"org\"\" ref=\"\"#krp_org_id__24\"\">Militär-Witwen- und Waisenfonds</rs>\""
   },
   "25": {
     "id": 25,
@@ -727,7 +727,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__59",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__59\">Interalliierter Luftfahrtüberwachungsausschuss</rs>"
   },
   "60": {
     "id": 60,
@@ -737,7 +737,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__60",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__60\">Interalliierte Heeresüberwachungsauschuss</rs>"
   },
   "105": {
     "id": 105,
@@ -797,7 +797,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__143",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__143\">Nationalversammlung</rs>"
   },
   "144": {
     "id": 144,
@@ -867,7 +867,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__181",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__181\">Staatskanzlei</rs>"
   },
   "182": {
     "id": 182,
@@ -877,7 +877,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__182",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__182\">Kabinettsrat</rs>"
   },
   "183": {
     "id": 183,
@@ -917,7 +917,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__186",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__186\">Staatsamt für Äußeres</rs>"
   },
   "187": {
     "id": 187,
@@ -927,7 +927,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__187",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__187\">Staatsamt für Finanzen</rs>"
   },
   "188": {
     "id": 188,
@@ -947,7 +947,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__189",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__189\">Staatsamt für Verkehrswesen</rs>"
   },
   "190": {
     "id": 190,
@@ -957,7 +957,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__190",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__190\">Staatsamt für soziale Verwaltung</rs>"
   },
   "191": {
     "id": 191,
@@ -967,7 +967,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__191",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__191\">Staatsamt für Handel und Gewerbe, Industrie und Bauten</rs>"
   },
   "192": {
     "id": 192,
@@ -977,7 +977,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__192",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__192\">Staatsamt für Inneres und Unterricht</rs>"
   },
   "193": {
     "id": 193,
@@ -987,7 +987,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__193",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__193\">Staatsamt für Justiz</rs>"
   },
   "194": {
     "id": 194,
@@ -997,7 +997,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__194",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__194\">Staatsamt für Land- und Forstwirtschaft</rs>"
   },
   "195": {
     "id": 195,
@@ -1077,7 +1077,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__202",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__202\">Staatsamt für Volksernährung</rs>"
   },
   "203": {
     "id": 203,
