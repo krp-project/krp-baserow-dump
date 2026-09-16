@@ -6,7 +6,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__1",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": null,
+    "TEI-Code": null
   },
   "2": {
     "id": 2,
@@ -15,7 +16,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__2",
-    "Alternative Bezeichnungen": "Deutschösterreich"
+    "Alternative Bezeichnungen": "Deutschösterreich",
+    "TEI-Code": null
   },
   "3": {
     "id": 3,
@@ -24,7 +26,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__3",
-    "Alternative Bezeichnungen": "Königreich Italien"
+    "Alternative Bezeichnungen": "Königreich Italien",
+    "TEI-Code": null
   },
   "4": {
     "id": 4,
@@ -33,7 +36,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__4",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": null,
+    "TEI-Code": null
   },
   "5": {
     "id": 5,
@@ -42,7 +46,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__5",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": null,
+    "TEI-Code": null
   },
   "6": {
     "id": 6,
@@ -51,7 +56,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__6",
-    "Alternative Bezeichnungen": "Deutschland"
+    "Alternative Bezeichnungen": "Deutschland",
+    "TEI-Code": null
   },
   "7": {
     "id": 7,
@@ -60,7 +66,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__7",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": null,
+    "TEI-Code": null
   },
   "8": {
     "id": 8,
@@ -69,7 +76,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__8",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": null,
+    "TEI-Code": null
   },
   "258": {
     "id": 258,
@@ -78,7 +86,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__258",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "9": {
     "id": 9,
@@ -87,7 +96,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__9",
-    "Alternative Bezeichnungen": "Jugoslawien"
+    "Alternative Bezeichnungen": "Jugoslawien",
+    "TEI-Code": null
   },
   "286": {
     "id": 286,
@@ -96,7 +106,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__286",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "285": {
     "id": 285,
@@ -105,7 +116,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__285",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "13": {
     "id": 13,
@@ -114,7 +126,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__13",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "10": {
     "id": 10,
@@ -123,7 +136,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__10",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": null,
+    "TEI-Code": null
   },
   "11": {
     "id": 11,
@@ -132,7 +146,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__11",
-    "Alternative Bezeichnungen": null
+    "Alternative Bezeichnungen": null,
+    "TEI-Code": null
   },
   "12": {
     "id": 12,
@@ -141,7 +156,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__12",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "14": {
     "id": 14,
@@ -150,7 +166,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__14",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "251": {
     "id": 251,
@@ -159,7 +176,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__251",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "15": {
     "id": 15,
@@ -168,7 +186,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__15",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "16": {
     "id": 16,
@@ -177,7 +196,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__16",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "17": {
     "id": 17,
@@ -186,7 +206,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__17",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "41": {
     "id": 41,
@@ -195,7 +216,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__41",
-    "Alternative Bezeichnungen": "England"
+    "Alternative Bezeichnungen": "England",
+    "TEI-Code": null
   },
   "18": {
     "id": 18,
@@ -204,7 +226,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__18",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "19": {
     "id": 19,
@@ -213,7 +236,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__19",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "20": {
     "id": 20,
@@ -222,7 +246,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__20",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "21": {
     "id": 21,
@@ -231,7 +256,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__21",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "22": {
     "id": 22,
@@ -240,7 +266,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__22",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "23": {
     "id": 23,
@@ -249,7 +276,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__23",
-    "Alternative Bezeichnungen": "Amerika"
+    "Alternative Bezeichnungen": "Amerika",
+    "TEI-Code": null
   },
   "24": {
     "id": 24,
@@ -258,7 +286,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__24",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "25": {
     "id": 25,
@@ -267,7 +296,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__25",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "26": {
     "id": 26,
@@ -276,7 +306,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__26",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "27": {
     "id": 27,
@@ -285,7 +316,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__27",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "28": {
     "id": 28,
@@ -294,7 +326,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__28",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "29": {
     "id": 29,
@@ -303,7 +336,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__29",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "30": {
     "id": 30,
@@ -312,7 +346,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__30",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "31": {
     "id": 31,
@@ -321,7 +356,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__31",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "32": {
     "id": 32,
@@ -330,7 +366,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__32",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "33": {
     "id": 33,
@@ -339,7 +376,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__33",
-    "Alternative Bezeichnungen": "Westungarn"
+    "Alternative Bezeichnungen": "Westungarn",
+    "TEI-Code": null
   },
   "34": {
     "id": 34,
@@ -348,7 +386,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__34",
-    "Alternative Bezeichnungen": "Ödenburg"
+    "Alternative Bezeichnungen": "Ödenburg",
+    "TEI-Code": null
   },
   "35": {
     "id": 35,
@@ -357,7 +396,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__35",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "36": {
     "id": 36,
@@ -366,7 +406,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__36",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "37": {
     "id": 37,
@@ -375,7 +416,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__37",
-    "Alternative Bezeichnungen": "Deutsch-Südtirol"
+    "Alternative Bezeichnungen": "Deutsch-Südtirol",
+    "TEI-Code": null
   },
   "38": {
     "id": 38,
@@ -384,7 +426,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__38",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "39": {
     "id": 39,
@@ -393,7 +436,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__39",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "42": {
     "id": 42,
@@ -402,7 +446,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__42",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "43": {
     "id": 43,
@@ -411,7 +456,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__43",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "44": {
     "id": 44,
@@ -420,7 +466,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__44",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "284": {
     "id": 284,
@@ -429,7 +476,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__284",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "45": {
     "id": 45,
@@ -438,7 +486,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__45",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "46": {
     "id": 46,
@@ -447,7 +496,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__46",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "47": {
     "id": 47,
@@ -456,7 +506,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__47",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "48": {
     "id": 48,
@@ -465,7 +516,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__48",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "49": {
     "id": 49,
@@ -474,7 +526,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__49",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "50": {
     "id": 50,
@@ -483,7 +536,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__50",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "52": {
     "id": 52,
@@ -492,7 +546,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__52",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "290": {
     "id": 290,
@@ -501,7 +556,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__290",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "53": {
     "id": 53,
@@ -510,7 +566,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__53",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "259": {
     "id": 259,
@@ -519,7 +576,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__259",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "54": {
     "id": 54,
@@ -528,7 +586,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__54",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "55": {
     "id": 55,
@@ -537,7 +596,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__55",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "56": {
     "id": 56,
@@ -546,7 +606,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__56",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "57": {
     "id": 57,
@@ -555,7 +616,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__57",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "58": {
     "id": 58,
@@ -564,7 +626,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__58",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "289": {
     "id": 289,
@@ -573,7 +636,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__289",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "59": {
     "id": 59,
@@ -582,7 +646,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__59",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "60": {
     "id": 60,
@@ -591,7 +656,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__60",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "61": {
     "id": 61,
@@ -600,7 +666,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__61",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "62": {
     "id": 62,
@@ -609,7 +676,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__62",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "63": {
     "id": 63,
@@ -618,7 +686,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__63",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "64": {
     "id": 64,
@@ -627,7 +696,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__64",
-    "Alternative Bezeichnungen": "Pressburg"
+    "Alternative Bezeichnungen": "Pressburg",
+    "TEI-Code": null
   },
   "65": {
     "id": 65,
@@ -636,7 +706,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__65",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "66": {
     "id": 66,
@@ -645,7 +716,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__66",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "67": {
     "id": 67,
@@ -654,7 +726,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__67",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "68": {
     "id": 68,
@@ -663,7 +736,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__68",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "69": {
     "id": 69,
@@ -672,7 +746,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__69",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "70": {
     "id": 70,
@@ -681,7 +756,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__70",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "71": {
     "id": 71,
@@ -690,7 +766,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__71",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "72": {
     "id": 72,
@@ -699,7 +776,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__72",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "73": {
     "id": 73,
@@ -708,7 +786,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__73",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "74": {
     "id": 74,
@@ -717,7 +796,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__74",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "75": {
     "id": 75,
@@ -726,7 +806,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__75",
-    "Alternative Bezeichnungen": "Laibach"
+    "Alternative Bezeichnungen": "Laibach",
+    "TEI-Code": null
   },
   "76": {
     "id": 76,
@@ -735,7 +816,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__76",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "77": {
     "id": 77,
@@ -744,7 +826,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__77",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "78": {
     "id": 78,
@@ -753,7 +836,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__78",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "79": {
     "id": 79,
@@ -762,7 +846,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__79",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "80": {
     "id": 80,
@@ -771,7 +856,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__80",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "82": {
     "id": 82,
@@ -780,7 +866,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__82",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "83": {
     "id": 83,
@@ -789,7 +876,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__83",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "84": {
     "id": 84,
@@ -798,7 +886,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__84",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "85": {
     "id": 85,
@@ -807,7 +896,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__85",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "86": {
     "id": 86,
@@ -816,7 +906,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__86",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "87": {
     "id": 87,
@@ -825,7 +916,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__87",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "88": {
     "id": 88,
@@ -834,7 +926,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__88",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "89": {
     "id": 89,
@@ -843,7 +936,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__89",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "90": {
     "id": 90,
@@ -852,7 +946,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__90",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "91": {
     "id": 91,
@@ -861,7 +956,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__91",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "92": {
     "id": 92,
@@ -870,7 +966,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__92",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "93": {
     "id": 93,
@@ -879,7 +976,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__93",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "94": {
     "id": 94,
@@ -888,7 +986,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__94",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "95": {
     "id": 95,
@@ -897,7 +996,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__95",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "96": {
     "id": 96,
@@ -906,7 +1006,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__96",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "97": {
     "id": 97,
@@ -915,7 +1016,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__97",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "98": {
     "id": 98,
@@ -924,7 +1026,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__98",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "99": {
     "id": 99,
@@ -933,7 +1036,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__99",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "100": {
     "id": 100,
@@ -942,7 +1046,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__100",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "101": {
     "id": 101,
@@ -951,7 +1056,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__101",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "102": {
     "id": 102,
@@ -960,7 +1066,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__102",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "254": {
     "id": 254,
@@ -969,7 +1076,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__254",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "103": {
     "id": 103,
@@ -978,7 +1086,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__103",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "104": {
     "id": 104,
@@ -987,7 +1096,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__104",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "105": {
     "id": 105,
@@ -996,7 +1106,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__105",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "106": {
     "id": 106,
@@ -1005,7 +1116,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__106",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "107": {
     "id": 107,
@@ -1014,7 +1126,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__107",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "108": {
     "id": 108,
@@ -1023,7 +1136,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__108",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "109": {
     "id": 109,
@@ -1032,7 +1146,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__109",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "110": {
     "id": 110,
@@ -1041,7 +1156,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__110",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "111": {
     "id": 111,
@@ -1050,7 +1166,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__111",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "112": {
     "id": 112,
@@ -1059,7 +1176,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__112",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "113": {
     "id": 113,
@@ -1068,7 +1186,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__113",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "114": {
     "id": 114,
@@ -1077,7 +1196,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__114",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "115": {
     "id": 115,
@@ -1086,7 +1206,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__115",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "116": {
     "id": 116,
@@ -1095,7 +1216,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__116",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "117": {
     "id": 117,
@@ -1104,7 +1226,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__117",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "118": {
     "id": 118,
@@ -1113,7 +1236,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__118",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "119": {
     "id": 119,
@@ -1122,7 +1246,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__119",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "120": {
     "id": 120,
@@ -1131,7 +1256,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__120",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "121": {
     "id": 121,
@@ -1140,7 +1266,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__121",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "122": {
     "id": 122,
@@ -1149,7 +1276,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__122",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "123": {
     "id": 123,
@@ -1158,7 +1286,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__123",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "124": {
     "id": 124,
@@ -1167,7 +1296,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__124",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "125": {
     "id": 125,
@@ -1176,7 +1306,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__125",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "126": {
     "id": 126,
@@ -1185,7 +1316,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__126",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "128": {
     "id": 128,
@@ -1194,7 +1326,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__128",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "129": {
     "id": 129,
@@ -1203,7 +1336,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__129",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "291": {
     "id": 291,
@@ -1212,7 +1346,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__291",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "130": {
     "id": 130,
@@ -1221,7 +1356,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__130",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "131": {
     "id": 131,
@@ -1230,7 +1366,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__131",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "132": {
     "id": 132,
@@ -1239,7 +1376,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__132",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "133": {
     "id": 133,
@@ -1248,7 +1386,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__133",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "134": {
     "id": 134,
@@ -1257,7 +1396,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__134",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "135": {
     "id": 135,
@@ -1266,7 +1406,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__135",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "136": {
     "id": 136,
@@ -1275,7 +1416,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__136",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "257": {
     "id": 257,
@@ -1284,7 +1426,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__257",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "137": {
     "id": 137,
@@ -1293,7 +1436,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__137",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "138": {
     "id": 138,
@@ -1302,7 +1446,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__138",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "139": {
     "id": 139,
@@ -1311,7 +1456,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__139",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "140": {
     "id": 140,
@@ -1320,7 +1466,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__140",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "141": {
     "id": 141,
@@ -1329,7 +1476,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__141",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "142": {
     "id": 142,
@@ -1338,7 +1486,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__142",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "143": {
     "id": 143,
@@ -1347,7 +1496,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__143",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "144": {
     "id": 144,
@@ -1356,7 +1506,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__144",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "145": {
     "id": 145,
@@ -1365,7 +1516,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__145",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "146": {
     "id": 146,
@@ -1374,7 +1526,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__146",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "147": {
     "id": 147,
@@ -1383,7 +1536,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__147",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "148": {
     "id": 148,
@@ -1392,7 +1546,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__148",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "149": {
     "id": 149,
@@ -1401,7 +1556,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__149",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "150": {
     "id": 150,
@@ -1410,7 +1566,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__150",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "151": {
     "id": 151,
@@ -1419,7 +1576,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__151",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "152": {
     "id": 152,
@@ -1428,7 +1586,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__152",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "153": {
     "id": 153,
@@ -1437,7 +1596,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__153",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "154": {
     "id": 154,
@@ -1446,7 +1606,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__154",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "155": {
     "id": 155,
@@ -1455,7 +1616,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__155",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "156": {
     "id": 156,
@@ -1464,7 +1626,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__156",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "157": {
     "id": 157,
@@ -1473,7 +1636,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__157",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "158": {
     "id": 158,
@@ -1482,7 +1646,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__158",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "159": {
     "id": 159,
@@ -1491,7 +1656,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__159",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "160": {
     "id": 160,
@@ -1500,7 +1666,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__160",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "162": {
     "id": 162,
@@ -1509,7 +1676,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__162",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "163": {
     "id": 163,
@@ -1518,7 +1686,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__163",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "164": {
     "id": 164,
@@ -1527,7 +1696,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__164",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "165": {
     "id": 165,
@@ -1536,7 +1706,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__165",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "166": {
     "id": 166,
@@ -1545,7 +1716,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__166",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "167": {
     "id": 167,
@@ -1554,7 +1726,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__167",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "168": {
     "id": 168,
@@ -1563,7 +1736,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__168",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "169": {
     "id": 169,
@@ -1572,7 +1746,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__169",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "170": {
     "id": 170,
@@ -1581,7 +1756,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__170",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "171": {
     "id": 171,
@@ -1590,7 +1766,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__171",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "172": {
     "id": 172,
@@ -1599,7 +1776,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__172",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "173": {
     "id": 173,
@@ -1608,7 +1786,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__173",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "174": {
     "id": 174,
@@ -1617,7 +1796,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__174",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "175": {
     "id": 175,
@@ -1626,7 +1806,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__175",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "176": {
     "id": 176,
@@ -1635,7 +1816,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__176",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "177": {
     "id": 177,
@@ -1644,7 +1826,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__177",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "178": {
     "id": 178,
@@ -1653,7 +1836,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__178",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "179": {
     "id": 179,
@@ -1662,7 +1846,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__179",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "180": {
     "id": 180,
@@ -1671,7 +1856,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__180",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "181": {
     "id": 181,
@@ -1680,7 +1866,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__181",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "182": {
     "id": 182,
@@ -1689,7 +1876,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__182",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "288": {
     "id": 288,
@@ -1698,7 +1886,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__288",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "183": {
     "id": 183,
@@ -1707,7 +1896,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__183",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "287": {
     "id": 287,
@@ -1716,7 +1906,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__287",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "184": {
     "id": 184,
@@ -1725,7 +1916,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__184",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "185": {
     "id": 185,
@@ -1734,7 +1926,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__185",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "186": {
     "id": 186,
@@ -1743,7 +1936,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__186",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "255": {
     "id": 255,
@@ -1752,7 +1946,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__255",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "187": {
     "id": 187,
@@ -1761,7 +1956,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__187",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "188": {
     "id": 188,
@@ -1770,7 +1966,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__188",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "189": {
     "id": 189,
@@ -1779,7 +1976,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__189",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "190": {
     "id": 190,
@@ -1788,7 +1986,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__190",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "191": {
     "id": 191,
@@ -1797,7 +1996,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__191",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "256": {
     "id": 256,
@@ -1806,7 +2006,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__256",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "192": {
     "id": 192,
@@ -1815,7 +2016,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__192",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "265": {
     "id": 265,
@@ -1824,7 +2026,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__265",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "193": {
     "id": 193,
@@ -1833,7 +2036,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__193",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "194": {
     "id": 194,
@@ -1842,7 +2046,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__194",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "195": {
     "id": 195,
@@ -1851,7 +2056,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__195",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "196": {
     "id": 196,
@@ -1860,7 +2066,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__196",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "197": {
     "id": 197,
@@ -1869,7 +2076,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__197",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "199": {
     "id": 199,
@@ -1878,7 +2086,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__199",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "292": {
     "id": 292,
@@ -1887,7 +2096,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__292",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "200": {
     "id": 200,
@@ -1896,7 +2106,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__200",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "201": {
     "id": 201,
@@ -1905,7 +2116,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__201",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "203": {
     "id": 203,
@@ -1914,7 +2126,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__203",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "204": {
     "id": 204,
@@ -1923,7 +2136,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__204",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "205": {
     "id": 205,
@@ -1932,7 +2146,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__205",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "206": {
     "id": 206,
@@ -1941,7 +2156,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__206",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "207": {
     "id": 207,
@@ -1950,7 +2166,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__207",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "208": {
     "id": 208,
@@ -1959,7 +2176,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__208",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "209": {
     "id": 209,
@@ -1968,7 +2186,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__209",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "210": {
     "id": 210,
@@ -1977,7 +2196,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__210",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "211": {
     "id": 211,
@@ -1986,7 +2206,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__211",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "212": {
     "id": 212,
@@ -1995,7 +2216,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__212",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "213": {
     "id": 213,
@@ -2004,7 +2226,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__213",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "214": {
     "id": 214,
@@ -2013,7 +2236,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__214",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "215": {
     "id": 215,
@@ -2022,7 +2246,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__215",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "216": {
     "id": 216,
@@ -2031,7 +2256,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__216",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "217": {
     "id": 217,
@@ -2040,7 +2266,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__217",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "218": {
     "id": 218,
@@ -2049,7 +2276,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__218",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "249": {
     "id": 249,
@@ -2058,7 +2286,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__249",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "250": {
     "id": 250,
@@ -2067,7 +2296,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__250",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "252": {
     "id": 252,
@@ -2076,7 +2306,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__252",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "283": {
     "id": 283,
@@ -2085,7 +2316,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__283",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "253": {
     "id": 253,
@@ -2094,7 +2326,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__253",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "260": {
     "id": 260,
@@ -2103,7 +2336,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__260",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "261": {
     "id": 261,
@@ -2112,7 +2346,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__261",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "262": {
     "id": 262,
@@ -2121,7 +2356,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__262",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "263": {
     "id": 263,
@@ -2130,7 +2366,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__263",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "264": {
     "id": 264,
@@ -2139,7 +2376,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__264",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "266": {
     "id": 266,
@@ -2148,7 +2386,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__266",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "267": {
     "id": 267,
@@ -2157,7 +2396,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__267",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "268": {
     "id": 268,
@@ -2166,7 +2406,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__268",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "269": {
     "id": 269,
@@ -2175,7 +2416,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__269",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "270": {
     "id": 270,
@@ -2184,7 +2426,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__270",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "271": {
     "id": 271,
@@ -2193,7 +2436,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__271",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "272": {
     "id": 272,
@@ -2202,7 +2446,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__272",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "273": {
     "id": 273,
@@ -2211,7 +2456,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__273",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "274": {
     "id": 274,
@@ -2220,7 +2466,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__274",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "275": {
     "id": 275,
@@ -2229,7 +2476,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__275",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "276": {
     "id": 276,
@@ -2238,7 +2486,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__276",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "277": {
     "id": 277,
@@ -2247,7 +2496,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__277",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "278": {
     "id": 278,
@@ -2256,7 +2506,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__278",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "279": {
     "id": 279,
@@ -2265,7 +2516,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__279",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "280": {
     "id": 280,
@@ -2274,7 +2526,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__280",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "281": {
     "id": 281,
@@ -2283,7 +2536,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__281",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "282": {
     "id": 282,
@@ -2292,7 +2546,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__282",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "293": {
     "id": 293,
@@ -2301,7 +2556,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__293",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "294": {
     "id": 294,
@@ -2310,7 +2566,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__294",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "295": {
     "id": 295,
@@ -2319,7 +2576,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__295",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "296": {
     "id": 296,
@@ -2328,7 +2586,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__296",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "297": {
     "id": 297,
@@ -2337,7 +2596,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__297",
-    "Alternative Bezeichnungen": "Holland"
+    "Alternative Bezeichnungen": "Holland",
+    "TEI-Code": null
   },
   "298": {
     "id": 298,
@@ -2346,7 +2606,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__298",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "299": {
     "id": 299,
@@ -2355,7 +2616,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__299",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "300": {
     "id": 300,
@@ -2364,7 +2626,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__300",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "301": {
     "id": 301,
@@ -2373,7 +2636,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__301",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "302": {
     "id": 302,
@@ -2382,7 +2646,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__302",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "303": {
     "id": 303,
@@ -2391,7 +2656,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__303",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "304": {
     "id": 304,
@@ -2400,7 +2666,8 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__304",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   },
   "305": {
     "id": 305,
@@ -2409,6 +2676,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__305",
-    "Alternative Bezeichnungen": ""
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": null
   }
 }
