@@ -13,7 +13,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__481\">Bašta</rs>"
   },
   "1": {
     "id": 1,
@@ -29,7 +29,7 @@
     "Sterbedatum": "1938-07-05",
     "Geburtsort": "Wien",
     "Sterbeort": "Paris",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__1\">Bauer</rs>"
   },
   "2": {
     "id": 2,
@@ -45,7 +45,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__2\">Beck</rs>"
   },
   "3": {
     "id": 3,
@@ -61,7 +61,7 @@
     "Sterbedatum": "1949-08-11",
     "Geburtsort": "Seisenberg, Krain",
     "Sterbeort": "Graz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__3\">Bratusch</rs>"
   },
   "39": {
     "id": 39,
@@ -77,7 +77,7 @@
     "Sterbedatum": "1938-06-02",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__39\">Brauneis</rs>"
   },
   "475": {
     "id": 475,
@@ -93,7 +93,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__475\">Decker</rs>"
   },
   "4": {
     "id": 4,
@@ -109,7 +109,7 @@
     "Sterbedatum": "1968-01-17",
     "Geburtsort": "Lackenbach",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__4\">Deutsch</rs>"
   },
   "5": {
     "id": 5,
@@ -125,7 +125,7 @@
     "Sterbedatum": "1947-01-28",
     "Geburtsort": "Holleschau (Mähren)",
     "Sterbeort": "New York",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__5\">Eisler</rs>"
   },
   "6": {
     "id": 6,
@@ -141,7 +141,7 @@
     "Sterbedatum": "1931-04-20",
     "Geburtsort": "Brünn",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__6\">Eldersch</rs>"
   },
   "7": {
     "id": 7,
@@ -157,7 +157,7 @@
     "Sterbedatum": "1951-02-25",
     "Geburtsort": "Lundenburg",
     "Sterbeort": "New York",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__7\">Ellenbogen</rs>"
   },
   "8": {
     "id": 8,
@@ -173,7 +173,7 @@
     "Sterbedatum": "1934-10-17",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__8\">Enderes</rs>"
   },
   "494": {
     "id": 494,
@@ -189,7 +189,7 @@
     "Sterbedatum": "1920-04-12",
     "Geburtsort": "Kaplitz",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__494\">Feitler</rs>"
   },
   "9": {
     "id": 9,
@@ -205,7 +205,7 @@
     "Sterbedatum": "1929-07-01",
     "Geburtsort": "Andelsbuch",
     "Sterbeort": "Andelsbuch",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__9\">Fink</rs>"
   },
   "10": {
     "id": 10,
@@ -221,7 +221,7 @@
     "Sterbedatum": "1935-07-23",
     "Geburtsort": "Pottendorf",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__10\">Glöckel</rs>"
   },
   "11": {
     "id": 11,
@@ -237,7 +237,7 @@
     "Sterbedatum": "1948-11-08",
     "Geburtsort": "Wien",
     "Sterbeort": "Bad Kreuzen",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__11\">Grimm</rs>"
   },
   "12": {
     "id": 12,
@@ -253,7 +253,7 @@
     "Sterbedatum": "1923-09-28",
     "Geburtsort": "Víkov",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__12\">Hanusch</rs>"
   },
   "13": {
     "id": 13,
@@ -269,7 +269,7 @@
     "Sterbedatum": "1931-08-20",
     "Geburtsort": "Wien",
     "Sterbeort": "Schönau an der Triesting",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__13\">Jukel</rs>"
   },
   "14": {
     "id": 14,
@@ -285,7 +285,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__14\">Kaup</rs>"
   },
   "606": {
     "id": 606,
@@ -301,7 +301,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__606\">Ljubicic</rs>"
   },
   "15": {
     "id": 15,
@@ -317,7 +317,7 @@
     "Sterbedatum": "1940-01-12",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__15\">Loewenfeld-Russ</rs>"
   },
   "16": {
     "id": 16,
@@ -333,7 +333,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__16\">Marckhl</rs>"
   },
   "17": {
     "id": 17,
@@ -349,7 +349,7 @@
     "Sterbedatum": "1937-01-23",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__17\">Mataja</rs>"
   },
   "18": {
     "id": 18,
@@ -365,7 +365,7 @@
     "Sterbedatum": "1938-05-02",
     "Geburtsort": "Eger/Cheb, Böhmen",
     "Sterbeort": "Eger/Cheb, Böhmen",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__18\">Mayer</rs>"
   },
   "19": {
     "id": 19,
@@ -381,7 +381,7 @@
     "Sterbedatum": "1922-05-21",
     "Geburtsort": "Adlwang, Oberösterreich",
     "Sterbeort": "Waldneukirchen, Oberösterreich",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__19\">Mauelère</rs>"
   },
   "20": {
     "id": 20,
@@ -397,7 +397,7 @@
     "Sterbedatum": "1956-03-20",
     "Geburtsort": "Krems an der Donau",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__20\">Miklas</rs>"
   },
   "21": {
     "id": 21,
@@ -413,7 +413,7 @@
     "Sterbedatum": "1936-03-23",
     "Geburtsort": "Iserthal/Reky, Böhmen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__21\">Pacher</rs>"
   },
   "555": {
     "id": 555,
@@ -429,7 +429,7 @@
     "Sterbedatum": "1907-11-16",
     "Geburtsort": "Florenz",
     "Sterbeort": "Lucca",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__555\">Parma</rs>"
   },
   "22": {
     "id": 22,
@@ -445,7 +445,7 @@
     "Sterbedatum": "1920-07-01",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__22\">Paul</rs>"
   },
   "23": {
     "id": 23,
@@ -461,7 +461,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__23\">Pflügl</rs>"
   },
   "24": {
     "id": 24,
@@ -477,7 +477,7 @@
     "Sterbedatum": "1941-07-24",
     "Geburtsort": "Teschen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__24\">Ramek</rs>"
   },
   "25": {
     "id": 25,
@@ -493,7 +493,7 @@
     "Sterbedatum": "1938-12-14",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__25\">Reisch</rs>"
   },
   "26": {
     "id": 26,
@@ -509,7 +509,7 @@
     "Sterbedatum": "1950-12-31",
     "Geburtsort": "Dolní Dunajovice",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__26\">Renner</rs>"
   },
   "27": {
     "id": 27,
@@ -525,7 +525,7 @@
     "Sterbedatum": "1939-04-06",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__27\">Resch</rs>"
   },
   "28": {
     "id": 28,
@@ -541,7 +541,7 @@
     "Sterbedatum": "1946-12-27",
     "Geburtsort": "Thomigsdorf, Böhmen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__28\">Roller</rs>"
   },
   "29": {
     "id": 29,
@@ -557,7 +557,7 @@
     "Sterbedatum": "1950-01-08",
     "Geburtsort": "Trest",
     "Sterbeort": "Taconic",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__29\">Schumpeter</rs>"
   },
   "30": {
     "id": 30,
@@ -573,7 +573,7 @@
     "Sterbedatum": "1950-02-03",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__30\">Seitz</rs>"
   },
   "31": {
     "id": 31,
@@ -589,7 +589,7 @@
     "Sterbedatum": "1921-03-20",
     "Geburtsort": "Klagenfurt",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__31\">Steinwender</rs>"
   },
   "32": {
     "id": 32,
@@ -605,7 +605,7 @@
     "Sterbedatum": "1936-12-09",
     "Geburtsort": "St. Valentin, Niederösterreich",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__32\">Stöckler</rs>"
   },
   "33": {
     "id": 33,
@@ -621,7 +621,7 @@
     "Sterbedatum": "1936-08-25",
     "Geburtsort": "Iglau",
     "Sterbeort": "Moskau",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__33\">Tandler</rs>"
   },
   "610": {
     "id": 610,
@@ -637,7 +637,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__610\">Tunk</rs>"
   },
   "34": {
     "id": 34,
@@ -653,7 +653,7 @@
     "Sterbedatum": "1940-10-24",
     "Geburtsort": "Prag",
     "Sterbeort": "Prag",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__34\">Urban</rs>"
   },
   "35": {
     "id": 35,
@@ -669,7 +669,7 @@
     "Sterbedatum": "1945-03-12",
     "Geburtsort": "Mährisch Neustadt",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__35\">Waber</rs>"
   },
   "509": {
     "id": 509,
@@ -685,7 +685,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__509\">Wagner</rs>"
   },
   "620": {
     "id": 620,
@@ -701,7 +701,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__620\">Wagner</rs>"
   },
   "36": {
     "id": 36,
@@ -717,7 +717,7 @@
     "Sterbedatum": "1959-07-05",
     "Geburtsort": "Wien",
     "Sterbeort": "Sich am Attersee",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__36\">Waiss</rs>"
   },
   "37": {
     "id": 37,
@@ -733,7 +733,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__37\">Wallenstorfer</rs>"
   },
   "38": {
     "id": 38,
@@ -749,7 +749,7 @@
     "Sterbedatum": "1961-06-01",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__38\">Zerdik</rs>"
   },
   "43": {
     "id": 43,
@@ -765,7 +765,7 @@
     "Sterbedatum": "1944-09-25",
     "Geburtsort": "Bern",
     "Sterbeort": "Klosterneuburg",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__43\">Breisky</rs>"
   },
   "488": {
     "id": 488,
@@ -797,7 +797,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__477\">Cunningham</rs>"
   },
   "557": {
     "id": 557,
@@ -813,7 +813,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__557\">Czech</rs>"
   },
   "506": {
     "id": 506,
@@ -829,7 +829,7 @@
     "Sterbedatum": "1927-09-21",
     "Geburtsort": "Linz",
     "Sterbeort": "Linz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__506\">Dametz</rs>"
   },
   "44": {
     "id": 44,
@@ -845,7 +845,7 @@
     "Sterbedatum": "1924-04-22",
     "Geburtsort": "Königsberg",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__44\">Davy</rs>"
   },
   "46": {
     "id": 46,
@@ -861,7 +861,7 @@
     "Sterbedatum": null,
     "Geburtsort": "St. Georgen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__46\">Dorrek</rs>"
   },
   "47": {
     "id": 47,
@@ -877,7 +877,7 @@
     "Sterbedatum": "1965-03-04",
     "Geburtsort": "Innsbruck",
     "Sterbeort": "Innsbruck",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__47\">Durig</rs>"
   },
   "49": {
     "id": 49,
@@ -893,7 +893,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__49\">Feiler</rs>"
   },
   "50": {
     "id": 50,
@@ -909,7 +909,7 @@
     "Sterbedatum": "1939-09-21",
     "Geburtsort": "Brünnighausen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__50\">Froehlich</rs>"
   },
   "491": {
     "id": 491,
@@ -925,7 +925,7 @@
     "Sterbedatum": "1934-11-21",
     "Geburtsort": "Alt-Paka (Böhmen)",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__491\">Gruntzel</rs>"
   },
   "51": {
     "id": 51,
@@ -941,7 +941,7 @@
     "Sterbedatum": "1935-04-25",
     "Geburtsort": "Karlsbad",
     "Sterbeort": "Paris",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__51\">Gerstmann</rs>"
   },
   "52": {
     "id": 52,
@@ -957,7 +957,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__52\">Günther</rs>"
   },
   "603": {
     "id": 603,
@@ -973,7 +973,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__603\">Haala</rs>"
   },
   "54": {
     "id": 54,
@@ -989,7 +989,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__54\">Haas</rs>"
   },
   "55": {
     "id": 55,
@@ -1005,7 +1005,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__55\">Hanausek</rs>"
   },
   "619": {
     "id": 619,
@@ -1021,7 +1021,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__619\">Hellmer</rs>"
   },
   "57": {
     "id": 57,
@@ -1037,7 +1037,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__57\">Herman</rs>"
   },
   "58": {
     "id": 58,
@@ -1053,7 +1053,7 @@
     "Sterbedatum": "1930-09-15",
     "Geburtsort": "Alt-Rothwasser, österr. Schlesien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__58\">Hoheisel</rs>"
   },
   "59": {
     "id": 59,
@@ -1069,7 +1069,7 @@
     "Sterbedatum": "1945-02-09",
     "Geburtsort": "Wien",
     "Sterbeort": "Leoben",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__59\">Homann</rs>"
   },
   "507": {
     "id": 507,
@@ -1085,7 +1085,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__507\">Hugelmann</rs>"
   },
   "60": {
     "id": 60,
@@ -1101,7 +1101,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__60\">Hummel</rs>"
   },
   "61": {
     "id": 61,
@@ -1117,7 +1117,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__61\">Joas</rs>"
   },
   "62": {
     "id": 62,
@@ -1133,7 +1133,7 @@
     "Sterbedatum": "1924-07-02",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__62\">Kaan</rs>"
   },
   "547": {
     "id": 547,
@@ -1149,7 +1149,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__547\">Klimburg</rs>"
   },
   "63": {
     "id": 63,
@@ -1165,7 +1165,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__63\">Kloss</rs>"
   },
   "64": {
     "id": 64,
@@ -1181,12 +1181,12 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__64\">Kralowsky</rs>"
   },
   "65": {
     "id": 65,
     "order": "64.00000000000000000000",
-    "label": "Krasny, Arnold [von Ergen]",
+    "label": "Krasny, Arnold Dr. [von Ergen]",
     "anmerkungen": "",
     "gnd_url": "https://d-nb.info/gnd/12786959X",
     "Funktion": "Sektionschef im Staatsamt für öffentliche Arbeiten [1919 in den Ruhestand]; Staatskommission für Sozialisierung",
@@ -1197,7 +1197,7 @@
     "Sterbedatum": "1937-03-19",
     "Geburtsort": "Prerau",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__65\">Krasny</rs>"
   },
   "66": {
     "id": 66,
@@ -1213,7 +1213,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__66\">Lederer</rs>"
   },
   "67": {
     "id": 67,
@@ -1229,7 +1229,7 @@
     "Sterbedatum": "1932-03-04",
     "Geburtsort": "Brünn",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__67\">Licht</rs>"
   },
   "68": {
     "id": 68,
@@ -1245,7 +1245,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__68\">Mosing</rs>"
   },
   "69": {
     "id": 69,
@@ -1261,7 +1261,7 @@
     "Sterbedatum": "1933-06-15",
     "Geburtsort": "Saaz, Böhmen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__69\">Mühlvenzl</rs>"
   },
   "70": {
     "id": 70,
@@ -1277,7 +1277,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__70\">Okorn</rs>"
   },
   "604": {
     "id": 604,
@@ -1293,7 +1293,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__604\">Pawlitza</rs>"
   },
   "71": {
     "id": 71,
@@ -1309,7 +1309,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__71\">Pergelt</rs>"
   },
   "72": {
     "id": 72,
@@ -1325,7 +1325,7 @@
     "Sterbedatum": "1941-10-19",
     "Geburtsort": "Mährisch-Trübau",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__72\">Pfersmann</rs>"
   },
   "602": {
     "id": 602,
@@ -1341,13 +1341,13 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__602\">Pokorny</rs>"
   },
   "73": {
     "id": 73,
     "order": "72.00000000000000000000",
-    "label": "Pokorny, Dr. Gustav – Anmerkung: (Wilhelm ist ausgeschlossen, da er 1918 in Pension ging)",
-    "anmerkungen": "",
+    "label": "Pokorny, Dr. Gustav",
+    "anmerkungen": "Anmerkung: (Wilhelm ist ausgeschlossen, da er 1918 in Pension ging",
     "gnd_url": "",
     "Funktion": "Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten [zuvor Sektionsrat Ministerium für öffentliche Arbeiten]",
     "Quelle": "Der österreichische Staatsrat, Bd. 2, S. 601; Österreichischer Amtskalender, 1922, S. 763; Hof- und Staatshandbuch der Österreichisch-Ungarischen Monarchie, 1918, S. 484.",
@@ -1357,7 +1357,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__73\">Otavsky</rs>"
   },
   "74": {
     "id": 74,
@@ -1373,7 +1373,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__74\">Pöschl</rs>"
   },
   "600": {
     "id": 600,
@@ -1389,7 +1389,7 @@
     "Sterbedatum": "1947-12-23",
     "Geburtsort": "Salzburg",
     "Sterbeort": "Salzburg",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__600\">Rehrl</rs>"
   },
   "75": {
     "id": 75,
@@ -1405,7 +1405,7 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__75\">Reich</rs>"
   },
   "630": {
     "id": 630,
@@ -1421,7 +1421,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__630\">Romaszkan</rs>"
   },
   "76": {
     "id": 76,
@@ -1437,7 +1437,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__76\">Rotky</rs>"
   },
   "77": {
     "id": 77,
@@ -1453,7 +1453,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__77\">Salzer</rs>"
   },
   "78": {
     "id": 78,
@@ -1469,7 +1469,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__78\">Schauberger</rs>"
   },
   "79": {
     "id": 79,
@@ -1485,7 +1485,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__79\">Schedlbauer</rs>"
   },
   "624": {
     "id": 624,
@@ -1517,7 +1517,7 @@
     "Sterbedatum": "1932-08-19",
     "Geburtsort": "Perg, Oberösterreich",
     "Sterbeort": "Baden, Niederösterreich",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__80\">Schober</rs>"
   },
   "81": {
     "id": 81,
@@ -1533,7 +1533,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__81\">Schüller</rs>"
   },
   "82": {
     "id": 82,
@@ -1549,7 +1549,7 @@
     "Sterbedatum": "1939-08-17",
     "Geburtsort": "Czernowitz",
     "Sterbeort": "Zürich",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__82\">Schwarzwald</rs>"
   },
   "84": {
     "id": 84,
@@ -1565,7 +1565,7 @@
     "Sterbedatum": "1936-12-22",
     "Geburtsort": "Pest",
     "Sterbeort": "Inzersdorf bei Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__84\">Schwiedland</rs>"
   },
   "542": {
     "id": 542,
@@ -1581,7 +1581,7 @@
     "Sterbedatum": "1946-01-26",
     "Geburtsort": "Znaim, Mähren",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__542\">Teufel</rs>"
   },
   "85": {
     "id": 85,
@@ -1597,7 +1597,7 @@
     "Sterbedatum": "1966-04-11",
     "Geburtsort": "Wien",
     "Sterbeort": "Deutschfeistritz, Steiermark",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__85\">Thaa</rs>"
   },
   "482": {
     "id": 482,
@@ -1613,7 +1613,7 @@
     "Sterbedatum": "1926-04-30",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__482\">Weiskirchner</rs>"
   },
   "86": {
     "id": 86,
@@ -1629,7 +1629,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__86\">Wenedikter</rs>"
   },
   "599": {
     "id": 599,
@@ -1645,7 +1645,7 @@
     "Sterbedatum": "1957-12-04",
     "Geburtsort": "Reichenberg",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__599\">Wildner</rs>"
   },
   "88": {
     "id": 88,
@@ -1661,7 +1661,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__88\">Wilfing</rs>"
   },
   "89": {
     "id": 89,
@@ -1669,7 +1669,7 @@
     "label": "Wollheim, Oskar Dr.",
     "anmerkungen": "",
     "gnd_url": "",
-    "Funktion": "Ministerialrat",
+    "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
     "Quelle": "",
     "krp_person_id": "krp_person_id__89",
     "wikidata_url": "",
@@ -1677,7 +1677,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__89\">Wollheim</rs>"
   },
   "90": {
     "id": 90,
@@ -1693,7 +1693,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__90\">List</rs>"
   },
   "91": {
     "id": 91,
@@ -1709,7 +1709,7 @@
     "Sterbedatum": "1926-10-13",
     "Geburtsort": "Sollenau",
     "Sterbeort": "Sollenau",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__91\">Gruber</rs>"
   },
   "92": {
     "id": 92,
@@ -1725,7 +1725,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__92\">Hillbrand</rs>"
   },
   "93": {
     "id": 93,
@@ -1741,7 +1741,7 @@
     "Sterbedatum": "1960-11-26",
     "Geburtsort": "Hittisau",
     "Sterbeort": "Hittisau",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__93\">Bechter</rs>"
   },
   "94": {
     "id": 94,
@@ -1757,7 +1757,7 @@
     "Sterbedatum": "1946-12-21",
     "Geburtsort": "Velm",
     "Sterbeort": "Brunn am Gebirge",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__94\">Christoph</rs>"
   },
   "502": {
     "id": 502,
@@ -1773,7 +1773,7 @@
     "Sterbedatum": "1919-11-03",
     "Geburtsort": "Persenbeug",
     "Sterbeort": "Achenkirchen",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__502\">Wimmer</rs>"
   },
   "95": {
     "id": 95,
@@ -1789,7 +1789,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__95\">Winsauer</rs>"
   },
   "548": {
     "id": 548,
@@ -1805,7 +1805,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__548\">Hutchinson</rs>"
   },
   "97": {
     "id": 97,
@@ -1821,7 +1821,7 @@
     "Sterbedatum": "1935-01-31",
     "Geburtsort": "Sezemitz, Böhmen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__97\">Ippen</rs>"
   },
   "98": {
     "id": 98,
@@ -1837,7 +1837,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__98\">Oberdorffer</rs>"
   },
   "99": {
     "id": 99,
@@ -1853,7 +1853,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__99\">Weinczierl</rs>"
   },
   "100": {
     "id": 100,
@@ -1869,7 +1869,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__100\">Syrowatk</rs>"
   },
   "101": {
     "id": 101,
@@ -1885,7 +1885,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__101\">Pollak</rs>"
   },
   "102": {
     "id": 102,
@@ -1901,7 +1901,7 @@
     "Sterbedatum": "1923-06-24",
     "Geburtsort": "Bozen",
     "Sterbeort": "Meran",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__102\">Grabmayr</rs>"
   },
   "561": {
     "id": 561,
@@ -1917,7 +1917,7 @@
     "Sterbedatum": "1929-02-01",
     "Geburtsort": "Döbling",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__561\">Benedikt</rs>"
   },
   "549": {
     "id": 549,
@@ -1933,7 +1933,7 @@
     "Sterbedatum": "1942-11-21",
     "Geburtsort": "Wien",
     "Sterbeort": "Peresznye bei Ödenburg",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__549\">Berchtold</rs>"
   },
   "103": {
     "id": 103,
@@ -1949,7 +1949,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__103\">Berka</rs>"
   },
   "104": {
     "id": 104,
@@ -1965,7 +1965,7 @@
     "Sterbedatum": "1944-07-13",
     "Geburtsort": "Wien",
     "Sterbeort": "Zell/Seekirchen am Wallersee??",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__104\">Sylvester</rs>"
   },
   "105": {
     "id": 105,
@@ -1981,7 +1981,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__105\">Urbanitzky</rs>"
   },
   "613": {
     "id": 613,
@@ -1997,7 +1997,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__613\">Kiesling</rs>"
   },
   "106": {
     "id": 106,
@@ -2013,7 +2013,7 @@
     "Sterbedatum": "1926-04-06",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__106\">Klein</rs>"
   },
   "107": {
     "id": 107,
@@ -2029,7 +2029,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__107\">Peter</rs>"
   },
   "108": {
     "id": 108,
@@ -2045,13 +2045,13 @@
     "Sterbedatum": "1963-03-22",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__108\">Eichhoff</rs>"
   },
   "109": {
     "id": 109,
     "order": "108.00000000000000000000",
-    "label": "Kloss, Rudolf Dr. (Anmerkung: Hans Kloss kann es nicht sein)",
-    "anmerkungen": "",
+    "label": "Kloss, Rudolf Dr.",
+    "anmerkungen": "(Anmerkung: Hans Kloss kann es nicht sein)",
     "gnd_url": "",
     "Funktion": "Ministerialrat, Staatsamt für Handel und Gewerbe, Industrie und Bauten",
     "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190418&query=%22Rudolf+Kloss%22&ref=anno-search&seite=1",
@@ -2061,7 +2061,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__109\">Kloss</rs>"
   },
   "500": {
     "id": 500,
@@ -2077,7 +2077,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__500\">Kollmann</rs>"
   },
   "618": {
     "id": 618,
@@ -2093,7 +2093,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__618\">Kořim</rs>"
   },
   "110": {
     "id": 110,
@@ -2109,7 +2109,7 @@
     "Sterbedatum": "1957-01-04",
     "Geburtsort": "Komorn",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__110\">Körner</rs>"
   },
   "111": {
     "id": 111,
@@ -2125,7 +2125,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__111\">Pfaundler</rs>"
   },
   "112": {
     "id": 112,
@@ -2141,7 +2141,7 @@
     "Sterbedatum": "1908-11-09",
     "Geburtsort": "Meppel",
     "Sterbeort": "Hyéres",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__112\">Duveen</rs>"
   },
   "113": {
     "id": 113,
@@ -2157,7 +2157,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__113\">Glück</rs>"
   },
   "114": {
     "id": 114,
@@ -2173,7 +2173,7 @@
     "Sterbedatum": "1944-01-22",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__114\">Haberditzl</rs>"
   },
   "554": {
     "id": 554,
@@ -2189,7 +2189,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__554\">Leifer</rs>"
   },
   "115": {
     "id": 115,
@@ -2205,7 +2205,7 @@
     "Sterbedatum": "1938-12-09",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__115\">Leisching</rs>"
   },
   "116": {
     "id": 116,
@@ -2221,7 +2221,7 @@
     "Sterbedatum": "1954-04-12",
     "Geburtsort": "Prag",
     "Sterbeort": "New York",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__116\">Tietze</rs>"
   },
   "117": {
     "id": 117,
@@ -2237,7 +2237,7 @@
     "Sterbedatum": "1937-01-20",
     "Geburtsort": "Salzburg",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__117\">Alexy</rs>"
   },
   "118": {
     "id": 118,
@@ -2253,7 +2253,7 @@
     "Sterbedatum": "1942-05-14",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__118\">Vetter</rs>"
   },
   "483": {
     "id": 483,
@@ -2269,7 +2269,7 @@
     "Sterbedatum": "1936-03-24",
     "Geburtsort": "Brixen",
     "Sterbeort": "Innsbruck",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__483\">Schöpfer</rs>"
   },
   "119": {
     "id": 119,
@@ -2285,7 +2285,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__119\">Schubert</rs>"
   },
   "120": {
     "id": 120,
@@ -2301,7 +2301,7 @@
     "Sterbedatum": "1945-12-17",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__120\">Auspitz</rs>"
   },
   "598": {
     "id": 598,
@@ -2317,7 +2317,7 @@
     "Sterbedatum": "1952-06-14",
     "Geburtsort": "Scuol",
     "Sterbeort": "Zürich",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__598\">Calonder</rs>"
   },
   "123": {
     "id": 123,
@@ -2333,7 +2333,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__123\">Causey</rs>"
   },
   "125": {
     "id": 125,
@@ -2349,7 +2349,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__125\">Gregory</rs>"
   },
   "480": {
     "id": 480,
@@ -2365,7 +2365,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__480\">Burger</rs>"
   },
   "126": {
     "id": 126,
@@ -2381,7 +2381,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__126\">Buttler</rs>"
   },
   "545": {
     "id": 545,
@@ -2397,7 +2397,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__545\">Habsburg-Lothringen</rs>"
   },
   "127": {
     "id": 127,
@@ -2413,7 +2413,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__127\">Habsburg-Lothringen</rs>"
   },
   "128": {
     "id": 128,
@@ -2429,7 +2429,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__128\">Habsburg-Lothringen</rs>"
   },
   "129": {
     "id": 129,
@@ -2445,7 +2445,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__129\">Habsburg-Lothringen</rs>"
   },
   "130": {
     "id": 130,
@@ -2461,7 +2461,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__130\">Habsburg-Lothringen</rs>"
   },
   "132": {
     "id": 132,
@@ -2477,7 +2477,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__132\">Habsburg-Lothringen</rs>"
   },
   "133": {
     "id": 133,
@@ -2493,7 +2493,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__133\">Habsburg-Lothringen</rs>"
   },
   "134": {
     "id": 134,
@@ -2509,7 +2509,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__134\">Habsburg-Lothringen</rs>"
   },
   "135": {
     "id": 135,
@@ -2525,7 +2525,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__135\">Noven</rs>"
   },
   "136": {
     "id": 136,
@@ -2541,7 +2541,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__136\">Lindner</rs>"
   },
   "137": {
     "id": 137,
@@ -2557,7 +2557,7 @@
     "Sterbedatum": "1942-06-11",
     "Geburtsort": "Wien",
     "Sterbeort": "Perchtoldsdorf bei Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__137\">Trenkwald</rs>"
   },
   "138": {
     "id": 138,
@@ -2573,7 +2573,7 @@
     "Sterbedatum": "1942-02-12",
     "Geburtsort": "Agram (Zagreb)",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__138\">Sever</rs>"
   },
   "139": {
     "id": 139,
@@ -2589,7 +2589,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__139\">Ziller</rs>"
   },
   "140": {
     "id": 140,
@@ -2605,7 +2605,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__140\">Boschan</rs>"
   },
   "141": {
     "id": 141,
@@ -2621,7 +2621,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__141\">Hornik</rs>"
   },
   "143": {
     "id": 143,
@@ -2637,7 +2637,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__143\">Mauelère</rs>"
   },
   "144": {
     "id": 144,
@@ -2653,7 +2653,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__144\">Otavsky</rs>"
   },
   "145": {
     "id": 145,
@@ -2669,7 +2669,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__145\">Geist</rs>"
   },
   "146": {
     "id": 146,
@@ -2685,7 +2685,7 @@
     "Sterbedatum": "1960-04-03",
     "Geburtsort": "Wien",
     "Sterbeort": "London",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__146\">Lelewer</rs>"
   },
   "559": {
     "id": 559,
@@ -2701,7 +2701,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__559\">Lamberg</rs>"
   },
   "558": {
     "id": 558,
@@ -2717,7 +2717,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__558\">Lamberg</rs>"
   },
   "147": {
     "id": 147,
@@ -2733,7 +2733,7 @@
     "Sterbedatum": "1943-03-04",
     "Geburtsort": "Falkenau an der Donau, Böhmen",
     "Sterbeort": "Nikolsburg, Mähren",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__147\">Lanzendörfer</rs>"
   },
   "629": {
     "id": 629,
@@ -2749,7 +2749,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__629\">Karzel</rs>"
   },
   "149": {
     "id": 149,
@@ -2765,7 +2765,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__149\">Katz</rs>"
   },
   "150": {
     "id": 150,
@@ -2781,7 +2781,7 @@
     "Sterbedatum": "1940-01-14",
     "Geburtsort": "Wien",
     "Sterbeort": "Buenos Aires",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__150\">Chlumecky</rs>"
   },
   "184": {
     "id": 184,
@@ -2797,7 +2797,7 @@
     "Sterbedatum": "1930-07-03",
     "Geburtsort": "Brünn",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__184\">Coumont</rs>"
   },
   "185": {
     "id": 185,
@@ -2813,7 +2813,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__185\">Stritzl</rs>"
   },
   "187": {
     "id": 187,
@@ -2829,23 +2829,7 @@
     "Sterbedatum": "1944-01-20",
     "Geburtsort": "Innsbruck",
     "Sterbeort": "Wien",
-    "TEI-Code": null
-  },
-  "189": {
-    "id": 189,
-    "order": "156.00000000000000000000",
-    "label": "Krasny, Arnold Dr. [von Ergen]",
-    "anmerkungen": "",
-    "gnd_url": "",
-    "Funktion": "Sektionschef",
-    "Quelle": "https://www.biographien.ac.at/oebl/oebl_K/Krasny-Ergen_Arnold_1869_1937.xml",
-    "krp_person_id": "krp_person_id__189",
-    "wikidata_url": "",
-    "Geburtsdatum": null,
-    "Sterbedatum": null,
-    "Geburtsort": null,
-    "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__187\">Redlich</rs>"
   },
   "190": {
     "id": 190,
@@ -2861,7 +2845,7 @@
     "Sterbedatum": "1958-01-20",
     "Geburtsort": "Dresden",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__190\">Richter</rs>"
   },
   "192": {
     "id": 192,
@@ -2877,7 +2861,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__192\">Egghard</rs>"
   },
   "194": {
     "id": 194,
@@ -2893,7 +2877,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__194\">Geiser</rs>"
   },
   "196": {
     "id": 196,
@@ -2909,7 +2893,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__196\">Hübner</rs>"
   },
   "197": {
     "id": 197,
@@ -2925,7 +2909,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__197\">Neander</rs>"
   },
   "198": {
     "id": 198,
@@ -2941,7 +2925,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__198\">Zadovsky</rs>"
   },
   "485": {
     "id": 485,
@@ -2957,7 +2941,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__485\">Kowy</rs>"
   },
   "200": {
     "id": 200,
@@ -2973,7 +2957,7 @@
     "Sterbedatum": null,
     "Geburtsort": "Cehu Silvaniei",
     "Sterbeort": "Moskau",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__200\">Kun</rs>"
   },
   "201": {
     "id": 201,
@@ -2989,7 +2973,7 @@
     "Sterbedatum": "1939-07-23",
     "Geburtsort": "Innsbruck",
     "Sterbeort": "Kleinvolderberg, Tirol",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__201\">Schuhmacher</rs>"
   },
   "202": {
     "id": 202,
@@ -3005,7 +2989,7 @@
     "Sterbedatum": "1937-08-31",
     "Geburtsort": "Graz",
     "Sterbeort": "Graz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__202\">Fleischhacker</rs>"
   },
   "605": {
     "id": 605,
@@ -3021,7 +3005,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__605\">Gerstmann</rs>"
   },
   "203": {
     "id": 203,
@@ -3037,7 +3021,7 @@
     "Sterbedatum": "1945-04-16",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__203\">Glanz</rs>"
   },
   "204": {
     "id": 204,
@@ -3053,7 +3037,7 @@
     "Sterbedatum": "1926-11-21",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__204\">Keil</rs>"
   },
   "205": {
     "id": 205,
@@ -3069,7 +3053,7 @@
     "Sterbedatum": "1972-08-28",
     "Geburtsort": "Jacksonville",
     "Sterbeort": "Jacksonville",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__205\">Stockton</rs>"
   },
   "207": {
     "id": 207,
@@ -3085,7 +3069,7 @@
     "Sterbedatum": "1964-10-20",
     "Geburtsort": "West Branch, Iowa",
     "Sterbeort": "New York",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__207\">Hoover</rs>"
   },
   "208": {
     "id": 208,
@@ -3101,7 +3085,7 @@
     "Sterbedatum": "1935-02-13",
     "Geburtsort": "Prag",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__208\">Kelle</rs>"
   },
   "209": {
     "id": 209,
@@ -3117,7 +3101,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__209\">Stockhamer</rs>"
   },
   "505": {
     "id": 505,
@@ -3133,7 +3117,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__505\">Wernigg</rs>"
   },
   "210": {
     "id": 210,
@@ -3149,7 +3133,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__210\">Wernisch</rs>"
   },
   "212": {
     "id": 212,
@@ -3165,7 +3149,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__212\">Gruber</rs>"
   },
   "215": {
     "id": 215,
@@ -3181,7 +3165,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__215\">Binder</rs>"
   },
   "217": {
     "id": 217,
@@ -3197,7 +3181,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__217\">Alter</rs>"
   },
   "219": {
     "id": 219,
@@ -3213,7 +3197,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__219\">Fischer</rs>"
   },
   "220": {
     "id": 220,
@@ -3229,7 +3213,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__220\">Kniep</rs>"
   },
   "486": {
     "id": 486,
@@ -3245,7 +3229,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__486\">Neumann</rs>"
   },
   "223": {
     "id": 223,
@@ -3261,7 +3245,7 @@
     "Sterbedatum": "1941-03-17",
     "Geburtsort": "Wien",
     "Sterbeort": "Torquay",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__223\">Neurath</rs>"
   },
   "562": {
     "id": 562,
@@ -3277,7 +3261,7 @@
     "Sterbedatum": "1946-01-28",
     "Geburtsort": "Graz",
     "Sterbeort": "Graz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__562\">Rintelen</rs>"
   },
   "224": {
     "id": 224,
@@ -3293,7 +3277,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__224\">Rogers</rs>"
   },
   "608": {
     "id": 608,
@@ -3309,7 +3293,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__608\">Weyda</rs>"
   },
   "225": {
     "id": 225,
@@ -3325,7 +3309,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__225\">Whitson</rs>"
   },
   "226": {
     "id": 226,
@@ -3341,7 +3325,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__226\">Pohl</rs>"
   },
   "228": {
     "id": 228,
@@ -3357,7 +3341,7 @@
     "Sterbedatum": "1923-04-29",
     "Geburtsort": "Eger, Kraj Karlsbad",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__228\">Plener</rs>"
   },
   "621": {
     "id": 621,
@@ -3373,7 +3357,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__621\">Fontana</rs>"
   },
   "229": {
     "id": 229,
@@ -3389,7 +3373,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__229\">Foris</rs>"
   },
   "230": {
     "id": 230,
@@ -3405,7 +3389,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__230\">Jentl</rs>"
   },
   "231": {
     "id": 231,
@@ -3421,7 +3405,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__231\">Speil-Ostheim</rs>"
   },
   "232": {
     "id": 232,
@@ -3437,7 +3421,7 @@
     "Sterbedatum": "1930-10-13",
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__232\">Allizé</rs>"
   },
   "233": {
     "id": 233,
@@ -3453,12 +3437,12 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__233\">Pesta</rs>"
   },
   "601": {
     "id": 601,
     "order": "199.50000000000000000000",
-    "label": "Kelsen, Hans",
+    "label": "Kelsen, Hans a.o. Professor",
     "anmerkungen": "",
     "gnd_url": "https://d-nb.info/gnd/118561219",
     "Funktion": "Verfassungsrechtler",
@@ -3469,7 +3453,7 @@
     "Sterbedatum": "1973-04-19",
     "Geburtsort": "Prag",
     "Sterbeort": "Berkeley, California",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__601\">Kelsen</rs>"
   },
   "234": {
     "id": 234,
@@ -3485,7 +3469,7 @@
     "Sterbedatum": "1956-11-23",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__196\">Kienböck</rs>"
   },
   "235": {
     "id": 235,
@@ -3501,7 +3485,7 @@
     "Sterbedatum": "1945-07-06",
     "Geburtsort": "Josefstadt, Böhmen",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__235\">Tomschik</rs>"
   },
   "237": {
     "id": 237,
@@ -3517,7 +3501,7 @@
     "Sterbedatum": "1960-01-02",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__237\">Zelenka</rs>"
   },
   "238": {
     "id": 238,
@@ -3533,7 +3517,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__238\">Phillpotts</rs>"
   },
   "239": {
     "id": 239,
@@ -3549,7 +3533,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__239\">Goode</rs>"
   },
   "240": {
     "id": 240,
@@ -3565,7 +3549,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__240\">Hamburger</rs>"
   },
   "241": {
     "id": 241,
@@ -3581,7 +3565,7 @@
     "Sterbedatum": "1959-11-17",
     "Geburtsort": "Znojmo",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__241\">Hummer</rs>"
   },
   "242": {
     "id": 242,
@@ -3597,7 +3581,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__242\">Jüptner</rs>"
   },
   "243": {
     "id": 243,
@@ -3613,7 +3597,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__243\">Hlawač</rs>"
   },
   "245": {
     "id": 245,
@@ -3629,7 +3613,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__245\">Ehrenfeld-Pop</rs>"
   },
   "246": {
     "id": 246,
@@ -3645,7 +3629,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__246\">Rücker</rs>"
   },
   "609": {
     "id": 609,
@@ -3661,7 +3645,7 @@
     "Sterbedatum": "1931-08-14",
     "Geburtsort": "Ostrau, österr Schlesien",
     "Sterbeort": "Graz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__609\">Kunz</rs>"
   },
   "247": {
     "id": 247,
@@ -3677,7 +3661,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__247\">Kunze</rs>"
   },
   "248": {
     "id": 248,
@@ -3693,7 +3677,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__248\">Vielgut</rs>"
   },
   "249": {
     "id": 249,
@@ -3709,7 +3693,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__249\">Redinger</rs>"
   },
   "250": {
     "id": 250,
@@ -3725,7 +3709,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__250\">Scapinelli</rs>"
   },
   "252": {
     "id": 252,
@@ -3741,7 +3725,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__252\">Halban</rs>"
   },
   "253": {
     "id": 253,
@@ -3757,7 +3741,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__253\">Kaltenbrunner</rs>"
   },
   "489": {
     "id": 489,
@@ -3773,7 +3757,7 @@
     "Sterbedatum": "1924-07-10",
     "Geburtsort": "Brünn",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__489\">Harpner</rs>"
   },
   "255": {
     "id": 255,
@@ -3789,7 +3773,7 @@
     "Sterbedatum": null,
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__255\">Hartl</rs>"
   },
   "256": {
     "id": 256,
@@ -3805,7 +3789,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__256\">Müller</rs>"
   },
   "257": {
     "id": 257,
@@ -3821,7 +3805,7 @@
     "Sterbedatum": "1925-07-29",
     "Geburtsort": "Wien",
     "Sterbeort": "Klagenfurt",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__257\">Neumann</rs>"
   },
   "258": {
     "id": 258,
@@ -3837,7 +3821,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__258\">Breitner</rs>"
   },
   "259": {
     "id": 259,
@@ -3853,7 +3837,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__259\">Speiser</rs>"
   },
   "260": {
     "id": 260,
@@ -3869,7 +3853,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__260\">Schneller</rs>"
   },
   "265": {
     "id": 265,
@@ -3885,7 +3869,7 @@
     "Sterbedatum": "1991-06-05",
     "Geburtsort": null,
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__265\">Cilek</rs>"
   },
   "266": {
     "id": 266,
@@ -3901,7 +3885,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__266\">Stams</rs>"
   },
   "267": {
     "id": 267,
@@ -3917,7 +3901,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__267\">Burg</rs>"
   },
   "269": {
     "id": 269,
@@ -3933,7 +3917,7 @@
     "Sterbedatum": null,
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__269\">Gottlieb-Billroth</rs>"
   },
   "270": {
     "id": 270,
@@ -3949,7 +3933,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__270\">Grünwald</rs>"
   },
   "550": {
     "id": 550,
@@ -3965,7 +3949,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__550\">Millsteiger</rs>"
   },
   "271": {
     "id": 271,
@@ -3981,7 +3965,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__271\">Mörth</rs>"
   },
   "272": {
     "id": 272,
@@ -3997,7 +3981,7 @@
     "Sterbedatum": "1927-08-08",
     "Geburtsort": "Kopfing, Oberösterreich",
     "Sterbeort": "Wilhering, Oberösterreich",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__272\">Hauser</rs>"
   },
   "617": {
     "id": 617,
@@ -4013,7 +3997,7 @@
     "Sterbedatum": "1949-12-01",
     "Geburtsort": "Jurkoutz, Bukowina",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__617\">Seidmann</rs>"
   },
   "476": {
     "id": 476,
@@ -4029,7 +4013,7 @@
     "Sterbedatum": "1936-02-07",
     "Geburtsort": "Turin",
     "Sterbeort": "Mailand",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__476\">Segré</rs>"
   },
   "274": {
     "id": 274,
@@ -4045,7 +4029,7 @@
     "Sterbedatum": "1932-08-02",
     "Geburtsort": "Wien",
     "Sterbeort": "Pernitz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__274\">Seipel</rs>"
   },
   "276": {
     "id": 276,
@@ -4061,7 +4045,7 @@
     "Sterbedatum": "1933-03-16",
     "Geburtsort": "Gabel, Böhmen",
     "Sterbeort": "Graz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__276\">Gürtler</rs>"
   },
   "277": {
     "id": 277,
@@ -4077,7 +4061,7 @@
     "Sterbedatum": "1960-01-02",
     "Geburtsort": "Wien",
     "Sterbeort": "Zürich",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__277\">Adler</rs>"
   },
   "279": {
     "id": 279,
@@ -4093,7 +4077,7 @@
     "Sterbedatum": "1940-03-04",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__279\">Dittes</rs>"
   },
   "280": {
     "id": 280,
@@ -4109,7 +4093,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__280\">Hold</rs>"
   },
   "282": {
     "id": 282,
@@ -4125,7 +4109,7 @@
     "Sterbedatum": "1953-12-10",
     "Geburtsort": "Schaffa",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__282\">Allina</rs>"
   },
   "283": {
     "id": 283,
@@ -4141,7 +4125,7 @@
     "Sterbedatum": "1936-08-23",
     "Geburtsort": "Resita",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__283\">Friedmann</rs>"
   },
   "284": {
     "id": 284,
@@ -4157,7 +4141,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__284\">Logan</rs>"
   },
   "560": {
     "id": 560,
@@ -4173,7 +4157,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__560\">Singer</rs>"
   },
   "484": {
     "id": 484,
@@ -4189,7 +4173,7 @@
     "Sterbedatum": "1932-10-04",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__484\">Slatin</rs>"
   },
   "285": {
     "id": 285,
@@ -4205,7 +4189,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__285\">Smith</rs>"
   },
   "508": {
     "id": 508,
@@ -4221,7 +4205,7 @@
     "Sterbedatum": "1929-02-15",
     "Geburtsort": "Belluno",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__508\">Boog</rs>"
   },
   "286": {
     "id": 286,
@@ -4237,7 +4221,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__286\">Bösbauer</rs>"
   },
   "288": {
     "id": 288,
@@ -4253,7 +4237,7 @@
     "Sterbedatum": "1940-05-31",
     "Geburtsort": "Guebwiller",
     "Sterbeort": "Basel",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__288\">Bourcart</rs>"
   },
   "622": {
     "id": 622,
@@ -4269,7 +4253,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__622\">Rodler</rs>"
   },
   "289": {
     "id": 289,
@@ -4285,7 +4269,7 @@
     "Sterbedatum": "1935-06-21",
     "Geburtsort": "Brünn",
     "Sterbeort": "WIen",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__289\">Roller</rs>"
   },
   "479": {
     "id": 479,
@@ -4301,7 +4285,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__479\">Ganglbauer</rs>"
   },
   "290": {
     "id": 290,
@@ -4317,7 +4301,7 @@
     "Sterbedatum": "1964-09-11",
     "Geburtsort": "Prag",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__290\">Garzarolli</rs>"
   },
   "291": {
     "id": 291,
@@ -4333,7 +4317,7 @@
     "Sterbedatum": "1946-02-19",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__291\">Hölzl</rs>"
   },
   "292": {
     "id": 292,
@@ -4349,7 +4333,7 @@
     "Sterbedatum": "1953-02-20",
     "Geburtsort": "Melfi",
     "Sterbeort": "Rom",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__292\">Nitti</rs>"
   },
   "293": {
     "id": 293,
@@ -4365,7 +4349,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__293\">Stark</rs>"
   },
   "294": {
     "id": 294,
@@ -4381,7 +4365,7 @@
     "Sterbedatum": "1944-03-19",
     "Geburtsort": "Innsbruck",
     "Sterbeort": "Innsbruck",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__294\">Falser</rs>"
   },
   "295": {
     "id": 295,
@@ -4397,7 +4381,7 @@
     "Sterbedatum": "1949-01-01",
     "Geburtsort": "Innsbruck",
     "Sterbeort": "Innsbruck",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__295\">Erler</rs>"
   },
   "296": {
     "id": 296,
@@ -4413,7 +4397,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__296\">Bernegger</rs>"
   },
   "611": {
     "id": 611,
@@ -4429,7 +4413,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__611\">Jacobi</rs>"
   },
   "297": {
     "id": 297,
@@ -4445,7 +4429,7 @@
     "Sterbedatum": "1929-06-06",
     "Geburtsort": "Ehrwald",
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__297\">Jäger</rs>"
   },
   "298": {
     "id": 298,
@@ -4461,7 +4445,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__298\">Zweifel</rs>"
   },
   "299": {
     "id": 299,
@@ -4469,7 +4453,7 @@
     "label": "Ludwig (Anton Joseph) Viktor, Erzherzog von Österreich",
     "anmerkungen": "",
     "gnd_url": "",
-    "Funktion": "jüngster Brüder Kaiser Franz Josephs",
+    "Funktion": "jüngster Bruder Kaiser Franz Josephs",
     "Quelle": "https://www.biographien.ac.at/oebl_5/351.pdf",
     "krp_person_id": "krp_person_id__299",
     "wikidata_url": "",
@@ -4477,7 +4461,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__299\">Ludwig</rs>"
   },
   "301": {
     "id": 301,
@@ -4493,12 +4477,12 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__301\">Habsburg-Lothringen</rs>"
   },
   "302": {
     "id": 302,
     "order": "266.00000000000000000000",
-    "label": "Jung Georg",
+    "label": "Jung, Georg",
     "anmerkungen": "",
     "gnd_url": "",
     "Funktion": "Eigentümer des Hotel de l’Europe in Salzburg",
@@ -4509,7 +4493,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__302\">Jung</rs>"
   },
   "497": {
     "id": 497,
@@ -4525,23 +4509,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
-  },
-  "303": {
-    "id": 303,
-    "order": "267.00000000000000000000",
-    "label": "Wollheim",
-    "anmerkungen": "",
-    "gnd_url": "",
-    "Funktion": "Ministerialrat Staatsamt für Finanzen [III]",
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19221121&query=%22ministerialrat+Wollheim%22&ref=anno-search&seite=2",
-    "krp_person_id": "krp_person_id__303",
-    "wikidata_url": "",
-    "Geburtsdatum": null,
-    "Sterbedatum": null,
-    "Geburtsort": null,
-    "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__497\">Wokral</rs>"
   },
   "612": {
     "id": 612,
@@ -4557,7 +4525,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__612\">Dorschel</rs>"
   },
   "607": {
     "id": 607,
@@ -4565,7 +4533,7 @@
     "label": "Drucker, Adolf Dr.",
     "anmerkungen": "",
     "gnd_url": "",
-    "Funktion": "Direkter des Handelsmuseums",
+    "Funktion": "Direktor des Handelsmuseums",
     "Quelle": "",
     "krp_person_id": "krp_person_id__607",
     "wikidata_url": "",
@@ -4573,7 +4541,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__607\">Drucker</rs>"
   },
   "304": {
     "id": 304,
@@ -4589,7 +4557,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__304\">Dubowy</rs>"
   },
   "305": {
     "id": 305,
@@ -4605,7 +4573,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__305\">Linder</rs>"
   },
   "306": {
     "id": 306,
@@ -4621,7 +4589,7 @@
     "Sterbedatum": "1926-01-28",
     "Geburtsort": "London-Hampstead",
     "Sterbeort": "Biarritz",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__306\">Troubridge</rs>"
   },
   "307": {
     "id": 307,
@@ -4637,7 +4605,7 @@
     "Sterbedatum": "1950-02-20",
     "Geburtsort": "Staasdorf",
     "Sterbeort": "Tulln an der Donau",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__307\">Buchinger</rs>"
   },
   "309": {
     "id": 309,
@@ -4653,7 +4621,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__309\">Schürff</rs>"
   },
   "543": {
     "id": 543,
@@ -4669,7 +4637,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__543\">Oldofredi</rs>"
   },
   "310": {
     "id": 310,
@@ -4685,7 +4653,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__310\">Oppenheimer</rs>"
   },
   "490": {
     "id": 490,
@@ -4701,7 +4669,7 @@
     "Sterbedatum": "1926-07-27",
     "Geburtsort": "Wien",
     "Sterbeort": "Bad Gastein",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__490\">Heiderich</rs>"
   },
   "312": {
     "id": 312,
@@ -4717,7 +4685,7 @@
     "Sterbedatum": "1937-10-06",
     "Geburtsort": "Fulnek",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__312\">Heinz</rs>"
   },
   "313": {
     "id": 313,
@@ -4733,7 +4701,7 @@
     "Sterbedatum": null,
     "Geburtsort": "Budapest",
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__313\">Haager</rs>"
   },
   "315": {
     "id": 315,
@@ -4765,7 +4733,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__316\">Rappaport</rs>"
   },
   "319": {
     "id": 319,
@@ -4781,7 +4749,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__319\">Paltauf</rs>"
   },
   "615": {
     "id": 615,
@@ -4797,7 +4765,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__615\">Ballacs</rs>"
   },
   "474": {
     "id": 474,
@@ -4813,7 +4781,7 @@
     "Sterbedatum": "1927-10-28",
     "Geburtsort": "Kufstein",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__474\">Bamberger</rs>"
   },
   "614": {
     "id": 614,
@@ -4829,7 +4797,7 @@
     "Sterbedatum": "1960-10-09",
     "Geburtsort": "Wien",
     "Sterbeort": "Steindorf am Ossiachersee",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__614\">Bandl</rs>"
   },
   "320": {
     "id": 320,
@@ -4845,7 +4813,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__320\">Barrés</rs>"
   },
   "321": {
     "id": 321,
@@ -4861,7 +4829,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__321\">Wallace</rs>"
   },
   "322": {
     "id": 322,
@@ -4877,7 +4845,7 @@
     "Sterbedatum": "1962-12-04",
     "Geburtsort": "Palermo",
     "Sterbeort": "Rom",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__322\">Torretta</rs>"
   },
   "544": {
     "id": 544,
@@ -4893,7 +4861,7 @@
     "Sterbedatum": "1948-11-09",
     "Geburtsort": "Salzburg",
     "Sterbeort": "St. Gilgen",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__544\">Habsburg-Lothringen</rs>"
   },
   "323": {
     "id": 323,
@@ -4909,7 +4877,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__323\">Habsburg-Lothringen</rs>"
   },
   "325": {
     "id": 325,
@@ -4925,7 +4893,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__325\">Dittrich</rs>"
   },
   "326": {
     "id": 326,
@@ -4941,7 +4909,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__326\">Wettendorfer</rs>"
   },
   "627": {
     "id": 627,
@@ -4957,7 +4925,7 @@
     "Sterbedatum": "1921-02-08",
     "Geburtsort": "Raudnitz an der Elbe",
     "Sterbeort": "Schloss Grusbach",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__627\">Dvořák</rs>"
   },
   "504": {
     "id": 504,
@@ -4973,7 +4941,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__504\">Eckl</rs>"
   },
   "327": {
     "id": 327,
@@ -4989,7 +4957,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__327\">Egger</rs>"
   },
   "328": {
     "id": 328,
@@ -5005,7 +4973,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__328\">Ruber</rs>"
   },
   "329": {
     "id": 329,
@@ -5021,7 +4989,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__329\">Schwegel</rs>"
   },
   "330": {
     "id": 330,
@@ -5037,7 +5005,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__330\">Peter</rs>"
   },
   "546": {
     "id": 546,
@@ -5053,7 +5021,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__546\">Amon</rs>"
   },
   "331": {
     "id": 331,
@@ -5069,7 +5037,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__331\">Aub</rs>"
   },
   "499": {
     "id": 499,
@@ -5085,7 +5053,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__499\">Kunzl</rs>"
   },
   "332": {
     "id": 332,
@@ -5101,7 +5069,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__332\">Kurz</rs>"
   },
   "333": {
     "id": 333,
@@ -5117,7 +5085,7 @@
     "Sterbedatum": "1932-05-08",
     "Geburtsort": "Champigny sur Marne",
     "Sterbeort": "Paris",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__333\">Thomas</rs>"
   },
   "334": {
     "id": 334,
@@ -5133,7 +5101,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__334\">de L'Epine</rs>"
   },
   "335": {
     "id": 335,
@@ -5149,7 +5117,7 @@
     "Sterbedatum": "1955-05-30",
     "Geburtsort": "Mödling",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__335\">Bartsch</rs>"
   },
   "337": {
     "id": 337,
@@ -5165,7 +5133,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__337\">Bunau-Varilla</rs>"
   },
   "552": {
     "id": 552,
@@ -5181,7 +5149,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__552\">Schoeller</rs>"
   },
   "556": {
     "id": 556,
@@ -5197,7 +5165,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__556\">Scholz</rs>"
   },
   "338": {
     "id": 338,
@@ -5213,7 +5181,7 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__338\">Schönemann</rs>"
   },
   "503": {
     "id": 503,
@@ -5229,7 +5197,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__503\">Kratzig</rs>"
   },
   "339": {
     "id": 339,
@@ -5245,7 +5213,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__339\">Kronholz</rs>"
   },
   "340": {
     "id": 340,
@@ -5261,7 +5229,7 @@
     "Sterbedatum": "1925-01-06",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__340\">Löwe</rs>"
   },
   "623": {
     "id": 623,
@@ -5277,7 +5245,7 @@
     "Sterbedatum": null,
     "Geburtsort": "Persenbeug",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__623\">Ludwig</rs>"
   },
   "341": {
     "id": 341,
@@ -5293,7 +5261,7 @@
     "Sterbedatum": "1929-07-13",
     "Geburtsort": "Czernowitz",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__341\">Mandyczewski</rs>"
   },
   "625": {
     "id": 625,
@@ -5309,7 +5277,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__625\">Scheuch</rs>"
   },
   "342": {
     "id": 342,
@@ -5325,7 +5293,7 @@
     "Sterbedatum": "1943-09-29",
     "Geburtsort": "Prag",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__342\">Schlemmer-Ambros</rs>"
   },
   "343": {
     "id": 343,
@@ -5341,12 +5309,12 @@
     "Sterbedatum": "1932-09-18",
     "Geburtsort": "Nurmijärvi",
     "Sterbeort": "Wyborg",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__343\">Fórsten</rs>"
   },
   "344": {
     "id": 344,
     "order": "308.00000000000000000000",
-    "label": "Geiringer Gustav",
+    "label": "Geiringer, Gustav",
     "anmerkungen": "",
     "gnd_url": "https://d-nb.info/gnd/142252549",
     "Funktion": "Lehrer für Sologesang",
@@ -5357,7 +5325,7 @@
     "Sterbedatum": "1945-04-22",
     "Geburtsort": "Wien",
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__344\">Geiringer</rs>"
   },
   "345": {
     "id": 345,
@@ -5373,7 +5341,7 @@
     "Sterbedatum": "1921-12-16",
     "Geburtsort": "Bad Hall, Oberösterreich",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__345\">Haböck</rs>"
   },
   "346": {
     "id": 346,
@@ -5389,7 +5357,7 @@
     "Sterbedatum": "1922-07-17",
     "Geburtsort": "Surabaya",
     "Sterbeort": "Schloss Orth bei Gmunden, Oberösterreich",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__346\">Thomas</rs>"
   },
   "347": {
     "id": 347,
@@ -5405,7 +5373,7 @@
     "Sterbedatum": "1935-09-04",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__347\">Reinhold</rs>"
   },
   "553": {
     "id": 553,
@@ -5421,7 +5389,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__553\">Pantz</rs>"
   },
   "348": {
     "id": 348,
@@ -5437,7 +5405,7 @@
     "Sterbedatum": "1932-02-09",
     "Geburtsort": "Baden, Niederösterreich",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__348\">Papier-Paumgartner</rs>"
   },
   "349": {
     "id": 349,
@@ -5453,7 +5421,7 @@
     "Sterbedatum": "1927-10-18",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__349\">Hofmann</rs>"
   },
   "493": {
     "id": 493,
@@ -5469,7 +5437,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__493\">Schmid</rs>"
   },
   "350": {
     "id": 350,
@@ -5485,7 +5453,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__350\">Schmidt</rs>"
   },
   "495": {
     "id": 495,
@@ -5501,7 +5469,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__495\">Priebsch</rs>"
   },
   "351": {
     "id": 351,
@@ -5517,7 +5485,7 @@
     "Sterbedatum": "1927-03-27",
     "Geburtsort": "Mödling, Niederösterreich",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__73\">Prohaska</rs>"
   },
   "383": {
     "id": 383,
@@ -5533,7 +5501,7 @@
     "Sterbedatum": "1965-10-30",
     "Geburtsort": "Gera",
     "Sterbeort": "Zug",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__383\">Grümmer</rs>"
   },
   "551": {
     "id": 551,
@@ -5549,7 +5517,7 @@
     "Sterbedatum": "1967-07-24",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__551\">Marschall</rs>"
   },
   "384": {
     "id": 384,
@@ -5565,7 +5533,7 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__384\">Marx</rs>"
   },
   "416": {
     "id": 416,
@@ -5581,7 +5549,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__416\">Pöstinger</rs>"
   },
   "417": {
     "id": 417,
@@ -5597,7 +5565,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__417\">Zsiska</rs>"
   },
   "418": {
     "id": 418,
@@ -5613,7 +5581,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__418\">Kotzian</rs>"
   },
   "419": {
     "id": 419,
@@ -5629,7 +5597,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__419\">Kogler</rs>"
   },
   "452": {
     "id": 452,
@@ -5645,7 +5613,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__452\">Obermaier</rs>"
   },
   "453": {
     "id": 453,
@@ -5661,7 +5629,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__453\">Griesmüller</rs>"
   },
   "487": {
     "id": 487,
@@ -5677,7 +5645,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__487\">Hartmann</rs>"
   },
   "454": {
     "id": 454,
@@ -5693,7 +5661,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__454\">Hartmanngruber</rs>"
   },
   "496": {
     "id": 496,
@@ -5709,7 +5677,7 @@
     "Sterbedatum": "1939-03-27",
     "Geburtsort": "Mödling, Niederösterreich",
     "Sterbeort": "Wien",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__496\">Schürff</rs>"
   },
   "455": {
     "id": 455,
@@ -5725,7 +5693,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__455\">Schwarzinger</rs>"
   },
   "456": {
     "id": 456,
@@ -5741,7 +5709,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__456\">Ring</rs>"
   },
   "628": {
     "id": 628,
@@ -5757,7 +5725,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__628\">Bolzer</rs>"
   },
   "457": {
     "id": 457,
@@ -5773,7 +5741,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__457\">Boninchi</rs>"
   },
   "458": {
     "id": 458,
@@ -5789,7 +5757,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__458\">Sonnberger</rs>"
   },
   "459": {
     "id": 459,
@@ -5805,7 +5773,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__459\">Haider</rs>"
   },
   "460": {
     "id": 460,
@@ -5821,7 +5789,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__460\">Breuer</rs>"
   },
   "461": {
     "id": 461,
@@ -5837,7 +5805,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__461\">Wiesmaier</rs>"
   },
   "462": {
     "id": 462,
@@ -5853,7 +5821,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__462\">Schlosser</rs>"
   },
   "463": {
     "id": 463,
@@ -5869,7 +5837,7 @@
     "Sterbedatum": "1962-02-19",
     "Geburtsort": "St. Ruprecht",
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__463\">Cnobloch</rs>"
   },
   "616": {
     "id": 616,
@@ -5885,7 +5853,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__616\">Lenz</rs>"
   },
   "464": {
     "id": 464,
@@ -5901,7 +5869,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__464\">Lers</rs>"
   },
   "465": {
     "id": 465,
@@ -5917,7 +5885,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__465\">Pozzi</rs>"
   },
   "467": {
     "id": 467,
@@ -5933,7 +5901,7 @@
     "Sterbedatum": "1973-10-05",
     "Geburtsort": "Wien",
     "Sterbeort": "Oberalm",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__467\">Mannlicher</rs>"
   },
   "468": {
     "id": 468,
@@ -5949,7 +5917,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__468\">Bernhard</rs>"
   },
   "469": {
     "id": 469,
@@ -5965,7 +5933,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__469\">Schüch</rs>"
   },
   "626": {
     "id": 626,
@@ -5981,7 +5949,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__143\">Mengele</rs>"
   },
   "470": {
     "id": 470,
@@ -5997,7 +5965,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__470\">Metzger</rs>"
   },
   "471": {
     "id": 471,
@@ -6013,7 +5981,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__471\">Steyrer</rs>"
   },
   "472": {
     "id": 472,
@@ -6029,7 +5997,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__472\">Kohler</rs>"
   },
   "595": {
     "id": 595,
@@ -6045,7 +6013,7 @@
     "Sterbedatum": "1953-09-06",
     "Geburtsort": "Wien",
     "Sterbeort": "Felden/Wörthersee (Kärnten)",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__595\">Spitzmüller</rs>"
   },
   "596": {
     "id": 596,
@@ -6061,7 +6029,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__596\">Goebel</rs>"
   },
   "597": {
     "id": 597,
@@ -6077,7 +6045,7 @@
     "Sterbedatum": "1922-01-11",
     "Geburtsort": "Sillian",
     "Sterbeort": "Innsbruck",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__597\">Schraffl</rs>"
   },
   "661": {
     "id": 661,
@@ -6093,7 +6061,7 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__661\">Alberti</rs>"
   },
   "662": {
     "id": 662,
@@ -6105,11 +6073,11 @@
     "Quelle": "",
     "krp_person_id": "krp_person_id__662",
     "wikidata_url": "https://www.wikidata.org/wiki/Q271878",
-    "Geburtsdatum": null,
-    "Sterbedatum": null,
-    "Geburtsort": "",
-    "Sterbeort": "",
-    "TEI-Code": null
+    "Geburtsdatum": "1859-01-11",
+    "Sterbedatum": "1925-03-20",
+    "Geburtsort": "Kedleston Hall",
+    "Sterbeort": "London",
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__662\">Curzon</rs>"
   },
   "695": {
     "id": 695,
@@ -6125,7 +6093,7 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__695\">Steiner</rs>"
   },
   "696": {
     "id": 696,
@@ -6141,7 +6109,7 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__696\">Zedtwitz</rs>"
   },
   "697": {
     "id": 697,
@@ -6162,7 +6130,7 @@
   "698": {
     "id": 698,
     "order": "354.00000000000000000000",
-    "label": "Friedrich, Erzherzog von Österreich",
+    "label": "Österreich, Friedrich [Erzherzog von]",
     "anmerkungen": "",
     "gnd_url": "",
     "Funktion": "",
@@ -6173,6 +6141,38 @@
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__698\"></rs>"
+  },
+  "731": {
+    "id": 731,
+    "order": "355.00000000000000000000",
+    "label": "",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__731",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "TEI-Code": ""
+  },
+  "764": {
+    "id": 764,
+    "order": "356.00000000000000000000",
+    "label": "Karl I.",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "Kaiser",
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Karl_I.",
+    "krp_person_id": "krp_person_id__764",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__764\">Karl I.</rs>"
   }
 }

@@ -607,7 +607,7 @@
     "Aktiv": false,
     "Quelle": "https://www.oesta.gv.at/veroeffentlichungen/archivale-des-monats/Archivale-des-Monats-Juni-23.html",
     "krp_org_id": "krp_org_id__47",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__47\">WEWA</rs>"
   },
   "48": {
     "id": 48,
@@ -847,7 +847,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__179",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__179\">Tschechoslowakische Regierung</rs>"
   },
   "180": {
     "id": 180,
@@ -887,13 +887,13 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__183",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__183\"></rs>"
   },
   "184": {
     "id": 184,
     "order": "75.00000000000000000000",
     "Name": "österreichische Regierung",
-    "Anmerkungen": "",
+    "Anmerkungen": "Staatsregierung",
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__184",
@@ -1002,7 +1002,7 @@
   "195": {
     "id": 195,
     "order": "86.00000000000000000000",
-    "Name": "Landesregierung in Steiermark",
+    "Name": "Landesregierung Steiermark",
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": "",
@@ -1022,7 +1022,7 @@
   "197": {
     "id": 197,
     "order": "88.00000000000000000000",
-    "Name": "Landesversammlung in Salzburg",
+    "Name": "Provisorische Landesversammlung in Salzburg",
     "Anmerkungen": "",
     "Aktiv": false,
     "Quelle": "",
@@ -1047,7 +1047,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__199",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__199\"></rs>"
   },
   "200": {
     "id": 200,
@@ -1067,7 +1067,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__201",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__201\">Verfassungsgerichtshof</rs>"
   },
   "202": {
     "id": 202,
@@ -1177,7 +1177,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__213",
-    "TEI-Code": ""
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>"
   },
   "214": {
     "id": 214,
@@ -1237,7 +1237,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__219",
-    "TEI-Code": ""
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__219\"></rs>"
   },
   "220": {
     "id": 220,
@@ -1258,5 +1258,215 @@
     "Quelle": "",
     "krp_org_id": "krp_org_id__221",
     "TEI-Code": ""
+  },
+  "222": {
+    "id": 222,
+    "order": "112.00000000000000000000",
+    "Name": "Schweizer Bundesrat",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__222",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__222\">Schweizer Bundesrat</rs>"
+  },
+  "223": {
+    "id": 223,
+    "order": "113.00000000000000000000",
+    "Name": "Entente",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__223",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__223\">Entente</rs>"
+  },
+  "224": {
+    "id": 224,
+    "order": "114.00000000000000000000",
+    "Name": "Staatsrat",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Staatsrat",
+    "krp_org_id": "krp_org_id__224",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__224\">Staatsrat</rs>"
+  },
+  "225": {
+    "id": 225,
+    "order": "115.00000000000000000000",
+    "Name": "Eisenbahnbeirat",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://austriaca.at/0xc1aa5572%200x004012b8.pdf",
+    "krp_org_id": "krp_org_id__225",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__225\">Eisenbahnbeirat</rs>"
+  },
+  "226": {
+    "id": 226,
+    "order": "116.00000000000000000000",
+    "Name": "Staatsamt für Heereswesen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__226",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__226\">Staatsamt für Heereswesen</rs>"
+  },
+  "227": {
+    "id": 227,
+    "order": "117.00000000000000000000",
+    "Name": "Staatskommission für Kriegsgefangenenangelegenheiten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__227",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__227\">Staatskommission für Kriegsgefangenenangelegenheiten</rs>"
+  },
+  "228": {
+    "id": 228,
+    "order": "118.00000000000000000000",
+    "Name": "Schulbücherverläge",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__228",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__228\">Schulbücherverläge</rs>"
+  },
+  "229": {
+    "id": 229,
+    "order": "119.00000000000000000000",
+    "Name": "Wehrmacht",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__229",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__229\">Wehrmacht</rs>"
+  },
+  "230": {
+    "id": 230,
+    "order": "120.00000000000000000000",
+    "Name": "k. u. k. Armee",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__230",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. u. k. Armee</rs>"
+  },
+  "231": {
+    "id": 231,
+    "order": "121.00000000000000000000",
+    "Name": "k. k. Landwehr",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__231",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. k. Landwehr</rs>"
+  },
+  "232": {
+    "id": 232,
+    "order": "122.00000000000000000000",
+    "Name": "k. u. k. Kriegsmarine",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__232",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__232\">k. u. k. Kriegsmarine</rs>"
+  },
+  "233": {
+    "id": 233,
+    "order": "123.00000000000000000000",
+    "Name": "Sozialdemokratische Partei",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__233",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__233\">Sozialdemokratische Partei</rs>"
+  },
+  "234": {
+    "id": 234,
+    "order": "124.00000000000000000000",
+    "Name": "Christlichsoziale Partei",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__234",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__234\">Christlichsoziale Partei</rs>"
+  },
+  "235": {
+    "id": 235,
+    "order": "125.00000000000000000000",
+    "Name": "Verwaltungsgerichtshof",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__235",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__235\">Verwaltungsgerichtshof</rs>"
+  },
+  "236": {
+    "id": 236,
+    "order": "126.00000000000000000000",
+    "Name": "Provisorische Landesversammlung in Steiermark",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__236",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>"
+  },
+  "237": {
+    "id": 237,
+    "order": "127.00000000000000000000",
+    "Name": "Landesrat in Steiermark",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__237",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__237\"></rs>"
+  },
+  "238": {
+    "id": 238,
+    "order": "128.00000000000000000000",
+    "Name": "Staatsgerichtshof",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__238",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__238\">Staatsgerichtshof</rs>"
+  },
+  "239": {
+    "id": 239,
+    "order": "129.00000000000000000000",
+    "Name": "englische Regierung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__239",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__239\"></rs>"
+  },
+  "240": {
+    "id": 240,
+    "order": "130.00000000000000000000",
+    "Name": "Polizeidirektion",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__240",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__240\">Polizeidirektion</rs>"
+  },
+  "241": {
+    "id": 241,
+    "order": "131.00000000000000000000",
+    "Name": "Landesregierung Tirol",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__241",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__241\"></rs>"
+  },
+  "242": {
+    "id": 242,
+    "order": "132.00000000000000000000",
+    "Name": "Landesregierung Kärnten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__242",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__242\"></rs>"
   }
 }

@@ -5,14 +5,16 @@
     "Name": "Sokolkongress",
     "Anmerkungen": "",
     "Aktiv": false,
-    "krp_event_id": "krp_event_id__1"
+    "krp_event_id": "krp_event_id__1",
+    "TEI": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
+    "Name": "Länderkonferenz",
+    "Anmerkungen": "krp57",
     "Aktiv": false,
-    "krp_event_id": "krp_event_id__2"
+    "krp_event_id": "krp_event_id__2",
+    "TEI": "<rs type=\"event\" ref=\"#krp_event_id__2\">"
   }
 }
