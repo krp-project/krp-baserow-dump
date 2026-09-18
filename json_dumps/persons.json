@@ -770,10 +770,10 @@
   "488": {
     "id": 488,
     "order": "43.33333333333333570181",
-    "label": "00",
+    "label": "Rašín, Alois",
     "anmerkungen": "",
     "gnd_url": "",
-    "Funktion": "Britischer Außenminister",
+    "Funktion": "tschechoslowakischer Finanzminister",
     "Quelle": "",
     "krp_person_id": "krp_person_id__488",
     "wikidata_url": "",
@@ -781,7 +781,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__488\">Rašín</rs>"
   },
   "477": {
     "id": 477,
@@ -6146,18 +6146,18 @@
   "731": {
     "id": 731,
     "order": "355.00000000000000000000",
-    "label": "",
+    "label": "Riedl, Richard",
     "anmerkungen": "",
     "gnd_url": "",
-    "Funktion": "",
-    "Quelle": "",
+    "Funktion": "Unterstaatssekretär Kriegs- und Übergangswirtschaft",
+    "Quelle": "https://www.biographien.ac.at/oebl_9/143.pdf",
     "krp_person_id": "krp_person_id__731",
     "wikidata_url": "",
     "Geburtsdatum": null,
     "Sterbedatum": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "TEI-Code": ""
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__731\">Riedl</rs>"
   },
   "764": {
     "id": 764,
@@ -6174,5 +6174,21 @@
     "Geburtsort": "",
     "Sterbeort": "",
     "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__764\">Karl I.</rs>"
+  },
+  "765": {
+    "id": 765,
+    "order": "357.00000000000000000000",
+    "label": "Löwenthal, Josef Dr. [Freiherrr von]",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "Sektionschef, Ministerialrat der Staatskanzlei",
+    "Quelle": "https://archivinformationssystem.at/detail.aspx?id=1759",
+    "krp_person_id": "krp_person_id__765",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__765\">Löwenthal</rs>"
   }
 }

@@ -7,7 +7,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__1",
     "Alternative Bezeichnungen": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__1\">Tschechoslowakei</rs>"
   },
   "2": {
     "id": 2,
@@ -177,7 +177,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__251",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__251\">Westukrainsiche Volksrepublik</rs>"
   },
   "15": {
     "id": 15,
@@ -277,7 +277,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__23",
     "Alternative Bezeichnungen": "Amerika",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__23\">Vereinigte Staaten von Amerika</rs>"
   },
   "24": {
     "id": 24,
@@ -307,7 +307,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__26",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__26\">Sudetenland</rs>"
   },
   "27": {
     "id": 27,
@@ -327,7 +327,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__28",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__28\">Steiermark</rs>"
   },
   "29": {
     "id": 29,
@@ -347,7 +347,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__30",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__30\">Vorarlberg</rs>"
   },
   "31": {
     "id": 31,
@@ -367,7 +367,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__32",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__32\">Tirol</rs>"
   },
   "33": {
     "id": 33,
@@ -417,7 +417,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__37",
     "Alternative Bezeichnungen": "Deutsch-Südtirol",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__37\">Südtirol</rs>"
   },
   "38": {
     "id": 38,
@@ -427,7 +427,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__38",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__38\">Zwettl</rs>"
   },
   "39": {
     "id": 39,
@@ -497,7 +497,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__46",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__46\">Wöllersdorf</rs>"
   },
   "47": {
     "id": 47,
@@ -507,7 +507,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__47",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__47\">Ukraine</rs>"
   },
   "48": {
     "id": 48,
@@ -557,7 +557,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__290",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__290\">Warschau</rs>"
   },
   "53": {
     "id": 53,
@@ -567,7 +567,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__53",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__53\">Weimar</rs>"
   },
   "259": {
     "id": 259,
@@ -607,7 +607,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__56",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__56\">Strass</rs>"
   },
   "57": {
     "id": 57,
@@ -667,7 +667,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__61",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__61\">Zillingdorf</rs>"
   },
   "63": {
     "id": 63,
@@ -697,7 +697,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__65",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__65\">Wiener Neustadt</rs>"
   },
   "66": {
     "id": 66,
@@ -747,7 +747,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__70",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__70\">Weiz</rs>"
   },
   "71": {
     "id": 71,
@@ -767,7 +767,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__72",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__72\">Völlerndorf</rs>"
   },
   "73": {
     "id": 73,
@@ -787,7 +787,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__74",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__74\">Südsteiermark</rs>"
   },
   "75": {
     "id": 75,
@@ -877,7 +877,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__84",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__84\">Traisen</rs>"
   },
   "85": {
     "id": 85,
@@ -897,7 +897,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__86",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__86\">Tulln</rs>"
   },
   "87": {
     "id": 87,
@@ -917,7 +917,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__88",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__88\">Stein</rs>"
   },
   "89": {
     "id": 89,
@@ -927,7 +927,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__89",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__89\">Vitis</rs>"
   },
   "90": {
     "id": 90,
@@ -997,7 +997,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__96",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__96\">Oberstrahlbahc</rs>"
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__96\">Oberstrahlbach</rs>"
   },
   "97": {
     "id": 97,
@@ -1017,7 +1017,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__98",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__98\">Thenneberg</rs>"
   },
   "99": {
     "id": 99,
@@ -1047,7 +1047,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__101",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__101\">Waidhofen</rs>"
   },
   "102": {
     "id": 102,
@@ -1127,7 +1127,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__108",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__108\">Walkenstein</rs>"
   },
   "109": {
     "id": 109,
@@ -1137,7 +1137,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__109",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__109\">Unter-Waltersdorf</rs>"
   },
   "110": {
     "id": 110,
@@ -1147,7 +1147,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__110",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__110\">Ungerbach</rs>"
   },
   "111": {
     "id": 111,
@@ -1167,7 +1167,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__112",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__112\">Wels</rs>"
   },
   "113": {
     "id": 113,
@@ -1187,7 +1187,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__114",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__114\">Zürich</rs>"
   },
   "115": {
     "id": 115,
@@ -1217,7 +1217,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__117",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__117\">Zürich</rs>"
   },
   "118": {
     "id": 118,
@@ -1237,7 +1237,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__119",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__119\">Stainach</rs>"
   },
   "120": {
     "id": 120,
@@ -1307,7 +1307,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__126",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__126\">Waidhofen</rs>"
   },
   "128": {
     "id": 128,
@@ -1327,7 +1327,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__129",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__129\">Währing</rs>"
   },
   "291": {
     "id": 291,
@@ -1357,7 +1357,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__131",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__131\">Ulrichs</rs>"
   },
   "132": {
     "id": 132,
@@ -1407,7 +1407,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__136",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__136\">Staasdorf</rs>"
   },
   "257": {
     "id": 257,
@@ -1557,7 +1557,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__150",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__150\">Thumritz</rs>"
   },
   "151": {
     "id": 151,
@@ -1567,7 +1567,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__151",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ulrichskirchen</rs>"
   },
   "152": {
     "id": 152,
@@ -1697,7 +1697,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__166",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__166\">Ternitz</rs>"
   },
   "167": {
     "id": 167,
@@ -1727,7 +1727,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__169",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__169\">Stockerau</rs>"
   },
   "170": {
     "id": 170,
@@ -1737,7 +1737,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__170",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__170\">Ybbs</rs>"
   },
   "171": {
     "id": 171,
@@ -1767,7 +1767,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__173",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__173\">Türnitz</rs>"
   },
   "174": {
     "id": 174,
@@ -1777,7 +1777,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__174",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__174\">Thomasberg</rs>"
   },
   "175": {
     "id": 175,
@@ -1797,7 +1797,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__176",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__176\">Wolfsberg</rs>"
   },
   "177": {
     "id": 177,
@@ -1847,7 +1847,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__181",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__181\">Willendorf</rs>"
   },
   "182": {
     "id": 182,
@@ -1887,7 +1887,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__287",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__287\">Steyr</rs>"
   },
   "184": {
     "id": 184,
@@ -1897,7 +1897,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__184",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__184\">Stiefern</rs>"
   },
   "185": {
     "id": 185,
@@ -1977,7 +1977,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__191",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__191\">Wörgl</rs>"
   },
   "256": {
     "id": 256,
@@ -2027,7 +2027,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__194",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__194\">Villach</rs>"
   },
   "195": {
     "id": 195,
@@ -2047,7 +2047,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__196",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__196\">Steinach</rs>"
   },
   "197": {
     "id": 197,
@@ -2127,7 +2127,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__205",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__205\">Wagram</rs>"
   },
   "206": {
     "id": 206,
@@ -2277,7 +2277,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__250",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__250\">Vatikan</rs>"
   },
   "252": {
     "id": 252,
@@ -2327,7 +2327,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__262",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__262\">Trattebach</rs>"
   },
   "263": {
     "id": 263,
@@ -2417,7 +2417,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__273",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__273\">Süßenbach</rs>"
   },
   "274": {
     "id": 274,
@@ -2497,7 +2497,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__281",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__281\">Zedtlitzdorf</rs>"
   },
   "282": {
     "id": 282,
@@ -2567,7 +2567,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__298",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__298\">Waidmannsfeld</rs>"
   },
   "299": {
     "id": 299,
@@ -2617,17 +2617,17 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__303",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__303\">Thernberg</rs>"
   },
   "304": {
     "id": 304,
     "order": "252.00000000000000000000",
-    "Name": "",
+    "Name": "Oderberg",
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__304",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__304\">Oderberg</rs>"
   },
   "305": {
     "id": 305,
@@ -2648,5 +2648,35 @@
     "krp_place_id": "krp_place_id__306",
     "Alternative Bezeichnungen": "",
     "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__306\">Wollzeile 18</rs>"
+  },
+  "307": {
+    "id": 307,
+    "order": "255.00000000000000000000",
+    "Name": "Floridsdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__307",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__307\">Floridsdorf</rs>"
+  },
+  "308": {
+    "id": 308,
+    "order": "256.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__308",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": ""
+  },
+  "309": {
+    "id": 309,
+    "order": "257.00000000000000000000",
+    "Name": "Karmelitinnenkirche in Linz",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__309",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": ""
   }
 }
