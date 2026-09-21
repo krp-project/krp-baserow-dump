@@ -127,7 +127,7 @@
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__9",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__9\"></rs>"
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__9\">Eltz’sche Spinnerei</rs>"
   },
   "10": {
     "id": 10,
@@ -1688,5 +1688,15 @@
     "Quelle": "",
     "krp_org_id": "krp_org_id__265",
     "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__256\"></rs>"
+  },
+  "266": {
+    "id": 266,
+    "order": "156.00000000000000000000",
+    "Name": "Schweizer Regierung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__266",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__266\">Schweizer Regierung</rs>"
   }
 }

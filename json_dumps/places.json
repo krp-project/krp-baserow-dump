@@ -1687,7 +1687,7 @@
     "Aktiv": false,
     "krp_place_id": "krp_place_id__165",
     "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__165\">Neunkrichen</rs>"
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__165\">Neunkirchen</rs>"
   },
   "166": {
     "id": 166,
@@ -2676,6 +2676,46 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_place_id": "krp_place_id__309",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": ""
+  },
+  "310": {
+    "id": 310,
+    "order": "258.00000000000000000000",
+    "Name": "Rupprechtshofen",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__310",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__310\">Rupprechtshofen</rs>"
+  },
+  "311": {
+    "id": 311,
+    "order": "259.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__311",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": ""
+  },
+  "312": {
+    "id": 312,
+    "order": "260.00000000000000000000",
+    "Name": "Gosdorf",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__312",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__312\">Gosdorf</rs>"
+  },
+  "313": {
+    "id": 313,
+    "order": "261.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__313",
     "Alternative Bezeichnungen": "",
     "TEI-Code": ""
   }
