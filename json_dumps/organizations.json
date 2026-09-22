@@ -1662,12 +1662,12 @@
   "263": {
     "id": 263,
     "order": "153.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
+    "Name": "Stadt Wien",
+    "Anmerkungen": "Gemeint ist die Stadtverwaltung im weiteren Sinn",
     "Aktiv": false,
     "Quelle": "",
     "krp_org_id": "krp_org_id__263",
-    "TEI-Code": ""
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__263\">Stadt Wien</rs>"
   },
   "264": {
     "id": 264,
@@ -1698,5 +1698,75 @@
     "Quelle": "",
     "krp_org_id": "krp_org_id__266",
     "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__266\">Schweizer Regierung</rs>"
+  },
+  "267": {
+    "id": 267,
+    "order": "157.00000000000000000000",
+    "Name": "Tierärztliche Hochschule",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
+    "krp_org_id": "krp_org_id__267",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__267\">Tierärztliche Hochschule</rs>"
+  },
+  "268": {
+    "id": 268,
+    "order": "158.00000000000000000000",
+    "Name": "Landesgericht in Wien",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__268",
+    "TEI-Code": "<rs type=\"org\" ref=\"'#krp_org_id__268\">Landesgericht in Wien</rs>"
+  },
+  "269": {
+    "id": 269,
+    "order": "159.00000000000000000000",
+    "Name": "Kreisgericht in Wiener Neustadt",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__269",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__269\">Kreisgericht in Wiener Neustadt</rs>"
+  },
+  "270": {
+    "id": 270,
+    "order": "160.00000000000000000000",
+    "Name": "",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__270",
+    "TEI-Code": ""
+  },
+  "271": {
+    "id": 271,
+    "order": "161.00000000000000000000",
+    "Name": "ungarische Regierung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__271",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__271\">ungarische Regierung</rs>"
+  },
+  "272": {
+    "id": 272,
+    "order": "162.00000000000000000000",
+    "Name": "Kärnter Landesversammlung",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__272",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__272\">Kärntner Landesversammlung</rs>"
+  },
+  "273": {
+    "id": 273,
+    "order": "163.00000000000000000000",
+    "Name": "Landesrat in Kärnten",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "Quelle": "",
+    "krp_org_id": "krp_org_id__273",
+    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__273\">Landtag in Kärnten</rs>"
   }
 }

@@ -1490,10 +1490,10 @@
   "624": {
     "id": 624,
     "order": "78.50000000000000000000",
-    "label": "",
+    "label": "Kniep, Hans",
     "anmerkungen": "",
     "gnd_url": "",
-    "Funktion": "",
+    "Funktion": "Generalkommissär für den Wirtschaftsverkehr mit Jugoslawien",
     "Quelle": "",
     "krp_person_id": "krp_person_id__624",
     "wikidata_url": "",
@@ -1501,7 +1501,7 @@
     "Sterbedatum": null,
     "Geburtsort": null,
     "Sterbeort": null,
-    "TEI-Code": null
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__624\">Kniep</rs>"
   },
   "80": {
     "id": 80,
@@ -5186,7 +5186,7 @@
   "339": {
     "id": 339,
     "order": "303.00000000000000000000",
-    "label": "Kronholz",
+    "label": "Kronholz, Robert",
     "anmerkungen": "",
     "gnd_url": "",
     "Funktion": "Konsul, Staatsamt für Volksernährung [III]",
@@ -6174,5 +6174,21 @@
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
     "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__765\">Löwenthal</rs>"
+  },
+  "766": {
+    "id": 766,
+    "order": "358.00000000000000000000",
+    "label": "Grienberger, Dr.",
+    "anmerkungen": "",
+    "gnd_url": "",
+    "Funktion": "Ministerialrat",
+    "Quelle": "",
+    "krp_person_id": "krp_person_id__766",
+    "wikidata_url": "",
+    "Geburtsdatum": null,
+    "Sterbedatum": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "TEI-Code": "<rs type=\"person\" ref=\"#krp_person_id__766\">Grienberger</rs>"
   }
 }

@@ -2718,5 +2718,15 @@
     "krp_place_id": "krp_place_id__313",
     "Alternative Bezeichnungen": "",
     "TEI-Code": ""
+  },
+  "314": {
+    "id": 314,
+    "order": "262.00000000000000000000",
+    "Name": "Westungarn",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_place_id": "krp_place_id__314",
+    "Alternative Bezeichnungen": "",
+    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__314\">Westungarn</rs>"
   }
 }

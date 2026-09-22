@@ -6,7 +6,7 @@
     "Anmerkungen": "",
     "Aktiv": false,
     "krp_event_id": "krp_event_id__1",
-    "TEI": null
+    "TEI": "<rs type=\"event\" ref=\"#krp_event_id__1\">Sokolkongress</rs>"
   },
   "2": {
     "id": 2,
@@ -15,6 +15,15 @@
     "Anmerkungen": "krp57",
     "Aktiv": false,
     "krp_event_id": "krp_event_id__2",
-    "TEI": "<rs type=\"event\" ref=\"#krp_event_id__2\">"
+    "TEI": "<rs type=\"event\" ref=\"#krp_event_id__2\">Länderkonferenz</rs>"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "Wiener Armenlotterie",
+    "Anmerkungen": "",
+    "Aktiv": false,
+    "krp_event_id": "krp_event_id__3",
+    "TEI": "<rs type=\"event\" ref=\"#krp_event_id__3\">Wiener Armenlotterie</rs>"
   }
 }
