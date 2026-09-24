@@ -2,2731 +2,2494 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "Tschechoslowakei",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Tschechoslowakei",
     "krp_place_id": "krp_place_id__1",
-    "Alternative Bezeichnungen": null,
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__1\">Tschechoslowakei</rs>"
+    "alternative_name": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__1\">Tschechoslowakei</rs>",
+    "mrp_place_id": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "Österreich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Österreich",
     "krp_place_id": "krp_place_id__2",
-    "Alternative Bezeichnungen": "Deutschösterreich",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__2\">Österreich</rs>"
+    "alternative_name": "Deutschösterreich",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__2\">Österreich</rs>",
+    "mrp_place_id": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "Name": "Italien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Italien",
     "krp_place_id": "krp_place_id__3",
-    "Alternative Bezeichnungen": "Königreich Italien",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__3\">Italien</rs>"
+    "alternative_name": "Königreich Italien",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__3\">Italien</rs>",
+    "mrp_place_id": null
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "Name": "Frankreich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Frankreich",
     "krp_place_id": "krp_place_id__4",
-    "Alternative Bezeichnungen": null,
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__4\">Frankreich</rs>"
+    "alternative_name": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__4\">Frankreich</rs>",
+    "mrp_place_id": null
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "Name": "Ungarn",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ungarn",
     "krp_place_id": "krp_place_id__5",
-    "Alternative Bezeichnungen": null,
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__5\">Ungarn</rs>"
+    "alternative_name": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__5\">Ungarn</rs>",
+    "mrp_place_id": null
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "Name": "Deutsches Reich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Deutsches Reich",
     "krp_place_id": "krp_place_id__6",
-    "Alternative Bezeichnungen": "Deutschland",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__6\">Deutsches Reich</rs>"
+    "alternative_name": "Deutschland",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__6\">Deutsches Reich</rs>",
+    "mrp_place_id": null
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "Name": "Liechtenstein",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Liechtenstein",
     "krp_place_id": "krp_place_id__7",
-    "Alternative Bezeichnungen": null,
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__7\">Liechtenstein</rs>"
+    "alternative_name": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__7\">Liechtenstein</rs>",
+    "mrp_place_id": null
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "Name": "Schweiz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schweiz",
     "krp_place_id": "krp_place_id__8",
-    "Alternative Bezeichnungen": null,
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__8\">Schweiz</rs>"
+    "alternative_name": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__8\">Schweiz</rs>",
+    "mrp_place_id": null
   },
   "258": {
     "id": 258,
     "order": "8.50000000000000000000",
-    "Name": "Klein-Eberhard",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Klein-Eberhard",
     "krp_place_id": "krp_place_id__258",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__258\">Klein-Eberhard</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__258\">Klein-Eberhard</rs>",
+    "mrp_place_id": null
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "Name": "Königreich SHS",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Königreich SHS",
     "krp_place_id": "krp_place_id__9",
-    "Alternative Bezeichnungen": "Jugoslawien",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__9\">SHS</rs>"
+    "alternative_name": "Jugoslawien",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__9\">SHS</rs>",
+    "mrp_place_id": null
   },
   "286": {
     "id": 286,
     "order": "9.25000000000000000000",
-    "Name": "Brenner",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Brenner",
     "krp_place_id": "krp_place_id__286",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__286\">Brenner</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__286\">Brenner</rs>",
+    "mrp_place_id": null
   },
   "285": {
     "id": 285,
     "order": "9.33333333333333392545",
-    "Name": "Salurner Klause",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Salurner Klause",
     "krp_place_id": "krp_place_id__285",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__285\">Salurner Klause</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__285\">Salurner Klause</rs>",
+    "mrp_place_id": null
   },
   "13": {
     "id": 13,
     "order": "9.50000000000000000000",
-    "Name": "Salzburg (Land)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Salzburg (Land)",
     "krp_place_id": "krp_place_id__13",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__13\">Salzburg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__13\">Salzburg</rs>",
+    "mrp_place_id": null
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "Name": "Schweden",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schweden",
     "krp_place_id": "krp_place_id__10",
-    "Alternative Bezeichnungen": null,
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__10\">Schweden</rs>"
+    "alternative_name": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__10\">Schweden</rs>",
+    "mrp_place_id": null
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "Name": "Norwegen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Norwegen",
     "krp_place_id": "krp_place_id__11",
-    "Alternative Bezeichnungen": null,
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__11\">Norwegen</rs>"
+    "alternative_name": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__11\">Norwegen</rs>",
+    "mrp_place_id": null
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "Name": "Salzburg (Stadt)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Salzburg (Stadt)",
     "krp_place_id": "krp_place_id__12",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__12\">Salzburg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__12\">Salzburg</rs>",
+    "mrp_place_id": null
   },
   "14": {
     "id": 14,
     "order": "13.00000000000000000000",
-    "Name": "Paris",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Paris",
     "krp_place_id": "krp_place_id__14",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__14\">Paris</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__14\">Paris</rs>",
+    "mrp_place_id": null
   },
   "251": {
     "id": 251,
     "order": "13.50000000000000000000",
-    "Name": "Westukrainische Volksrepublik",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Westukrainische Volksrepublik",
     "krp_place_id": "krp_place_id__251",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__251\">Westukrainsiche Volksrepublik</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__251\">Westukrainsiche Volksrepublik</rs>",
+    "mrp_place_id": null
   },
   "15": {
     "id": 15,
     "order": "14.00000000000000000000",
-    "Name": "Wien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wien",
     "krp_place_id": "krp_place_id__15",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__15\">Wien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__15\">Wien</rs>",
+    "mrp_place_id": null
   },
   "16": {
     "id": 16,
     "order": "15.00000000000000000000",
-    "Name": "Innsbruck",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Innsbruck",
     "krp_place_id": "krp_place_id__16",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__16\">Innsbruck</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__16\">Innsbruck</rs>",
+    "mrp_place_id": null
   },
   "17": {
     "id": 17,
     "order": "16.00000000000000000000",
-    "Name": "Klagenfurt",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Klagenfurt",
     "krp_place_id": "krp_place_id__17",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__17\">Hetzendorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__17\">Hetzendorf</rs>",
+    "mrp_place_id": null
   },
   "41": {
     "id": 41,
     "order": "16.50000000000000000000",
-    "Name": "Großbritannien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Großbritannien",
     "krp_place_id": "krp_place_id__41",
-    "Alternative Bezeichnungen": "England",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__41\">Großbritannien</rs>"
+    "alternative_name": "England",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__41\">Großbritannien</rs>",
+    "mrp_place_id": null
   },
   "18": {
     "id": 18,
     "order": "17.00000000000000000000",
-    "Name": "Graz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Graz",
     "krp_place_id": "krp_place_id__18",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__18\">Graz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__18\">Graz</rs>",
+    "mrp_place_id": null
   },
   "19": {
     "id": 19,
     "order": "18.00000000000000000000",
-    "Name": "Linz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Linz",
     "krp_place_id": "krp_place_id__19",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__19\">Linz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__19\">Linz</rs>",
+    "mrp_place_id": null
   },
   "20": {
     "id": 20,
     "order": "19.00000000000000000000",
-    "Name": "New York",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "New York",
     "krp_place_id": "krp_place_id__20",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__20\">New York</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__20\">New York</rs>",
+    "mrp_place_id": null
   },
   "21": {
     "id": 21,
     "order": "20.00000000000000000000",
-    "Name": "Oberösterreich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oberösterreich",
     "krp_place_id": "krp_place_id__21",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Oberösterreich</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Oberösterreich</rs>",
+    "mrp_place_id": null
   },
   "22": {
     "id": 22,
     "order": "21.00000000000000000000",
-    "Name": "Niederösterreich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Niederösterreich",
     "krp_place_id": "krp_place_id__22",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__22\">Niederösterreich</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__22\">Niederösterreich</rs>",
+    "mrp_place_id": null
   },
   "23": {
     "id": 23,
     "order": "22.00000000000000000000",
-    "Name": "Vereinigte Staaten von Amerika",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Vereinigte Staaten von Amerika",
     "krp_place_id": "krp_place_id__23",
-    "Alternative Bezeichnungen": "Amerika",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__23\">Vereinigte Staaten von Amerika</rs>"
+    "alternative_name": "Amerika",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__23\">Vereinigte Staaten von Amerika</rs>",
+    "mrp_place_id": null
   },
   "24": {
     "id": 24,
     "order": "23.00000000000000000000",
-    "Name": "St. Pölten",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Pölten",
     "krp_place_id": "krp_place_id__24",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__24\">St. Pölten</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__24\">St. Pölten</rs>",
+    "mrp_place_id": null
   },
   "25": {
     "id": 25,
     "order": "24.00000000000000000000",
-    "Name": "Malmaison [Schloss]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Malmaison [Schloss]",
     "krp_place_id": "krp_place_id__25",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__25\">Malmaison</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__25\">Malmaison</rs>",
+    "mrp_place_id": null
   },
   "26": {
     "id": 26,
     "order": "25.00000000000000000000",
-    "Name": "Sudetenland",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sudetenland",
     "krp_place_id": "krp_place_id__26",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__26\">Sudetenland</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__26\">Sudetenland</rs>",
+    "mrp_place_id": null
   },
   "27": {
     "id": 27,
     "order": "26.00000000000000000000",
-    "Name": "St. Germain",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Germain",
     "krp_place_id": "krp_place_id__27",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__27\">St. Germain</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__27\">St. Germain</rs>",
+    "mrp_place_id": null
   },
   "28": {
     "id": 28,
     "order": "27.00000000000000000000",
-    "Name": "Steiermark",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Steiermark",
     "krp_place_id": "krp_place_id__28",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__28\">Steiermark</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__28\">Steiermark</rs>",
+    "mrp_place_id": null
   },
   "29": {
     "id": 29,
     "order": "28.00000000000000000000",
-    "Name": "Deutschböhmen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Deutschböhmen",
     "krp_place_id": "krp_place_id__29",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__29\">Deutschböhmen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__29\">Deutschböhmen</rs>",
+    "mrp_place_id": null
   },
   "30": {
     "id": 30,
     "order": "29.00000000000000000000",
-    "Name": "Vorarlberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Vorarlberg",
     "krp_place_id": "krp_place_id__30",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__30\">Vorarlberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__30\">Vorarlberg</rs>",
+    "mrp_place_id": null
   },
   "31": {
     "id": 31,
     "order": "30.00000000000000000000",
-    "Name": "Kärnten",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kärnten",
     "krp_place_id": "krp_place_id__31",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__31\">Kärnten</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__31\">Kärnten</rs>",
+    "mrp_place_id": null
   },
   "32": {
     "id": 32,
     "order": "31.00000000000000000000",
-    "Name": "Tirol",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Tirol",
     "krp_place_id": "krp_place_id__32",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__32\">Tirol</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__32\">Tirol</rs>",
+    "mrp_place_id": null
   },
   "33": {
     "id": 33,
     "order": "32.00000000000000000000",
-    "Name": "Burgenland",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Burgenland",
     "krp_place_id": "krp_place_id__33",
-    "Alternative Bezeichnungen": "Westungarn",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__33\">Burgenland</rs>"
+    "alternative_name": "Westungarn",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__33\">Burgenland</rs>",
+    "mrp_place_id": null
   },
   "34": {
     "id": 34,
     "order": "33.00000000000000000000",
-    "Name": "Sopron",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sopron",
     "krp_place_id": "krp_place_id__34",
-    "Alternative Bezeichnungen": "Ödenburg",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__34\">Sopron</rs>"
+    "alternative_name": "Ödenburg",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__34\">Sopron</rs>",
+    "mrp_place_id": null
   },
   "35": {
     "id": 35,
     "order": "34.00000000000000000000",
-    "Name": "Budapest",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Budapest",
     "krp_place_id": "krp_place_id__35",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__35\">Budapest</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__35\">Budapest</rs>",
+    "mrp_place_id": null
   },
   "36": {
     "id": 36,
     "order": "35.00000000000000000000",
-    "Name": "Österreich-Ungarn",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Österreich-Ungarn",
     "krp_place_id": "krp_place_id__36",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__36\">Österreich-Ungarn</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__36\">Österreich-Ungarn</rs>",
+    "mrp_place_id": null
   },
   "37": {
     "id": 37,
     "order": "36.00000000000000000000",
-    "Name": "Südtirol",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Südtirol",
     "krp_place_id": "krp_place_id__37",
-    "Alternative Bezeichnungen": "Deutsch-Südtirol",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__37\">Südtirol</rs>"
+    "alternative_name": "Deutsch-Südtirol",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__37\">Südtirol</rs>",
+    "mrp_place_id": null
   },
   "38": {
     "id": 38,
     "order": "37.00000000000000000000",
-    "Name": "Zwettl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zwettl",
     "krp_place_id": "krp_place_id__38",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__38\">Zwettl</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__38\">Zwettl</rs>",
+    "mrp_place_id": null
   },
   "39": {
     "id": 39,
     "order": "38.00000000000000000000",
-    "Name": "Eckartsau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Eckartsau",
     "krp_place_id": "krp_place_id__39",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__39\">Eckartsau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__39\">Eckartsau</rs>",
+    "mrp_place_id": null
   },
   "42": {
     "id": 42,
     "order": "39.00000000000000000000",
-    "Name": "Prag",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Prag",
     "krp_place_id": "krp_place_id__42",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__42\">Prag</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__42\">Prag</rs>",
+    "mrp_place_id": null
   },
   "43": {
     "id": 43,
     "order": "40.00000000000000000000",
-    "Name": "Böhmen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Böhmen",
     "krp_place_id": "krp_place_id__43",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__43\">Böhmen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__43\">Böhmen</rs>",
+    "mrp_place_id": null
   },
   "44": {
     "id": 44,
     "order": "41.00000000000000000000",
-    "Name": "Mähren",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mähren",
     "krp_place_id": "krp_place_id__44",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__44\">Mähren</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__44\">Mähren</rs>",
+    "mrp_place_id": null
   },
   "284": {
     "id": 284,
     "order": "41.50000000000000000000",
-    "Name": "Bischofshofen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bischofshofen",
     "krp_place_id": "krp_place_id__284",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__284\">Bischofshofen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__284\">Bischofshofen</rs>",
+    "mrp_place_id": null
   },
   "45": {
     "id": 45,
     "order": "42.00000000000000000000",
-    "Name": "Blumau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Blumau",
     "krp_place_id": "krp_place_id__45",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__45\">Blumau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__45\">Blumau</rs>",
+    "mrp_place_id": null
   },
   "46": {
     "id": 46,
     "order": "43.00000000000000000000",
-    "Name": "Wöllersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wöllersdorf",
     "krp_place_id": "krp_place_id__46",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__46\">Wöllersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__46\">Wöllersdorf</rs>",
+    "mrp_place_id": null
   },
   "47": {
     "id": 47,
     "order": "44.00000000000000000000",
-    "Name": "Ukraine",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ukraine",
     "krp_place_id": "krp_place_id__47",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__47\">Ukraine</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__47\">Ukraine</rs>",
+    "mrp_place_id": null
   },
   "48": {
     "id": 48,
     "order": "45.00000000000000000000",
-    "Name": "Russland",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Russland",
     "krp_place_id": "krp_place_id__48",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__48\">Russland</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__48\">Russland</rs>",
+    "mrp_place_id": null
   },
   "49": {
     "id": 49,
     "order": "46.00000000000000000000",
-    "Name": "Rumänien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rumänien",
     "krp_place_id": "krp_place_id__49",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__49\">Rumänien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__49\">Rumänien</rs>",
+    "mrp_place_id": null
   },
   "50": {
     "id": 50,
     "order": "47.00000000000000000000",
-    "Name": "Bulgarien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bulgarien",
     "krp_place_id": "krp_place_id__50",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__50\">Bulgarien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__50\">Bulgarien</rs>",
+    "mrp_place_id": null
   },
   "52": {
     "id": 52,
     "order": "49.00000000000000000000",
-    "Name": "Fischamend",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Fischamend",
     "krp_place_id": "krp_place_id__52",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__52\">Fischamend</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__52\">Fischamend</rs>",
+    "mrp_place_id": null
   },
   "290": {
     "id": 290,
     "order": "49.50000000000000000000",
-    "Name": "Warschau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Warschau",
     "krp_place_id": "krp_place_id__290",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__290\">Warschau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__290\">Warschau</rs>",
+    "mrp_place_id": null
   },
   "53": {
     "id": 53,
     "order": "50.00000000000000000000",
-    "Name": "Weimar",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Weimar",
     "krp_place_id": "krp_place_id__53",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__53\">Weimar</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__53\">Weimar</rs>",
+    "mrp_place_id": null
   },
   "259": {
     "id": 259,
     "order": "50.50000000000000000000",
-    "Name": "Jarolden",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jarolden",
     "krp_place_id": "krp_place_id__259",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__259\">Jarolden</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__259\">Jarolden</rs>",
+    "mrp_place_id": null
   },
   "54": {
     "id": 54,
     "order": "51.00000000000000000000",
-    "Name": "Jochberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jochberg",
     "krp_place_id": "krp_place_id__54",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__54\">Jochberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__54\">Jochberg</rs>",
+    "mrp_place_id": null
   },
   "55": {
     "id": 55,
     "order": "52.00000000000000000000",
-    "Name": "Fischau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Fischau",
     "krp_place_id": "krp_place_id__55",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__55\">Fischau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__55\">Fischau</rs>",
+    "mrp_place_id": null
   },
   "56": {
     "id": 56,
     "order": "53.00000000000000000000",
-    "Name": "Strass",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Strass",
     "krp_place_id": "krp_place_id__56",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__56\">Strass</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__56\">Strass</rs>",
+    "mrp_place_id": null
   },
   "57": {
     "id": 57,
     "order": "54.00000000000000000000",
-    "Name": "Bruck",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bruck",
     "krp_place_id": "krp_place_id__57",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__57\">Bruck</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__57\">Bruck</rs>",
+    "mrp_place_id": null
   },
   "58": {
     "id": 58,
     "order": "55.00000000000000000000",
-    "Name": "Liebenau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Liebenau",
     "krp_place_id": "krp_place_id__58",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__58\">Liebenau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__58\">Liebenau</rs>",
+    "mrp_place_id": null
   },
   "289": {
     "id": 289,
     "order": "55.50000000000000000000",
-    "Name": "Hall in Tirol",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hall in Tirol",
     "krp_place_id": "krp_place_id__289",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__289\">Hall</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__289\">Hall</rs>",
+    "mrp_place_id": null
   },
   "59": {
     "id": 59,
     "order": "56.00000000000000000000",
-    "Name": "Hainburg an der Donau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hainburg an der Donau",
     "krp_place_id": "krp_place_id__59",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__59\">Hainburg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__59\">Hainburg</rs>",
+    "mrp_place_id": null
   },
   "60": {
     "id": 60,
     "order": "57.00000000000000000000",
-    "Name": "Hirtenberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hirtenberg",
     "krp_place_id": "krp_place_id__60",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__60\">Hirtneberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__60\">Hirtneberg</rs>",
+    "mrp_place_id": null
   },
   "61": {
     "id": 61,
     "order": "58.00000000000000000000",
-    "Name": "Zillingdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zillingdorf",
     "krp_place_id": "krp_place_id__61",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__61\">Zillingdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__61\">Zillingdorf</rs>",
+    "mrp_place_id": null
   },
   "63": {
     "id": 63,
     "order": "60.00000000000000000000",
-    "Name": "Berlin",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Berlin",
     "krp_place_id": "krp_place_id__63",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__63\">Berlin</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__63\">Berlin</rs>",
+    "mrp_place_id": null
   },
   "64": {
     "id": 64,
     "order": "61.00000000000000000000",
-    "Name": "Bratislava",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bratislava",
     "krp_place_id": "krp_place_id__64",
-    "Alternative Bezeichnungen": "Pressburg",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__64\">Bratislava</rs>"
+    "alternative_name": "Pressburg",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__64\">Bratislava</rs>",
+    "mrp_place_id": null
   },
   "65": {
     "id": 65,
     "order": "62.00000000000000000000",
-    "Name": "Wiener Neustadt",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wiener Neustadt",
     "krp_place_id": "krp_place_id__65",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__65\">Wiener Neustadt</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__65\">Wiener Neustadt</rs>",
+    "mrp_place_id": null
   },
   "66": {
     "id": 66,
     "order": "63.00000000000000000000",
-    "Name": "Enns",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Enns",
     "krp_place_id": "krp_place_id__66",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__66\">Enns</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__66\">Enns</rs>",
+    "mrp_place_id": null
   },
   "67": {
     "id": 67,
     "order": "64.00000000000000000000",
-    "Name": "Bukowina",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bukowina",
     "krp_place_id": "krp_place_id__67",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__67\">Bukowina</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__67\">Bukowina</rs>",
+    "mrp_place_id": null
   },
   "68": {
     "id": 68,
     "order": "65.00000000000000000000",
-    "Name": "Schlesien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schlesien",
     "krp_place_id": "krp_place_id__68",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__68\">Schlesien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__68\">Schlesien</rs>",
+    "mrp_place_id": null
   },
   "69": {
     "id": 69,
     "order": "66.00000000000000000000",
-    "Name": "Gleisdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gleisdorf",
     "krp_place_id": "krp_place_id__69",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__69\">Gleisdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__69\">Gleisdorf</rs>",
+    "mrp_place_id": null
   },
   "70": {
     "id": 70,
     "order": "67.00000000000000000000",
-    "Name": "Weiz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Weiz",
     "krp_place_id": "krp_place_id__70",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__70\">Weiz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__70\">Weiz</rs>",
+    "mrp_place_id": null
   },
   "71": {
     "id": 71,
     "order": "68.00000000000000000000",
-    "Name": "Loipersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Loipersdorf",
     "krp_place_id": "krp_place_id__71",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__71\">Loipersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__71\">Loipersdorf</rs>",
+    "mrp_place_id": null
   },
   "72": {
     "id": 72,
     "order": "69.00000000000000000000",
-    "Name": "Völlerndorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Völlerndorf",
     "krp_place_id": "krp_place_id__72",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__72\">Völlerndorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__72\">Völlerndorf</rs>",
+    "mrp_place_id": null
   },
   "73": {
     "id": 73,
     "order": "70.00000000000000000000",
-    "Name": "Gerersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gerersdorf",
     "krp_place_id": "krp_place_id__73",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__73\">Gerersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__73\">Gerersdorf</rs>",
+    "mrp_place_id": null
   },
   "74": {
     "id": 74,
     "order": "71.00000000000000000000",
-    "Name": "Südsteiermark",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Südsteiermark",
     "krp_place_id": "krp_place_id__74",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__74\">Südsteiermark</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__74\">Südsteiermark</rs>",
+    "mrp_place_id": null
   },
   "75": {
     "id": 75,
     "order": "72.00000000000000000000",
-    "Name": "Ljubljana",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ljubljana",
     "krp_place_id": "krp_place_id__75",
-    "Alternative Bezeichnungen": "Laibach",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__75\">Ljubljana</rs>"
+    "alternative_name": "Laibach",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__75\">Ljubljana</rs>",
+    "mrp_place_id": null
   },
   "76": {
     "id": 76,
     "order": "73.00000000000000000000",
-    "Name": "Bukarest",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bukarest",
     "krp_place_id": "krp_place_id__76",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__76\">Bukarest</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__76\">Bukarest</rs>",
+    "mrp_place_id": null
   },
   "77": {
     "id": 77,
     "order": "74.00000000000000000000",
-    "Name": "Groß-Enzersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Groß-Enzersdorf",
     "krp_place_id": "krp_place_id__77",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__77\">Groß-Enzersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__77\">Groß-Enzersdorf</rs>",
+    "mrp_place_id": null
   },
   "78": {
     "id": 78,
     "order": "75.00000000000000000000",
-    "Name": "Argentinien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Argentinien",
     "krp_place_id": "krp_place_id__78",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__78\">Argentinien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__78\">Argentinien</rs>",
+    "mrp_place_id": null
   },
   "79": {
     "id": 79,
     "order": "76.00000000000000000000",
-    "Name": "Polen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Polen",
     "krp_place_id": "krp_place_id__79",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__79\">Polen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__79\">Polen</rs>",
+    "mrp_place_id": null
   },
   "80": {
     "id": 80,
     "order": "77.00000000000000000000",
-    "Name": "London",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "London",
     "krp_place_id": "krp_place_id__80",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__80\">London</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__80\">London</rs>",
+    "mrp_place_id": null
   },
   "82": {
     "id": 82,
     "order": "79.00000000000000000000",
-    "Name": "Bern",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bern",
     "krp_place_id": "krp_place_id__82",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__82\">Bern</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__82\">Bern</rs>",
+    "mrp_place_id": null
   },
   "83": {
     "id": 83,
     "order": "80.00000000000000000000",
-    "Name": "Hohenberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hohenberg",
     "krp_place_id": "krp_place_id__83",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__83\">Hohenberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__83\">Hohenberg</rs>",
+    "mrp_place_id": null
   },
   "84": {
     "id": 84,
     "order": "81.00000000000000000000",
-    "Name": "Traisen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Traisen",
     "krp_place_id": "krp_place_id__84",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__84\">Traisen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__84\">Traisen</rs>",
+    "mrp_place_id": null
   },
   "85": {
     "id": 85,
     "order": "82.00000000000000000000",
-    "Name": "Mödling",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mödling",
     "krp_place_id": "krp_place_id__85",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__85\">Mödling</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__85\">Mödling</rs>",
+    "mrp_place_id": null
   },
   "86": {
     "id": 86,
     "order": "83.00000000000000000000",
-    "Name": "Tulln",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Tulln",
     "krp_place_id": "krp_place_id__86",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__86\">Tulln</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__86\">Tulln</rs>",
+    "mrp_place_id": null
   },
   "87": {
     "id": 87,
     "order": "84.00000000000000000000",
-    "Name": "Mautern",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mautern",
     "krp_place_id": "krp_place_id__87",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__87\">Mautern</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__87\">Mautern</rs>",
+    "mrp_place_id": null
   },
   "88": {
     "id": 88,
     "order": "85.00000000000000000000",
-    "Name": "Stein an der Donau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stein an der Donau",
     "krp_place_id": "krp_place_id__88",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__88\">Stein</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__88\">Stein</rs>",
+    "mrp_place_id": null
   },
   "89": {
     "id": 89,
     "order": "86.00000000000000000000",
-    "Name": "Vitis",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Vitis",
     "krp_place_id": "krp_place_id__89",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__89\">Vitis</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__89\">Vitis</rs>",
+    "mrp_place_id": null
   },
   "90": {
     "id": 90,
     "order": "87.00000000000000000000",
-    "Name": "Kaltenbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kaltenbach",
     "krp_place_id": "krp_place_id__90",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__90\">Kaltenbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__90\">Kaltenbach</rs>",
+    "mrp_place_id": null
   },
   "91": {
     "id": 91,
     "order": "88.00000000000000000000",
-    "Name": "Schachersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schachersdorf",
     "krp_place_id": "krp_place_id__91",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__91\">Schachersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__91\">Schachersdorf</rs>",
+    "mrp_place_id": null
   },
   "92": {
     "id": 92,
     "order": "89.00000000000000000000",
-    "Name": "Schobersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schobersdorf",
     "krp_place_id": "krp_place_id__92",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__92\">Schobersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__92\">Schobersdorf</rs>",
+    "mrp_place_id": null
   },
   "93": {
     "id": 93,
     "order": "90.00000000000000000000",
-    "Name": "Triest",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Triest",
     "krp_place_id": "krp_place_id__93",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__93\">Triest</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__93\">Triest</rs>",
+    "mrp_place_id": null
   },
   "94": {
     "id": 94,
     "order": "91.00000000000000000000",
-    "Name": "Lilienfeld",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lilienfeld",
     "krp_place_id": "krp_place_id__94",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__94\">Lilienfeld</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__94\">Lilienfeld</rs>",
+    "mrp_place_id": null
   },
   "95": {
     "id": 95,
     "order": "92.00000000000000000000",
-    "Name": "Schweigers",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schweigers",
     "krp_place_id": "krp_place_id__95",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__95\">Schweigers</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__95\">Schweigers</rs>",
+    "mrp_place_id": null
   },
   "96": {
     "id": 96,
     "order": "93.00000000000000000000",
-    "Name": "Oberstrahlbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oberstrahlbach",
     "krp_place_id": "krp_place_id__96",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__96\">Oberstrahlbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__96\">Oberstrahlbach</rs>",
+    "mrp_place_id": null
   },
   "97": {
     "id": 97,
     "order": "94.00000000000000000000",
-    "Name": "Finnland",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Finnland",
     "krp_place_id": "krp_place_id__97",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__97\">Finnland</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__97\">Finnland</rs>",
+    "mrp_place_id": null
   },
   "98": {
     "id": 98,
     "order": "95.00000000000000000000",
-    "Name": "Thenneberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Thenneberg",
     "krp_place_id": "krp_place_id__98",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__98\">Thenneberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__98\">Thenneberg</rs>",
+    "mrp_place_id": null
   },
   "99": {
     "id": 99,
     "order": "96.00000000000000000000",
-    "Name": "Petzelsberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Petzelsberg",
     "krp_place_id": "krp_place_id__99",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__99\">Petzelsberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__99\">Petzelsberg</rs>",
+    "mrp_place_id": null
   },
   "100": {
     "id": 100,
     "order": "97.00000000000000000000",
-    "Name": "Etzen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Etzen",
     "krp_place_id": "krp_place_id__100",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__100\">Etzen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__100\">Etzen</rs>",
+    "mrp_place_id": null
   },
   "101": {
     "id": 101,
     "order": "98.00000000000000000000",
-    "Name": "Waidhofen an der Thaya",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Waidhofen an der Thaya",
     "krp_place_id": "krp_place_id__101",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__101\">Waidhofen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__101\">Waidhofen</rs>",
+    "mrp_place_id": null
   },
   "102": {
     "id": 102,
     "order": "99.00000000000000000000",
-    "Name": "Natschbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Natschbach",
     "krp_place_id": "krp_place_id__102",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__102\">Natschbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__102\">Natschbach</rs>",
+    "mrp_place_id": null
   },
   "254": {
     "id": 254,
     "order": "99.50000000000000000000",
-    "Name": "München",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "München",
     "krp_place_id": "krp_place_id__254",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__254\">München</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__254\">München</rs>",
+    "mrp_place_id": null
   },
   "103": {
     "id": 103,
     "order": "100.00000000000000000000",
-    "Name": "Muckendorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Muckendorf",
     "krp_place_id": "krp_place_id__103",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__103\">Muckendorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__103\">Muckendorf</rs>",
+    "mrp_place_id": null
   },
   "104": {
     "id": 104,
     "order": "101.00000000000000000000",
-    "Name": "Posselsdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Posselsdorf",
     "krp_place_id": "krp_place_id__104",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__104\">Posselsdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__104\">Posselsdorf</rs>",
+    "mrp_place_id": null
   },
   "105": {
     "id": 105,
     "order": "102.00000000000000000000",
-    "Name": "Sittendorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sittendorf",
     "krp_place_id": "krp_place_id__105",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__105\">Sittendorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__105\">Sittendorf</rs>",
+    "mrp_place_id": null
   },
   "106": {
     "id": 106,
     "order": "103.00000000000000000000",
-    "Name": "Reidlingberg-Pyrafeld",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Reidlingberg-Pyrafeld",
     "krp_place_id": "krp_place_id__106",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__106\">Reidlingberg-Pyrafeld</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__106\">Reidlingberg-Pyrafeld</rs>",
+    "mrp_place_id": null
   },
   "107": {
     "id": 107,
     "order": "104.00000000000000000000",
-    "Name": "Gopprechts",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gopprechts",
     "krp_place_id": "krp_place_id__107",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__107\">Gopprechts</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__107\">Gopprechts</rs>",
+    "mrp_place_id": null
   },
   "108": {
     "id": 108,
     "order": "105.00000000000000000000",
-    "Name": "Walkenstein",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Walkenstein",
     "krp_place_id": "krp_place_id__108",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__108\">Walkenstein</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__108\">Walkenstein</rs>",
+    "mrp_place_id": null
   },
   "109": {
     "id": 109,
     "order": "106.00000000000000000000",
-    "Name": "Unter-Waltersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Unter-Waltersdorf",
     "krp_place_id": "krp_place_id__109",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__109\">Unter-Waltersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__109\">Unter-Waltersdorf</rs>",
+    "mrp_place_id": null
   },
   "110": {
     "id": 110,
     "order": "107.00000000000000000000",
-    "Name": "Ungerbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ungerbach",
     "krp_place_id": "krp_place_id__110",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__110\">Ungerbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__110\">Ungerbach</rs>",
+    "mrp_place_id": null
   },
   "111": {
     "id": 111,
     "order": "108.00000000000000000000",
-    "Name": "Fiecht",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Fiecht",
     "krp_place_id": "krp_place_id__111",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__111\">Fiecht</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__111\">Fiecht</rs>",
+    "mrp_place_id": null
   },
   "112": {
     "id": 112,
     "order": "109.00000000000000000000",
-    "Name": "Wels",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wels",
     "krp_place_id": "krp_place_id__112",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__112\">Wels</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__112\">Wels</rs>",
+    "mrp_place_id": null
   },
   "113": {
     "id": 113,
     "order": "110.00000000000000000000",
-    "Name": "Kirchberg am Wechsel",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kirchberg am Wechsel",
     "krp_place_id": "krp_place_id__113",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__113\">Kirchberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__113\">Kirchberg</rs>",
+    "mrp_place_id": null
   },
   "114": {
     "id": 114,
     "order": "111.00000000000000000000",
-    "Name": "Zürich (Kanton)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zürich (Kanton)",
     "krp_place_id": "krp_place_id__114",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__114\">Zürich</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__114\">Zürich</rs>",
+    "mrp_place_id": null
   },
   "115": {
     "id": 115,
     "order": "112.00000000000000000000",
-    "Name": "Bregenz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bregenz",
     "krp_place_id": "krp_place_id__115",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__115\">Bregenz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__115\">Bregenz</rs>",
+    "mrp_place_id": null
   },
   "116": {
     "id": 116,
     "order": "113.00000000000000000000",
-    "Name": "St. Gallen (Stadt)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Gallen (Stadt)",
     "krp_place_id": "krp_place_id__116",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__116\">St. Gallen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__116\">St. Gallen</rs>",
+    "mrp_place_id": null
   },
   "117": {
     "id": 117,
     "order": "114.00000000000000000000",
-    "Name": "Zürich (Stadt)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zürich (Stadt)",
     "krp_place_id": "krp_place_id__117",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__117\">Zürich</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__117\">Zürich</rs>",
+    "mrp_place_id": null
   },
   "118": {
     "id": 118,
     "order": "115.00000000000000000000",
-    "Name": "St. Gallen (Kanton)",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Gallen (Kanton)",
     "krp_place_id": "krp_place_id__118",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__118\">St. Gallen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__118\">St. Gallen</rs>",
+    "mrp_place_id": null
   },
   "119": {
     "id": 119,
     "order": "116.00000000000000000000",
-    "Name": "Stainach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stainach",
     "krp_place_id": "krp_place_id__119",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__119\">Stainach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__119\">Stainach</rs>",
+    "mrp_place_id": null
   },
   "120": {
     "id": 120,
     "order": "117.00000000000000000000",
-    "Name": "Irdning",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Irdning",
     "krp_place_id": "krp_place_id__120",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__120\">Irdning</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__120\">Irdning</rs>",
+    "mrp_place_id": null
   },
   "121": {
     "id": 121,
     "order": "118.00000000000000000000",
-    "Name": "Attnang-Puchheim",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Attnang-Puchheim",
     "krp_place_id": "krp_place_id__121",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__164\">Attnang-Puchheim</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__164\">Attnang-Puchheim</rs>",
+    "mrp_place_id": null
   },
   "122": {
     "id": 122,
     "order": "119.00000000000000000000",
-    "Name": "Jugoslawien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Jugoslawien",
     "krp_place_id": "krp_place_id__122",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__122\">Jugoslawien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__122\">Jugoslawien</rs>",
+    "mrp_place_id": null
   },
   "123": {
     "id": 123,
     "order": "120.00000000000000000000",
-    "Name": "Krakau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Krakau",
     "krp_place_id": "krp_place_id__123",
-    "Alternative Bezeichnungen": "Krakow",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__123\">Krakau</rs>"
+    "alternative_name": "Krakow",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__123\">Krakau</rs>",
+    "mrp_place_id": null
   },
   "124": {
     "id": 124,
     "order": "121.00000000000000000000",
-    "Name": "Reitzenschlag",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Reitzenschlag",
     "krp_place_id": "krp_place_id__124",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__124\">Reitzenschlag</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__124\">Reitzenschlag</rs>",
+    "mrp_place_id": null
   },
   "125": {
     "id": 125,
     "order": "122.00000000000000000000",
-    "Name": "Polnisch-Galizien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Polnisch-Galizien",
     "krp_place_id": "krp_place_id__125",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__125\">Polnisch-Galizien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__125\">Polnisch-Galizien</rs>",
+    "mrp_place_id": null
   },
   "126": {
     "id": 126,
     "order": "123.00000000000000000000",
-    "Name": "Waidhofen an der Ybbs",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Waidhofen an der Ybbs",
     "krp_place_id": "krp_place_id__126",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__126\">Waidhofen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__126\">Waidhofen</rs>",
+    "mrp_place_id": null
   },
   "128": {
     "id": 128,
     "order": "124.00000000000000000000",
-    "Name": "St. Josef bei Stainz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Josef bei Stainz",
     "krp_place_id": "krp_place_id__128",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__128\">St. Joachimsthal</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__128\">St. Joachimsthal</rs>",
+    "mrp_place_id": null
   },
   "129": {
     "id": 129,
     "order": "125.00000000000000000000",
-    "Name": "Währing",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Währing",
     "krp_place_id": "krp_place_id__129",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__129\">Währing</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__129\">Währing</rs>",
+    "mrp_place_id": null
   },
   "291": {
     "id": 291,
     "order": "125.50000000000000000000",
-    "Name": "Ehrwald",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ehrwald",
     "krp_place_id": "krp_place_id__291",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__291\">Ehrwald</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__291\">Ehrwald</rs>",
+    "mrp_place_id": null
   },
   "130": {
     "id": 130,
     "order": "126.00000000000000000000",
-    "Name": "Elsern",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Elsern",
     "krp_place_id": "krp_place_id__130",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__130\">Elsern</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__130\">Elsern</rs>",
+    "mrp_place_id": null
   },
   "131": {
     "id": 131,
     "order": "127.00000000000000000000",
-    "Name": "Ulrichs",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ulrichs",
     "krp_place_id": "krp_place_id__131",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__131\">Ulrichs</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__131\">Ulrichs</rs>",
+    "mrp_place_id": null
   },
   "132": {
     "id": 132,
     "order": "128.00000000000000000000",
-    "Name": "Oberhöflein",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oberhöflein",
     "krp_place_id": "krp_place_id__132",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__132\">Oberhöflein</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__132\">Oberhöflein</rs>",
+    "mrp_place_id": null
   },
   "133": {
     "id": 133,
     "order": "129.00000000000000000000",
-    "Name": "Hagenberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hagenberg",
     "krp_place_id": "krp_place_id__133",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__133\">Hagenberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__133\">Hagenberg</rs>",
+    "mrp_place_id": null
   },
   "134": {
     "id": 134,
     "order": "130.00000000000000000000",
-    "Name": "Kainraths",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kainraths",
     "krp_place_id": "krp_place_id__134",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__134\">Kainraths</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__134\">Kainraths</rs>",
+    "mrp_place_id": null
   },
   "135": {
     "id": 135,
     "order": "131.00000000000000000000",
-    "Name": "Lembach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lembach",
     "krp_place_id": "krp_place_id__135",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__135\">Lembach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__135\">Lembach</rs>",
+    "mrp_place_id": null
   },
   "136": {
     "id": 136,
     "order": "132.00000000000000000000",
-    "Name": "Staasdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Staasdorf",
     "krp_place_id": "krp_place_id__136",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__136\">Staasdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__136\">Staasdorf</rs>",
+    "mrp_place_id": null
   },
   "257": {
     "id": 257,
     "order": "132.50000000000000000000",
-    "Name": "Laxenburg [Schloss]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Laxenburg [Schloss]",
     "krp_place_id": "krp_place_id__257",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__257\">Laxenburg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__257\">Laxenburg</rs>",
+    "mrp_place_id": null
   },
   "137": {
     "id": 137,
     "order": "133.00000000000000000000",
-    "Name": "Lauterbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Lauterbach",
     "krp_place_id": "krp_place_id__137",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__137\">Lauterbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__137\">Lauterbach</rs>",
+    "mrp_place_id": null
   },
   "138": {
     "id": 138,
     "order": "134.00000000000000000000",
-    "Name": "Siebenhöf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Siebenhöf",
     "krp_place_id": "krp_place_id__138",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__138\">Siebenhöf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__138\">Siebenhöf</rs>",
+    "mrp_place_id": null
   },
   "139": {
     "id": 139,
     "order": "135.00000000000000000000",
-    "Name": "Heinrichs",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Heinrichs",
     "krp_place_id": "krp_place_id__139",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__139\">Heinrichs</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__139\">Heinrichs</rs>",
+    "mrp_place_id": null
   },
   "140": {
     "id": 140,
     "order": "136.00000000000000000000",
-    "Name": "St. Valentin-Landschach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Valentin-Landschach",
     "krp_place_id": "krp_place_id__140",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__140\">St. Valentin-Landschach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__140\">St. Valentin-Landschach</rs>",
+    "mrp_place_id": null
   },
   "141": {
     "id": 141,
     "order": "137.00000000000000000000",
-    "Name": "Goggitsch",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Goggitsch",
     "krp_place_id": "krp_place_id__141",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__141\">Goggitsch</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__141\">Goggitsch</rs>",
+    "mrp_place_id": null
   },
   "142": {
     "id": 142,
     "order": "138.00000000000000000000",
-    "Name": "Maigen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Maigen",
     "krp_place_id": "krp_place_id__142",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__142\">Maigen/rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__142\">Maigen/rs>",
+    "mrp_place_id": null
   },
   "143": {
     "id": 143,
     "order": "139.00000000000000000000",
-    "Name": "Hippersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hippersdorf",
     "krp_place_id": "krp_place_id__143",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__143\">Hippersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__143\">Hippersdorf</rs>",
+    "mrp_place_id": null
   },
   "144": {
     "id": 144,
     "order": "140.00000000000000000000",
-    "Name": "St. Johann am Steinfelde",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Johann am Steinfelde",
     "krp_place_id": "krp_place_id__144",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__144\">St. Johann</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__144\">St. Johann</rs>",
+    "mrp_place_id": null
   },
   "145": {
     "id": 145,
     "order": "141.00000000000000000000",
-    "Name": "Paudorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Paudorf",
     "krp_place_id": "krp_place_id__145",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__145\">Paudorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__145\">Paudorf</rs>",
+    "mrp_place_id": null
   },
   "146": {
     "id": 146,
     "order": "142.00000000000000000000",
-    "Name": "Klein-Burgstall",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Klein-Burgstall",
     "krp_place_id": "krp_place_id__146",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__146\">Klein-Burgstall</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__146\">Klein-Burgstall</rs>",
+    "mrp_place_id": null
   },
   "147": {
     "id": 147,
     "order": "143.00000000000000000000",
-    "Name": "Raach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Raach",
     "krp_place_id": "krp_place_id__147",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__147\">Raach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__147\">Raach</rs>",
+    "mrp_place_id": null
   },
   "148": {
     "id": 148,
     "order": "144.00000000000000000000",
-    "Name": "Rodingersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rodingersdorf",
     "krp_place_id": "krp_place_id__148",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__148\">Rodingerdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__148\">Rodingerdorf</rs>",
+    "mrp_place_id": null
   },
   "149": {
     "id": 149,
     "order": "145.00000000000000000000",
-    "Name": "Eschenau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Eschenau",
     "krp_place_id": "krp_place_id__149",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__149\">Eschenau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__149\">Eschenau</rs>",
+    "mrp_place_id": null
   },
   "150": {
     "id": 150,
     "order": "146.00000000000000000000",
-    "Name": "Thumritz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Thumritz",
     "krp_place_id": "krp_place_id__150",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__150\">Thumritz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__150\">Thumritz</rs>",
+    "mrp_place_id": null
   },
   "151": {
     "id": 151,
     "order": "147.00000000000000000000",
-    "Name": "Ulrichskirchen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ulrichskirchen",
     "krp_place_id": "krp_place_id__151",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ulrichskirchen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ulrichskirchen</rs>",
+    "mrp_place_id": null
   },
   "152": {
     "id": 152,
     "order": "148.00000000000000000000",
-    "Name": "Pernegg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Pernegg",
     "krp_place_id": "krp_place_id__152",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__152\">Pernegg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__152\">Pernegg</rs>",
+    "mrp_place_id": null
   },
   "153": {
     "id": 153,
     "order": "149.00000000000000000000",
-    "Name": "Feistritz am Wechsel",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Feistritz am Wechsel",
     "krp_place_id": "krp_place_id__153",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__153\">Feistritz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__153\">Feistritz</rs>",
+    "mrp_place_id": null
   },
   "154": {
     "id": 154,
     "order": "150.00000000000000000000",
-    "Name": "Sallapulka",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sallapulka",
     "krp_place_id": "krp_place_id__154",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__154\">Sallapulka</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__154\">Sallapulka</rs>",
+    "mrp_place_id": null
   },
   "155": {
     "id": 155,
     "order": "151.00000000000000000000",
-    "Name": "Göstling",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Göstling",
     "krp_place_id": "krp_place_id__155",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__155\">Göstling</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__155\">Göstling</rs>",
+    "mrp_place_id": null
   },
   "156": {
     "id": 156,
     "order": "152.00000000000000000000",
-    "Name": "Matzelsdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Matzelsdorf",
     "krp_place_id": "krp_place_id__156",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__156\">Matzelsdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__156\">Matzelsdorf</rs>",
+    "mrp_place_id": null
   },
   "157": {
     "id": 157,
     "order": "153.00000000000000000000",
-    "Name": "Albrechtsberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Albrechtsberg",
     "krp_place_id": "krp_place_id__157",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__157\">Albrechtsberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__157\">Albrechtsberg</rs>",
+    "mrp_place_id": null
   },
   "158": {
     "id": 158,
     "order": "154.00000000000000000000",
-    "Name": "Nödersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Nödersdorf",
     "krp_place_id": "krp_place_id__158",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__158\">Nödersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__158\">Nödersdorf</rs>",
+    "mrp_place_id": null
   },
   "160": {
     "id": 160,
     "order": "156.00000000000000000000",
-    "Name": "Niederleis",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Niederleis",
     "krp_place_id": "krp_place_id__160",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__160\">Niederleis</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__160\">Niederleis</rs>",
+    "mrp_place_id": null
   },
   "162": {
     "id": 162,
     "order": "158.00000000000000000000",
-    "Name": "Diesendorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Diesendorf",
     "krp_place_id": "krp_place_id__162",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__162\">Diesendorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__162\">Diesendorf</rs>",
+    "mrp_place_id": null
   },
   "163": {
     "id": 163,
     "order": "159.00000000000000000000",
-    "Name": "Gloggnitz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gloggnitz",
     "krp_place_id": "krp_place_id__163",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__163\">Gloggnitz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__163\">Gloggnitz</rs>",
+    "mrp_place_id": null
   },
   "164": {
     "id": 164,
     "order": "160.00000000000000000000",
-    "Name": "Asperhofen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Asperhofen",
     "krp_place_id": "krp_place_id__164",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__164\">Asperhofen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__164\">Asperhofen</rs>",
+    "mrp_place_id": null
   },
   "165": {
     "id": 165,
     "order": "161.00000000000000000000",
-    "Name": "Neunkirchen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Neunkirchen",
     "krp_place_id": "krp_place_id__165",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__165\">Neunkirchen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__165\">Neunkirchen</rs>",
+    "mrp_place_id": null
   },
   "166": {
     "id": 166,
     "order": "162.00000000000000000000",
-    "Name": "Ternitz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ternitz",
     "krp_place_id": "krp_place_id__166",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__166\">Ternitz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__166\">Ternitz</rs>",
+    "mrp_place_id": null
   },
   "167": {
     "id": 167,
     "order": "163.00000000000000000000",
-    "Name": "Melk",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Melk",
     "krp_place_id": "krp_place_id__167",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__167\">Melk</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__167\">Melk</rs>",
+    "mrp_place_id": null
   },
   "168": {
     "id": 168,
     "order": "164.00000000000000000000",
-    "Name": "Laa an der Thaya",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Laa an der Thaya",
     "krp_place_id": "krp_place_id__168",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__168\">Laa</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__168\">Laa</rs>",
+    "mrp_place_id": null
   },
   "169": {
     "id": 169,
     "order": "165.00000000000000000000",
-    "Name": "Stockerau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stockerau",
     "krp_place_id": "krp_place_id__169",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__169\">Stockerau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__169\">Stockerau</rs>",
+    "mrp_place_id": null
   },
   "170": {
     "id": 170,
     "order": "166.00000000000000000000",
-    "Name": "Ybbs an der Donau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ybbs an der Donau",
     "krp_place_id": "krp_place_id__170",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__170\">Ybbs</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__170\">Ybbs</rs>",
+    "mrp_place_id": null
   },
   "171": {
     "id": 171,
     "order": "167.00000000000000000000",
-    "Name": "Danöfen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Danöfen",
     "krp_place_id": "krp_place_id__171",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__171\">Danöfen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__171\">Danöfen</rs>",
+    "mrp_place_id": null
   },
   "172": {
     "id": 172,
     "order": "168.00000000000000000000",
-    "Name": "Hettmannsdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hettmannsdorf",
     "krp_place_id": "krp_place_id__172",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__172\">Hettmannsdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__172\">Hettmannsdorf</rs>",
+    "mrp_place_id": null
   },
   "173": {
     "id": 173,
     "order": "169.00000000000000000000",
-    "Name": "Türnitz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Türnitz",
     "krp_place_id": "krp_place_id__173",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__173\">Türnitz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__173\">Türnitz</rs>",
+    "mrp_place_id": null
   },
   "174": {
     "id": 174,
     "order": "170.00000000000000000000",
-    "Name": "Thomasberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Thomasberg",
     "krp_place_id": "krp_place_id__174",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__174\">Thomasberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__174\">Thomasberg</rs>",
+    "mrp_place_id": null
   },
   "175": {
     "id": 175,
     "order": "171.00000000000000000000",
-    "Name": "Michelhausen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Michelhausen",
     "krp_place_id": "krp_place_id__175",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__175\">Michelhausen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__175\">Michelhausen</rs>",
+    "mrp_place_id": null
   },
   "176": {
     "id": 176,
     "order": "172.00000000000000000000",
-    "Name": "Wolfsberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wolfsberg",
     "krp_place_id": "krp_place_id__176",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__176\">Wolfsberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__176\">Wolfsberg</rs>",
+    "mrp_place_id": null
   },
   "177": {
     "id": 177,
     "order": "173.00000000000000000000",
-    "Name": "Reichaueramt",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Reichaueramt",
     "krp_place_id": "krp_place_id__177",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__177\">Reichaueramt</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__177\">Reichaueramt</rs>",
+    "mrp_place_id": null
   },
   "178": {
     "id": 178,
     "order": "174.00000000000000000000",
-    "Name": "Oberkirchen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oberkirchen",
     "krp_place_id": "krp_place_id__178",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__178\">Oberkirchen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__178\">Oberkirchen</rs>",
+    "mrp_place_id": null
   },
   "179": {
     "id": 179,
     "order": "175.00000000000000000000",
-    "Name": "Bogenneusiedl-Streifing",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bogenneusiedl-Streifing",
     "krp_place_id": "krp_place_id__179",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__179\">Bogenneusiedl-Streifing</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__179\">Bogenneusiedl-Streifing</rs>",
+    "mrp_place_id": null
   },
   "180": {
     "id": 180,
     "order": "176.00000000000000000000",
-    "Name": "Neueigen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Neueigen",
     "krp_place_id": "krp_place_id__180",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__180\">Neueigen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__180\">Neueigen</rs>",
+    "mrp_place_id": null
   },
   "181": {
     "id": 181,
     "order": "177.00000000000000000000",
-    "Name": "Willendorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Willendorf",
     "krp_place_id": "krp_place_id__181",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__181\">Willendorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__181\">Willendorf</rs>",
+    "mrp_place_id": null
   },
   "182": {
     "id": 182,
     "order": "178.00000000000000000000",
-    "Name": "Göttlich",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Göttlich",
     "krp_place_id": "krp_place_id__182",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__182\">Göttlich</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__182\">Göttlich</rs>",
+    "mrp_place_id": null
   },
   "288": {
     "id": 288,
     "order": "178.50000000000000000000",
-    "Name": "Hernals",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hernals",
     "krp_place_id": "krp_place_id__288",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__288\">Hernals</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__288\">Hernals</rs>",
+    "mrp_place_id": null
   },
   "183": {
     "id": 183,
     "order": "179.00000000000000000000",
-    "Name": "Kottingbrunn",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Kottingbrunn",
     "krp_place_id": "krp_place_id__183",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__183\">Kottingbrunn</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__183\">Kottingbrunn</rs>",
+    "mrp_place_id": null
   },
   "287": {
     "id": 287,
     "order": "179.50000000000000000000",
-    "Name": "Steyr",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Steyr",
     "krp_place_id": "krp_place_id__287",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__287\">Steyr</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__287\">Steyr</rs>",
+    "mrp_place_id": null
   },
   "184": {
     "id": 184,
     "order": "180.00000000000000000000",
-    "Name": "Stiefern",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Stiefern",
     "krp_place_id": "krp_place_id__184",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__184\">Stiefern</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__184\">Stiefern</rs>",
+    "mrp_place_id": null
   },
   "185": {
     "id": 185,
     "order": "181.00000000000000000000",
-    "Name": "Ebenfurth",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ebenfurth",
     "krp_place_id": "krp_place_id__185",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__185\">Ebenfurth</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__185\">Ebenfurth</rs>",
+    "mrp_place_id": null
   },
   "186": {
     "id": 186,
     "order": "182.00000000000000000000",
-    "Name": "Sollenau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sollenau",
     "krp_place_id": "krp_place_id__186",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__186\">Sollenau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__186\">Sollenau</rs>",
+    "mrp_place_id": null
   },
   "255": {
     "id": 255,
     "order": "182.50000000000000000000",
-    "Name": "Schönnbrunn [Schloss]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schönnbrunn [Schloss]",
     "krp_place_id": "krp_place_id__255",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__255\">Schönbrunn</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__255\">Schönbrunn</rs>",
+    "mrp_place_id": null
   },
   "187": {
     "id": 187,
     "order": "183.00000000000000000000",
-    "Name": "Schwarzach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schwarzach",
     "krp_place_id": "krp_place_id__187",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__187\">Schwarzach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__187\">Schwarzach</rs>",
+    "mrp_place_id": null
   },
   "188": {
     "id": 188,
     "order": "184.00000000000000000000",
-    "Name": "Hautzendorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hautzendorf",
     "krp_place_id": "krp_place_id__188",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__69\">Gleisdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__69\">Gleisdorf</rs>",
+    "mrp_place_id": null
   },
   "189": {
     "id": 189,
     "order": "185.00000000000000000000",
-    "Name": "St. Veit",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Veit",
     "krp_place_id": "krp_place_id__189",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__189\">St. Veit</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__189\">St. Veit</rs>",
+    "mrp_place_id": null
   },
   "190": {
     "id": 190,
     "order": "186.00000000000000000000",
-    "Name": "Maria-Enzersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Maria-Enzersdorf",
     "krp_place_id": "krp_place_id__190",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__190\">Maria-Enzersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__190\">Maria-Enzersdorf</rs>",
+    "mrp_place_id": null
   },
   "191": {
     "id": 191,
     "order": "187.00000000000000000000",
-    "Name": "Wörgl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wörgl",
     "krp_place_id": "krp_place_id__191",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__191\">Wörgl</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__191\">Wörgl</rs>",
+    "mrp_place_id": null
   },
   "256": {
     "id": 256,
     "order": "187.50000000000000000000",
-    "Name": "Hetzendorf [Schloss]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hetzendorf [Schloss]",
     "krp_place_id": "krp_place_id__256",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__256\">Hetzendorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__256\">Hetzendorf</rs>",
+    "mrp_place_id": null
   },
   "192": {
     "id": 192,
     "order": "188.00000000000000000000",
-    "Name": "Hinterbrühl",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hinterbrühl",
     "krp_place_id": "krp_place_id__192",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__192\">Hinterbrühl</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__192\">Hinterbrühl</rs>",
+    "mrp_place_id": null
   },
   "265": {
     "id": 265,
     "order": "188.50000000000000000000",
-    "Name": "Mollzegg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mollzegg",
     "krp_place_id": "krp_place_id__265",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__265\">Mollzegg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__265\">Mollzegg</rs>",
+    "mrp_place_id": null
   },
   "193": {
     "id": 193,
     "order": "189.00000000000000000000",
-    "Name": "Möllersdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Möllersdorf",
     "krp_place_id": "krp_place_id__193",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__193\">Möllersdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__193\">Möllersdorf</rs>",
+    "mrp_place_id": null
   },
   "194": {
     "id": 194,
     "order": "190.00000000000000000000",
-    "Name": "Villach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Villach",
     "krp_place_id": "krp_place_id__194",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__194\">Villach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__194\">Villach</rs>",
+    "mrp_place_id": null
   },
   "195": {
     "id": 195,
     "order": "191.00000000000000000000",
-    "Name": "Oftering",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oftering",
     "krp_place_id": "krp_place_id__195",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__195\">Oftering</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__195\">Oftering</rs>",
+    "mrp_place_id": null
   },
   "196": {
     "id": 196,
     "order": "192.00000000000000000000",
-    "Name": "Steinach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Steinach",
     "krp_place_id": "krp_place_id__196",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__196\">Steinach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__196\">Steinach</rs>",
+    "mrp_place_id": null
   },
   "197": {
     "id": 197,
     "order": "193.00000000000000000000",
-    "Name": "Buchkirchen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Buchkirchen",
     "krp_place_id": "krp_place_id__197",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__197\">Buchkirchen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__197\">Buchkirchen</rs>",
+    "mrp_place_id": null
   },
   "199": {
     "id": 199,
     "order": "195.00000000000000000000",
-    "Name": "Leoben",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Leoben",
     "krp_place_id": "krp_place_id__199",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__199\">Leoben</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__199\">Leoben</rs>",
+    "mrp_place_id": null
   },
   "292": {
     "id": 292,
     "order": "195.50000000000000000000",
-    "Name": "Semmering",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Semmering",
     "krp_place_id": "krp_place_id__292",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__292\">Semmering</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__292\">Semmering</rs>",
+    "mrp_place_id": null
   },
   "200": {
     "id": 200,
     "order": "196.00000000000000000000",
-    "Name": "Senftenberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Senftenberg",
     "krp_place_id": "krp_place_id__200",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__200\">Senftenberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__200\">Senftenberg</rs>",
+    "mrp_place_id": null
   },
   "201": {
     "id": 201,
     "order": "197.00000000000000000000",
-    "Name": "Oberkreuzstetten",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oberkreuzstetten",
     "krp_place_id": "krp_place_id__201",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__201\">Oberkreuzstetten</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__201\">Oberkreuzstetten</rs>",
+    "mrp_place_id": null
   },
   "203": {
     "id": 203,
     "order": "199.00000000000000000000",
-    "Name": "Gainfarn",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gainfarn",
     "krp_place_id": "krp_place_id__203",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__203\">Gainfarn</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__203\">Gainfarn</rs>",
+    "mrp_place_id": null
   },
   "204": {
     "id": 204,
     "order": "200.00000000000000000000",
-    "Name": "Alt-Weitra",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Alt-Weitra",
     "krp_place_id": "krp_place_id__204",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__204\">Alt-Weitra</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__204\">Alt-Weitra</rs>",
+    "mrp_place_id": null
   },
   "205": {
     "id": 205,
     "order": "201.00000000000000000000",
-    "Name": "Wagram an der Donau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wagram an der Donau",
     "krp_place_id": "krp_place_id__205",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__205\">Wagram</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__205\">Wagram</rs>",
+    "mrp_place_id": null
   },
   "206": {
     "id": 206,
     "order": "202.00000000000000000000",
-    "Name": "Enzersfeld",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Enzersfeld",
     "krp_place_id": "krp_place_id__206",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__206\">Enzersfeld</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__206\">Enzersfeld</rs>",
+    "mrp_place_id": null
   },
   "207": {
     "id": 207,
     "order": "203.00000000000000000000",
-    "Name": "Feldberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Feldberg",
     "krp_place_id": "krp_place_id__207",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__207\">Feldberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__207\">Feldberg</rs>",
+    "mrp_place_id": null
   },
   "208": {
     "id": 208,
     "order": "204.00000000000000000000",
-    "Name": "Dorfstetten",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Dorfstetten",
     "krp_place_id": "krp_place_id__208",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__208\">Dorfstetten</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__208\">Dorfstetten</rs>",
+    "mrp_place_id": null
   },
   "209": {
     "id": 209,
     "order": "205.00000000000000000000",
-    "Name": "Schagges",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schagges",
     "krp_place_id": "krp_place_id__209",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__209\">Schagges</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__209\">Schagges</rs>",
+    "mrp_place_id": null
   },
   "210": {
     "id": 210,
     "order": "206.00000000000000000000",
-    "Name": "Klausen-Leopoldsdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Klausen-Leopoldsdorf",
     "krp_place_id": "krp_place_id__210",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__256\">Klausen-Leopoldsdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__256\">Klausen-Leopoldsdorf</rs>",
+    "mrp_place_id": null
   },
   "211": {
     "id": 211,
     "order": "207.00000000000000000000",
-    "Name": "Hohenems",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hohenems",
     "krp_place_id": "krp_place_id__211",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__211\">Hohenems</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__211\">Hohenems</rs>",
+    "mrp_place_id": null
   },
   "212": {
     "id": 212,
     "order": "208.00000000000000000000",
-    "Name": "Mäder",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mäder",
     "krp_place_id": "krp_place_id__212",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__212\">Mäder</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__212\">Mäder</rs>",
+    "mrp_place_id": null
   },
   "213": {
     "id": 213,
     "order": "209.00000000000000000000",
-    "Name": "Altach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Altach",
     "krp_place_id": "krp_place_id__213",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__213\">Altach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__213\">Altach</rs>",
+    "mrp_place_id": null
   },
   "214": {
     "id": 214,
     "order": "210.00000000000000000000",
-    "Name": "Götzis",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Götzis",
     "krp_place_id": "krp_place_id__214",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__214\">Götzis</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__214\">Götzis</rs>",
+    "mrp_place_id": null
   },
   "215": {
     "id": 215,
     "order": "211.00000000000000000000",
-    "Name": "Schwaz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schwaz",
     "krp_place_id": "krp_place_id__215",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__215\">Schwaz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__215\">Schwaz</rs>",
+    "mrp_place_id": null
   },
   "216": {
     "id": 216,
     "order": "212.00000000000000000000",
-    "Name": "Bezirk [Bezirk]",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Bezirk [Bezirk]",
     "krp_place_id": "krp_place_id__216",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "?"
+    "alternative_name": "",
+    "tei_code": "?",
+    "mrp_place_id": null
   },
   "217": {
     "id": 217,
     "order": "213.00000000000000000000",
-    "Name": "Mank",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mank",
     "krp_place_id": "krp_place_id__217",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__217\">Mank</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__217\">Mank</rs>",
+    "mrp_place_id": null
   },
   "218": {
     "id": 218,
     "order": "214.00000000000000000000",
-    "Name": "Scheibbs",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Scheibbs",
     "krp_place_id": "krp_place_id__218",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__218\">Scheibbs</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__218\">Scheibbs</rs>",
+    "mrp_place_id": null
   },
   "249": {
     "id": 249,
     "order": "215.00000000000000000000",
-    "Name": "Rom",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rom",
     "krp_place_id": "krp_place_id__249",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__249\">Rom</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__249\">Rom</rs>",
+    "mrp_place_id": null
   },
   "250": {
     "id": 250,
     "order": "216.00000000000000000000",
-    "Name": "Vatikan",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Vatikan",
     "krp_place_id": "krp_place_id__250",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__250\">Vatikan</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__250\">Vatikan</rs>",
+    "mrp_place_id": null
   },
   "252": {
     "id": 252,
     "order": "217.00000000000000000000",
-    "Name": "Galizien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Galizien",
     "krp_place_id": "krp_place_id__252",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__252\">Galizien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__252\">Galizien</rs>",
+    "mrp_place_id": null
   },
   "283": {
     "id": 283,
     "order": "217.50000000000000000000",
-    "Name": "Mühldorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mühldorf",
     "krp_place_id": "krp_place_id__283",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__283\">Mühldorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__283\">Mühldorf</rs>",
+    "mrp_place_id": null
   },
   "253": {
     "id": 253,
     "order": "218.00000000000000000000",
-    "Name": "Münchner Räterpublik",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Münchner Räterpublik",
     "krp_place_id": "krp_place_id__253",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__253\">Münchner Räterepublik</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__253\">Münchner Räterepublik</rs>",
+    "mrp_place_id": null
   },
   "260": {
     "id": 260,
     "order": "219.00000000000000000000",
-    "Name": "Schrattenbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schrattenbach",
     "krp_place_id": "krp_place_id__260",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__260\">Schrattenbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__260\">Schrattenbach</rs>",
+    "mrp_place_id": null
   },
   "262": {
     "id": 262,
     "order": "221.00000000000000000000",
-    "Name": "Trattenbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Trattenbach",
     "krp_place_id": "krp_place_id__262",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__262\">Trattebach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__262\">Trattebach</rs>",
+    "mrp_place_id": null
   },
   "263": {
     "id": 263,
     "order": "222.00000000000000000000",
-    "Name": "Ottertal",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Ottertal",
     "krp_place_id": "krp_place_id__263",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__263\">Ottertal</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__263\">Ottertal</rs>",
+    "mrp_place_id": null
   },
   "264": {
     "id": 264,
     "order": "223.00000000000000000000",
-    "Name": "Mittel im Steinfelde",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mittel im Steinfelde",
     "krp_place_id": "krp_place_id__264",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__264\">Mittel</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__264\">Mittel</rs>",
+    "mrp_place_id": null
   },
   "267": {
     "id": 267,
     "order": "225.00000000000000000000",
-    "Name": "St. Peter am Neuwald",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Peter am Neuwald",
     "krp_place_id": "krp_place_id__267",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__267\">St. Peter</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__267\">St. Peter</rs>",
+    "mrp_place_id": null
   },
   "268": {
     "id": 268,
     "order": "226.00000000000000000000",
-    "Name": "Mariensee",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mariensee",
     "krp_place_id": "krp_place_id__268",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__268\">Mariensee</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__268\">Mariensee</rs>",
+    "mrp_place_id": null
   },
   "269": {
     "id": 269,
     "order": "227.00000000000000000000",
-    "Name": "Amt Aspang",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Amt Aspang",
     "krp_place_id": "krp_place_id__269",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__269\">Amt Aspang</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__269\">Amt Aspang</rs>",
+    "mrp_place_id": null
   },
   "270": {
     "id": 270,
     "order": "228.00000000000000000000",
-    "Name": "Feichsen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Feichsen",
     "krp_place_id": "krp_place_id__270",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__270\">Feichsen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__270\">Feichsen</rs>",
+    "mrp_place_id": null
   },
   "271": {
     "id": 271,
     "order": "229.00000000000000000000",
-    "Name": "St. Joachimsthal",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "St. Joachimsthal",
     "krp_place_id": "krp_place_id__271",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__271\">St. Joachimsthal</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__271\">St. Joachimsthal</rs>",
+    "mrp_place_id": null
   },
   "272": {
     "id": 272,
     "order": "230.00000000000000000000",
-    "Name": "Purgstall",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Purgstall",
     "krp_place_id": "krp_place_id__272",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__272\">Purgstall</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__272\">Purgstall</rs>",
+    "mrp_place_id": null
   },
   "273": {
     "id": 273,
     "order": "231.00000000000000000000",
-    "Name": "Süßenbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Süßenbach",
     "krp_place_id": "krp_place_id__273",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__273\">Süßenbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__273\">Süßenbach</rs>",
+    "mrp_place_id": null
   },
   "274": {
     "id": 274,
     "order": "232.00000000000000000000",
-    "Name": "Limbach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Limbach",
     "krp_place_id": "krp_place_id__274",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__274\">Limbach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__274\">Limbach</rs>",
+    "mrp_place_id": null
   },
   "275": {
     "id": 275,
     "order": "233.00000000000000000000",
-    "Name": "Innichen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Innichen",
     "krp_place_id": "krp_place_id__275",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__275\">Innichen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__275\">Innichen</rs>",
+    "mrp_place_id": null
   },
   "276": {
     "id": 276,
     "order": "234.00000000000000000000",
-    "Name": "Obermillstatt",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Obermillstatt",
     "krp_place_id": "krp_place_id__276",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Obermiillstatt</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Obermiillstatt</rs>",
+    "mrp_place_id": null
   },
   "277": {
     "id": 277,
     "order": "235.00000000000000000000",
-    "Name": "Sexten",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Sexten",
     "krp_place_id": "krp_place_id__277",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__277\">Sexten</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__277\">Sexten</rs>",
+    "mrp_place_id": null
   },
   "278": {
     "id": 278,
     "order": "236.00000000000000000000",
-    "Name": "Görtschach-Förolach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Görtschach-Förolach",
     "krp_place_id": "krp_place_id__278",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__278\">Görtschach-Förolach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__278\">Görtschach-Förolach</rs>",
+    "mrp_place_id": null
   },
   "279": {
     "id": 279,
     "order": "237.00000000000000000000",
-    "Name": "Gnesau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gnesau",
     "krp_place_id": "krp_place_id__279",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__279\">Gnesau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__279\">Gnesau</rs>",
+    "mrp_place_id": null
   },
   "280": {
     "id": 280,
     "order": "238.00000000000000000000",
-    "Name": "Koblach",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Koblach",
     "krp_place_id": "krp_place_id__280",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__280\">Koblach</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__280\">Koblach</rs>",
+    "mrp_place_id": null
   },
   "281": {
     "id": 281,
     "order": "239.00000000000000000000",
-    "Name": "Zedtlitzdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Zedtlitzdorf",
     "krp_place_id": "krp_place_id__281",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__281\">Zedtlitzdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__281\">Zedtlitzdorf</rs>",
+    "mrp_place_id": null
   },
   "282": {
     "id": 282,
     "order": "240.00000000000000000000",
-    "Name": "Patergassen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Patergassen",
     "krp_place_id": "krp_place_id__282",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__282\">Patergassen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__282\">Patergassen</rs>",
+    "mrp_place_id": null
   },
   "293": {
     "id": 293,
     "order": "241.00000000000000000000",
-    "Name": "Hetzendorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Hetzendorf",
     "krp_place_id": "krp_place_id__293",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__293\">Hetzendorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__293\">Hetzendorf</rs>",
+    "mrp_place_id": null
   },
   "294": {
     "id": 294,
     "order": "242.00000000000000000000",
-    "Name": "Czernowitz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Czernowitz",
     "krp_place_id": "krp_place_id__294",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__294\">Czernowitz</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__294\">Czernowitz</rs>",
+    "mrp_place_id": null
   },
   "295": {
     "id": 295,
     "order": "243.00000000000000000000",
-    "Name": "Seckau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Seckau",
     "krp_place_id": "krp_place_id__295",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__295\">Seckau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__295\">Seckau</rs>",
+    "mrp_place_id": null
   },
   "296": {
     "id": 296,
     "order": "244.00000000000000000000",
-    "Name": "Oberschlesien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oberschlesien",
     "krp_place_id": "krp_place_id__296",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__296\">Oberschlesien</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__296\">Oberschlesien</rs>",
+    "mrp_place_id": null
   },
   "297": {
     "id": 297,
     "order": "245.00000000000000000000",
-    "Name": "Niederlande",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Niederlande",
     "krp_place_id": "krp_place_id__297",
-    "Alternative Bezeichnungen": "Holland",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Niederlande</rs>"
+    "alternative_name": "Holland",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Niederlande</rs>",
+    "mrp_place_id": null
   },
   "298": {
     "id": 298,
     "order": "246.00000000000000000000",
-    "Name": "Waidmannsfeld",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Waidmannsfeld",
     "krp_place_id": "krp_place_id__298",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__298\">Waidmannsfeld</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__298\">Waidmannsfeld</rs>",
+    "mrp_place_id": null
   },
   "299": {
     "id": 299,
     "order": "247.00000000000000000000",
-    "Name": "Mährisch-Ostrau",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Mährisch-Ostrau",
     "krp_place_id": "krp_place_id__299",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__299\">Mährisch-Ostrau</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__299\">Mährisch-Ostrau</rs>",
+    "mrp_place_id": null
   },
   "300": {
     "id": 300,
     "order": "248.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "",
     "krp_place_id": "krp_place_id__300",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "alternative_name": "",
+    "tei_code": null,
+    "mrp_place_id": null
   },
   "301": {
     "id": 301,
     "order": "249.00000000000000000000",
-    "Name": "Schildern",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Schildern",
     "krp_place_id": "krp_place_id__301",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__301\">Schildern</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__301\">Schildern</rs>",
+    "mrp_place_id": null
   },
   "302": {
     "id": 302,
     "order": "250.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "",
     "krp_place_id": "krp_place_id__302",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": null
+    "alternative_name": "",
+    "tei_code": null,
+    "mrp_place_id": null
   },
   "303": {
     "id": 303,
     "order": "251.00000000000000000000",
-    "Name": "Thernberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Thernberg",
     "krp_place_id": "krp_place_id__303",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__303\">Thernberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__303\">Thernberg</rs>",
+    "mrp_place_id": null
   },
   "304": {
     "id": 304,
     "order": "252.00000000000000000000",
-    "Name": "Oderberg",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Oderberg",
     "krp_place_id": "krp_place_id__304",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__304\">Oderberg</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__304\">Oderberg</rs>",
+    "mrp_place_id": null
   },
   "305": {
     "id": 305,
     "order": "253.00000000000000000000",
-    "Name": "Brunn",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Brunn",
     "krp_place_id": "krp_place_id__305",
-    "Alternative Bezeichnungen": "Brno",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brunn</rs>"
+    "alternative_name": "Brno",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brunn</rs>",
+    "mrp_place_id": null
   },
   "306": {
     "id": 306,
     "order": "254.00000000000000000000",
-    "Name": "Wollzeile 18, A-1020 Wien",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Wollzeile 18, A-1020 Wien",
     "krp_place_id": "krp_place_id__306",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__306\">Wollzeile 18</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__306\">Wollzeile 18</rs>",
+    "mrp_place_id": null
   },
   "307": {
     "id": 307,
     "order": "255.00000000000000000000",
-    "Name": "Floridsdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Floridsdorf",
     "krp_place_id": "krp_place_id__307",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__307\">Floridsdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__307\">Floridsdorf</rs>",
+    "mrp_place_id": null
   },
   "308": {
     "id": 308,
     "order": "256.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "",
     "krp_place_id": "krp_place_id__308",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": ""
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
   },
   "309": {
     "id": 309,
     "order": "257.00000000000000000000",
-    "Name": "Karmelitinnenkirche in Linz",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Karmelitinnenkirche in Linz",
     "krp_place_id": "krp_place_id__309",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": ""
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
   },
   "310": {
     "id": 310,
     "order": "258.00000000000000000000",
-    "Name": "Rupprechtshofen",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Rupprechtshofen",
     "krp_place_id": "krp_place_id__310",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__310\">Rupprechtshofen</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__310\">Rupprechtshofen</rs>",
+    "mrp_place_id": null
   },
   "311": {
     "id": 311,
     "order": "259.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "",
     "krp_place_id": "krp_place_id__311",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": ""
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
   },
   "312": {
     "id": 312,
     "order": "260.00000000000000000000",
-    "Name": "Gosdorf",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Gosdorf",
     "krp_place_id": "krp_place_id__312",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__312\">Gosdorf</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__312\">Gosdorf</rs>",
+    "mrp_place_id": null
   },
   "313": {
     "id": 313,
     "order": "261.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "",
     "krp_place_id": "krp_place_id__313",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": ""
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
   },
   "314": {
     "id": 314,
     "order": "262.00000000000000000000",
-    "Name": "Westungarn",
-    "Anmerkungen": "",
-    "Aktiv": false,
+    "label": "Westungarn",
     "krp_place_id": "krp_place_id__314",
-    "Alternative Bezeichnungen": "",
-    "TEI-Code": "<rs type=\"place\" ref=\"#krp_place_id__314\">Westungarn</rs>"
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__314\">Westungarn</rs>",
+    "mrp_place_id": null
+  },
+  "315": {
+    "id": 315,
+    "order": "263.00000000000000000000",
+    "label": "Mährisch Neustadt",
+    "krp_place_id": "krp_place_id__315",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
+  },
+  "316": {
+    "id": 316,
+    "order": "264.00000000000000000000",
+    "label": "Schaffa",
+    "krp_place_id": "krp_place_id__316",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
+  },
+  "317": {
+    "id": 317,
+    "order": "265.00000000000000000000",
+    "label": "Kufstein",
+    "krp_place_id": "krp_place_id__317",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
+  },
+  "318": {
+    "id": 318,
+    "order": "266.00000000000000000000",
+    "label": "Hittisau",
+    "krp_place_id": "krp_place_id__318",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": null
   }
 }

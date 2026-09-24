@@ -2,1771 +2,1771 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "Name": "AG Elektrizitätswerk Wels",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.eww.at/ueber-uns/unternehmensgruppe",
+    "label": "AG Elektrizitätswerk Wels",
+    "note": "",
+    "source": "https://www.eww.at/ueber-uns/unternehmensgruppe",
     "krp_org_id": "krp_org_id__1",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__1\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__1\"></rs>",
+    "mrp_org_id": null
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "Name": "Anglo-österreichischen Bank",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Anglo-%C3%B6sterreichische_Bank",
+    "label": "Anglo-österreichischen Bank",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Anglo-%C3%B6sterreichische_Bank",
     "krp_org_id": "krp_org_id__2",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__2\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__2\"></rs>",
+    "mrp_org_id": null
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "Name": "[Allgemeine österreichische] Bodencreditanstalt",
-    "Anmerkungen": null,
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt",
+    "label": "[Allgemeine österreichische] Bodencreditanstalt",
+    "note": null,
+    "source": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt",
     "krp_org_id": "krp_org_id__3",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__3\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__3\"></rs>",
+    "mrp_org_id": null
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "Name": "Bankhaus Kuhn, Loeb & Co",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Bankhaus Kuhn, Loeb & Co",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__4",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__4\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__4\"></rs>",
+    "mrp_org_id": null
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "Name": "Berufsgenossenschaftliche Unfallversicherungsanstalt",
-    "Anmerkungen": "Quellenlink für BUV für Ö. Eisenbahnen (!): https://alex.onb.ac.at/cgi-content/alex?aid=rgb&datum=18900004&seite=00000221",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Berufsgenossenschaftliche Unfallversicherungsanstalt",
+    "note": "Quellenlink für BUV für Ö. Eisenbahnen (!): https://alex.onb.ac.at/cgi-content/alex?aid=rgb&datum=18900004&seite=00000221",
+    "source": "",
     "krp_org_id": "krp_org_id__5",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__5\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__5\"></rs>",
+    "mrp_org_id": null
   },
   "97": {
     "id": 97,
     "order": "5.50000000000000000000",
-    "Name": "Credit-Institute für öffentliche Unternehmungen und Arbeiten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Credit-Institute für öffentliche Unternehmungen und Arbeiten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__97",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__97\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__97\"></rs>",
+    "mrp_org_id": null
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "Name": "Creditanstalt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Creditanstalt-Bankverein",
+    "label": "Creditanstalt",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Creditanstalt-Bankverein",
     "krp_org_id": "krp_org_id__6",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__6\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__6\"></rs>",
+    "mrp_org_id": null
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "Name": "Daimler-Motoren-AG",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.austrodaimler.at/firmengeschichte/",
+    "label": "Daimler-Motoren-AG",
+    "note": "",
+    "source": "https://www.austrodaimler.at/firmengeschichte/",
     "krp_org_id": "krp_org_id__7",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__7\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__7\"></rs>",
+    "mrp_org_id": null
   },
   "98": {
     "id": 98,
     "order": "7.33333333333333303727",
-    "Name": "Allgemeine österreichische Boden-Credit-Anstalt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck%20%204c4ae136-840a-4d52-b747-b8e62f3d7449VERA#Stueck__4c4ae136-840a-4d52-b747-b8e62f3d7449VERA",
+    "label": "Allgemeine österreichische Boden-Credit-Anstalt",
+    "note": "",
+    "source": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck%20%204c4ae136-840a-4d52-b747-b8e62f3d7449VERA#Stueck__4c4ae136-840a-4d52-b747-b8e62f3d7449VERA",
     "krp_org_id": "krp_org_id__98",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__98\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__98\"></rs>",
+    "mrp_org_id": null
   },
   "93": {
     "id": 93,
     "order": "7.50000000000000000000",
-    "Name": "Arbeiter-Unfallversicherungsanstalt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Arbeiter-Unfallversicherungsanstalt",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__93",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__93\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__93\"></rs>",
+    "mrp_org_id": null
   },
   "94": {
     "id": 94,
     "order": "7.66666666666666696273",
-    "Name": "Deutschösterreichische Lebensmitteleinfuhrstelle (Dölest)",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.parlament.gv.at/dokument/KN/I-KN/381/imfname_719385.pdf",
+    "label": "Deutschösterreichische Lebensmitteleinfuhrstelle (Dölest)",
+    "note": "",
+    "source": "https://www.parlament.gv.at/dokument/KN/I-KN/381/imfname_719385.pdf",
     "krp_org_id": "krp_org_id__94",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__94\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__94\"></rs>",
+    "mrp_org_id": null
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "Name": "Donaudampfschiffahrtsgesellschaft",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft",
+    "label": "Donaudampfschiffahrtsgesellschaft",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft",
     "krp_org_id": "krp_org_id__8",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__8\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__8\"></rs>",
+    "mrp_org_id": null
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "Name": "Eltz’sche Spinnerei",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Eltz’sche Spinnerei",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__9",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__9\">Eltz’sche Spinnerei</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__9\">Eltz’sche Spinnerei</rs>",
+    "mrp_org_id": null
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "Name": "[Erzherzogliche] Ludwig Viktor[‘sche] Familienstiftung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=2575899",
+    "label": "[Erzherzogliche] Ludwig Viktor[‘sche] Familienstiftung",
+    "note": "",
+    "source": "https://www.archivinformationssystem.at/detail.aspx?ID=2575899",
     "krp_org_id": "krp_org_id__10",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__10\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__10\"></rs>",
+    "mrp_org_id": null
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "Name": "Firma B. Wetzler & Co.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA#Stueck__00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA",
+    "label": "Firma B. Wetzler & Co.",
+    "note": "",
+    "source": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA#Stueck__00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA",
     "krp_org_id": "krp_org_id__11",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__11\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__11\"></rs>",
+    "mrp_org_id": null
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "Name": "Firma Glesinger S.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396732",
+    "label": "Firma Glesinger S.",
+    "note": "",
+    "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396732",
     "krp_org_id": "krp_org_id__12",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__12\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__12\"></rs>",
+    "mrp_org_id": null
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "Name": "Firma Jakob Neurath",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Firma Jakob Neurath",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__13",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__13\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__13\"></rs>",
+    "mrp_org_id": null
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "Name": "Firma Stone & Webster",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200625&seite=8&zoom=33&query=%22firma%22%2B%22stone%22%2B%22webster%22&ref=anno-search",
+    "label": "Firma Stone & Webster",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200625&seite=8&zoom=33&query=%22firma%22%2B%22stone%22%2B%22webster%22&ref=anno-search",
     "krp_org_id": "krp_org_id__14",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__14\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__14\"></rs>",
+    "mrp_org_id": null
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "Name": "Graz-Köflacher Eisenbahn- und Bergbau-Gesellschaft",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200714&seite=14&zoom=33&query=%22Graz%2BK%C3%B6flacher%2BEisenbahn-%2Bund%2BBergbau-Gesellschaft%22&ref=anno-search",
+    "label": "Graz-Köflacher Eisenbahn- und Bergbau-Gesellschaft",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200714&seite=14&zoom=33&query=%22Graz%2BK%C3%B6flacher%2BEisenbahn-%2Bund%2BBergbau-Gesellschaft%22&ref=anno-search",
     "krp_org_id": "krp_org_id__15",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__15\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__15\"></rs>",
+    "mrp_org_id": null
   },
   "96": {
     "id": 96,
     "order": "15.50000000000000000000",
-    "Name": "\"Henry\" Seifen-, Kerzen- und Fettwarenfabrik GmbH",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "\"Henry\" Seifen-, Kerzen- und Fettwarenfabrik GmbH",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__96",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__96\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__96\"></rs>",
+    "mrp_org_id": null
   },
   "102": {
     "id": 102,
     "order": "15.66666666666666607455",
-    "Name": "Spedition Caro & Jellinek",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Spedition Caro & Jellinek",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__102",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__102\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__102\"></rs>",
+    "mrp_org_id": null
   },
   "107": {
     "id": 107,
     "order": "15.69999999999999928946",
-    "Name": "Reichsbank",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Reichsbank",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__107",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__107\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__107\"></rs>",
+    "mrp_org_id": null
   },
   "104": {
     "id": 104,
     "order": "15.71428571428571352442",
-    "Name": "Reichsvollzugsausschusses der Soldatenräte Deutschösterreichs",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Reichsvollzugsausschusses der Soldatenräte Deutschösterreichs",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__104",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__104\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__104\"></rs>",
+    "mrp_org_id": null
   },
   "103": {
     "id": 103,
     "order": "15.75000000000000000000",
-    "Name": "Gemeinde Wien-Städtische Straßenbahnen",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Gemeinde Wien-Städtische Straßenbahnen",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__103",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__103\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__103\"></rs>",
+    "mrp_org_id": null
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "Name": "Holenia Franz & Co.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396750",
+    "label": "Holenia Franz & Co.",
+    "note": "",
+    "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396750",
     "krp_org_id": "krp_org_id__16",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__16\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__16\"></rs>",
+    "mrp_org_id": null
   },
   "208": {
     "id": 208,
     "order": "16.50000000000000000000",
-    "Name": "interallierte Wirtschaftskommission",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "interallierte Wirtschaftskommission",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__208",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__208\">Interalliierte Wirtschaftskommission</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__208\">Interalliierte Wirtschaftskommission</rs>",
+    "mrp_org_id": null
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "Name": "Internationale Bureau zum Schutze des gewerblichen Eigentums",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Internationale Bureau zum Schutze des gewerblichen Eigentums",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__17",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__17\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__17\"></rs>",
+    "mrp_org_id": null
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "Name": "Ingenieure Mayreder, Kraus & Co.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Rudolf_Mayreder",
+    "label": "Ingenieure Mayreder, Kraus & Co.",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Rudolf_Mayreder",
     "krp_org_id": "krp_org_id__18",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__18\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__18\"></rs>",
+    "mrp_org_id": null
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "Name": "„Inva“ Buch-, Kunst-, Steindruckerei und Lithographie des Zentralverbandes der deutschösterreichischen Kriegsbeschädigten, Gesellschaft mbH",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200626&seite=14&zoom=33&query=%22inva%22&ref=anno-search",
+    "label": "„Inva“ Buch-, Kunst-, Steindruckerei und Lithographie des Zentralverbandes der deutschösterreichischen Kriegsbeschädigten, Gesellschaft mbH",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200626&seite=14&zoom=33&query=%22inva%22&ref=anno-search",
     "krp_org_id": "krp_org_id__19",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__19\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__19\"></rs>",
+    "mrp_org_id": null
   },
   "95": {
     "id": 95,
     "order": "19.33333333333333214910",
-    "Name": "Interalliierte Lebensmittelkommission",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Interalliierte Lebensmittelkommission",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__95",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__95\">Interalliierte Lebensmittelkommission</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__95\">Interalliierte Lebensmittelkommission</rs>",
+    "mrp_org_id": null
   },
   "56": {
     "id": 56,
     "order": "19.50000000000000000000",
-    "Name": "Internationale Liquidierungskommission",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Internationale Liquidierungskommission",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__56",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__56\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__56\"></rs>",
+    "mrp_org_id": null
   },
   "99": {
     "id": 99,
     "order": "19.66666666666666785090",
-    "Name": "Kärntner Forstverein",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://kaerntner-forstverein.at/wp-content/uploads/2022/05/Festschrift-web.pdf",
+    "label": "Kärntner Forstverein",
+    "note": "",
+    "source": "https://kaerntner-forstverein.at/wp-content/uploads/2022/05/Festschrift-web.pdf",
     "krp_org_id": "krp_org_id__99",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__99\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__99\"></rs>",
+    "mrp_org_id": null
   },
   "100": {
     "id": 100,
     "order": "19.75000000000000000000",
-    "Name": "Internationalen Komitee vom Roten Kreuz",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Internationalen Komitee vom Roten Kreuz",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__100",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__100\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__100\"></rs>",
+    "mrp_org_id": null
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "Name": "Kantonalbank",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://hls-dhs-dss.ch/de/articles/014065/2015-04-08/",
+    "label": "Kantonalbank",
+    "note": "",
+    "source": "https://hls-dhs-dss.ch/de/articles/014065/2015-04-08/",
     "krp_org_id": "krp_org_id__20",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__20\">Kantonalbank</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__20\">Kantonalbank</rs>",
+    "mrp_org_id": null
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "Name": "Kupfer- und Zinnhütte Betriebsgesellschaft mbH.",
-    "Anmerkungen": "derzeitiger Konsens, muss noch recherchiert werden",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1920&page=135&size=45&qid=57T0KCMCR2SNTO8KP3JPVAJIUJ4J8D",
+    "label": "Kupfer- und Zinnhütte Betriebsgesellschaft mbH.",
+    "note": "derzeitiger Konsens, muss noch recherchiert werden",
+    "source": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1920&page=135&size=45&qid=57T0KCMCR2SNTO8KP3JPVAJIUJ4J8D",
     "krp_org_id": "krp_org_id__21",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__21\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__21\"></rs>",
+    "mrp_org_id": null
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "Name": "Länderzentralbüro",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200731&seite=20&zoom=33&query=%22l%C3%A4nderzentralbureau%22&ref=anno-search",
+    "label": "Länderzentralbüro",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200731&seite=20&zoom=33&query=%22l%C3%A4nderzentralbureau%22&ref=anno-search",
     "krp_org_id": "krp_org_id__22",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__22\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__22\"></rs>",
+    "mrp_org_id": null
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "Name": "Metall- & Erz-Gesellschaft mbH.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Metall- & Erz-Gesellschaft mbH.",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__23",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__23\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__23\"></rs>",
+    "mrp_org_id": null
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "Name": "Militär-Witwen- und Waisenfonds",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://sammlung.wienmuseum.at/en/object/117147-wfw-militaer-witwen-und-waisenfonds/\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19190606&seite=3&zoom=33&query=%22milit%C3%A4r-witwen%2Bund%2Bwaisenfonds%22&ref=anno-search",
+    "label": "Militär-Witwen- und Waisenfonds",
+    "note": "",
+    "source": "https://sammlung.wienmuseum.at/en/object/117147-wfw-militaer-witwen-und-waisenfonds/\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19190606&seite=3&zoom=33&query=%22milit%C3%A4r-witwen%2Bund%2Bwaisenfonds%22&ref=anno-search",
     "krp_org_id": "krp_org_id__24",
-    "TEI-Code": "\"<rs type=\"org\"\" ref=\"#krp_org_id__24\">Militär-Witwen- und Waisenfonds</rs>"
+    "tei_code": "\"<rs type=\"org\"\" ref=\"#krp_org_id__24\">Militär-Witwen- und Waisenfonds</rs>",
+    "mrp_org_id": null
   },
   "25": {
     "id": 25,
     "order": "25.00000000000000000000",
-    "Name": "Militärsanitätsanstalten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=3977515\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=ozp&datum=19190201&seite=3&zoom=33&query=%22milit%C3%A4rsanit%C3%A4tsanstalten%22&ref=anno-search",
+    "label": "Militärsanitätsanstalten",
+    "note": "",
+    "source": "https://www.archivinformationssystem.at/detail.aspx?ID=3977515\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=ozp&datum=19190201&seite=3&zoom=33&query=%22milit%C3%A4rsanit%C3%A4tsanstalten%22&ref=anno-search",
     "krp_org_id": "krp_org_id__25",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__25\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__25\"></rs>",
+    "mrp_org_id": null
   },
   "26": {
     "id": 26,
     "order": "26.00000000000000000000",
-    "Name": "„Montana“ Bergbau-Gesellschaft m.b.H.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/163682",
+    "label": "„Montana“ Bergbau-Gesellschaft m.b.H.",
+    "note": "",
+    "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/163682",
     "krp_org_id": "krp_org_id__26",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__26\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__26\"></rs>",
+    "mrp_org_id": null
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
-    "Name": "Morgan Harjes & Co.",
-    "Anmerkungen": "Reliablere Ressource recherchieren",
-    "Aktiv": false,
-    "Quelle": "https://en.wikipedia.org/wiki/Morgan,_Harjes_%26_Co.",
+    "label": "Morgan Harjes & Co.",
+    "note": "Reliablere Ressource recherchieren",
+    "source": "https://en.wikipedia.org/wiki/Morgan,_Harjes_%26_Co.",
     "krp_org_id": "krp_org_id__27",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__27\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__27\"></rs>",
+    "mrp_org_id": null
   },
   "28": {
     "id": 28,
     "order": "28.00000000000000000000",
-    "Name": "niederösterreichische Landes-Hypothekenanstalt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=548&size=45&qid=BWZEZ13XUJIB3JGTLYW8HQTRBHCRM4",
+    "label": "niederösterreichische Landes-Hypothekenanstalt",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=548&size=45&qid=BWZEZ13XUJIB3JGTLYW8HQTRBHCRM4",
     "krp_org_id": "krp_org_id__28",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__28\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__28\"></rs>",
+    "mrp_org_id": null
   },
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "Name": "[Oesterreichisch-]Alpine Montangesellschaft",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.archivinformationssystem.at/detail.aspx?ID=5710",
+    "label": "[Oesterreichisch-]Alpine Montangesellschaft",
+    "note": "",
+    "source": "https://www.archivinformationssystem.at/detail.aspx?ID=5710",
     "krp_org_id": "krp_org_id__29",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__29\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__29\"></rs>",
+    "mrp_org_id": null
   },
   "30": {
     "id": 30,
     "order": "30.00000000000000000000",
-    "Name": "Österreichischen Immobiliarbank AG",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19120004&seite=00001109&size=45",
+    "label": "Österreichischen Immobiliarbank AG",
+    "note": "",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19120004&seite=00001109&size=45",
     "krp_org_id": "krp_org_id__30",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__30\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__30\"></rs>",
+    "mrp_org_id": null
   },
   "31": {
     "id": 31,
     "order": "31.00000000000000000000",
-    "Name": "River Syndicated Ltd",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://discovery.nationalarchives.gov.uk/results/r?_q=River+Syndicated+Ltd&_sd=1919&_ed=1920&_hb=",
+    "label": "River Syndicated Ltd",
+    "note": "",
+    "source": "https://discovery.nationalarchives.gov.uk/results/r?_q=River+Syndicated+Ltd&_sd=1919&_ed=1920&_hb=",
     "krp_org_id": "krp_org_id__31",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__31\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__31\"></rs>",
+    "mrp_org_id": null
   },
   "32": {
     "id": 32,
     "order": "32.00000000000000000000",
-    "Name": "Redlich Brüder & Berger",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396823",
+    "label": "Redlich Brüder & Berger",
+    "note": "",
+    "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396823",
     "krp_org_id": "krp_org_id__32",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__32\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__32\"></rs>",
+    "mrp_org_id": null
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
-    "Name": "Reichraminger Holzindustrie-Gesellschaft mbH.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19220504&seite=9&zoom=33&query=%22Reichraminger%22%2B%22Holzindustrie-Gesellschaft%22&ref=anno-search",
+    "label": "Reichraminger Holzindustrie-Gesellschaft mbH.",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19220504&seite=9&zoom=33&query=%22Reichraminger%22%2B%22Holzindustrie-Gesellschaft%22&ref=anno-search",
     "krp_org_id": "krp_org_id__33",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__33\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__33\"></rs>",
+    "mrp_org_id": null
   },
   "34": {
     "id": 34,
     "order": "34.00000000000000000000",
-    "Name": "Roth’sche Fabrik",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19170825&seite=3&zoom=33&query=%22rothsche%2Bfabrik%22&ref=anno-search",
+    "label": "Roth’sche Fabrik",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19170825&seite=3&zoom=33&query=%22rothsche%2Bfabrik%22&ref=anno-search",
     "krp_org_id": "krp_org_id__34",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__34\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__34\"></rs>",
+    "mrp_org_id": null
   },
   "35": {
     "id": 35,
     "order": "35.00000000000000000000",
-    "Name": "Ruetzwerk",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19200323&seite=2&zoom=33&query=%22ruetzwerk%22&ref=anno-search",
+    "label": "Ruetzwerk",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19200323&seite=2&zoom=33&query=%22ruetzwerk%22&ref=anno-search",
     "krp_org_id": "krp_org_id__35",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__35\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__35\"></rs>",
+    "mrp_org_id": null
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
-    "Name": "Süddeutsche Donau-Dampf-Schifffahrts-Gesellschaft",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.archivportal-d.de/item/SXWFR3RDPE5BS5UKNKHRNUSECUCUPIGD?facetValues%5B%5D=context%3DEWI22NIIAWMEBPYNYMJZVWD2M27AHPFP&lang=de&sort=random_300214365908502145+desc&offset=32&hitNumber=41",
+    "label": "Süddeutsche Donau-Dampf-Schifffahrts-Gesellschaft",
+    "note": "",
+    "source": "https://www.archivportal-d.de/item/SXWFR3RDPE5BS5UKNKHRNUSECUCUPIGD?facetValues%5B%5D=context%3DEWI22NIIAWMEBPYNYMJZVWD2M27AHPFP&lang=de&sort=random_300214365908502145+desc&offset=32&hitNumber=41",
     "krp_org_id": "krp_org_id__36",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__36\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__36\"></rs>",
+    "mrp_org_id": null
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "Name": "Staatsangestellten-Fürsorgeanstalt „Stafa“",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191228&seite=4&zoom=33&query=%22staatsangestellten%22%2B%22f%C3%BCrsorgeanstalt%22&ref=anno-search",
+    "label": "Staatsangestellten-Fürsorgeanstalt „Stafa“",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191228&seite=4&zoom=33&query=%22staatsangestellten%22%2B%22f%C3%BCrsorgeanstalt%22&ref=anno-search",
     "krp_org_id": "krp_org_id__37",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__37\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__37\"></rs>",
+    "mrp_org_id": null
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
-    "Name": "Steinkohlenbergwerk und Kalkwerkschaft Weyer Gesellschaft m.b.H.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/153386",
+    "label": "Steinkohlenbergwerk und Kalkwerkschaft Weyer Gesellschaft m.b.H.",
+    "note": "",
+    "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/153386",
     "krp_org_id": "krp_org_id__38",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__38\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__38\"></rs>",
+    "mrp_org_id": null
   },
   "39": {
     "id": 39,
     "order": "39.00000000000000000000",
-    "Name": "Telegraphen-Korrespondenz-Bureau",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190630&seite=2&zoom=33&query=%22Telegraphen-Korrespondenz-Bureau%22&ref=anno-search",
+    "label": "Telegraphen-Korrespondenz-Bureau",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190630&seite=2&zoom=33&query=%22Telegraphen-Korrespondenz-Bureau%22&ref=anno-search",
     "krp_org_id": "krp_org_id__39",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__39\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__39\"></rs>",
+    "mrp_org_id": null
   },
   "40": {
     "id": 40,
     "order": "40.00000000000000000000",
-    "Name": "Technische Hochschule",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Technische_Hochschule",
+    "label": "Technische Hochschule",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Technische_Hochschule",
     "krp_org_id": "krp_org_id__40",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__40\">Technische Hochschule</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__40\">Technische Hochschule</rs>",
+    "mrp_org_id": null
   },
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "Name": "Tecta Grundbesitz- und Verwaltungs-Gesellschaft-mbH",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396860",
+    "label": "Tecta Grundbesitz- und Verwaltungs-Gesellschaft-mbH",
+    "note": "",
+    "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396860",
     "krp_org_id": "krp_org_id__41",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__41\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__41\"></rs>",
+    "mrp_org_id": null
   },
   "42": {
     "id": 42,
     "order": "42.00000000000000000000",
-    "Name": "Treuga AG für Veredlungsverkehr und für treuhändige Güterverwertung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200715&seite=10&zoom=33&query=%22treuga%22&ref=anno-search",
+    "label": "Treuga AG für Veredlungsverkehr und für treuhändige Güterverwertung",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200715&seite=10&zoom=33&query=%22treuga%22&ref=anno-search",
     "krp_org_id": "krp_org_id__42",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__42\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__42\"></rs>",
+    "mrp_org_id": null
   },
   "43": {
     "id": 43,
     "order": "43.00000000000000000000",
-    "Name": "United States Grain Corporation",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.archives.gov/research/guide-fed-records/groups/005.html/1000#5.1\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19191002&seite=7&zoom=33&query=%22Grain%2BCorporation%22&ref=anno-search",
+    "label": "United States Grain Corporation",
+    "note": "",
+    "source": "https://www.archives.gov/research/guide-fed-records/groups/005.html/1000#5.1\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19191002&seite=7&zoom=33&query=%22Grain%2BCorporation%22&ref=anno-search",
     "krp_org_id": "krp_org_id__43",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__43\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__43\"></rs>",
+    "mrp_org_id": null
   },
   "44": {
     "id": 44,
     "order": "44.00000000000000000000",
-    "Name": "Virginierzigarren-Erzeugung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=zei&datum=19180613&seite=14&zoom=33&query=%22virginier%2Bzigarre%22&ref=anno-search",
+    "label": "Virginierzigarren-Erzeugung",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=zei&datum=19180613&seite=14&zoom=33&query=%22virginier%2Bzigarre%22&ref=anno-search",
     "krp_org_id": "krp_org_id__44",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__44\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__44\"></rs>",
+    "mrp_org_id": null
   },
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
-    "Name": "Virginier-Fabrik",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=dsp&datum=19200826&seite=5&zoom=33&query=%22virginier-fabrik%22&ref=anno-search",
+    "label": "Virginier-Fabrik",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=dsp&datum=19200826&seite=5&zoom=33&query=%22virginier-fabrik%22&ref=anno-search",
     "krp_org_id": "krp_org_id__45",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__45\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__45\"></rs>",
+    "mrp_org_id": null
   },
   "46": {
     "id": 46,
     "order": "46.00000000000000000000",
-    "Name": "Waldviertler Elektrizitätsgenossenschaft",
-    "Anmerkungen": "Zu besprechen: Hier mit \"rGmbH\" am Schluss https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=481&size=45&qid=5AODNP18592CDN4T1AMD5NFGE409IF",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=waw&datum=1919&page=364&size=45&qid=GCO37GKVJXDYY227BTO29F9ME939EM",
+    "label": "Waldviertler Elektrizitätsgenossenschaft",
+    "note": "Zu besprechen: Hier mit \"rGmbH\" am Schluss https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=481&size=45&qid=5AODNP18592CDN4T1AMD5NFGE409IF",
+    "source": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=waw&datum=1919&page=364&size=45&qid=GCO37GKVJXDYY227BTO29F9ME939EM",
     "krp_org_id": "krp_org_id__46",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__46\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__46\"></rs>",
+    "mrp_org_id": null
   },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
-    "Name": "WEWA - Wasserkraft- und Elektrizitätswirtschaftsamt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.oesta.gv.at/veroeffentlichungen/archivale-des-monats/Archivale-des-Monats-Juni-23.html",
+    "label": "WEWA - Wasserkraft- und Elektrizitätswirtschaftsamt",
+    "note": "",
+    "source": "https://www.oesta.gv.at/veroeffentlichungen/archivale-des-monats/Archivale-des-Monats-Juni-23.html",
     "krp_org_id": "krp_org_id__47",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__47\">WEWA</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__47\">WEWA</rs>",
+    "mrp_org_id": null
   },
   "48": {
     "id": 48,
     "order": "48.00000000000000000000",
-    "Name": "Wiener Städtische Elektrizitäts-Werke",
-    "Anmerkungen": "derzeitiger Konsens, muss noch recherchiert werden",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/St%C3%A4dtische_Elektrizit%C3%A4tswerke",
+    "label": "Wiener Städtische Elektrizitäts-Werke",
+    "note": "derzeitiger Konsens, muss noch recherchiert werden",
+    "source": "https://www.geschichtewiki.wien.gv.at/St%C3%A4dtische_Elektrizit%C3%A4tswerke",
     "krp_org_id": "krp_org_id__48",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__48\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__48\"></rs>",
+    "mrp_org_id": null
   },
   "49": {
     "id": 49,
     "order": "49.00000000000000000000",
-    "Name": "Wolfsegg-Traunthaler Kohlenwerks-AG",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/160308",
+    "label": "Wolfsegg-Traunthaler Kohlenwerks-AG",
+    "note": "",
+    "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/160308",
     "krp_org_id": "krp_org_id__49",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__49\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__49\"></rs>",
+    "mrp_org_id": null
   },
   "50": {
     "id": 50,
     "order": "50.00000000000000000000",
-    "Name": "Wollzentrale AG",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=ibn&datum=19170430&seite=8&zoom=33&query=%22Wollzentrale%2BAG%22&ref=anno-search",
+    "label": "Wollzentrale AG",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=ibn&datum=19170430&seite=8&zoom=33&query=%22Wollzentrale%2BAG%22&ref=anno-search",
     "krp_org_id": "krp_org_id__50",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__50\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__50\"></rs>",
+    "mrp_org_id": null
   },
   "51": {
     "id": 51,
     "order": "51.00000000000000000000",
-    "Name": "Zentral-Preisprüfungskommission",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "OESTA: AT-OeStA/AdR AuS BMfVE ZPPK",
+    "label": "Zentral-Preisprüfungskommission",
+    "note": "",
+    "source": "OESTA: AT-OeStA/AdR AuS BMfVE ZPPK",
     "krp_org_id": "krp_org_id__51",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__51\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__51\"></rs>",
+    "mrp_org_id": null
   },
   "101": {
     "id": 101,
     "order": "51.50000000000000000000",
-    "Name": "Zentralbureau für Seuchenbekämpfung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Zentralbureau für Seuchenbekämpfung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__101",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__101\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__101\"></rs>",
+    "mrp_org_id": null
   },
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "Name": "Zentral- Ein- und Verkaufbüro",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Zentral- Ein- und Verkaufbüro",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__52",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__52\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__52\"></rs>",
+    "mrp_org_id": null
   },
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "Name": "Zwischenstaatsamtliches Komitee",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Zwischenstaatsamtliches Komitee",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__53",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__53\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__53\"></rs>",
+    "mrp_org_id": null
   },
   "54": {
     "id": 54,
     "order": "54.00000000000000000000",
-    "Name": "Oesterreichisch-ungarische Bank",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://viewer.onb.ac.at/131DD9E2",
+    "label": "Oesterreichisch-ungarische Bank",
+    "note": "",
+    "source": "https://viewer.onb.ac.at/131DD9E2",
     "krp_org_id": "krp_org_id__54",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__54\">Oesterreichisch-ungarische Bank</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__54\">Oesterreichisch-ungarische Bank</rs>",
+    "mrp_org_id": null
   },
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
-    "Name": "Staatliche Industriewerke",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191219&seite=7&zoom=33&query=%22staatliche%22%2B%22industriewerke%22%2B%22linder%22&ref=anno-search",
+    "label": "Staatliche Industriewerke",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191219&seite=7&zoom=33&query=%22staatliche%22%2B%22industriewerke%22%2B%22linder%22&ref=anno-search",
     "krp_org_id": "krp_org_id__55",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__55\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__55\"></rs>",
+    "mrp_org_id": null
   },
   "57": {
     "id": 57,
     "order": "56.00000000000000000000",
-    "Name": "Erzherzoglich Ludwig Viktor'sche Familienstiftung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://sammlung-online.salzburgmuseum.at/detail/collection/1c8f3738-deaa-4fd3-8e65-356a0a9bdfe4",
+    "label": "Erzherzoglich Ludwig Viktor'sche Familienstiftung",
+    "note": "",
+    "source": "https://sammlung-online.salzburgmuseum.at/detail/collection/1c8f3738-deaa-4fd3-8e65-356a0a9bdfe4",
     "krp_org_id": "krp_org_id__57",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__57\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__57\"></rs>",
+    "mrp_org_id": null
   },
   "58": {
     "id": 58,
     "order": "57.00000000000000000000",
-    "Name": "Mayreder, Kraus & Co. Bauholdingges.M.b.H.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.aeiou.at/aeiou.encyclop.m/m403821.htm",
+    "label": "Mayreder, Kraus & Co. Bauholdingges.M.b.H.",
+    "note": "",
+    "source": "https://www.aeiou.at/aeiou.encyclop.m/m403821.htm",
     "krp_org_id": "krp_org_id__58",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__58\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__58\"></rs>",
+    "mrp_org_id": null
   },
   "59": {
     "id": 59,
     "order": "58.00000000000000000000",
-    "Name": "interalliierter Luftfahrtüberwachungsausschuss",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "interalliierter Luftfahrtüberwachungsausschuss",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__59",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__59\">Interalliierter Luftfahrtüberwachungsausschuss</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__59\">Interalliierter Luftfahrtüberwachungsausschuss</rs>",
+    "mrp_org_id": null
   },
   "60": {
     "id": 60,
     "order": "59.00000000000000000000",
-    "Name": "Interalliierte Heeresüberwachungsausschuss",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Interalliierte Heeresüberwachungsausschuss",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__60",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__60\">Interalliierte Heeresüberwachungsauschuss</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__60\">Interalliierte Heeresüberwachungsauschuss</rs>",
+    "mrp_org_id": null
   },
   "105": {
     "id": 105,
     "order": "60.00000000000000000000",
-    "Name": "Firma Kreidl, Heller & Co.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Firma Kreidl, Heller & Co.",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__105",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__105\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__105\"></rs>",
+    "mrp_org_id": null
   },
   "106": {
     "id": 106,
     "order": "61.00000000000000000000",
-    "Name": "Mitterberger Kupfer AG",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://wiki.sn.at/wiki/Mitterberger_Kupferbergbau_(Unternehmen)",
+    "label": "Mitterberger Kupfer AG",
+    "note": "",
+    "source": "https://wiki.sn.at/wiki/Mitterberger_Kupferbergbau_(Unternehmen)",
     "krp_org_id": "krp_org_id__106",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__106\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__106\"></rs>",
+    "mrp_org_id": null
   },
   "109": {
     "id": 109,
     "order": "63.00000000000000000000",
-    "Name": "Oberster Gerichtshof [Monarchie]",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Oberster Gerichtshof [Monarchie]",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__109",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__109\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__109\"></rs>",
+    "mrp_org_id": null
   },
   "110": {
     "id": 110,
     "order": "64.00000000000000000000",
-    "Name": "Firma Kola & Co.",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19210830&query=%22Firma+Kola%22&ref=anno-search&seite=11",
+    "label": "Firma Kola & Co.",
+    "note": "",
+    "source": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19210830&query=%22Firma+Kola%22&ref=anno-search&seite=11",
     "krp_org_id": "krp_org_id__110",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__110\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__110\"></rs>",
+    "mrp_org_id": null
   },
   "143": {
     "id": 143,
     "order": "65.00000000000000000000",
-    "Name": "Konstituierende Nationalversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Konstituierende Nationalversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__143",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__143\">Nationalversammlung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__143\">Nationalversammlung</rs>",
+    "mrp_org_id": null
   },
   "144": {
     "id": 144,
     "order": "66.00000000000000000000",
-    "Name": "Papierfabriksverband",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Papierfabriksverband",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__144",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__144\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__144\"></rs>",
+    "mrp_org_id": null
   },
   "145": {
     "id": 145,
     "order": "67.00000000000000000000",
-    "Name": "Ankerbrotfabrik Mendl",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Ankerbrotfabrik Mendl",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__145",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__145\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__145\"></rs>",
+    "mrp_org_id": null
   },
   "146": {
     "id": 146,
     "order": "68.00000000000000000000",
-    "Name": "Czernowitzer Universität",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Czernowitzer Universität",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__146",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__146\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__146\"></rs>",
+    "mrp_org_id": null
   },
   "147": {
     "id": 147,
     "order": "69.00000000000000000000",
-    "Name": "Präsidentschaftskanzlei",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Präsidentschaftskanzlei",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__147",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__147\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__147\"></rs>",
+    "mrp_org_id": null
   },
   "179": {
     "id": 179,
     "order": "70.00000000000000000000",
-    "Name": "Tschechoslowakische Regierung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Tschechoslowakische Regierung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__179",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__179\">Tschechoslowakische Regierung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__179\">Tschechoslowakische Regierung</rs>",
+    "mrp_org_id": null
   },
   "180": {
     "id": 180,
     "order": "71.00000000000000000000",
-    "Name": "Postsparkasse",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Postsparkasse",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__180",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__180\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__180\"></rs>",
+    "mrp_org_id": null
   },
   "181": {
     "id": 181,
     "order": "72.00000000000000000000",
-    "Name": "Staatskanzlei",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatskanzlei",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__181",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__181\">Staatskanzlei</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__181\">Staatskanzlei</rs>",
+    "mrp_org_id": null
   },
   "182": {
     "id": 182,
     "order": "73.00000000000000000000",
-    "Name": "Kabinettsrat",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Kabinettsrat",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__182",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__182\">Kabinettsrat</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__182\">Kabinettsrat</rs>",
+    "mrp_org_id": null
   },
   "183": {
     "id": 183,
     "order": "74.00000000000000000000",
-    "Name": "Tschechoslowakische Republik",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Tschechoslowakische Republik",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__183",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__183\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__183\"></rs>",
+    "mrp_org_id": null
   },
   "184": {
     "id": 184,
     "order": "75.00000000000000000000",
-    "Name": "österreichische Regierung",
-    "Anmerkungen": "Staatsregierung",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "österreichische Regierung",
+    "note": "Staatsregierung",
+    "source": "",
     "krp_org_id": "krp_org_id__184",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__184\">Regierung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__184\">Regierung</rs>",
+    "mrp_org_id": null
   },
   "185": {
     "id": 185,
     "order": "76.00000000000000000000",
-    "Name": "italienische Regierung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "italienische Regierung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__185",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__185\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__185\"></rs>",
+    "mrp_org_id": null
   },
   "186": {
     "id": 186,
     "order": "77.00000000000000000000",
-    "Name": "Staatsamt für Äußeres",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Äußeres",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__186",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__186\">Staatsamt für Äußeres</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__186\">Staatsamt für Äußeres</rs>",
+    "mrp_org_id": null
   },
   "187": {
     "id": 187,
     "order": "78.00000000000000000000",
-    "Name": "Staatsamt für Finanzen",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Finanzen",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__187",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__187\">Staatsamt für Finanzen</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__187\">Staatsamt für Finanzen</rs>",
+    "mrp_org_id": null
   },
   "188": {
     "id": 188,
     "order": "79.00000000000000000000",
-    "Name": "Zentralausschuss der Eisenbahnbediensteten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Zentralausschuss der Eisenbahnbediensteten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__188",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__188\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__188\"></rs>",
+    "mrp_org_id": null
   },
   "189": {
     "id": 189,
     "order": "80.00000000000000000000",
-    "Name": "Staatsamt für Verkehrswesen",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Verkehrswesen",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__189",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__189\">Staatsamt für Verkehrswesen</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__189\">Staatsamt für Verkehrswesen</rs>",
+    "mrp_org_id": null
   },
   "190": {
     "id": 190,
     "order": "81.00000000000000000000",
-    "Name": "Staatsamt für soziale Verwaltung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für soziale Verwaltung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__190",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__190\">Staatsamt für soziale Verwaltung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__190\">Staatsamt für soziale Verwaltung</rs>",
+    "mrp_org_id": null
   },
   "191": {
     "id": 191,
     "order": "82.00000000000000000000",
-    "Name": "Staatsamt für Handel und Gewerbe, Industrie und Bauten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__191",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__191\">Staatsamt für Handel und Gewerbe, Industrie und Bauten</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__191\">Staatsamt für Handel und Gewerbe, Industrie und Bauten</rs>",
+    "mrp_org_id": null
   },
   "192": {
     "id": 192,
     "order": "83.00000000000000000000",
-    "Name": "Staatsamt für Inneres und Unterricht",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Inneres und Unterricht",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__192",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__192\">Staatsamt für Inneres und Unterricht</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__192\">Staatsamt für Inneres und Unterricht</rs>",
+    "mrp_org_id": null
   },
   "193": {
     "id": 193,
     "order": "84.00000000000000000000",
-    "Name": "Staatsamt für Justiz",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Justiz",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__193",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__193\">Staatsamt für Justiz</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__193\">Staatsamt für Justiz</rs>",
+    "mrp_org_id": null
   },
   "194": {
     "id": 194,
     "order": "85.00000000000000000000",
-    "Name": "Staatsamt für Land- und Forstwirtschaft",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Land- und Forstwirtschaft",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__194",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__194\">Staatsamt für Land- und Forstwirtschaft</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__194\">Staatsamt für Land- und Forstwirtschaft</rs>",
+    "mrp_org_id": null
   },
   "195": {
     "id": 195,
     "order": "86.00000000000000000000",
-    "Name": "Landesregierung Steiermark",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesregierung Steiermark",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__195",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__195\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__195\"></rs>",
+    "mrp_org_id": null
   },
   "196": {
     "id": 196,
     "order": "87.00000000000000000000",
-    "Name": "Steiermärkische Landesversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Steiermärkische Landesversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__196",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__196\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__196\"></rs>",
+    "mrp_org_id": null
   },
   "197": {
     "id": 197,
     "order": "88.00000000000000000000",
-    "Name": "Provisorische Landesversammlung in Salzburg",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Provisorische Landesversammlung in Salzburg",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__197",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__197\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__197\"></rs>",
+    "mrp_org_id": null
   },
   "198": {
     "id": 198,
     "order": "89.00000000000000000000",
-    "Name": "Salzburger Landtag",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Salzburger Landtag",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__198",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__198\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__198\"></rs>",
+    "mrp_org_id": null
   },
   "199": {
     "id": 199,
     "order": "90.00000000000000000000",
-    "Name": "Landesregierung Salzburg",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesregierung Salzburg",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__199",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__199\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__199\"></rs>",
+    "mrp_org_id": null
   },
   "200": {
     "id": 200,
     "order": "91.00000000000000000000",
-    "Name": "Niederösterreichischer Landtag",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Niederösterreichischer Landtag",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__200",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__200\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__200\"></rs>",
+    "mrp_org_id": null
   },
   "201": {
     "id": 201,
     "order": "92.00000000000000000000",
-    "Name": "Verfassungsgerichtshof",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Verfassungsgerichtshof",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__201",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__201\">Verfassungsgerichtshof</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__201\">Verfassungsgerichtshof</rs>",
+    "mrp_org_id": null
   },
   "202": {
     "id": 202,
     "order": "93.00000000000000000000",
-    "Name": "Staatsamt für Volksernährung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Volksernährung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__202",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__202\">Staatsamt für Volksernährung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__202\">Staatsamt für Volksernährung</rs>",
+    "mrp_org_id": null
   },
   "203": {
     "id": 203,
     "order": "94.00000000000000000000",
-    "Name": "Volkswehr",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Volkswehr",
+    "label": "Volkswehr",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Volkswehr",
     "krp_org_id": "krp_org_id__203",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__203\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__203\"></rs>",
+    "mrp_org_id": null
   },
   "204": {
     "id": 204,
     "order": "95.00000000000000000000",
-    "Name": "Soldatenrat",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Soldatenr%C3%A4te",
+    "label": "Soldatenrat",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Soldatenr%C3%A4te",
     "krp_org_id": "krp_org_id__204",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__204\">Soldatenrat</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__204\">Soldatenrat</rs>",
+    "mrp_org_id": null
   },
   "205": {
     "id": 205,
     "order": "96.00000000000000000000",
-    "Name": "Kriegswucheramt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.bmi.gv.at/magazinfiles/2022/09_10/23_polizeigeschichte.pdf",
+    "label": "Kriegswucheramt",
+    "note": "",
+    "source": "https://www.bmi.gv.at/magazinfiles/2022/09_10/23_polizeigeschichte.pdf",
     "krp_org_id": "krp_org_id__205",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__205\">Kriegswucheramt</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__205\">Kriegswucheramt</rs>",
+    "mrp_org_id": null
   },
   "206": {
     "id": 206,
     "order": "97.00000000000000000000",
-    "Name": "Marktamt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Magistratsabteilung_59_-_Marktamt",
+    "label": "Marktamt",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Magistratsabteilung_59_-_Marktamt",
     "krp_org_id": "krp_org_id__206",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__206\">Marktamt</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__206\">Marktamt</rs>",
+    "mrp_org_id": null
   },
   "207": {
     "id": 207,
     "order": "98.00000000000000000000",
-    "Name": "Schweizer Depeschenagentur",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.isil.nb.admin.ch/de/institutionen/schweizerische-depeschenagentur-sda-nachrichtenagentur-ch-001211-7/",
+    "label": "Schweizer Depeschenagentur",
+    "note": "",
+    "source": "https://www.isil.nb.admin.ch/de/institutionen/schweizerische-depeschenagentur-sda-nachrichtenagentur-ch-001211-7/",
     "krp_org_id": "krp_org_id__207",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__207\">Schweizer Depeschenagentur</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__207\">Schweizer Depeschenagentur</rs>",
+    "mrp_org_id": null
   },
   "209": {
     "id": 209,
     "order": "99.00000000000000000000",
-    "Name": "Präsidium der Nationalversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Präsidium der Nationalversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__209",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__209\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__209\"></rs>",
+    "mrp_org_id": null
   },
   "210": {
     "id": 210,
     "order": "100.00000000000000000000",
-    "Name": "Provisorische Landesversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Provisorische Landesversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__210",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__210\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__210\"></rs>",
+    "mrp_org_id": null
   },
   "211": {
     "id": 211,
     "order": "101.00000000000000000000",
-    "Name": "Konstitutionelle Landesversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Konstitutionelle Landesversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__211",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__211\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__211\"></rs>",
+    "mrp_org_id": null
   },
   "212": {
     "id": 212,
     "order": "102.00000000000000000000",
-    "Name": "Freien Vereinigung abgerüsteter Soldaten und Heimkehrer",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Freien Vereinigung abgerüsteter Soldaten und Heimkehrer",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__212",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__212\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__212\"></rs>",
+    "mrp_org_id": null
   },
   "213": {
     "id": 213,
     "order": "103.00000000000000000000",
-    "Name": "Provisorische Tiroler Landesversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Provisorische Tiroler Landesversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__213",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>",
+    "mrp_org_id": null
   },
   "214": {
     "id": 214,
     "order": "104.00000000000000000000",
-    "Name": "Finanzkomitee der Nationalversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Finanzkomitee der Nationalversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__214",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__94\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__94\"></rs>",
+    "mrp_org_id": null
   },
   "215": {
     "id": 215,
     "order": "105.00000000000000000000",
-    "Name": "Technisches Museum für Industrie und Gewerbe in Wien",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Technisches Museum für Industrie und Gewerbe in Wien",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__215",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__215\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__215\"></rs>",
+    "mrp_org_id": null
   },
   "216": {
     "id": 216,
     "order": "106.00000000000000000000",
-    "Name": "Wiener Kriegswucheramt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Wiener Kriegswucheramt",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__216",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__216\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__216\"></rs>",
+    "mrp_org_id": null
   },
   "217": {
     "id": 217,
     "order": "107.00000000000000000000",
-    "Name": "Provisorische Landesversammlung in Oberösterreich",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Provisorische Landesversammlung in Oberösterreich",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__217",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__217\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__217\"></rs>",
+    "mrp_org_id": null
   },
   "218": {
     "id": 218,
     "order": "108.00000000000000000000",
-    "Name": "Kärntner Landesausschuss",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Kärntner Landesausschuss",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__218",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__218\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__218\"></rs>",
+    "mrp_org_id": null
   },
   "219": {
     "id": 219,
     "order": "109.00000000000000000000",
-    "Name": "Provisorische Landesversammlung in Kärnten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Provisorische Landesversammlung in Kärnten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__219",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__219\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__219\"></rs>",
+    "mrp_org_id": null
   },
   "220": {
     "id": 220,
     "order": "110.00000000000000000000",
-    "Name": "Sozialisierungskommission",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Sozialisierungskommission",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__220",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__220\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__220\"></rs>",
+    "mrp_org_id": null
   },
   "221": {
     "id": 221,
     "order": "111.00000000000000000000",
-    "Name": "Arbeiter-Unfallversicherungsanstalt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Arbeiter-Unfallversicherungsanstalt",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__221",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__221\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__221\"></rs>",
+    "mrp_org_id": null
   },
   "222": {
     "id": 222,
     "order": "112.00000000000000000000",
-    "Name": "Schweizer Bundesrat",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Schweizer Bundesrat",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__222",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__222\">Schweizer Bundesrat</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__222\">Schweizer Bundesrat</rs>",
+    "mrp_org_id": null
   },
   "223": {
     "id": 223,
     "order": "113.00000000000000000000",
-    "Name": "Entente",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Entente",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__223",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__223\">Entente</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__223\">Entente</rs>",
+    "mrp_org_id": null
   },
   "224": {
     "id": 224,
     "order": "114.00000000000000000000",
-    "Name": "Staatsrat",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Staatsrat",
+    "label": "Staatsrat",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Staatsrat",
     "krp_org_id": "krp_org_id__224",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__224\">Staatsrat</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__224\">Staatsrat</rs>",
+    "mrp_org_id": null
   },
   "225": {
     "id": 225,
     "order": "115.00000000000000000000",
-    "Name": "Eisenbahnbeirat",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://austriaca.at/0xc1aa5572%200x004012b8.pdf",
+    "label": "Eisenbahnbeirat",
+    "note": "",
+    "source": "https://austriaca.at/0xc1aa5572%200x004012b8.pdf",
     "krp_org_id": "krp_org_id__225",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__225\">Eisenbahnbeirat</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__225\">Eisenbahnbeirat</rs>",
+    "mrp_org_id": null
   },
   "226": {
     "id": 226,
     "order": "116.00000000000000000000",
-    "Name": "Staatsamt für Heereswesen",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für Heereswesen",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__226",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__226\">Staatsamt für Heereswesen</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__226\">Staatsamt für Heereswesen</rs>",
+    "mrp_org_id": null
   },
   "227": {
     "id": 227,
     "order": "117.00000000000000000000",
-    "Name": "Staatskommission für Kriegsgefangenenangelegenheiten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatskommission für Kriegsgefangenenangelegenheiten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__227",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__227\">Staatskommission für Kriegsgefangenenangelegenheiten</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__227\">Staatskommission für Kriegsgefangenenangelegenheiten</rs>",
+    "mrp_org_id": null
   },
   "228": {
     "id": 228,
     "order": "118.00000000000000000000",
-    "Name": "Schulbücherverläge",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Schulbücherverläge",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__228",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__228\">Schulbücherverläge</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__228\">Schulbücherverläge</rs>",
+    "mrp_org_id": null
   },
   "229": {
     "id": 229,
     "order": "119.00000000000000000000",
-    "Name": "Wehrmacht",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Wehrmacht",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__229",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__229\">Wehrmacht</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__229\">Wehrmacht</rs>",
+    "mrp_org_id": null
   },
   "230": {
     "id": 230,
     "order": "120.00000000000000000000",
-    "Name": "k. u. k. Armee",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "k. u. k. Armee",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__230",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. u. k. Armee</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. u. k. Armee</rs>",
+    "mrp_org_id": null
   },
   "231": {
     "id": 231,
     "order": "121.00000000000000000000",
-    "Name": "k. k. Landwehr",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "k. k. Landwehr",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__231",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. k. Landwehr</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. k. Landwehr</rs>",
+    "mrp_org_id": null
   },
   "232": {
     "id": 232,
     "order": "122.00000000000000000000",
-    "Name": "k. u. k. Kriegsmarine",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "k. u. k. Kriegsmarine",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__232",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__232\">k. u. k. Kriegsmarine</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__232\">k. u. k. Kriegsmarine</rs>",
+    "mrp_org_id": null
   },
   "233": {
     "id": 233,
     "order": "123.00000000000000000000",
-    "Name": "Sozialdemokratische Partei",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Sozialdemokratische Partei",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__233",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__233\">Sozialdemokratische Partei</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__233\">Sozialdemokratische Partei</rs>",
+    "mrp_org_id": null
   },
   "234": {
     "id": 234,
     "order": "124.00000000000000000000",
-    "Name": "Christlichsoziale Partei",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Christlichsoziale Partei",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__234",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__234\">Christlichsoziale Partei</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__234\">Christlichsoziale Partei</rs>",
+    "mrp_org_id": null
   },
   "235": {
     "id": 235,
     "order": "125.00000000000000000000",
-    "Name": "Verwaltungsgerichtshof",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Verwaltungsgerichtshof",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__235",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__235\">Verwaltungsgerichtshof</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__235\">Verwaltungsgerichtshof</rs>",
+    "mrp_org_id": null
   },
   "236": {
     "id": 236,
     "order": "126.00000000000000000000",
-    "Name": "Provisorische Landesversammlung in Steiermark",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Provisorische Landesversammlung in Steiermark",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__236",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>",
+    "mrp_org_id": null
   },
   "237": {
     "id": 237,
     "order": "127.00000000000000000000",
-    "Name": "Landesrat in Steiermark",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesrat in Steiermark",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__237",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__237\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__237\"></rs>",
+    "mrp_org_id": null
   },
   "238": {
     "id": 238,
     "order": "128.00000000000000000000",
-    "Name": "Staatsgerichtshof",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsgerichtshof",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__238",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__238\">Staatsgerichtshof</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__238\">Staatsgerichtshof</rs>",
+    "mrp_org_id": null
   },
   "239": {
     "id": 239,
     "order": "129.00000000000000000000",
-    "Name": "englische Regierung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "englische Regierung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__239",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__239\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__239\"></rs>",
+    "mrp_org_id": null
   },
   "240": {
     "id": 240,
     "order": "130.00000000000000000000",
-    "Name": "Polizeidirektion",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Polizeidirektion",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__240",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__240\">Polizeidirektion</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__240\">Polizeidirektion</rs>",
+    "mrp_org_id": null
   },
   "241": {
     "id": 241,
     "order": "131.00000000000000000000",
-    "Name": "Landesregierung Tirol",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesregierung Tirol",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__241",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__241\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__241\"></rs>",
+    "mrp_org_id": null
   },
   "242": {
     "id": 242,
     "order": "132.00000000000000000000",
-    "Name": "Landesregierung Kärnten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesregierung Kärnten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__242",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__242\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__242\"></rs>",
+    "mrp_org_id": null
   },
   "243": {
     "id": 243,
     "order": "133.00000000000000000000",
-    "Name": "deutsche Reichsregierung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "deutsche Reichsregierung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__243",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__243\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__243\"></rs>",
+    "mrp_org_id": null
   },
   "244": {
     "id": 244,
     "order": "134.00000000000000000000",
-    "Name": "Staatsratsdirektorium",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsratsdirektorium",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__244",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__244\">Staatsratsdirektorium</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__244\">Staatsratsdirektorium</rs>",
+    "mrp_org_id": null
   },
   "245": {
     "id": 245,
     "order": "135.00000000000000000000",
-    "Name": "Deutsche Reichsbank",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Deutsche Reichsbank",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__245",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__245\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__245\"></rs>",
+    "mrp_org_id": null
   },
   "246": {
     "id": 246,
     "order": "136.00000000000000000000",
-    "Name": "liquidierende Kriegsministerium",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "liquidierende Kriegsministerium",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__246",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__246\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__246\"></rs>",
+    "mrp_org_id": null
   },
   "247": {
     "id": 247,
     "order": "137.00000000000000000000",
-    "Name": "Generalpostdirektion",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Generalpostdirektion",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__247",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__247\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__247\"></rs>",
+    "mrp_org_id": null
   },
   "248": {
     "id": 248,
     "order": "138.00000000000000000000",
-    "Name": "Amt für Kraftwagen- und Luftverkehr",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Amt für Kraftwagen- und Luftverkehr",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__248",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__248\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__248\"></rs>",
+    "mrp_org_id": null
   },
   "249": {
     "id": 249,
     "order": "139.00000000000000000000",
-    "Name": "Militärwachkorps",
-    "Anmerkungen": "krp38",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Militärwachkorps",
+    "note": "krp38",
+    "source": "",
     "krp_org_id": "krp_org_id__249",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__249\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__249\"></rs>",
+    "mrp_org_id": null
   },
   "250": {
     "id": 250,
     "order": "140.00000000000000000000",
-    "Name": "Universität Wien",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Universität Wien",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__250",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__250\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__250\"></rs>",
+    "mrp_org_id": null
   },
   "251": {
     "id": 251,
     "order": "141.00000000000000000000",
-    "Name": "Veterinärmedizinische Universität",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
+    "label": "Veterinärmedizinische Universität",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
     "krp_org_id": "krp_org_id__251",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__251\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__251\"></rs>",
+    "mrp_org_id": null
   },
   "252": {
     "id": 252,
     "order": "142.00000000000000000000",
-    "Name": "Tschechoslowakisches Finanzministerium",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Tschechoslowakisches Finanzministerium",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__252",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__252\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__252\"></rs>",
+    "mrp_org_id": null
   },
   "253": {
     "id": 253,
     "order": "143.00000000000000000000",
-    "Name": "Staatsamt für öffentliche Arbeiten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für öffentliche Arbeiten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__253",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__253\">Staatsamt für öffentliche Arbeiten</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__253\">Staatsamt für öffentliche Arbeiten</rs>",
+    "mrp_org_id": null
   },
   "254": {
     "id": 254,
     "order": "144.00000000000000000000",
-    "Name": "österreichische Republik",
-    "Anmerkungen": "deutschösterreichischen Republik",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "österreichische Republik",
+    "note": "deutschösterreichischen Republik",
+    "source": "",
     "krp_org_id": "krp_org_id__254",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__254\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__254\"></rs>",
+    "mrp_org_id": null
   },
   "255": {
     "id": 255,
     "order": "145.00000000000000000000",
-    "Name": "jugoslawische Regierung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "jugoslawische Regierung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__255",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__255\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__255\"></rs>",
+    "mrp_org_id": null
   },
   "256": {
     "id": 256,
     "order": "146.00000000000000000000",
-    "Name": "Staatsamt für soziale Fürsorge",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Staatsamt für soziale Fürsorge",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__256",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__256\">Staatsamt für soziale Fürsorge</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__256\">Staatsamt für soziale Fürsorge</rs>",
+    "mrp_org_id": null
   },
   "257": {
     "id": 257,
     "order": "147.00000000000000000000",
-    "Name": "Italienische Waffenstillstandkommission",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Italienische Waffenstillstandkommission",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__257",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__257\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__257\"></rs>",
+    "mrp_org_id": null
   },
   "258": {
     "id": 258,
     "order": "148.00000000000000000000",
-    "Name": "Militärgeographische Institut",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Militärgeographische Institut",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__258",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__258\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__258\"></rs>",
+    "mrp_org_id": null
   },
   "259": {
     "id": 259,
     "order": "149.00000000000000000000",
-    "Name": "Versicherungsgesellschaft \"Österreichischer Phönix\"",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Versicherungsgesellschaft \"Österreichischer Phönix\"",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__259",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__259\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__259\"></rs>",
+    "mrp_org_id": null
   },
   "260": {
     "id": 260,
     "order": "150.00000000000000000000",
-    "Name": "Landesschulrat Steiermark",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesschulrat Steiermark",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__260",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__260\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__260\"></rs>",
+    "mrp_org_id": null
   },
   "261": {
     "id": 261,
     "order": "151.00000000000000000000",
-    "Name": "Barmherzige Brüder",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Barmherzige Brüder",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__261",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__261\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__261\"></rs>",
+    "mrp_org_id": null
   },
   "262": {
     "id": 262,
     "order": "152.00000000000000000000",
-    "Name": "Oberösterreichischer Religionsfonds",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Oberösterreichischer Religionsfonds",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__262",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__262\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__262\"></rs>",
+    "mrp_org_id": null
   },
   "263": {
     "id": 263,
     "order": "153.00000000000000000000",
-    "Name": "Stadt Wien",
-    "Anmerkungen": "Gemeint ist die Stadtverwaltung im weiteren Sinn",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Stadt Wien",
+    "note": "Gemeint ist die Stadtverwaltung im weiteren Sinn",
+    "source": "",
     "krp_org_id": "krp_org_id__263",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__263\">Stadt Wien</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__263\">Stadt Wien</rs>",
+    "mrp_org_id": null
   },
   "264": {
     "id": 264,
     "order": "154.00000000000000000000",
-    "Name": "Landesregierung Oberösterreich",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesregierung Oberösterreich",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__264",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__264\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__264\"></rs>",
+    "mrp_org_id": null
   },
   "265": {
     "id": 265,
     "order": "155.00000000000000000000",
-    "Name": "Zentralkommission für Denkmalpflege",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Zentralkommission für Denkmalpflege",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__265",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__256\"></rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__256\"></rs>",
+    "mrp_org_id": null
   },
   "266": {
     "id": 266,
     "order": "156.00000000000000000000",
-    "Name": "Schweizer Regierung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Schweizer Regierung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__266",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__266\">Schweizer Regierung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__266\">Schweizer Regierung</rs>",
+    "mrp_org_id": null
   },
   "267": {
     "id": 267,
     "order": "157.00000000000000000000",
-    "Name": "Tierärztliche Hochschule",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
+    "label": "Tierärztliche Hochschule",
+    "note": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
     "krp_org_id": "krp_org_id__267",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__267\">Tierärztliche Hochschule</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__267\">Tierärztliche Hochschule</rs>",
+    "mrp_org_id": null
   },
   "268": {
     "id": 268,
     "order": "158.00000000000000000000",
-    "Name": "Landesgericht in Wien",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landesgericht in Wien",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__268",
-    "TEI-Code": "<rs type=\"org\" ref=\"'#krp_org_id__268\">Landesgericht in Wien</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"'#krp_org_id__268\">Landesgericht in Wien</rs>",
+    "mrp_org_id": null
   },
   "269": {
     "id": 269,
     "order": "159.00000000000000000000",
-    "Name": "Kreisgericht in Wiener Neustadt",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Kreisgericht in Wiener Neustadt",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__269",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__269\">Kreisgericht in Wiener Neustadt</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__269\">Kreisgericht in Wiener Neustadt</rs>",
+    "mrp_org_id": null
   },
   "270": {
     "id": 270,
     "order": "160.00000000000000000000",
-    "Name": "",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__270",
-    "TEI-Code": ""
+    "tei_code": "",
+    "mrp_org_id": null
   },
   "271": {
     "id": 271,
     "order": "161.00000000000000000000",
-    "Name": "ungarische Regierung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "ungarische Regierung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__271",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__271\">ungarische Regierung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__271\">ungarische Regierung</rs>",
+    "mrp_org_id": null
   },
   "272": {
     "id": 272,
     "order": "162.00000000000000000000",
-    "Name": "Kärnter Landesversammlung",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Kärnter Landesversammlung",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__272",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__272\">Kärntner Landesversammlung</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__272\">Kärntner Landesversammlung</rs>",
+    "mrp_org_id": null
   },
   "273": {
     "id": 273,
     "order": "163.00000000000000000000",
-    "Name": "Landtag in Kärnten",
-    "Anmerkungen": "",
-    "Aktiv": false,
-    "Quelle": "",
+    "label": "Landtag in Kärnten",
+    "note": "",
+    "source": "",
     "krp_org_id": "krp_org_id__273",
-    "TEI-Code": "<rs type=\"org\" ref=\"#krp_org_id__273\">Landtag in Kärnten</rs>"
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__273\">Landtag in Kärnten</rs>",
+    "mrp_org_id": null
   }
 }
