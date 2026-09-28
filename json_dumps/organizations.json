@@ -953,7 +953,7 @@
     "id": 191,
     "order": "82.00000000000000000000",
     "label": "Staatsamt für Handel und Gewerbe, Industrie und Bauten",
-    "note": "",
+    "note": "Staatsamt für Kriegs- und Übergangswirtschaft",
     "source": "",
     "krp_org_id": "krp_org_id__191",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__191\">Staatsamt für Handel und Gewerbe, Industrie und Bauten</rs>",
@@ -1163,7 +1163,7 @@
     "id": 213,
     "order": "103.00000000000000000000",
     "label": "Provisorische Tiroler Landesversammlung",
-    "note": "",
+    "note": "Tiroler Landesversammlung",
     "source": "",
     "krp_org_id": "krp_org_id__213",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>",
@@ -1426,7 +1426,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__239",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__239\"></rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__239\">englische Regierung</rs>",
     "mrp_org_id": null
   },
   "240": {
@@ -1732,11 +1732,11 @@
   "270": {
     "id": 270,
     "order": "160.00000000000000000000",
-    "label": "",
+    "label": "ungarisches Finanzministerium",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__270",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__270\"></rs>",
     "mrp_org_id": null
   },
   "271": {
@@ -1768,5 +1768,95 @@
     "krp_org_id": "krp_org_id__273",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__273\">Landtag in Kärnten</rs>",
     "mrp_org_id": null
+  },
+  "274": {
+    "id": 274,
+    "order": "164.00000000000000000000",
+    "label": "Bezirksgericht Salzburg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__274",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__274\"></rs>",
+    "mrp_org_id": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "165.00000000000000000000",
+    "label": "tschechoslowakische Armee",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__275",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__275\"></rs>",
+    "mrp_org_id": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "166.00000000000000000000",
+    "label": "rumänische Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__276",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__276\"></rs>",
+    "mrp_org_id": ""
+  },
+  "277": {
+    "id": 277,
+    "order": "167.00000000000000000000",
+    "label": "Verein der recchtskundigen Beamten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__277",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__277\"></rs>",
+    "mrp_org_id": ""
+  },
+  "278": {
+    "id": 278,
+    "order": "168.00000000000000000000",
+    "label": "Tiroler Landesregierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__278",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__278\"></rs>",
+    "mrp_org_id": ""
+  },
+  "279": {
+    "id": 279,
+    "order": "169.00000000000000000000",
+    "label": "Landes-Hypothekenanstalt in Salzburg",
+    "note": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Landes-Hypothekenanstalt_in_Salzburg_1919.jpg",
+    "krp_org_id": "krp_org_id__279",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__279\"></rs>",
+    "mrp_org_id": ""
+  },
+  "280": {
+    "id": 280,
+    "order": "170.00000000000000000000",
+    "label": "liquidierendes Kriegsarchiv",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__280",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__280\"></rs>",
+    "mrp_org_id": ""
+  },
+  "281": {
+    "id": 281,
+    "order": "171.00000000000000000000",
+    "label": "Provisorische Salzburger Landesversammlung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__281",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__281\"></rs>",
+    "mrp_org_id": ""
+  },
+  "282": {
+    "id": 282,
+    "order": "172.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__282",
+    "tei_code": "",
+    "mrp_org_id": ""
   }
 }

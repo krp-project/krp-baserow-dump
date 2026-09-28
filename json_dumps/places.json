@@ -2491,5 +2491,14 @@
     "alternative_name": "",
     "tei_code": "",
     "mrp_place_id": null
+  },
+  "319": {
+    "id": 319,
+    "order": "267.00000000000000000000",
+    "label": "Spiegelgasse 2, A-1010 Wien",
+    "krp_place_id": "krp_place_id__319",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__319\"></rs>",
+    "mrp_place_id": ""
   }
 }
