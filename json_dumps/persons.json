@@ -8354,5 +8354,24 @@
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": ""
+  },
+  "768": {
+    "id": 768,
+    "order": "360.00000000000000000000",
+    "label": "",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "",
+    "source": "",
+    "krp_person_id": "krp_person_id__768",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": ""
   }
 }

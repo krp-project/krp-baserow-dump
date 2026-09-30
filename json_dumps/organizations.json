@@ -672,7 +672,7 @@
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "label": "Zwischenstaatsamtliches Komitee",
+    "label": "Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__53",
@@ -1852,10 +1852,50 @@
   "282": {
     "id": 282,
     "order": "172.00000000000000000000",
-    "label": "",
+    "label": "polnische Regierung",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__282",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__282\"></rs>",
+    "mrp_org_id": ""
+  },
+  "283": {
+    "id": 283,
+    "order": "173.00000000000000000000",
+    "label": "polnische Armee",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__283",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__283\"></rs>",
+    "mrp_org_id": ""
+  },
+  "284": {
+    "id": 284,
+    "order": "174.00000000000000000000",
+    "label": "deutsche Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__284",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__284\"></rs>",
+    "mrp_org_id": ""
+  },
+  "285": {
+    "id": 285,
+    "order": "175.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__285",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "286": {
+    "id": 286,
+    "order": "176.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__286",
     "tei_code": "",
     "mrp_org_id": ""
   }
