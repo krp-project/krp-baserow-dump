@@ -2500,5 +2500,23 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__319\"></rs>",
     "mrp_place_id": ""
+  },
+  "320": {
+    "id": 320,
+    "order": "268.00000000000000000000",
+    "label": "Döbling",
+    "krp_place_id": "krp_place_id__320",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "321": {
+    "id": 321,
+    "order": "269.00000000000000000000",
+    "label": "Belluno",
+    "krp_place_id": "krp_place_id__321",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
   }
 }

@@ -1117,7 +1117,13 @@
     "Geburtsort": "Bern",
     "Sterbeort": "Klosterneuburg",
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__43\">Breisky</rs>",
-    "place_of_birth": [],
+    "place_of_birth": [
+      {
+        "id": 82,
+        "value": "Bern",
+        "order": "79.00000000000000000000"
+      }
+    ],
     "place_of_death": [],
     "mrp_person_id": null
   },
@@ -2617,7 +2623,13 @@
     "Geburtsort": "Döbling",
     "Sterbeort": "Wien",
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__561\">Benedikt</rs>",
-    "place_of_birth": [],
+    "place_of_birth": [
+      {
+        "id": 320,
+        "value": "Döbling",
+        "order": "268.00000000000000000000"
+      }
+    ],
     "place_of_death": [
       {
         "id": 15,
@@ -5711,7 +5723,13 @@
     "Geburtsort": "Belluno",
     "Sterbeort": "Wien",
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__508\">Boog</rs>",
-    "place_of_birth": [],
+    "place_of_birth": [
+      {
+        "id": 321,
+        "value": "Belluno",
+        "order": "269.00000000000000000000"
+      }
+    ],
     "place_of_death": [
       {
         "id": 15,
@@ -6240,8 +6258,20 @@
     "Geburtsort": "Staasdorf",
     "Sterbeort": "Tulln an der Donau",
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__307\">Buchinger</rs>",
-    "place_of_birth": [],
-    "place_of_death": [],
+    "place_of_birth": [
+      {
+        "id": 136,
+        "value": "Staasdorf",
+        "order": "132.00000000000000000000"
+      }
+    ],
+    "place_of_death": [
+      {
+        "id": 86,
+        "value": "Tulln",
+        "order": "83.00000000000000000000"
+      }
+    ],
     "mrp_person_id": null
   },
   "309": {
