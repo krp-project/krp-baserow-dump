@@ -1492,8 +1492,8 @@
   "246": {
     "id": 246,
     "order": "136.00000000000000000000",
-    "label": "liquidierende Kriegsministerium",
-    "note": "",
+    "label": "k.u.k Kriegsministerium",
+    "note": "liquidierendes Ministerium für Landesverteidigung",
     "source": "",
     "krp_org_id": "krp_org_id__246",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__246\"></rs>",
@@ -1832,9 +1832,9 @@
   "280": {
     "id": 280,
     "order": "170.00000000000000000000",
-    "label": "liquidierendes Kriegsarchiv",
+    "label": "Kriegsarchiv",
     "note": "",
-    "source": "",
+    "source": "liquidierendes Kriegsarchiv",
     "krp_org_id": "krp_org_id__280",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__280\"></rs>",
     "mrp_org_id": ""
@@ -1882,21 +1882,31 @@
   "285": {
     "id": 285,
     "order": "175.00000000000000000000",
-    "label": "",
+    "label": "Hauptausschuss der Nationalversammlung",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__285",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__285\"></rs>",
     "mrp_org_id": ""
   },
   "286": {
     "id": 286,
     "order": "176.00000000000000000000",
-    "label": "",
+    "label": "Hauptvolksrat Südmähren",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__286",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__286\"></rs>",
+    "mrp_org_id": ""
+  },
+  "287": {
+    "id": 287,
+    "order": "177.00000000000000000000",
+    "label": "Landesgericht Feldkirch",
+    "note": "Kreisgericht Feldkirch",
+    "source": "",
+    "krp_org_id": "krp_org_id__287",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__287\"></rs>",
     "mrp_org_id": ""
   }
 }

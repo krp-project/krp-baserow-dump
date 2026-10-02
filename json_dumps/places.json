@@ -2324,10 +2324,10 @@
   "300": {
     "id": 300,
     "order": "248.00000000000000000000",
-    "label": "",
+    "label": "Deutschsüdmähren",
     "krp_place_id": "krp_place_id__300",
     "alternative_name": "",
-    "tei_code": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__300\">Deutschsüdmähren</rs>",
     "mrp_place_id": null
   },
   "301": {
@@ -2507,7 +2507,7 @@
     "label": "Döbling",
     "krp_place_id": "krp_place_id__320",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__320\">Döbling</rs>",
     "mrp_place_id": ""
   },
   "321": {
