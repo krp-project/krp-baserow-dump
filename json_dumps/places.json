@@ -2423,10 +2423,10 @@
   "311": {
     "id": 311,
     "order": "259.00000000000000000000",
-    "label": "",
+    "label": "Herzegowina",
     "krp_place_id": "krp_place_id__311",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__288\">Herzegowina</rs>",
     "mrp_place_id": null
   },
   "312": {
@@ -2441,10 +2441,10 @@
   "313": {
     "id": 313,
     "order": "261.00000000000000000000",
-    "label": "",
+    "label": "Bosnien",
     "krp_place_id": "krp_place_id__313",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__313\">Bosnien</rs>",
     "mrp_place_id": null
   },
   "314": {
