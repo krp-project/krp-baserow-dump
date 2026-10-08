@@ -192,8 +192,8 @@
   "96": {
     "id": 96,
     "order": "15.50000000000000000000",
-    "label": "\"Henry\" Seifen-, Kerzen- und Fettwarenfabrik GmbH",
-    "note": "",
+    "label": "Zentralstelle des öffentlichen Gesundheitsdienstes in Deutschösterreich",
+    "note": "Obersten Zentralstelle des öffentlichen Gesundheitsdienstes in Deutschösterreich",
     "source": "",
     "krp_org_id": "krp_org_id__96",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__96\"></rs>",
@@ -1492,7 +1492,7 @@
   "246": {
     "id": 246,
     "order": "136.00000000000000000000",
-    "label": "k.u.k Kriegsministerium",
+    "label": "k. u. k. Kriegsministerium",
     "note": "liquidierendes Ministerium für Landesverteidigung",
     "source": "",
     "krp_org_id": "krp_org_id__246",
@@ -1802,7 +1802,7 @@
   "277": {
     "id": 277,
     "order": "167.00000000000000000000",
-    "label": "Verein der recchtskundigen Beamten",
+    "label": "Verein der rechtskundigen Beamten",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__277",
@@ -1917,6 +1917,166 @@
     "source": "",
     "krp_org_id": "krp_org_id__288",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__288\"></rs>",
+    "mrp_org_id": ""
+  },
+  "289": {
+    "id": 289,
+    "order": "179.00000000000000000000",
+    "label": "paritätische Industrieförderungskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__289",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__289\"></rs>",
+    "mrp_org_id": ""
+  },
+  "290": {
+    "id": 290,
+    "order": "180.00000000000000000000",
+    "label": "Obersten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__290",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "291": {
+    "id": 291,
+    "order": "181.00000000000000000000",
+    "label": "Oberster Sanitätsrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__291",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__291\"></rs>",
+    "mrp_org_id": ""
+  },
+  "292": {
+    "id": 292,
+    "order": "182.00000000000000000000",
+    "label": "Obersten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__292",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "293": {
+    "id": 293,
+    "order": "183.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__293",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "294": {
+    "id": 294,
+    "order": "184.00000000000000000000",
+    "label": "Ständige Beirat für Angelegenheiten des Verkehres mit Lebensmitteln",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__294",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__294\"></rs>",
+    "mrp_org_id": ""
+  },
+  "295": {
+    "id": 295,
+    "order": "185.00000000000000000000",
+    "label": "und einigen Gebrauchsgegenständen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__295",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "296": {
+    "id": 296,
+    "order": "186.00000000000000000000",
+    "label": "Wiener Straflandesgericht",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__296",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__296\">Wiener Straflandesgericht</rs>",
+    "mrp_org_id": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "187.00000000000000000000",
+    "label": "Abgrenzungskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__297",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__297\">Abgrenzungskommission</rs>",
+    "mrp_org_id": ""
+  },
+  "298": {
+    "id": 298,
+    "order": "188.00000000000000000000",
+    "label": "Oberösterreichische Landtag",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__298",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__298\">Oberösterreichische Landtag</rs>",
+    "mrp_org_id": ""
+  },
+  "299": {
+    "id": 299,
+    "order": "189.00000000000000000000",
+    "label": "Landesrat in Oberösterreich",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__299",
+    "tei_code": "<rs type=\"org\" ref=\"'krp_org_id__299>Landesrat in Oberösterreich</rs>",
+    "mrp_org_id": ""
+  },
+  "300": {
+    "id": 300,
+    "order": "190.00000000000000000000",
+    "label": "Niederösterreichische Landesregierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__300",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__300\">Niederösterreichische Landesregierung</rs>",
+    "mrp_org_id": ""
+  },
+  "301": {
+    "id": 301,
+    "order": "191.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__301",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "192.00000000000000000000",
+    "label": "Niederösterreichischen Landesrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__302",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__302\">Niederösterreichischen Landesrate</rs>",
+    "mrp_org_id": ""
+  },
+  "303": {
+    "id": 303,
+    "order": "193.00000000000000000000",
+    "label": "italienische Schutzkomitee",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__303",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__303\"></rs>",
+    "mrp_org_id": ""
+  },
+  "304": {
+    "id": 304,
+    "order": "194.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__304",
+    "tei_code": "",
     "mrp_org_id": ""
   }
 }

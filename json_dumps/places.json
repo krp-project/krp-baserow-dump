@@ -185,7 +185,7 @@
     "label": "Klagenfurt",
     "krp_place_id": "krp_place_id__17",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__17\">Hetzendorf</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__17\">Klagenfurt</rs>",
     "mrp_place_id": null
   },
   "41": {
@@ -2369,7 +2369,7 @@
   "305": {
     "id": 305,
     "order": "253.00000000000000000000",
-    "label": "Brunn",
+    "label": "Brünn",
     "krp_place_id": "krp_place_id__305",
     "alternative_name": "Brno",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brunn</rs>",
@@ -2515,6 +2515,15 @@
     "order": "269.00000000000000000000",
     "label": "Belluno",
     "krp_place_id": "krp_place_id__321",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "322": {
+    "id": 322,
+    "order": "270.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__322",
     "alternative_name": "",
     "tei_code": "",
     "mrp_place_id": ""

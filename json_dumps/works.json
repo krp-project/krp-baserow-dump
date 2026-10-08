@@ -6,7 +6,8 @@
     "note": "",
     "krp_work_id": "krp_work_id__1",
     "source": null,
-    "mrp_work_id": null
+    "mrp_work_id": null,
+    "tei-code": null
   },
   "2": {
     "id": 2,
@@ -15,7 +16,8 @@
     "note": "StGBl. 303/1920",
     "krp_work_id": "krp_work_id__2",
     "source": null,
-    "mrp_work_id": null
+    "mrp_work_id": null,
+    "tei-code": null
   },
   "34": {
     "id": 34,
@@ -24,6 +26,17 @@
     "note": "",
     "krp_work_id": "krp_work_id__34",
     "source": null,
-    "mrp_work_id": null
+    "mrp_work_id": null,
+    "tei-code": null
+  },
+  "35": {
+    "id": 35,
+    "order": "4.00000000000000000000",
+    "label": "Londoner Pakt",
+    "note": "?",
+    "krp_work_id": "krp_work_id__35",
+    "source": "",
+    "mrp_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__2\"></rs>"
   }
 }
