@@ -8555,5 +8555,24 @@
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": ""
+  },
+  "778": {
+    "id": 778,
+    "order": "369.00000000000000000000",
+    "label": "Walker, Gustav Dr.",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "",
+    "source": "",
+    "krp_person_id": "krp_person_id__778",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__788\">Walker</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": ""
   }
 }

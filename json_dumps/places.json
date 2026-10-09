@@ -2527,5 +2527,41 @@
     "alternative_name": "",
     "tei_code": "",
     "mrp_place_id": ""
+  },
+  "323": {
+    "id": 323,
+    "order": "271.00000000000000000000",
+    "label": "Spullersee",
+    "krp_place_id": "krp_place_id__323",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"plack\" ref=\"#krp_place_id__323\">Spullersee</rs>",
+    "mrp_place_id": ""
+  },
+  "324": {
+    "id": 324,
+    "order": "272.00000000000000000000",
+    "label": "Ruetzbach",
+    "krp_place_id": "krp_place_id__324",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__324\">Ruetzbach</rs>",
+    "mrp_place_id": ""
+  },
+  "325": {
+    "id": 325,
+    "order": "273.00000000000000000000",
+    "label": "Stubachtal",
+    "krp_place_id": "krp_place_id__325",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__325\">Stubachtal</rs>",
+    "mrp_place_id": ""
+  },
+  "326": {
+    "id": 326,
+    "order": "274.00000000000000000000",
+    "label": "Mallnitz",
+    "krp_place_id": "krp_place_id__326",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__326\">Mallnitz</rs>",
+    "mrp_place_id": ""
   }
 }

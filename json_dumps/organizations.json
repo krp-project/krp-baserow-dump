@@ -2078,5 +2078,65 @@
     "krp_org_id": "krp_org_id__304",
     "tei_code": "",
     "mrp_org_id": ""
+  },
+  "305": {
+    "id": 305,
+    "order": "195.00000000000000000000",
+    "label": "Internationaler Gewerkschaftsbund",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__305",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__305\">Internationaler Gewerkschaftsbund</rs>",
+    "mrp_org_id": ""
+  },
+  "306": {
+    "id": 306,
+    "order": "196.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__306",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "307": {
+    "id": 307,
+    "order": "197.00000000000000000000",
+    "label": "österreichische Staatsbahnen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__307",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__307\">österreichische Staatsbahnen</rs>",
+    "mrp_org_id": ""
+  },
+  "308": {
+    "id": 308,
+    "order": "198.00000000000000000000",
+    "label": "Zentralgrenzkommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__308",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__308\">Zentralgrenzkommission</rs>",
+    "mrp_org_id": ""
+  },
+  "309": {
+    "id": 309,
+    "order": "199.00000000000000000000",
+    "label": "SHS-Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__309",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__309\">SHS-Regierung</rs>",
+    "mrp_org_id": ""
+  },
+  "310": {
+    "id": 310,
+    "order": "200.00000000000000000000",
+    "label": "Tiroler Landtag",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__310",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__310\">Tiroler Landtag</rs>",
+    "mrp_org_id": ""
   }
 }
