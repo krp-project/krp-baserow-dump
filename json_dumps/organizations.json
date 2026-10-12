@@ -782,7 +782,7 @@
   "143": {
     "id": 143,
     "order": "65.00000000000000000000",
-    "label": "Konstituierende Nationalversammlung",
+    "label": "Konstituierende Nationalversammlung für Deutschösterreich",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__143",
@@ -1336,7 +1336,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__230",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. u. k. Armee</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__230\">k. u. k. Armee</rs>",
     "mrp_org_id": null
   },
   "231": {
@@ -1672,7 +1672,7 @@
   "264": {
     "id": 264,
     "order": "154.00000000000000000000",
-    "label": "Landesregierung Oberösterreich",
+    "label": "Landesregierung für Oberösterreich",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__264",
@@ -1929,16 +1929,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__289\"></rs>",
     "mrp_org_id": ""
   },
-  "290": {
-    "id": 290,
-    "order": "180.00000000000000000000",
-    "label": "Obersten",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__290",
-    "tei_code": "",
-    "mrp_org_id": ""
-  },
   "291": {
     "id": 291,
     "order": "181.00000000000000000000",
@@ -1962,7 +1952,7 @@
   "293": {
     "id": 293,
     "order": "183.00000000000000000000",
-    "label": "",
+    "label": "Staatsamt für Volksgesundheit",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__293",
@@ -1982,7 +1972,7 @@
   "295": {
     "id": 295,
     "order": "185.00000000000000000000",
-    "label": "und einigen Gebrauchsgegenständen",
+    "label": "und",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__295",
@@ -2042,11 +2032,11 @@
   "301": {
     "id": 301,
     "order": "191.00000000000000000000",
-    "label": "",
+    "label": "Oberösterreichischer Landesausschuss",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__301",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__301\"></rs>",
     "mrp_org_id": ""
   },
   "302": {
@@ -2072,11 +2062,11 @@
   "304": {
     "id": 304,
     "order": "194.00000000000000000000",
-    "label": "",
+    "label": "Niederösterreichischer Landesausschuss",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__304",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__304\"></rs>",
     "mrp_org_id": ""
   },
   "305": {
@@ -2092,11 +2082,11 @@
   "306": {
     "id": 306,
     "order": "196.00000000000000000000",
-    "label": "",
+    "label": "Steiermärkischer Landesarmenfonds",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__306",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__306\"></rs>",
     "mrp_org_id": ""
   },
   "307": {
@@ -2137,6 +2127,356 @@
     "source": "",
     "krp_org_id": "krp_org_id__310",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__310\">Tiroler Landtag</rs>",
+    "mrp_org_id": ""
+  },
+  "311": {
+    "id": 311,
+    "order": "201.00000000000000000000",
+    "label": "Italienische Waffenstillstandsmission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__311",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__311\"></rs>",
+    "mrp_org_id": ""
+  },
+  "312": {
+    "id": 312,
+    "order": "202.00000000000000000000",
+    "label": "englische Waffenstillstandsmission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__312",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__312\"></rs>",
+    "mrp_org_id": ""
+  },
+  "313": {
+    "id": 313,
+    "order": "203.00000000000000000000",
+    "label": "Landesrat in Salzburg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__313",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__313\"></rs>",
+    "mrp_org_id": ""
+  },
+  "314": {
+    "id": 314,
+    "order": "204.00000000000000000000",
+    "label": "Industrielle Bezirkskommission für Vorarlberg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__314",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__314\"></rs>",
+    "mrp_org_id": ""
+  },
+  "315": {
+    "id": 315,
+    "order": "205.00000000000000000000",
+    "label": "staatliche Mädchenmittelschulen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__315",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__315\">staatliche Mädchenmittelschulen</rs>",
+    "mrp_org_id": ""
+  },
+  "316": {
+    "id": 316,
+    "order": "206.00000000000000000000",
+    "label": "österreichisch-ungarische Konsulatsbehörden",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__316",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__316\"></rs>",
+    "mrp_org_id": ""
+  },
+  "317": {
+    "id": 317,
+    "order": "207.00000000000000000000",
+    "label": "Gewerkschaft Rathausberg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__317",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__317\">Gewerkschaft Rathausberg</rs>",
+    "mrp_org_id": ""
+  },
+  "318": {
+    "id": 318,
+    "order": "208.00000000000000000000",
+    "label": "Industriekommission",
+    "note": "krp53, top 10",
+    "source": "",
+    "krp_org_id": "krp_org_id__318",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__318\"></rs>",
+    "mrp_org_id": ""
+  },
+  "319": {
+    "id": 319,
+    "order": "209.00000000000000000000",
+    "label": "House of Lords",
+    "note": "englisches Oberhaus",
+    "source": "",
+    "krp_org_id": "krp_org_id__319",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__319\"></rs>",
+    "mrp_org_id": ""
+  },
+  "320": {
+    "id": 320,
+    "order": "210.00000000000000000000",
+    "label": "polnische Liquidierungskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__320",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__320\"></rs>",
+    "mrp_org_id": ""
+  },
+  "321": {
+    "id": 321,
+    "order": "211.00000000000000000000",
+    "label": "deutsche Botschaft",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__321",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__321\"></rs>",
+    "mrp_org_id": ""
+  },
+  "322": {
+    "id": 322,
+    "order": "212.00000000000000000000",
+    "label": "Räterepublik in München",
+    "note": "Räterepublik Bayern, Bayrische Räterepublik, Münchner Räterepublik",
+    "source": "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819/muenchner-raeterepublik",
+    "krp_org_id": "krp_org_id__322",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__322\"></rs>",
+    "mrp_org_id": ""
+  },
+  "324": {
+    "id": 324,
+    "order": "213.00000000000000000000",
+    "label": "liquidierende österreich-ungarische Gesandtschaft\nin München",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__324",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__324\"></rs>",
+    "mrp_org_id": ""
+  },
+  "325": {
+    "id": 325,
+    "order": "214.00000000000000000000",
+    "label": "Bezirksarbeiterrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__325",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__325\"></rs>",
+    "mrp_org_id": ""
+  },
+  "326": {
+    "id": 326,
+    "order": "215.00000000000000000000",
+    "label": "Firma Gebrüder Böhler & Co.",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__326",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__326\"></rs>",
+    "mrp_org_id": ""
+  },
+  "327": {
+    "id": 327,
+    "order": "216.00000000000000000000",
+    "label": "Nordbahndirektion",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__327",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__327\"></rs>",
+    "mrp_org_id": ""
+  },
+  "328": {
+    "id": 328,
+    "order": "217.00000000000000000000",
+    "label": "Staatseisenbahngesellschaft",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__328",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__328\"></rs>",
+    "mrp_org_id": ""
+  },
+  "329": {
+    "id": 329,
+    "order": "218.00000000000000000000",
+    "label": "Nordwestbahndirektion",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__329",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__329\"></rs>",
+    "mrp_org_id": ""
+  },
+  "330": {
+    "id": 330,
+    "order": "219.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__330",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "331": {
+    "id": 331,
+    "order": "220.00000000000000000000",
+    "label": "Staatsbahndirektion Wien-Nordost",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__331",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__331\"></rs>",
+    "mrp_org_id": ""
+  },
+  "332": {
+    "id": 332,
+    "order": "221.00000000000000000000",
+    "label": "Provisorische Nationalversammlung für Deutschösterreich",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__332",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__332\"></rs>",
+    "mrp_org_id": ""
+  },
+  "334": {
+    "id": 334,
+    "order": "222.00000000000000000000",
+    "label": "k. k. Ministerium des Innern",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__334",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__334\">k</rs>",
+    "mrp_org_id": ""
+  },
+  "335": {
+    "id": 335,
+    "order": "223.00000000000000000000",
+    "label": "Československá komise pro vývoz a dovoz",
+    "note": "tschechoslowakische Kommission für Aus- und Einfuhr",
+    "source": "",
+    "krp_org_id": "krp_org_id__335",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__335\"></rs>",
+    "mrp_org_id": ""
+  },
+  "336": {
+    "id": 336,
+    "order": "224.00000000000000000000",
+    "label": "Militärliquidierungsamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__336",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__336\">Militärliquidierungsamt</rs>",
+    "mrp_org_id": ""
+  },
+  "337": {
+    "id": 337,
+    "order": "225.00000000000000000000",
+    "label": "Vergleichskommission für laufende Militärlieferungsverträge",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__337",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__337\">Vergleichskommission für laufende Militärlieferungsverträge</rs>",
+    "mrp_org_id": ""
+  },
+  "338": {
+    "id": 338,
+    "order": "226.00000000000000000000",
+    "label": "Tschechoslowakisches Handelsministerium",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__338",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__338\"></rs>",
+    "mrp_org_id": ""
+  },
+  "339": {
+    "id": 339,
+    "order": "227.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__339",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "340": {
+    "id": 340,
+    "order": "228.00000000000000000000",
+    "label": "ungarische Liquidierungsamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__340",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__340\">ungarische Liquidierungsamt</rs>",
+    "mrp_org_id": ""
+  },
+  "341": {
+    "id": 341,
+    "order": "229.00000000000000000000",
+    "label": "Salzburger Landesrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__341",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__341\"></rs>",
+    "mrp_org_id": ""
+  },
+  "342": {
+    "id": 342,
+    "order": "230.00000000000000000000",
+    "label": "Hydrographische Zentralbüro",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__342",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__342\"></rs>",
+    "mrp_org_id": ""
+  },
+  "343": {
+    "id": 343,
+    "order": "231.00000000000000000000",
+    "label": "Zentralangestelltenrat der deutschösterreichischen Staatsämter",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__343",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__343\"></rs>",
+    "mrp_org_id": ""
+  },
+  "344": {
+    "id": 344,
+    "order": "232.00000000000000000000",
+    "label": "Exportakademie Wien",
+    "note": "Hochschule für Welthandel",
+    "source": "",
+    "krp_org_id": "krp_org_id__344",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__344\">Exportakademie Wien</rs>",
+    "mrp_org_id": ""
+  },
+  "345": {
+    "id": 345,
+    "order": "233.00000000000000000000",
+    "label": "Provisorische Landesversammlung in Tirol",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__345",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__345\"></rs>",
+    "mrp_org_id": ""
+  },
+  "346": {
+    "id": 346,
+    "order": "234.00000000000000000000",
+    "label": "Kommission zur Erhebung militärischer Pflichtverletzungen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__346",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__346\">Kommission zur Erhebung militärischer Pflichtverletzungen</rs>",
+    "mrp_org_id": ""
+  },
+  "347": {
+    "id": 347,
+    "order": "235.00000000000000000000",
+    "label": "Landesregierung in Vorarlberg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__347",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__347\">Landesregierung in Vorarlberg</rs>",
     "mrp_org_id": ""
   }
 }

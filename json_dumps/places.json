@@ -2342,10 +2342,10 @@
   "302": {
     "id": 302,
     "order": "250.00000000000000000000",
-    "label": "",
+    "label": "Belgrad",
     "krp_place_id": "krp_place_id__302",
     "alternative_name": "",
-    "tei_code": null,
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__302\"></rs>",
     "mrp_place_id": null
   },
   "303": {
@@ -2396,10 +2396,10 @@
   "308": {
     "id": 308,
     "order": "256.00000000000000000000",
-    "label": "",
+    "label": "Roßauer Kaserne",
     "krp_place_id": "krp_place_id__308",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__308\"></rs>",
     "mrp_place_id": null
   },
   "309": {
@@ -2522,10 +2522,10 @@
   "322": {
     "id": 322,
     "order": "270.00000000000000000000",
-    "label": "",
+    "label": "Arlbergtunnel",
     "krp_place_id": "krp_place_id__322",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__322\"></rs>",
     "mrp_place_id": ""
   },
   "323": {
@@ -2534,7 +2534,7 @@
     "label": "Spullersee",
     "krp_place_id": "krp_place_id__323",
     "alternative_name": "",
-    "tei_code": "<rs type=\"plack\" ref=\"#krp_place_id__323\">Spullersee</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__323\">Spullersee</rs>",
     "mrp_place_id": ""
   },
   "324": {
@@ -2562,6 +2562,114 @@
     "krp_place_id": "krp_place_id__326",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__326\">Mallnitz</rs>",
+    "mrp_place_id": ""
+  },
+  "327": {
+    "id": 327,
+    "order": "275.00000000000000000000",
+    "label": "Berndorf",
+    "krp_place_id": "krp_place_id__327",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__327\">Berndorf</rs>",
+    "mrp_place_id": ""
+  },
+  "328": {
+    "id": 328,
+    "order": "276.00000000000000000000",
+    "label": "Hassbach",
+    "krp_place_id": "krp_place_id__328",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__328\">Hassbaches</rs>",
+    "mrp_place_id": ""
+  },
+  "329": {
+    "id": 329,
+    "order": "277.00000000000000000000",
+    "label": "Kirchau",
+    "krp_place_id": "krp_place_id__329",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"'krp_place_id__329\">Kirchau</rs>",
+    "mrp_place_id": ""
+  },
+  "330": {
+    "id": 330,
+    "order": "278.00000000000000000000",
+    "label": "Blühnbach",
+    "krp_place_id": "krp_place_id__330",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__330\">Blühnbach</rs>",
+    "mrp_place_id": ""
+  },
+  "331": {
+    "id": 331,
+    "order": "279.00000000000000000000",
+    "label": "Außerfelden",
+    "krp_place_id": "krp_place_id__331",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__331\">Außerfelden</rs>",
+    "mrp_place_id": ""
+  },
+  "332": {
+    "id": 332,
+    "order": "280.00000000000000000000",
+    "label": "Landeck",
+    "krp_place_id": "krp_place_id__332",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__332\">Landeck</rs>",
+    "mrp_place_id": ""
+  },
+  "333": {
+    "id": 333,
+    "order": "281.00000000000000000000",
+    "label": "Tösens",
+    "krp_place_id": "krp_place_id__333",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__84\">Tösens</rs>",
+    "mrp_place_id": ""
+  },
+  "334": {
+    "id": 334,
+    "order": "282.00000000000000000000",
+    "label": "Vöslau-Gainfarn",
+    "krp_place_id": "krp_place_id__334",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__334\">Vöslau-Gainfarn</rs>",
+    "mrp_place_id": ""
+  },
+  "335": {
+    "id": 335,
+    "order": "283.00000000000000000000",
+    "label": "Semmering",
+    "krp_place_id": "krp_place_id__335",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__335\">Semmering</rs>",
+    "mrp_place_id": ""
+  },
+  "336": {
+    "id": 336,
+    "order": "284.00000000000000000000",
+    "label": "Urfahr",
+    "krp_place_id": "krp_place_id__336",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__336\">Urfahr</rs>",
+    "mrp_place_id": ""
+  },
+  "337": {
+    "id": 337,
+    "order": "285.00000000000000000000",
+    "label": "Pielachfluss",
+    "krp_place_id": "krp_place_id__337",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__337\">Pielachfluss</rs>",
+    "mrp_place_id": ""
+  },
+  "338": {
+    "id": 338,
+    "order": "286.00000000000000000000",
+    "label": "Venedig",
+    "krp_place_id": "krp_place_id__338",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__338\">Venedig</rs>",
     "mrp_place_id": ""
   }
 }
