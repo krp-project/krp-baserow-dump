@@ -2671,5 +2671,86 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__338\">Venedig</rs>",
     "mrp_place_id": ""
+  },
+  "339": {
+    "id": 339,
+    "order": "287.00000000000000000000",
+    "label": "Litauen",
+    "krp_place_id": "krp_place_id__339",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__339\">Litauen</rs>",
+    "mrp_place_id": ""
+  },
+  "340": {
+    "id": 340,
+    "order": "288.00000000000000000000",
+    "label": "Wolfsegg",
+    "krp_place_id": "krp_place_id__340",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__340\">Wolfsegg</rs>",
+    "mrp_place_id": ""
+  },
+  "341": {
+    "id": 341,
+    "order": "289.00000000000000000000",
+    "label": "Köttlach",
+    "krp_place_id": "krp_place_id__341",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__341\">Köttlach/rs>",
+    "mrp_place_id": ""
+  },
+  "342": {
+    "id": 342,
+    "order": "290.00000000000000000000",
+    "label": "St. Peter in der Au",
+    "krp_place_id": "krp_place_id__342",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__342\">St. Peter in der Au</rs>",
+    "mrp_place_id": ""
+  },
+  "343": {
+    "id": 343,
+    "order": "291.00000000000000000000",
+    "label": "Sachsenburg",
+    "krp_place_id": "krp_place_id__343",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__343\">Sachsenburg</rs>",
+    "mrp_place_id": ""
+  },
+  "344": {
+    "id": 344,
+    "order": "292.00000000000000000000",
+    "label": "St. Salvator",
+    "krp_place_id": "krp_place_id__344",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__344\">St. Salvator</rs>",
+    "mrp_place_id": ""
+  },
+  "345": {
+    "id": 345,
+    "order": "293.00000000000000000000",
+    "label": "Egg",
+    "krp_place_id": "krp_place_id__345",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__345\">Egg</rs>",
+    "mrp_place_id": ""
+  },
+  "346": {
+    "id": 346,
+    "order": "294.00000000000000000000",
+    "label": "Grades",
+    "krp_place_id": "krp_place_id__346",
+    "alternative_name": "",
+    "tei_code": "<rs=\"place\" ref=\"#krp_place_id__346\">Grades</rs>",
+    "mrp_place_id": ""
+  },
+  "347": {
+    "id": 347,
+    "order": "295.00000000000000000000",
+    "label": "Moosbach",
+    "krp_place_id": "krp_place_id__347",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__347\">Moosbach</rs>",
+    "mrp_place_id": ""
   }
 }

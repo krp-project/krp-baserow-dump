@@ -1046,7 +1046,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__200",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__200\"></rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__200\">Niederösterreichische Landtag</rs>",
     "mrp_org_id": null
   },
   "201": {
@@ -1939,16 +1939,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__291\"></rs>",
     "mrp_org_id": ""
   },
-  "292": {
-    "id": 292,
-    "order": "182.00000000000000000000",
-    "label": "Obersten",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__292",
-    "tei_code": "",
-    "mrp_org_id": ""
-  },
   "293": {
     "id": 293,
     "order": "183.00000000000000000000",
@@ -1967,16 +1957,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__294",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__294\"></rs>",
-    "mrp_org_id": ""
-  },
-  "295": {
-    "id": 295,
-    "order": "185.00000000000000000000",
-    "label": "und",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__295",
-    "tei_code": "",
     "mrp_org_id": ""
   },
   "296": {
@@ -2312,11 +2292,11 @@
   "330": {
     "id": 330,
     "order": "219.00000000000000000000",
-    "label": "",
+    "label": "Lichtbildstelle",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__330",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__330\"></rs>",
     "mrp_org_id": ""
   },
   "331": {
@@ -2352,8 +2332,8 @@
   "335": {
     "id": 335,
     "order": "223.00000000000000000000",
-    "label": "Československá komise pro vývoz a dovoz",
-    "note": "tschechoslowakische Kommission für Aus- und Einfuhr",
+    "label": "tschechoslowakische Kommission für Aus- und Einfuhr",
+    "note": "Československá komise pro vývoz a dovoz",
     "source": "",
     "krp_org_id": "krp_org_id__335",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__335\"></rs>",
@@ -2392,11 +2372,11 @@
   "339": {
     "id": 339,
     "order": "227.00000000000000000000",
-    "label": "",
+    "label": "Filmhauptstelle",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__339",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__339\"></rs>",
     "mrp_org_id": ""
   },
   "340": {
@@ -2477,6 +2457,76 @@
     "source": "",
     "krp_org_id": "krp_org_id__347",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__347\">Landesregierung in Vorarlberg</rs>",
+    "mrp_org_id": ""
+  },
+  "348": {
+    "id": 348,
+    "order": "236.00000000000000000000",
+    "label": "Landesversammlung in Tirol",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__348",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__348\">Landesversammlung in Tirol</rs>",
+    "mrp_org_id": ""
+  },
+  "349": {
+    "id": 349,
+    "order": "237.00000000000000000000",
+    "label": "Steiermärkischer Landtag",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__349",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__349\">Steiermärkischer Landtag</rs>",
+    "mrp_org_id": ""
+  },
+  "350": {
+    "id": 350,
+    "order": "238.00000000000000000000",
+    "label": "Landesrat in Kärnten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__350",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__350\">Landesrat in Kärnten</rs>",
+    "mrp_org_id": ""
+  },
+  "351": {
+    "id": 351,
+    "order": "239.00000000000000000000",
+    "label": "Finanzlandesdirektion in Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__351",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__351\">Finanzlandesdirektion in Wien</rs>",
+    "mrp_org_id": ""
+  },
+  "352": {
+    "id": 352,
+    "order": "240.00000000000000000000",
+    "label": "Provisorische Landesversammlung in Vorarlberg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__352",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__352\"></rs>",
+    "mrp_org_id": ""
+  },
+  "353": {
+    "id": 353,
+    "order": "241.00000000000000000000",
+    "label": "hofärarische Theater",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__353",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__353\">hofärarische Theater</rs>",
+    "mrp_org_id": ""
+  },
+  "354": {
+    "id": 354,
+    "order": "242.00000000000000000000",
+    "label": "Statistische Zentralkommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__354",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__354\">Statistische Zentralkommission</rs>",
     "mrp_org_id": ""
   }
 }

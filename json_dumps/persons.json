@@ -8612,5 +8612,24 @@
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": ""
+  },
+  "781": {
+    "id": 781,
+    "order": "372.00000000000000000000",
+    "label": "Deutsch, Viktor Stefan",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "Sektionschef im Staatsamt für Land- und Forstwirtschaft",
+    "source": "",
+    "krp_person_id": "krp_person_id__781",
+    "wikidata_url": "",
+    "date_of_birth": "1864-02-26",
+    "date_of_death": "1941-11-06",
+    "Geburtsort": "Wien",
+    "Sterbeort": "Wien",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__781\">Deutsch</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": ""
   }
 }
