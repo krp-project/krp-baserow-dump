@@ -672,7 +672,7 @@
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "label": "Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten",
+    "label": "Telefon- und Telegrafenbediensteten",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__53",
@@ -833,7 +833,7 @@
     "id": 179,
     "order": "70.00000000000000000000",
     "label": "Tschechoslowakische Regierung",
-    "note": "",
+    "note": "[14.11.1918 - 08.07.1919] Regierung Karel Kramář;\n[08.07.1919 - 25.05.1919] Regierung Vlastimil Tusar I;\n[25.07.1919 - 15.09.1919] Regierung Vlastimil Tusar II",
     "source": "",
     "krp_org_id": "krp_org_id__179",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__179\">Tschechoslowakische Regierung</rs>",
@@ -1343,7 +1343,7 @@
     "id": 231,
     "order": "121.00000000000000000000",
     "label": "k. k. Landwehr",
-    "note": "",
+    "note": "Ministerium für Landesverteidigung",
     "source": "",
     "krp_org_id": "krp_org_id__231",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. k. Landwehr</rs>",
@@ -2527,6 +2527,276 @@
     "source": "",
     "krp_org_id": "krp_org_id__354",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__354\">Statistische Zentralkommission</rs>",
+    "mrp_org_id": ""
+  },
+  "355": {
+    "id": 355,
+    "order": "243.00000000000000000000",
+    "label": "Zentralverband der österreichischen Staatsbeamtenvereine",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__355",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__355\">Zentralverband der österreichischen Staatsbeamtenvereine</rs>",
+    "mrp_org_id": ""
+  },
+  "356": {
+    "id": 356,
+    "order": "244.00000000000000000000",
+    "label": "Erzherzog-Friedrich-Kaserne",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__356",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__356\">Erzherzog-Friedrich-Kaserne</rs>",
+    "mrp_org_id": ""
+  },
+  "357": {
+    "id": 357,
+    "order": "245.00000000000000000000",
+    "label": "Hauptanstalt für Sachdemobilisierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__357",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__357\">Hauptanstalt für Sachdemobilisierung</rs>",
+    "mrp_org_id": ""
+  },
+  "360": {
+    "id": 360,
+    "order": "246.00000000000000000000",
+    "label": "Amerkanische Mission in Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__360",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__360\"></rs>",
+    "mrp_org_id": ""
+  },
+  "361": {
+    "id": 361,
+    "order": "247.00000000000000000000",
+    "label": "Einigungsamtes für Streitigkeiten aus Lieferungsverträgen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__361",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__361\">Einigungsamtes für Streitigkeiten aus Lieferungsverträgen</rs>",
+    "mrp_org_id": ""
+  },
+  "362": {
+    "id": 362,
+    "order": "248.00000000000000000000",
+    "label": "Einigungsamt in Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__362",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__362\">Einigungsamt in Wien</rs>",
+    "mrp_org_id": ""
+  },
+  "363": {
+    "id": 363,
+    "order": "249.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__363",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "364": {
+    "id": 364,
+    "order": "250.00000000000000000000",
+    "label": "Konsularakademie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__364",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__364\"></rs>",
+    "mrp_org_id": ""
+  },
+  "365": {
+    "id": 365,
+    "order": "251.00000000000000000000",
+    "label": "Deutschösterreichisches Warenverkehrsbüro",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__365",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__365\"></rs>",
+    "mrp_org_id": ""
+  },
+  "366": {
+    "id": 366,
+    "order": "252.00000000000000000000",
+    "label": "Ungarisches Warenverkehrsbüro",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__366",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__366\"></rs>",
+    "mrp_org_id": ""
+  },
+  "367": {
+    "id": 367,
+    "order": "253.00000000000000000000",
+    "label": "Reparationskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__367",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__367\">Reparationskommission</rs>",
+    "mrp_org_id": ""
+  },
+  "368": {
+    "id": 368,
+    "order": "254.00000000000000000000",
+    "label": "Staatskommission für Sozialisierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__368",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__368\">Staatskommission für Sozialisierung</rs>",
+    "mrp_org_id": ""
+  },
+  "369": {
+    "id": 369,
+    "order": "255.00000000000000000000",
+    "label": "Naturhistorisches Museum",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__369",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__369\">Naturhistorisches Museum</rs>",
+    "mrp_org_id": ""
+  },
+  "370": {
+    "id": 370,
+    "order": "256.00000000000000000000",
+    "label": "Hofbibliothek",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__370",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__370\">Hofbibliothek</rs>",
+    "mrp_org_id": ""
+  },
+  "371": {
+    "id": 371,
+    "order": "257.00000000000000000000",
+    "label": "Albertina",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__371",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__371\">Albertina</rs>",
+    "mrp_org_id": ""
+  },
+  "372": {
+    "id": 372,
+    "order": "258.00000000000000000000",
+    "label": "Familienfideikommissbibliothek",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__372",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__372\">Familienfideikommissbibliothek</rs>",
+    "mrp_org_id": ""
+  },
+  "373": {
+    "id": 373,
+    "order": "259.00000000000000000000",
+    "label": "Gewerkschaft der",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__373",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "375": {
+    "id": 375,
+    "order": "261.00000000000000000000",
+    "label": "Gewerkschaft der Akademiker in öffentlichen Diensten Österreichs",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__375",
+    "tei_code": "< type=\"org\" ref=\"#krp_org_id__375\">Gewerkschaft der Akademiker in öffentlichen Diensten Österreichs</rs>",
+    "mrp_org_id": ""
+  },
+  "376": {
+    "id": 376,
+    "order": "262.00000000000000000000",
+    "label": "paritätischen Lohnkommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__376",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__376\">paritätischen Lohnkommission</rs>",
+    "mrp_org_id": ""
+  },
+  "378": {
+    "id": 378,
+    "order": "264.00000000000000000000",
+    "label": "„Technischen Union“ der",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__378",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "379": {
+    "id": 379,
+    "order": "265.00000000000000000000",
+    "label": "„Technischen Union“ der Telefon- und Telegrafenbediensteten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__379",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__379\">„Technischen Union“ der Telefon- und Telegrafenbediensteten</rs>",
+    "mrp_org_id": ""
+  },
+  "380": {
+    "id": 380,
+    "order": "266.00000000000000000000",
+    "label": "Unionbank",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__380",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__380\">Unionbank</rs>",
+    "mrp_org_id": ""
+  },
+  "381": {
+    "id": 381,
+    "order": "267.00000000000000000000",
+    "label": "Länderbank",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__381",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__381\">Länderbank</rs>",
+    "mrp_org_id": ""
+  },
+  "382": {
+    "id": 382,
+    "order": "268.00000000000000000000",
+    "label": "Kramsacher Lände der Forst-",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__382",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "384": {
+    "id": 384,
+    "order": "270.00000000000000000000",
+    "label": "Kramsacher Lände der Forst-",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__384",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "386": {
+    "id": 386,
+    "order": "272.00000000000000000000",
+    "label": "Forst-und Domänendirektion",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__386",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__386\">Forst-und Domänendirektion</rs>",
+    "mrp_org_id": ""
+  },
+  "387": {
+    "id": 387,
+    "order": "273.00000000000000000000",
+    "label": "russische Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__387",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__387\">russische Regierung</rs>",
     "mrp_org_id": ""
   }
 }

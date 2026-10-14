@@ -38,7 +38,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "label": "Ungarn",
+    "label": "Ungarische Republik",
     "krp_place_id": "krp_place_id__5",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__5\">Ungarn</rs>",
@@ -400,7 +400,7 @@
     "order": "39.00000000000000000000",
     "label": "Prag",
     "krp_place_id": "krp_place_id__42",
-    "alternative_name": "",
+    "alternative_name": "Praha",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__42\">Prag</rs>",
     "mrp_place_id": null
   },
@@ -2751,6 +2751,96 @@
     "krp_place_id": "krp_place_id__347",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__347\">Moosbach</rs>",
+    "mrp_place_id": ""
+  },
+  "348": {
+    "id": 348,
+    "order": "296.00000000000000000000",
+    "label": "Kaiserebersdorf",
+    "krp_place_id": "krp_place_id__348",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__348\">Kaiserebersdorf</rs>",
+    "mrp_place_id": ""
+  },
+  "349": {
+    "id": 349,
+    "order": "297.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__349",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "350": {
+    "id": 350,
+    "order": "298.00000000000000000000",
+    "label": "Ungarische Räterepublik",
+    "krp_place_id": "krp_place_id__350",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ungarische Räterepublik</rs>",
+    "mrp_place_id": ""
+  },
+  "351": {
+    "id": 351,
+    "order": "299.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__351",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "352": {
+    "id": 352,
+    "order": "300.00000000000000000000",
+    "label": "Königreich Ungarn",
+    "krp_place_id": "krp_place_id__352",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "353": {
+    "id": 353,
+    "order": "301.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__353",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "354": {
+    "id": 354,
+    "order": "302.00000000000000000000",
+    "label": "Voitsberg-Köflacher Reviere",
+    "krp_place_id": "krp_place_id__354",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__354\">Voitsberg-Köflacher Reviere</rs>",
+    "mrp_place_id": ""
+  },
+  "355": {
+    "id": 355,
+    "order": "303.00000000000000000000",
+    "label": "Wieser Reviere",
+    "krp_place_id": "krp_place_id__355",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__355\">Wieser Reviere</rs>",
+    "mrp_place_id": ""
+  },
+  "356": {
+    "id": 356,
+    "order": "304.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__356",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "357": {
+    "id": 357,
+    "order": "305.00000000000000000000",
+    "label": "Amsterdam",
+    "krp_place_id": "krp_place_id__357",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__357\">Amsterdam</rs>",
     "mrp_place_id": ""
   }
 }
