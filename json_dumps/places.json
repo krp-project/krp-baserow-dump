@@ -229,8 +229,8 @@
     "order": "20.00000000000000000000",
     "label": "Oberösterreich",
     "krp_place_id": "krp_place_id__21",
-    "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Oberösterreich</rs>",
+    "alternative_name": "Achtung hatte vormals falsche ID 297!!!",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__21\">Oberösterreich</rs>",
     "mrp_place_id": null
   },
   "22": {
@@ -1129,8 +1129,8 @@
     "order": "118.00000000000000000000",
     "label": "Attnang-Puchheim",
     "krp_place_id": "krp_place_id__121",
-    "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__164\">Attnang-Puchheim</rs>",
+    "alternative_name": "Achtung hatte vormals falsche ID 164!!",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__121\">Attnang-Puchheim</rs>",
     "mrp_place_id": null
   },
   "122": {
@@ -2201,7 +2201,7 @@
     "label": "Obermillstatt",
     "krp_place_id": "krp_place_id__276",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Obermiillstatt</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__276\">Obermillstatt</rs>",
     "mrp_place_id": null
   },
   "277": {
@@ -2841,6 +2841,51 @@
     "krp_place_id": "krp_place_id__357",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__357\">Amsterdam</rs>",
+    "mrp_place_id": ""
+  },
+  "390": {
+    "id": 390,
+    "order": "306.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__390",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "391": {
+    "id": 391,
+    "order": "307.00000000000000000000",
+    "label": "Stiftskaserne General Spannocchi",
+    "krp_place_id": "krp_place_id__391",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__391\"></rs>",
+    "mrp_place_id": ""
+  },
+  "392": {
+    "id": 392,
+    "order": "308.00000000000000000000",
+    "label": "Stephansdom [Kirche]",
+    "krp_place_id": "krp_place_id__392",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__392\">Stephansdom</rs>",
+    "mrp_place_id": ""
+  },
+  "393": {
+    "id": 393,
+    "order": "309.00000000000000000000",
+    "label": "Langen",
+    "krp_place_id": "krp_place_id__393",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__393\">Langen</rs>",
+    "mrp_place_id": ""
+  },
+  "394": {
+    "id": 394,
+    "order": "310.00000000000000000000",
+    "label": "Bludenz",
+    "krp_place_id": "krp_place_id__394",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__394\">Bludenz</rs>",
     "mrp_place_id": ""
   }
 }

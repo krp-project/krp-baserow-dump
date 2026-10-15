@@ -869,16 +869,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__182\">Kabinettsrat</rs>",
     "mrp_org_id": null
   },
-  "183": {
-    "id": 183,
-    "order": "74.00000000000000000000",
-    "label": "Tschechoslowakische Republik",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__183",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__183\"></rs>",
-    "mrp_org_id": null
-  },
   "184": {
     "id": 184,
     "order": "75.00000000000000000000",
@@ -953,7 +943,7 @@
     "id": 191,
     "order": "82.00000000000000000000",
     "label": "Staatsamt für Handel und Gewerbe, Industrie und Bauten",
-    "note": "Staatsamt für Kriegs- und Übergangswirtschaft",
+    "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__191",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__191\">Staatsamt für Handel und Gewerbe, Industrie und Bauten</rs>",
@@ -1157,16 +1147,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__212",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__212\"></rs>",
-    "mrp_org_id": null
-  },
-  "213": {
-    "id": 213,
-    "order": "103.00000000000000000000",
-    "label": "Provisorische Tiroler Landesversammlung",
-    "note": "Tiroler Landesversammlung",
-    "source": "",
-    "krp_org_id": "krp_org_id__213",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>",
     "mrp_org_id": null
   },
   "214": {
@@ -1443,7 +1423,7 @@
     "id": 241,
     "order": "131.00000000000000000000",
     "label": "Landesregierung Tirol",
-    "note": "",
+    "note": "Tiroler Landesrat, Tiroler Nationalrat, Tiroler Landesregierung\n\nIn der Monarchie: Tiroler Landesausschuss",
     "source": "",
     "krp_org_id": "krp_org_id__241",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__241\"></rs>",
@@ -1567,16 +1547,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__253",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__253\">Staatsamt für öffentliche Arbeiten</rs>",
-    "mrp_org_id": null
-  },
-  "254": {
-    "id": 254,
-    "order": "144.00000000000000000000",
-    "label": "österreichische Republik",
-    "note": "deutschösterreichischen Republik",
-    "source": "",
-    "krp_org_id": "krp_org_id__254",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__254\"></rs>",
     "mrp_org_id": null
   },
   "255": {
@@ -1809,16 +1779,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__277\"></rs>",
     "mrp_org_id": ""
   },
-  "278": {
-    "id": 278,
-    "order": "168.00000000000000000000",
-    "label": "Tiroler Landesregierung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__278",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__278\"></rs>",
-    "mrp_org_id": ""
-  },
   "279": {
     "id": 279,
     "order": "169.00000000000000000000",
@@ -1837,16 +1797,6 @@
     "source": "liquidierendes Kriegsarchiv",
     "krp_org_id": "krp_org_id__280",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__280\"></rs>",
-    "mrp_org_id": ""
-  },
-  "281": {
-    "id": 281,
-    "order": "171.00000000000000000000",
-    "label": "Provisorische Salzburger Landesversammlung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__281",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__281\"></rs>",
     "mrp_org_id": ""
   },
   "282": {
@@ -1946,7 +1896,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__293",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__293\"></rs>",
     "mrp_org_id": ""
   },
   "294": {
@@ -2797,6 +2747,56 @@
     "source": "",
     "krp_org_id": "krp_org_id__387",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__387\">russische Regierung</rs>",
+    "mrp_org_id": ""
+  },
+  "420": {
+    "id": 420,
+    "order": "274.00000000000000000000",
+    "label": "k. u. k. Finanzministerium",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__420",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__420\"></rs>",
+    "mrp_org_id": ""
+  },
+  "421": {
+    "id": 421,
+    "order": "275.00000000000000000000",
+    "label": "k. k. Finanzministerium",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__421",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__421\"></rs>",
+    "mrp_org_id": ""
+  },
+  "422": {
+    "id": 422,
+    "order": "276.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__422",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "423": {
+    "id": 423,
+    "order": "277.00000000000000000000",
+    "label": "Staatsamt für Kriegs- und Übergangswirtschaft",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__423",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__423\"></rs>",
+    "mrp_org_id": ""
+  },
+  "424": {
+    "id": 424,
+    "order": "278.00000000000000000000",
+    "label": "Provisorische Landesversammlung in Niederösterreich",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__424",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__424\"></rs>",
     "mrp_org_id": ""
   }
 }
