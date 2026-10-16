@@ -2636,15 +2636,6 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__334\">Vöslau-Gainfarn</rs>",
     "mrp_place_id": ""
   },
-  "335": {
-    "id": 335,
-    "order": "283.00000000000000000000",
-    "label": "Semmering",
-    "krp_place_id": "krp_place_id__335",
-    "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__335\">Semmering</rs>",
-    "mrp_place_id": ""
-  },
   "336": {
     "id": 336,
     "order": "284.00000000000000000000",
