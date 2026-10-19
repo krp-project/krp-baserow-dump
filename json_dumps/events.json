@@ -25,5 +25,23 @@
     "krp_event_id": "krp_event_id__3",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__3\">Wiener Armenlotterie</rs>",
     "mrp_event_id": null
+  },
+  "36": {
+    "id": 36,
+    "order": "4.00000000000000000000",
+    "label": "Internationale                      Arbeitskonferenz zu Washington",
+    "note": "",
+    "krp_event_id": "krp_event_id__36",
+    "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__36\">Internationale Arbeitskonferenz zu Washington</rs>",
+    "mrp_event_id": ""
+  },
+  "37": {
+    "id": 37,
+    "order": "5.00000000000000000000",
+    "label": "Konferenz der Internationalen Liga für Frauenstimmrecht",
+    "note": "",
+    "krp_event_id": "krp_event_id__37",
+    "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__37\">Konferenz der Internationalen Liga für Frauenstimmrecht</rs>",
+    "mrp_event_id": ""
   }
 }

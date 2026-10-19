@@ -892,8 +892,8 @@
   "186": {
     "id": 186,
     "order": "77.00000000000000000000",
-    "label": "Staatsamt für Äußeres",
-    "note": "",
+    "label": "Staatsamt für Äußeres [I-III]",
+    "note": "Staatsamt des Äußern [I]",
     "source": "",
     "krp_org_id": "krp_org_id__186",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__186\">Staatsamt für Äußeres</rs>",
@@ -902,7 +902,7 @@
   "187": {
     "id": 187,
     "order": "78.00000000000000000000",
-    "label": "Staatsamt für Finanzen",
+    "label": "Staatsamt für Finanzen [I-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__187",
@@ -922,7 +922,7 @@
   "189": {
     "id": 189,
     "order": "80.00000000000000000000",
-    "label": "Staatsamt für Verkehrswesen",
+    "label": "Staatsamt für Verkehrswesen [I-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__189",
@@ -932,7 +932,7 @@
   "190": {
     "id": 190,
     "order": "81.00000000000000000000",
-    "label": "Staatsamt für soziale Verwaltung",
+    "label": "Staatsamt für soziale Verwaltung [II-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__190",
@@ -942,7 +942,7 @@
   "191": {
     "id": 191,
     "order": "82.00000000000000000000",
-    "label": "Staatsamt für Handel und Gewerbe, Industrie und Bauten",
+    "label": "Staatsamt für Handel und Gewerbe, Industrie und Bauten [I-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__191",
@@ -952,7 +952,7 @@
   "192": {
     "id": 192,
     "order": "83.00000000000000000000",
-    "label": "Staatsamt für Inneres und Unterricht",
+    "label": "Staatsamt für Inneres und Unterricht [II-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__192",
@@ -962,7 +962,7 @@
   "193": {
     "id": 193,
     "order": "84.00000000000000000000",
-    "label": "Staatsamt für Justiz",
+    "label": "Staatsamt für Justiz [I-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__193",
@@ -972,7 +972,7 @@
   "194": {
     "id": 194,
     "order": "85.00000000000000000000",
-    "label": "Staatsamt für Land- und Forstwirtschaft",
+    "label": "Staatsamt für Land- und Forstwirtschaft [I-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__194",
@@ -1052,7 +1052,7 @@
   "202": {
     "id": 202,
     "order": "93.00000000000000000000",
-    "label": "Staatsamt für Volksernährung",
+    "label": "Staatsamt für Volksernährung [I-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__202",
@@ -1272,7 +1272,7 @@
   "226": {
     "id": 226,
     "order": "116.00000000000000000000",
-    "label": "Staatsamt für Heereswesen",
+    "label": "Staatsamt für Heereswesen [I-III]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__226",
@@ -1542,7 +1542,7 @@
   "253": {
     "id": 253,
     "order": "143.00000000000000000000",
-    "label": "Staatsamt für öffentliche Arbeiten",
+    "label": "Staatsamt für öffentliche Arbeiten [I]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__253",
@@ -1562,7 +1562,7 @@
   "256": {
     "id": 256,
     "order": "146.00000000000000000000",
-    "label": "Staatsamt für soziale Fürsorge",
+    "label": "Staatsamt für soziale Fürsorge [I]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__256",
@@ -1892,7 +1892,7 @@
   "293": {
     "id": 293,
     "order": "183.00000000000000000000",
-    "label": "Staatsamt für Volksgesundheit",
+    "label": "Staatsamt für Volksgesundheit [I]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__293",
@@ -2169,16 +2169,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__321\"></rs>",
     "mrp_org_id": ""
   },
-  "322": {
-    "id": 322,
-    "order": "212.00000000000000000000",
-    "label": "Räterepublik in München",
-    "note": "Räterepublik Bayern, Bayrische Räterepublik, Münchner Räterepublik",
-    "source": "https://www.dhm.de/lemo/kapitel/weimarer-republik/revolution-191819/muenchner-raeterepublik",
-    "krp_org_id": "krp_org_id__322",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__322\"></rs>",
-    "mrp_org_id": ""
-  },
   "324": {
     "id": 324,
     "order": "213.00000000000000000000",
@@ -2407,16 +2397,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__347",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__347\">Landesregierung in Vorarlberg</rs>",
-    "mrp_org_id": ""
-  },
-  "348": {
-    "id": 348,
-    "order": "236.00000000000000000000",
-    "label": "Landesversammlung in Tirol",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__348",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__348\">Landesversammlung in Tirol</rs>",
     "mrp_org_id": ""
   },
   "349": {
@@ -2743,7 +2723,7 @@
     "id": 387,
     "order": "273.00000000000000000000",
     "label": "russische Regierung",
-    "note": "",
+    "note": "sowjetische Regierung",
     "source": "",
     "krp_org_id": "krp_org_id__387",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__387\">russische Regierung</rs>",
@@ -2782,7 +2762,7 @@
   "423": {
     "id": 423,
     "order": "277.00000000000000000000",
-    "label": "Staatsamt für Kriegs- und Übergangswirtschaft",
+    "label": "Staatsamt für Kriegs- und Übergangswirtschaft [I]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__423",
@@ -2797,6 +2777,316 @@
     "source": "",
     "krp_org_id": "krp_org_id__424",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__424\"></rs>",
+    "mrp_org_id": ""
+  },
+  "425": {
+    "id": 425,
+    "order": "279.00000000000000000000",
+    "label": "Haus-, Hof- und Staatsarchiv",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__425",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__425\">Haus-, Hof- und Staatsarchiv</rs>",
+    "mrp_org_id": ""
+  },
+  "426": {
+    "id": 426,
+    "order": "280.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__426",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "427": {
+    "id": 427,
+    "order": "281.00000000000000000000",
+    "label": "Finanzarchiv",
+    "note": "",
+    "source": "ehemals gemeinsames",
+    "krp_org_id": "krp_org_id__427",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__427\">Finanzarchiv</rs>",
+    "mrp_org_id": ""
+  },
+  "428": {
+    "id": 428,
+    "order": "282.00000000000000000000",
+    "label": "Staatsakademie für Musik und darstellende Kunst",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__428",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__428\">Staatsakademie für Musik und darstellende Kunst</rs>",
+    "mrp_org_id": ""
+  },
+  "429": {
+    "id": 429,
+    "order": "283.00000000000000000000",
+    "label": "Zeitungsbeirat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__429",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__429\">Zeitungsbeirat</rs>",
+    "mrp_org_id": ""
+  },
+  "430": {
+    "id": 430,
+    "order": "284.00000000000000000000",
+    "label": "Heeres-, Führer- und Lehrerschule",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__430",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__430\">Heeres-, Führer- und Lehrerschule</rs>",
+    "mrp_org_id": ""
+  },
+  "431": {
+    "id": 431,
+    "order": "285.00000000000000000000",
+    "label": "Theresianische Militärakademie in Wiener Neustadt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__431",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__431\"></rs>",
+    "mrp_org_id": ""
+  },
+  "432": {
+    "id": 432,
+    "order": "286.00000000000000000000",
+    "label": "Militärunterrealschule in Enns",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__432",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__432\">Militärunterrealschule in Enns</rs>",
+    "mrp_org_id": ""
+  },
+  "433": {
+    "id": 433,
+    "order": "287.00000000000000000000",
+    "label": "Generaldirektion der Habsburg-Lothringenschen Vermögensverwaltung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__433",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__433\"></rs>",
+    "mrp_org_id": ""
+  },
+  "434": {
+    "id": 434,
+    "order": "288.00000000000000000000",
+    "label": "Austro-Americana",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__434",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__434\"></rs>",
+    "mrp_org_id": ""
+  },
+  "435": {
+    "id": 435,
+    "order": "289.00000000000000000000",
+    "label": "Staatsamt des Innern [I]",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__435",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__435\">Staatsamt des Innern</rs>",
+    "mrp_org_id": ""
+  },
+  "436": {
+    "id": 436,
+    "order": "290.00000000000000000000",
+    "label": "Staatsamt für Unterricht [I]",
+    "note": "k. k. Ministerium für Kultus und Unterricht",
+    "source": "",
+    "krp_org_id": "krp_org_id__436",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__436\">Staatsamt für Unterricht</rs>",
+    "mrp_org_id": ""
+  },
+  "437": {
+    "id": 437,
+    "order": "291.00000000000000000000",
+    "label": "Staatsamt für Gewerbe, Industrie und Handel [I]",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__437",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__437\">Staatsamt für Gewerbe</rs>",
+    "mrp_org_id": ""
+  },
+  "438": {
+    "id": 438,
+    "order": "292.00000000000000000000",
+    "label": "Kongregation der Barmherzigen Schwestern vom heiligen Vinzenz von Paul",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__438",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__438\"></rs>",
+    "mrp_org_id": ""
+  },
+  "439": {
+    "id": 439,
+    "order": "293.00000000000000000000",
+    "label": "Wiener Stadtbauamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__439",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__439\"></rs>",
+    "mrp_org_id": ""
+  },
+  "440": {
+    "id": 440,
+    "order": "294.00000000000000000000",
+    "label": "Kongregation der Missionspriester vom heiligen Vinzenz",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__440",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__440\"></rs>",
+    "mrp_org_id": ""
+  },
+  "441": {
+    "id": 441,
+    "order": "295.00000000000000000000",
+    "label": "Bischöfliches Ordinariat Graz-Seckau",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__441",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__441\"></rs>",
+    "mrp_org_id": ""
+  },
+  "442": {
+    "id": 442,
+    "order": "296.00000000000000000000",
+    "label": "Landesversammlung in Salzburg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__442",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__442\">Landesversammlung in Salzburg</rs>",
+    "mrp_org_id": ""
+  },
+  "443": {
+    "id": 443,
+    "order": "297.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__443",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "444": {
+    "id": 444,
+    "order": "298.00000000000000000000",
+    "label": "Internationaler Transportarbeiterverband",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__444",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__444\">Internationaler Transportarbeiterverband</rs>",
+    "mrp_org_id": ""
+  },
+  "445": {
+    "id": 445,
+    "order": "299.00000000000000000000",
+    "label": "Rote Garde",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__445",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__445\"></rs>",
+    "mrp_org_id": ""
+  },
+  "446": {
+    "id": 446,
+    "order": "300.00000000000000000000",
+    "label": "Kommunistische Partei für Deutschösterreich",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__446",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__446\">Kommunistische Partei für Deutschösterreich</rs>",
+    "mrp_org_id": ""
+  },
+  "447": {
+    "id": 447,
+    "order": "301.00000000000000000000",
+    "label": "Großdeutsche Partei",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__447",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__447\">Großdeutsche Partei</rs>",
+    "mrp_org_id": ""
+  },
+  "448": {
+    "id": 448,
+    "order": "302.00000000000000000000",
+    "label": "Warenverkehrsbüro",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__448",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__448\">Warenverkehrsbüro</rs>",
+    "mrp_org_id": ""
+  },
+  "449": {
+    "id": 449,
+    "order": "303.00000000000000000000",
+    "label": "Hochschule für Bodenkultur",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__449",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__449\">Hochschule für Bodenkultur</rs>",
+    "mrp_org_id": ""
+  },
+  "450": {
+    "id": 450,
+    "order": "304.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__450",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "451": {
+    "id": 451,
+    "order": "305.00000000000000000000",
+    "label": "zwischenstaatliche Kommission für die Auslegung und Handhabung von Fragen des Staatsbürgerrechtes und des Minderheitsschutzes",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__451",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__451\">zwischenstaatliche Kommission</rs>",
+    "mrp_org_id": ""
+  },
+  "452": {
+    "id": 452,
+    "order": "306.00000000000000000000",
+    "label": "Kriegskreditanstalt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__452",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__452\">Kriegskreditanstalt</rs>",
+    "mrp_org_id": ""
+  },
+  "453": {
+    "id": 453,
+    "order": "307.00000000000000000000",
+    "label": "Internationales Arbeiteramt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__453",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__453\">Internationales Arbeiteramt</rs>",
+    "mrp_org_id": ""
+  },
+  "454": {
+    "id": 454,
+    "order": "308.00000000000000000000",
+    "label": "Völkerbund",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__454",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__454\">Völkerbund</rs>",
+    "mrp_org_id": ""
+  },
+  "455": {
+    "id": 455,
+    "order": "309.00000000000000000000",
+    "label": "Komenský-Schulen in Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__455",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__455\">Komenský-Schulen in Wien</rs>",
     "mrp_org_id": ""
   }
 }

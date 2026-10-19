@@ -4,7 +4,7 @@
     "order": "1.00000000000000000000",
     "label": "Tschechoslowakei",
     "krp_place_id": "krp_place_id__1",
-    "alternative_name": null,
+    "alternative_name": "Tschechoslowakien",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__1\">Tschechoslowakei</rs>",
     "mrp_place_id": null
   },
@@ -38,7 +38,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "label": "Ungarische Republik",
+    "label": "Ungarische Republik [-21.03.1919; 01.08.1919-21.03.1920]",
     "krp_place_id": "krp_place_id__5",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__5\">Ungarn</rs>",
@@ -590,7 +590,7 @@
     "label": "Hirtenberg",
     "krp_place_id": "krp_place_id__60",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__60\">Hirtneberg</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__60\">Hirtenberg</rs>",
     "mrp_place_id": null
   },
   "61": {
@@ -2072,9 +2072,9 @@
   "253": {
     "id": 253,
     "order": "218.00000000000000000000",
-    "label": "Münchner Räterpublik",
+    "label": "Münchner Räterpublik [07.04.1919-02.05.1919]",
     "krp_place_id": "krp_place_id__253",
-    "alternative_name": "",
+    "alternative_name": "Räterepublik Bayern, Bayrische Räterepublik, Münchner Räterepublik",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__253\">Münchner Räterepublik</rs>",
     "mrp_place_id": null
   },
@@ -2372,7 +2372,7 @@
     "label": "Brünn",
     "krp_place_id": "krp_place_id__305",
     "alternative_name": "Brno",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brunn</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brünn</rs>",
     "mrp_place_id": null
   },
   "306": {
@@ -2756,16 +2756,16 @@
   "349": {
     "id": 349,
     "order": "297.00000000000000000000",
-    "label": "",
+    "label": "Hörlgasse [IX. Wiener Gemeindebezirk]",
     "krp_place_id": "krp_place_id__349",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__349\">Hörlgasse</rs>",
     "mrp_place_id": ""
   },
   "350": {
     "id": 350,
     "order": "298.00000000000000000000",
-    "label": "Ungarische Räterepublik",
+    "label": "Ungarische Räterepublik [21.03.1919-01.08.1919]",
     "krp_place_id": "krp_place_id__350",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ungarische Räterepublik</rs>",
@@ -2783,7 +2783,7 @@
   "352": {
     "id": 352,
     "order": "300.00000000000000000000",
-    "label": "Königreich Ungarn",
+    "label": "Königreich Ungarn [21.03.1920-]",
     "krp_place_id": "krp_place_id__352",
     "alternative_name": "",
     "tei_code": "",
@@ -2877,6 +2877,69 @@
     "krp_place_id": "krp_place_id__394",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__394\">Bludenz</rs>",
+    "mrp_place_id": ""
+  },
+  "395": {
+    "id": 395,
+    "order": "311.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__395",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "396": {
+    "id": 396,
+    "order": "312.00000000000000000000",
+    "label": "Traiskirchen",
+    "krp_place_id": "krp_place_id__396",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__396\">Traiskirchen</rs>",
+    "mrp_place_id": ""
+  },
+  "397": {
+    "id": 397,
+    "order": "313.00000000000000000000",
+    "label": "Toskana",
+    "krp_place_id": "krp_place_id__397",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__397\">Toskana</rs>",
+    "mrp_place_id": ""
+  },
+  "398": {
+    "id": 398,
+    "order": "314.00000000000000000000",
+    "label": "Salzburger Dom",
+    "krp_place_id": "krp_place_id__398",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__398\">Salzburger Dom</rs>",
+    "mrp_place_id": ""
+  },
+  "399": {
+    "id": 399,
+    "order": "315.00000000000000000000",
+    "label": "Fünfhaus",
+    "krp_place_id": "krp_place_id__399",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__399\">Fünfhaus</rs>",
+    "mrp_place_id": ""
+  },
+  "400": {
+    "id": 400,
+    "order": "316.00000000000000000000",
+    "label": "Tullnerbach",
+    "krp_place_id": "krp_place_id__400",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__400\">Tullnerbach</rs>",
+    "mrp_place_id": ""
+  },
+  "401": {
+    "id": 401,
+    "order": "317.00000000000000000000",
+    "label": "Gmunden",
+    "krp_place_id": "krp_place_id__401",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__401\">Gmunden</rs>",
     "mrp_place_id": ""
   }
 }
