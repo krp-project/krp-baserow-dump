@@ -2941,5 +2941,32 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__401\">Gmunden</rs>",
     "mrp_place_id": ""
+  },
+  "402": {
+    "id": 402,
+    "order": "318.00000000000000000000",
+    "label": "Washington",
+    "krp_place_id": "krp_place_id__402",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__402\">Washington</rs>",
+    "mrp_place_id": ""
+  },
+  "403": {
+    "id": 403,
+    "order": "319.00000000000000000000",
+    "label": "Dänemark",
+    "krp_place_id": "krp_place_id__403",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__403\">Dänemark</rs>",
+    "mrp_place_id": ""
+  },
+  "404": {
+    "id": 404,
+    "order": "320.00000000000000000000",
+    "label": "Argentinien",
+    "krp_place_id": "krp_place_id__404",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__404\">Argentinien</rs>",
+    "mrp_place_id": ""
   }
 }

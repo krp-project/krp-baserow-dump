@@ -762,8 +762,8 @@
   "109": {
     "id": 109,
     "order": "63.00000000000000000000",
-    "label": "Oberster Gerichtshof [Monarchie]",
-    "note": "",
+    "label": "Oberster Gerichtshof",
+    "note": "Oberster Gerichts- und Kassationshof",
     "source": "",
     "krp_org_id": "krp_org_id__109",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__109\"></rs>",
@@ -2266,7 +2266,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__334",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__334\">k</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__334\"></rs>",
     "mrp_org_id": ""
   },
   "335": {
@@ -2393,7 +2393,7 @@
     "id": 347,
     "order": "235.00000000000000000000",
     "label": "Landesregierung in Vorarlberg",
-    "note": "",
+    "note": "Vorarlberger Landesrat",
     "source": "",
     "krp_org_id": "krp_org_id__347",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__347\">Landesregierung in Vorarlberg</rs>",
@@ -2522,11 +2522,11 @@
   "363": {
     "id": 363,
     "order": "249.00000000000000000000",
-    "label": "",
+    "label": "Hofkammerarchiv",
     "note": "",
-    "source": "",
+    "source": "https://www.geschichtewiki.wien.gv.at/Hofkammerarchiv",
     "krp_org_id": "krp_org_id__363",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__363\">Hofkammerarchiv</rs>",
     "mrp_org_id": ""
   },
   "364": {
@@ -2752,11 +2752,11 @@
   "422": {
     "id": 422,
     "order": "276.00000000000000000000",
-    "label": "",
+    "label": "tschechoslowakisches Ministerium für öffentliche Arbeiten",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__422",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__422\"></rs>",
     "mrp_org_id": ""
   },
   "423": {
@@ -3087,6 +3087,146 @@
     "source": "",
     "krp_org_id": "krp_org_id__455",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__455\">Komenský-Schulen in Wien</rs>",
+    "mrp_org_id": ""
+  },
+  "456": {
+    "id": 456,
+    "order": "310.00000000000000000000",
+    "label": "interalliierter Militärmission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__456",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__456\">interalliierter Militärmission</rs>",
+    "mrp_org_id": ""
+  },
+  "457": {
+    "id": 457,
+    "order": "311.00000000000000000000",
+    "label": "Staatsbahndirektionen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__457",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__457\">Staatsbahndirektionen</rs>",
+    "mrp_org_id": ""
+  },
+  "458": {
+    "id": 458,
+    "order": "312.00000000000000000000",
+    "label": "Divisionsgerichte",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__458",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__458\">Divisionsgerichte</rs>",
+    "mrp_org_id": ""
+  },
+  "459": {
+    "id": 459,
+    "order": "313.00000000000000000000",
+    "label": "Oberster Militärgerichtshof",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__459",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__459\">Oberster Militärgerichtshof</rs>",
+    "mrp_org_id": ""
+  },
+  "460": {
+    "id": 460,
+    "order": "314.00000000000000000000",
+    "label": "Interalliierter Marineüberwachungsausschuss",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__460",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__460\"<Interalliierter Marineüberwachungsausschuss</rs>",
+    "mrp_org_id": ""
+  },
+  "461": {
+    "id": 461,
+    "order": "315.00000000000000000000",
+    "label": "Zentralverband der Staatsangestellten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__461",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__461\">Zentralverband der Staatsangestellten</rs>",
+    "mrp_org_id": ""
+  },
+  "462": {
+    "id": 462,
+    "order": "316.00000000000000000000",
+    "label": "Richtervereinigung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__462",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__462\">Richtervereinigung</rs>",
+    "mrp_org_id": ""
+  },
+  "463": {
+    "id": 463,
+    "order": "317.00000000000000000000",
+    "label": "Syndikat Westen-Sieber",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__463",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__463\">Syndikat Westen-Sieber</rs>",
+    "mrp_org_id": ""
+  },
+  "464": {
+    "id": 464,
+    "order": "318.00000000000000000000",
+    "label": "österreichische Getreideanstalt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__464",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__464\">österreichische Getreideanstalt</rs>",
+    "mrp_org_id": ""
+  },
+  "465": {
+    "id": 465,
+    "order": "319.00000000000000000000",
+    "label": "Liquidierungsinspektorat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__465",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__465\">Liquidierungsinspektorat</rs>",
+    "mrp_org_id": ""
+  },
+  "466": {
+    "id": 466,
+    "order": "320.00000000000000000000",
+    "label": "Handels- und Gewerbekammer",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__466",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__466\"></rs>",
+    "mrp_org_id": ""
+  },
+  "467": {
+    "id": 467,
+    "order": "321.00000000000000000000",
+    "label": "Internationale Donaukommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__467",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__467\">Internationale Donaukommission</rs>",
+    "mrp_org_id": ""
+  },
+  "468": {
+    "id": 468,
+    "order": "322.00000000000000000000",
+    "label": "serbische Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__468",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__468\">serbische Regierung</rs>",
+    "mrp_org_id": ""
+  },
+  "469": {
+    "id": 469,
+    "order": "323.00000000000000000000",
+    "label": "ungarischen Ministeriums für Volksernährung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__469",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__469\">ungarischen Ministeriums für Volksernährung</rs>",
     "mrp_org_id": ""
   }
 }
