@@ -2774,10 +2774,10 @@
   "351": {
     "id": 351,
     "order": "299.00000000000000000000",
-    "label": "",
+    "label": "Rhein",
     "krp_place_id": "krp_place_id__351",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__351\">Rhein</rs>",
     "mrp_place_id": ""
   },
   "352": {
@@ -2792,10 +2792,10 @@
   "353": {
     "id": 353,
     "order": "301.00000000000000000000",
-    "label": "",
+    "label": "Donau-Oder-Kanal",
     "krp_place_id": "krp_place_id__353",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__353\">Donau-Oder-Kanal</rs>",
     "mrp_place_id": ""
   },
   "354": {
@@ -2882,10 +2882,10 @@
   "395": {
     "id": 395,
     "order": "311.00000000000000000000",
-    "label": "",
+    "label": "Equitablepalais",
     "krp_place_id": "krp_place_id__395",
-    "alternative_name": "",
-    "tei_code": "",
+    "alternative_name": "https://www.geschichtewiki.wien.gv.at/Equitablepalais",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__395\"></rs>",
     "mrp_place_id": ""
   },
   "396": {
@@ -2967,6 +2967,87 @@
     "krp_place_id": "krp_place_id__404",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__404\">Argentinien</rs>",
+    "mrp_place_id": ""
+  },
+  "436": {
+    "id": 436,
+    "order": "321.00000000000000000000",
+    "label": "Ried im Innkreis",
+    "krp_place_id": "krp_place_id__436",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__436\">Ried im Innkreis</rs>",
+    "mrp_place_id": ""
+  },
+  "437": {
+    "id": 437,
+    "order": "322.00000000000000000000",
+    "label": "Westbahnhof [Wien]",
+    "krp_place_id": "krp_place_id__437",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__437\">Westbahnhof</rs>",
+    "mrp_place_id": ""
+  },
+  "438": {
+    "id": 438,
+    "order": "323.00000000000000000000",
+    "label": "Ostbahnhof [Wien]",
+    "krp_place_id": "krp_place_id__438",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__195\">Ostbahnhof</rs>",
+    "mrp_place_id": ""
+  },
+  "439": {
+    "id": 439,
+    "order": "324.00000000000000000000",
+    "label": "Freihaus auf der Wieden",
+    "krp_place_id": "krp_place_id__439",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__439\">Freihaus</rs>",
+    "mrp_place_id": ""
+  },
+  "440": {
+    "id": 440,
+    "order": "325.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__440",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "441": {
+    "id": 441,
+    "order": "326.00000000000000000000",
+    "label": "Brescia",
+    "krp_place_id": "krp_place_id__441",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__441\">Brescia</rs>",
+    "mrp_place_id": ""
+  },
+  "442": {
+    "id": 442,
+    "order": "327.00000000000000000000",
+    "label": "Lützen",
+    "krp_place_id": "krp_place_id__442",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__442\">Lützen</rs>",
+    "mrp_place_id": ""
+  },
+  "443": {
+    "id": 443,
+    "order": "328.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__443",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "444": {
+    "id": 444,
+    "order": "329.00000000000000000000",
+    "label": "Stockholm",
+    "krp_place_id": "krp_place_id__444",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__444\">Stockholm</rs>",
     "mrp_place_id": ""
   }
 }

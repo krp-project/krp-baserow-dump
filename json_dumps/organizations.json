@@ -2792,11 +2792,11 @@
   "426": {
     "id": 426,
     "order": "280.00000000000000000000",
-    "label": "",
+    "label": "Internationale Valutakommission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__426",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__426\"></rs>",
     "mrp_org_id": ""
   },
   "427": {
@@ -2962,11 +2962,11 @@
   "443": {
     "id": 443,
     "order": "297.00000000000000000000",
-    "label": "",
+    "label": "Deutschösterreichische Dienststelle für gewerbliche Kreditangelegenheiten",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__443",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__443\"></rs>",
     "mrp_org_id": ""
   },
   "444": {
@@ -3032,11 +3032,11 @@
   "450": {
     "id": 450,
     "order": "304.00000000000000000000",
-    "label": "",
+    "label": "Deutschösterreichisches Gewerbeförderungsamt",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__450",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__450\"></rs>",
     "mrp_org_id": ""
   },
   "451": {
@@ -3227,6 +3227,146 @@
     "source": "",
     "krp_org_id": "krp_org_id__469",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__469\">ungarischen Ministeriums für Volksernährung</rs>",
+    "mrp_org_id": ""
+  },
+  "501": {
+    "id": 501,
+    "order": "324.00000000000000000000",
+    "label": "zwischenstaatliche Kommission für die Verhandlungen mit der Reparationskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__501",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__501\">zwischenstaatliche Kommission für die Verhandlungen mit der Reparationskommission</rs>",
+    "mrp_org_id": ""
+  },
+  "502": {
+    "id": 502,
+    "order": "325.00000000000000000000",
+    "label": "Niederösterreichische Landeskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__502",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__502\">Niederösterreichische Landeskommission</rs>",
+    "mrp_org_id": ""
+  },
+  "503": {
+    "id": 503,
+    "order": "326.00000000000000000000",
+    "label": "deutschböhmische Landesregierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__503",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__503\">deutschböhmische Landesregierung</rs>",
+    "mrp_org_id": ""
+  },
+  "504": {
+    "id": 504,
+    "order": "327.00000000000000000000",
+    "label": "Wiener Krankenanstaltenfonds",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__504",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__504\">Wiener Krankenanstaltenfonds</rs>",
+    "mrp_org_id": ""
+  },
+  "506": {
+    "id": 506,
+    "order": "328.00000000000000000000",
+    "label": "Niederösterreichische Landesversammlung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__506",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__506\">Niederösterreichische Landesversammlung</rs>",
+    "mrp_org_id": ""
+  },
+  "507": {
+    "id": 507,
+    "order": "329.00000000000000000000",
+    "label": "rumänischer Nationalrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__507",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__507\"></rs>",
+    "mrp_org_id": ""
+  },
+  "508": {
+    "id": 508,
+    "order": "330.00000000000000000000",
+    "label": "tschechoslowakische Nationalversammlung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__508",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__508\"></rs>",
+    "mrp_org_id": ""
+  },
+  "509": {
+    "id": 509,
+    "order": "331.00000000000000000000",
+    "label": "österreichische Gesellschaft vom Roten Kreuz",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__509",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__509\">österreichische Gesellschaft vom Roten Kreuze</rs>",
+    "mrp_org_id": ""
+  },
+  "510": {
+    "id": 510,
+    "order": "332.00000000000000000000",
+    "label": "Kriegsgeschädigtenfonds",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__510",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__510\">Kriegsgeschädigtenfonds</rs>",
+    "mrp_org_id": ""
+  },
+  "511": {
+    "id": 511,
+    "order": "333.00000000000000000000",
+    "label": "schwedische Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__511",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__511\">schwedische Regierung</rs>",
+    "mrp_org_id": ""
+  },
+  "512": {
+    "id": 512,
+    "order": "334.00000000000000000000",
+    "label": "Hauptzollamt in Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__512",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id_512\">Hauptzollamt in Wien</rs>",
+    "mrp_org_id": ""
+  },
+  "513": {
+    "id": 513,
+    "order": "335.00000000000000000000",
+    "label": "Mozarteum in Salzburg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__513",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__513\">Mozarteum in Salzburg</rs>",
+    "mrp_org_id": ""
+  },
+  "514": {
+    "id": 514,
+    "order": "336.00000000000000000000",
+    "label": "Habsburg, Familie und Vermögen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__514",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__514\">Haus Habsburg-Lothringen</rs>",
+    "mrp_org_id": ""
+  },
+  "515": {
+    "id": 515,
+    "order": "337.00000000000000000000",
+    "label": "Heeresverwaltungsstelle in Innsbruck",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__515",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__515\">Heeresverwaltungsstelle in Innsbruck</rs>",
     "mrp_org_id": ""
   }
 }
