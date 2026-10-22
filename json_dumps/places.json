@@ -941,7 +941,7 @@
     "label": "Waidhofen an der Thaya",
     "krp_place_id": "krp_place_id__101",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__101\">Waidhofen</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__101\">Waidhofen an der Thaya</rs>",
     "mrp_place_id": null
   },
   "102": {
@@ -1544,7 +1544,7 @@
     "label": "Laa an der Thaya",
     "krp_place_id": "krp_place_id__168",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__168\">Laa</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__168\">Laa an der Thaya</rs>",
     "mrp_place_id": null
   },
   "169": {
@@ -1562,7 +1562,7 @@
     "label": "Ybbs an der Donau",
     "krp_place_id": "krp_place_id__170",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__170\">Ybbs</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__170\">Ybbs an der Donau</rs>",
     "mrp_place_id": null
   },
   "171": {
@@ -3048,6 +3048,69 @@
     "krp_place_id": "krp_place_id__444",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__444\">Stockholm</rs>",
+    "mrp_place_id": ""
+  },
+  "445": {
+    "id": 445,
+    "order": "330.00000000000000000000",
+    "label": "Liesing",
+    "krp_place_id": "krp_place_id__445",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__445\">Liesing</rs>",
+    "mrp_place_id": ""
+  },
+  "446": {
+    "id": 446,
+    "order": "331.00000000000000000000",
+    "label": "Kleßheim",
+    "krp_place_id": "krp_place_id__446",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__446\">Kleßheim</rs>",
+    "mrp_place_id": ""
+  },
+  "479": {
+    "id": 479,
+    "order": "332.00000000000000000000",
+    "label": "Amstetten",
+    "krp_place_id": "krp_place_id__479",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__479\">Amstetten</rs>",
+    "mrp_place_id": ""
+  },
+  "480": {
+    "id": 480,
+    "order": "333.00000000000000000000",
+    "label": "Heinreichs",
+    "krp_place_id": "krp_place_id__480",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__480\">Heinreichs</rs>",
+    "mrp_place_id": ""
+  },
+  "481": {
+    "id": 481,
+    "order": "334.00000000000000000000",
+    "label": "Krems an der Donau",
+    "krp_place_id": "krp_place_id__481",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__481\">Krems an der Donau</rs>",
+    "mrp_place_id": ""
+  },
+  "482": {
+    "id": 482,
+    "order": "335.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__482",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "483": {
+    "id": 483,
+    "order": "336.00000000000000000000",
+    "label": "Himberg",
+    "krp_place_id": "krp_place_id__483",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__483\">Himberg</rs>",
     "mrp_place_id": ""
   }
 }

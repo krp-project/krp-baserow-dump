@@ -3368,5 +3368,65 @@
     "krp_org_id": "krp_org_id__515",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__515\">Heeresverwaltungsstelle in Innsbruck</rs>",
     "mrp_org_id": ""
+  },
+  "516": {
+    "id": 516,
+    "order": "338.00000000000000000000",
+    "label": "Waldviertler Elekrizitätsgenossenschaft",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__516",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__516\">Waldviertler Elekrizitätsgenossenschaft</rs>",
+    "mrp_org_id": ""
+  },
+  "517": {
+    "id": 517,
+    "order": "339.00000000000000000000",
+    "label": "Wiener Finanzprokuratur",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__517",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__517\">Wiener Finanzprokuratur</rs>",
+    "mrp_org_id": ""
+  },
+  "550": {
+    "id": 550,
+    "order": "340.00000000000000000000",
+    "label": "Zentralverband der Staatsangestelltenvereinigungen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__550",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__550\">Zentralverband der Staatsangestelltenvereinigungen</rs>",
+    "mrp_org_id": ""
+  },
+  "551": {
+    "id": 551,
+    "order": "341.00000000000000000000",
+    "label": "der Staatsangestelltenvereinigungen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__551",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "552": {
+    "id": 552,
+    "order": "342.00000000000000000000",
+    "label": "Staatskommissariat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__552",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__552\">Staatskommissariat</rs>",
+    "mrp_org_id": ""
+  },
+  "553": {
+    "id": 553,
+    "order": "343.00000000000000000000",
+    "label": "Mobiliarverteilungsausschuss, MVA",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__553",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__553\">MVA</rs>",
+    "mrp_org_id": ""
   }
 }

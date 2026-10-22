@@ -9296,5 +9296,43 @@
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": ""
+  },
+  "882": {
+    "id": 882,
+    "order": "409.00000000000000000000",
+    "label": "Ludwig Viktor, Erzherzog",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "",
+    "source": "",
+    "krp_person_id": "krp_person_id__882",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__882\">Ludwig Viktor</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": ""
+  },
+  "915": {
+    "id": 915,
+    "order": "410.00000000000000000000",
+    "label": "Feucht",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "Lokomotivführer Südbahn",
+    "source": "",
+    "krp_person_id": "krp_person_id__915",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__915\">Feucht</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": ""
   }
 }
