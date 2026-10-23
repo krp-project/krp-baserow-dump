@@ -1367,7 +1367,7 @@
     "date_of_death": "1935-04-25",
     "Geburtsort": "Karlsbad",
     "Sterbeort": "Paris",
-    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__51\">Gerstmann</rs>",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__51\">Grünberger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": null

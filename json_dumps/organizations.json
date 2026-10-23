@@ -3428,5 +3428,165 @@
     "krp_org_id": "krp_org_id__553",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__553\">MVA</rs>",
     "mrp_org_id": ""
+  },
+  "554": {
+    "id": 554,
+    "order": "344.00000000000000000000",
+    "label": "Verband der deutschösterreichischen Gewerbeförderungsanstalten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__554",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__554\"></rs>",
+    "mrp_org_id": ""
+  },
+  "555": {
+    "id": 555,
+    "order": "345.00000000000000000000",
+    "label": "Zentralverband der gewerblichen Erwerbs- und Wirtschaftsgenossenschaften Niederösterreich",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__555",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__555\"></rs>",
+    "mrp_org_id": ""
+  },
+  "556": {
+    "id": 556,
+    "order": "346.00000000000000000000",
+    "label": "k. k. höhere Weltpriester-Bildungsinstitut zum heiligen Augustin",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__556",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__556\"></rs>",
+    "mrp_org_id": ""
+  },
+  "557": {
+    "id": 557,
+    "order": "347.00000000000000000000",
+    "label": "Landesschulrat Niederösterreich",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__557",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__557\"></rs>",
+    "mrp_org_id": ""
+  },
+  "558": {
+    "id": 558,
+    "order": "348.00000000000000000000",
+    "label": "Vereinigung der deutschösterreichischen Parlamentsberichterstatter",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__558",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__558\"></rs>",
+    "mrp_org_id": ""
+  },
+  "559": {
+    "id": 559,
+    "order": "349.00000000000000000000",
+    "label": "Tiroler Landesausschuss",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__559",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "560": {
+    "id": 560,
+    "order": "350.00000000000000000000",
+    "label": "Tiroler Landesrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__560",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "561": {
+    "id": 561,
+    "order": "351.00000000000000000000",
+    "label": "Vereinigung der deutschösterreichischen Industrie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__561",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__561\"></rs>",
+    "mrp_org_id": ""
+  },
+  "562": {
+    "id": 562,
+    "order": "352.00000000000000000000",
+    "label": "Witkowitz",
+    "note": "krp49",
+    "source": "",
+    "krp_org_id": "krp_org_id__562",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__562\"></rs>",
+    "mrp_org_id": ""
+  },
+  "563": {
+    "id": 563,
+    "order": "353.00000000000000000000",
+    "label": "Prager Eisenindustrie-Gesellschaft",
+    "note": "krp49",
+    "source": "",
+    "krp_org_id": "krp_org_id__563",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__563\">",
+    "mrp_org_id": ""
+  },
+  "564": {
+    "id": 564,
+    "order": "354.00000000000000000000",
+    "label": "Mannesmann",
+    "note": "krp49",
+    "source": "",
+    "krp_org_id": "krp_org_id__564",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__564\">",
+    "mrp_org_id": ""
+  },
+  "565": {
+    "id": 565,
+    "order": "355.00000000000000000000",
+    "label": "Brevillier und Urban",
+    "note": "krp49",
+    "source": "",
+    "krp_org_id": "krp_org_id__565",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__565\">",
+    "mrp_org_id": ""
+  },
+  "566": {
+    "id": 566,
+    "order": "356.00000000000000000000",
+    "label": "Liebig",
+    "note": "krp49",
+    "source": "",
+    "krp_org_id": "krp_org_id__566",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__566\">",
+    "mrp_org_id": ""
+  },
+  "567": {
+    "id": 567,
+    "order": "357.00000000000000000000",
+    "label": "Ginzkey",
+    "note": "krp49",
+    "source": "",
+    "krp_org_id": "krp_org_id__567",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__567\">",
+    "mrp_org_id": ""
+  },
+  "568": {
+    "id": 568,
+    "order": "358.00000000000000000000",
+    "label": "Oberösterreichischer Provisorischer Landesausschuss",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__568",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "569": {
+    "id": 569,
+    "order": "359.00000000000000000000",
+    "label": "Salzburger Landesausschuss",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__569",
+    "tei_code": "",
+    "mrp_org_id": ""
   }
 }
