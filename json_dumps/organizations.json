@@ -3588,5 +3588,15 @@
     "krp_org_id": "krp_org_id__569",
     "tei_code": "",
     "mrp_org_id": ""
+  },
+  "570": {
+    "id": 570,
+    "order": "360.00000000000000000000",
+    "label": "Steiermärkischer Landesausschuss",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__570",
+    "tei_code": "",
+    "mrp_org_id": ""
   }
 }
