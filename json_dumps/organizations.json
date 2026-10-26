@@ -672,7 +672,7 @@
   "53": {
     "id": 53,
     "order": "53.00000000000000000000",
-    "label": "Telefon- und Telegrafenbediensteten",
+    "label": "Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__53",
@@ -1219,16 +1219,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__220\"></rs>",
     "mrp_org_id": null
   },
-  "221": {
-    "id": 221,
-    "order": "111.00000000000000000000",
-    "label": "Arbeiter-Unfallversicherungsanstalt",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__221",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__221\"></rs>",
-    "mrp_org_id": null
-  },
   "222": {
     "id": 222,
     "order": "112.00000000000000000000",
@@ -1412,7 +1402,7 @@
   "240": {
     "id": 240,
     "order": "130.00000000000000000000",
-    "label": "Polizeidirektion",
+    "label": "Polizeidirektion Wien",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__240",
@@ -1976,7 +1966,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__302",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__302\">Niederösterreichischen Landesrate</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__302\">Niederösterreichischen Landesrat</rs>",
     "mrp_org_id": ""
   },
   "303": {
@@ -3546,7 +3536,7 @@
     "note": "krp49",
     "source": "",
     "krp_org_id": "krp_org_id__565",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__565\">",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__565\"></rs>",
     "mrp_org_id": ""
   },
   "566": {
@@ -3597,6 +3587,96 @@
     "source": "",
     "krp_org_id": "krp_org_id__570",
     "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "603": {
+    "id": 603,
+    "order": "361.00000000000000000000",
+    "label": "Bund der sozialistischen Staatsangestellten Deutschösterreichs",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__603",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__603\"></rs>",
+    "mrp_org_id": ""
+  },
+  "604": {
+    "id": 604,
+    "order": "362.00000000000000000000",
+    "label": "Wiener Gemeinderat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__604",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__604\"></rs>",
+    "mrp_org_id": ""
+  },
+  "605": {
+    "id": 605,
+    "order": "363.00000000000000000000",
+    "label": "Generaldirektion des Post-, Telegrafen-, und Telefswesens",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__605",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__605\"></rs>",
+    "mrp_org_id": ""
+  },
+  "606": {
+    "id": 606,
+    "order": "364.00000000000000000000",
+    "label": "Haus Bourbon-Parma",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__606",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__606\"></rs>",
+    "mrp_org_id": ""
+  },
+  "607": {
+    "id": 607,
+    "order": "365.00000000000000000000",
+    "label": "Obersthofmarschallamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__607",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__607\"></rs>",
+    "mrp_org_id": ""
+  },
+  "608": {
+    "id": 608,
+    "order": "366.00000000000000000000",
+    "label": "französische Armee",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__608",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__608\"></rs>",
+    "mrp_org_id": ""
+  },
+  "609": {
+    "id": 609,
+    "order": "367.00000000000000000000",
+    "label": "Gewerbeförderungsamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__609",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__609\"></rs>",
+    "mrp_org_id": ""
+  },
+  "610": {
+    "id": 610,
+    "order": "368.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__610",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "643": {
+    "id": 643,
+    "order": "369.00000000000000000000",
+    "label": "Wiener Arsenal",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__643",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__643\">Wiener Arsenal</rs>",
     "mrp_org_id": ""
   }
 }

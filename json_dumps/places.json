@@ -2426,7 +2426,7 @@
     "label": "Herzegowina",
     "krp_place_id": "krp_place_id__311",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__288\">Herzegowina</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__311\">Herzegowina</rs>",
     "mrp_place_id": null
   },
   "312": {
@@ -2819,10 +2819,10 @@
   "356": {
     "id": 356,
     "order": "304.00000000000000000000",
-    "label": "",
+    "label": "Niederschlesien",
     "krp_place_id": "krp_place_id__356",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__356\">Niederschlesien</rs>",
     "mrp_place_id": ""
   },
   "357": {
@@ -3111,6 +3111,33 @@
     "krp_place_id": "krp_place_id__483",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__483\">Himberg</rs>",
+    "mrp_place_id": ""
+  },
+  "514": {
+    "id": 514,
+    "order": "337.00000000000000000000",
+    "label": "Brunn am Gebirge",
+    "krp_place_id": "krp_place_id__514",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brunn</rs>",
+    "mrp_place_id": ""
+  },
+  "547": {
+    "id": 547,
+    "order": "338.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__547",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "548": {
+    "id": 548,
+    "order": "339.00000000000000000000",
+    "label": "Sonnberg",
+    "krp_place_id": "krp_place_id__548",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__548\">Sonnberg</rs>",
     "mrp_place_id": ""
   }
 }
