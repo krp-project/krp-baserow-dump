@@ -3678,5 +3678,15 @@
     "krp_org_id": "krp_org_id__679",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__679\"></rs>",
     "mrp_org_id": ""
+  },
+  "680": {
+    "id": 680,
+    "order": "374.00000000000000000000",
+    "label": "italienisches Außenamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__680",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__680\"></rs>",
+    "mrp_org_id": ""
   }
 }
