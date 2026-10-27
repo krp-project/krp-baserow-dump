@@ -982,27 +982,17 @@
   "195": {
     "id": 195,
     "order": "86.00000000000000000000",
-    "label": "Landesregierung Steiermark",
+    "label": "Steiermärkischer Landesregierung [06.11.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__195",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__195\"></rs>",
     "mrp_org_id": null
   },
-  "196": {
-    "id": 196,
-    "order": "87.00000000000000000000",
-    "label": "Steiermärkische Landesversammlung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__196",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__196\"></rs>",
-    "mrp_org_id": null
-  },
   "197": {
     "id": 197,
     "order": "88.00000000000000000000",
-    "label": "Provisorische Landesversammlung in Salzburg",
+    "label": "Salzburger Provisorische Landesversammlung [07.11.1919-22.05.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__197",
@@ -1012,7 +1002,7 @@
   "198": {
     "id": 198,
     "order": "89.00000000000000000000",
-    "label": "Salzburger Landtag",
+    "label": "Salzburger Landtag [22.05.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__198",
@@ -1022,7 +1012,7 @@
   "199": {
     "id": 199,
     "order": "90.00000000000000000000",
-    "label": "Landesregierung Salzburg",
+    "label": "Salzburger Landesregierung [23.04.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__199",
@@ -1032,7 +1022,7 @@
   "200": {
     "id": 200,
     "order": "91.00000000000000000000",
-    "label": "Niederösterreichischer Landtag",
+    "label": "Niederösterreichischer Landtag [20.05.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__200",
@@ -1182,7 +1172,7 @@
   "217": {
     "id": 217,
     "order": "107.00000000000000000000",
-    "label": "Provisorische Landesversammlung in Oberösterreich",
+    "label": "Oberösterreichische Provisorische Landesversammlung [18.11.1918 bis 15.05.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__217",
@@ -1192,7 +1182,7 @@
   "218": {
     "id": 218,
     "order": "108.00000000000000000000",
-    "label": "Kärntner Landesausschuss",
+    "label": "Kärntner Landesausschuss [11.11.1919-05.12.1918?]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__218",
@@ -1202,7 +1192,7 @@
   "219": {
     "id": 219,
     "order": "109.00000000000000000000",
-    "label": "Provisorische Landesversammlung in Kärnten",
+    "label": "Kärntner vorläufige (provisorische) Landesversammlung [11.11.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__219",
@@ -1362,7 +1352,7 @@
   "236": {
     "id": 236,
     "order": "126.00000000000000000000",
-    "label": "Provisorische Landesversammlung in Steiermark",
+    "label": "Steiermärkische Provisorische Landesversammlung [06.11.1918 bis 11.05.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__236",
@@ -1372,7 +1362,7 @@
   "237": {
     "id": 237,
     "order": "127.00000000000000000000",
-    "label": "Landesrat in Steiermark",
+    "label": "Steiermärkischer Landesrat [06.12.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__237",
@@ -1412,7 +1402,7 @@
   "241": {
     "id": 241,
     "order": "131.00000000000000000000",
-    "label": "Landesregierung Tirol",
+    "label": "Tiroler Landesregierung [ab 21.12.1918]",
     "note": "Tiroler Landesrat, Tiroler Nationalrat, Tiroler Landesregierung\n\nIn der Monarchie: Tiroler Landesausschuss",
     "source": "",
     "krp_org_id": "krp_org_id__241",
@@ -1422,7 +1412,7 @@
   "242": {
     "id": 242,
     "order": "132.00000000000000000000",
-    "label": "Landesregierung Kärnten",
+    "label": "Kärntner Landesregierung [11.11.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__242",
@@ -1632,7 +1622,7 @@
   "264": {
     "id": 264,
     "order": "154.00000000000000000000",
-    "label": "Landesregierung für Oberösterreich",
+    "label": "Oberösterreichischer Landesregierung [18.03.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__264",
@@ -1709,20 +1699,10 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__271\">ungarische Regierung</rs>",
     "mrp_org_id": null
   },
-  "272": {
-    "id": 272,
-    "order": "162.00000000000000000000",
-    "label": "Kärnter Landesversammlung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__272",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__272\">Kärntner Landesversammlung</rs>",
-    "mrp_org_id": null
-  },
   "273": {
     "id": 273,
     "order": "163.00000000000000000000",
-    "label": "Landtag in Kärnten",
+    "label": "Kärntner k. k. Landtag [vor 04.11.1918]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__273",
@@ -1922,7 +1902,7 @@
   "298": {
     "id": 298,
     "order": "188.00000000000000000000",
-    "label": "Oberösterreichische Landtag",
+    "label": "Oberösterreichischer Landtag [18.05.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__298",
@@ -1932,17 +1912,17 @@
   "299": {
     "id": 299,
     "order": "189.00000000000000000000",
-    "label": "Landesrat in Oberösterreich",
+    "label": "Oberösterreichischer Landesrat [18.03.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__299",
-    "tei_code": "<rs type=\"org\" ref=\"'krp_org_id__299>Landesrat in Oberösterreich</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__299\"></rs>",
     "mrp_org_id": ""
   },
   "300": {
     "id": 300,
     "order": "190.00000000000000000000",
-    "label": "Niederösterreichische Landesregierung",
+    "label": "Niederösterreichische Landesregierung [14.11.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__300",
@@ -1952,7 +1932,7 @@
   "301": {
     "id": 301,
     "order": "191.00000000000000000000",
-    "label": "Oberösterreichischer Landesausschuss",
+    "label": "Oberösterreichischer Landesausschuss [vor 09.11.1918]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__301",
@@ -1962,7 +1942,7 @@
   "302": {
     "id": 302,
     "order": "192.00000000000000000000",
-    "label": "Niederösterreichischen Landesrat",
+    "label": "Niederösterreichischer Landesrat [14.11.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__302",
@@ -1982,7 +1962,7 @@
   "304": {
     "id": 304,
     "order": "194.00000000000000000000",
-    "label": "Niederösterreichischer Landesausschuss",
+    "label": "Niederösterreichischer Landesausschuss [vor 05.11.1918]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__304",
@@ -2042,7 +2022,7 @@
   "310": {
     "id": 310,
     "order": "200.00000000000000000000",
-    "label": "Tiroler Landtag",
+    "label": "Tiroler Verfassungsgebender Landtag [15.10.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__310",
@@ -2072,7 +2052,7 @@
   "313": {
     "id": 313,
     "order": "203.00000000000000000000",
-    "label": "Landesrat in Salzburg",
+    "label": "Salzburger Landesrat [07.11.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__313",
@@ -2322,7 +2302,7 @@
   "341": {
     "id": 341,
     "order": "229.00000000000000000000",
-    "label": "Salzburger Landesrat",
+    "label": "Salzburger Provisorische Landesregierung [03.11.1918-23.04.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__341",
@@ -2362,7 +2342,7 @@
   "345": {
     "id": 345,
     "order": "233.00000000000000000000",
-    "label": "Provisorische Landesversammlung in Tirol",
+    "label": "Tiroler Provisorische Landesversammlung [ab 21.12.1918 bis 15.10.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__345",
@@ -2382,7 +2362,7 @@
   "347": {
     "id": 347,
     "order": "235.00000000000000000000",
-    "label": "Landesregierung in Vorarlberg",
+    "label": "Vorarlberger Landesregierung [14.11.1918 bis 27.04.1919]",
     "note": "Vorarlberger Landesrat",
     "source": "",
     "krp_org_id": "krp_org_id__347",
@@ -2392,7 +2372,7 @@
   "349": {
     "id": 349,
     "order": "237.00000000000000000000",
-    "label": "Steiermärkischer Landtag",
+    "label": "Steiermärkischer Landtag [11.05.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__349",
@@ -2402,7 +2382,7 @@
   "350": {
     "id": 350,
     "order": "238.00000000000000000000",
-    "label": "Landesrat in Kärnten",
+    "label": "Kärntner Landesrat [?05.12.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__350",
@@ -2422,7 +2402,7 @@
   "352": {
     "id": 352,
     "order": "240.00000000000000000000",
-    "label": "Provisorische Landesversammlung in Vorarlberg",
+    "label": "Vorarlberger Provisorische Landesversammlung [14.11.1918 bis 27.04.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__352",
@@ -2762,7 +2742,7 @@
   "424": {
     "id": 424,
     "order": "278.00000000000000000000",
-    "label": "Provisorische Landesversammlung in Niederösterreich",
+    "label": "Niederösterreichische Provisorische Landesversammlung [05.11.1919 bis 20.05.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__424",
@@ -2937,16 +2917,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__441",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__441\"></rs>",
-    "mrp_org_id": ""
-  },
-  "442": {
-    "id": 442,
-    "order": "296.00000000000000000000",
-    "label": "Landesversammlung in Salzburg",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__442",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__442\">Landesversammlung in Salzburg</rs>",
     "mrp_org_id": ""
   },
   "443": {
@@ -3232,7 +3202,7 @@
   "502": {
     "id": 502,
     "order": "325.00000000000000000000",
-    "label": "Niederösterreichische Landeskommission",
+    "label": "Niederösterreichische Landeskommission [05.11.1918 bis 14.11.1918]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__502",
@@ -3257,16 +3227,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__504",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__504\">Wiener Krankenanstaltenfonds</rs>",
-    "mrp_org_id": ""
-  },
-  "506": {
-    "id": 506,
-    "order": "328.00000000000000000000",
-    "label": "Niederösterreichische Landesversammlung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__506",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__506\">Niederösterreichische Landesversammlung</rs>",
     "mrp_org_id": ""
   },
   "507": {
@@ -3472,7 +3432,7 @@
   "559": {
     "id": 559,
     "order": "349.00000000000000000000",
-    "label": "Tiroler Landesausschuss",
+    "label": "Tiroler Landesausschuss [vor 26.10.1918]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__559",
@@ -3482,7 +3442,7 @@
   "560": {
     "id": 560,
     "order": "350.00000000000000000000",
-    "label": "Tiroler Landesrat",
+    "label": "Tiroler Landesrat [ab 21.12.1918–]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__560",
@@ -3562,7 +3522,7 @@
   "568": {
     "id": 568,
     "order": "358.00000000000000000000",
-    "label": "Oberösterreichischer Provisorischer Landesausschuss",
+    "label": "Oberösterreichischer Provisorischer Landesausschuss [18.11.1918 bis 18.03.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__568",
@@ -3572,7 +3532,7 @@
   "569": {
     "id": 569,
     "order": "359.00000000000000000000",
-    "label": "Salzburger Landesausschuss",
+    "label": "Salzburger Landesausschuss [vor 07.11.1918]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__569",
@@ -3582,7 +3542,7 @@
   "570": {
     "id": 570,
     "order": "360.00000000000000000000",
-    "label": "Steiermärkischer Landesausschuss",
+    "label": "Steiermärkischer Landesausschuss [vor 06.11.1918]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__570",
@@ -3677,6 +3637,46 @@
     "source": "",
     "krp_org_id": "krp_org_id__643",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__643\">Wiener Arsenal</rs>",
+    "mrp_org_id": ""
+  },
+  "676": {
+    "id": 676,
+    "order": "370.00000000000000000000",
+    "label": "Oberösterreichische Provisorische Landesregierung [03.11.1918 bis 18.03.1919]",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__676",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "677": {
+    "id": 677,
+    "order": "371.00000000000000000000",
+    "label": "Wiener Magistrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__677",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__677\"></rs>",
+    "mrp_org_id": ""
+  },
+  "678": {
+    "id": 678,
+    "order": "372.00000000000000000000",
+    "label": "Niederösterreichische k. k. Statthalterei [vor 05.11.1918]",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__678",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__678\"></rs>",
+    "mrp_org_id": ""
+  },
+  "679": {
+    "id": 679,
+    "order": "373.00000000000000000000",
+    "label": "Landeskommission für Volkspflegestätten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__679",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__679\"></rs>",
     "mrp_org_id": ""
   }
 }
