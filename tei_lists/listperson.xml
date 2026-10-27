@@ -1,0 +1,3106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Personenregister zum Projekt „Die Protokolle des österreichischen Kabinettsrates 1919–1920“</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from Baserow data dumped as JSON to https://github.com/krp-project/krp-baserow-dump</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <person xml:id="krp_person_id__481">
+          <persName>Bašta</persName>
+        </person>
+        <person xml:id="krp_person_id__1">
+          <persName>Bauer, Otto Dr.</persName>
+          <birth>
+            <date when-iso="1881-09-05">1881-09-05</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1938-07-05">1938-07-05</date>
+            <placeName>Paris</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118507346</idno>
+        </person>
+        <person xml:id="krp_person_id__2">
+          <persName>Beck, Eugen [Ritter von Mannagetta und Lerchenau] Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__3">
+          <persName>Bratusch, Richard [Edler von Marrain]</persName>
+          <birth>
+            <date when-iso="1861-04-03">1861-04-03</date>
+            <placeName>Seisenberg, Krain</placeName>
+          </birth>
+          <death>
+            <date when-iso="1949-08-11">1949-08-11</date>
+            <placeName>Graz</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__39">
+          <persName>Brauneis, Viktor Dr.</persName>
+          <birth>
+            <date when-iso="1876-09-22">1876-09-22</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1938-06-02">1938-06-02</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__475">
+          <persName>Decker, Achilles</persName>
+        </person>
+        <person xml:id="krp_person_id__4">
+          <persName>Deutsch, Julius Dr.</persName>
+          <birth>
+            <date when-iso="1884-02-02">1884-02-02</date>
+            <placeName>Lackenbach</placeName>
+          </birth>
+          <death>
+            <date when-iso="1968-01-17">1968-01-17</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118678027</idno>
+        </person>
+        <person xml:id="krp_person_id__5">
+          <persName>Eisler, Arnold Dr.</persName>
+          <birth>
+            <date when-iso="1879-04-06">1879-04-06</date>
+            <placeName>Holleschau (Mähren)</placeName>
+          </birth>
+          <death>
+            <date when-iso="1947-01-28">1947-01-28</date>
+            <placeName>New York</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/143678620</idno>
+        </person>
+        <person xml:id="krp_person_id__6">
+          <persName>Eldersch, Matthias</persName>
+          <birth>
+            <date when-iso="1869-02-24">1869-02-24</date>
+            <placeName>Brünn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1931-04-20">1931-04-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/126417598</idno>
+        </person>
+        <person xml:id="krp_person_id__7">
+          <persName>Ellenbogen, Wilhelm Dr.</persName>
+          <birth>
+            <date when-iso="1863-07-09">1863-07-09</date>
+            <placeName>Lundenburg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1951-02-25">1951-02-25</date>
+            <placeName>New York</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118529978</idno>
+        </person>
+        <person xml:id="krp_person_id__8">
+          <persName>Enderes, Bruno [von] Ing.</persName>
+          <birth>
+            <date when-iso="1871-12-19">1871-12-19</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1934-10-17">1934-10-17</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/117500348</idno>
+        </person>
+        <person xml:id="krp_person_id__494">
+          <persName>Feitler, Sigmund Prof. Dr.</persName>
+          <birth>
+            <date when-iso="1859-07-28">1859-07-28</date>
+            <placeName>Kaplitz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1920-04-12">1920-04-12</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/144007339</idno>
+        </person>
+        <person xml:id="krp_person_id__9">
+          <persName>Fink, Jodok</persName>
+          <birth>
+            <date when-iso="1853-02-19">1853-02-19</date>
+          </birth>
+          <death>
+            <date when-iso="1929-07-01">1929-07-01</date>
+            <placeName>Andelsbuch</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/120009889</idno>
+        </person>
+        <person xml:id="krp_person_id__10">
+          <persName>Glöckel, Otto</persName>
+          <birth>
+            <date when-iso="1874-02-08">1874-02-08</date>
+            <placeName>Pottendorf</placeName>
+          </birth>
+          <death>
+            <date when-iso="1935-07-23">1935-07-23</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118695452</idno>
+        </person>
+        <person xml:id="krp_person_id__11">
+          <persName>Grimm, Ferdinand [von] Dr.</persName>
+          <birth>
+            <date when-iso="1869-02-15">1869-02-15</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1948-11-08">1948-11-08</date>
+            <placeName>Bad Kreuzen</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011184664</idno>
+        </person>
+        <person xml:id="krp_person_id__12">
+          <persName>Hanusch, Ferdinand</persName>
+          <birth>
+            <date when-iso="1866-11-06">1866-11-06</date>
+            <placeName>Víkov</placeName>
+          </birth>
+          <death>
+            <date when-iso="1923-09-28">1923-09-28</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118701460</idno>
+        </person>
+        <person xml:id="krp_person_id__13">
+          <persName>Jukel, Karl Ing.</persName>
+          <birth>
+            <date when-iso="1865-01-21">1865-01-21</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1931-08-20">1931-08-20</date>
+            <placeName>Schönau an der Triesting</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1012922529</idno>
+        </person>
+        <person xml:id="krp_person_id__14">
+          <persName>Kaup, Ignaz Dr.</persName>
+          <birth>
+            <date when-iso="1870-01-11">1870-01-11</date>
+            <placeName>Marburg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-03-25">1944-03-25</date>
+            <placeName>München</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__606">
+          <persName>Ljubicic</persName>
+        </person>
+        <person xml:id="krp_person_id__15">
+          <persName>Loewenfeld-Russ, Johann Dr.</persName>
+          <birth>
+            <date when-iso="1873-10-29">1873-10-29</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1940-01-12">1940-01-12</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/11813692</idno>
+        </person>
+        <person xml:id="krp_person_id__16">
+          <persName>Marckhl, Richard</persName>
+        </person>
+        <person xml:id="krp_person_id__17">
+          <persName>Mataja, Heinrich</persName>
+          <birth>
+            <date when-iso="1877-03-14">1877-03-14</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1937-01-23">1937-01-23</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/137937598</idno>
+        </person>
+        <person xml:id="krp_person_id__18">
+          <persName>Mayer, Josef</persName>
+          <birth>
+            <date when-iso="1877-04-09">1877-04-09</date>
+            <placeName>Eger/Cheb, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1938-05-02">1938-05-02</date>
+            <placeName>Eger/Cheb, Böhmen</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__19">
+          <persName>Mayr, Michael Dr.</persName>
+          <birth>
+            <date when-iso="1864-04-10">1864-04-10</date>
+            <placeName>Adlwang, Oberösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1922-05-21">1922-05-21</date>
+            <placeName>Waldneukirchen, Oberösterreich</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__20">
+          <persName>Miklas, Wilhelm</persName>
+          <birth>
+            <date when-iso="1872-10-15">1872-10-15</date>
+            <placeName>Krems an der Donau</placeName>
+          </birth>
+          <death>
+            <date when-iso="1956-03-20">1956-03-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118783882</idno>
+        </person>
+        <person xml:id="krp_person_id__21">
+          <persName>Pacher, Rafael</persName>
+          <birth>
+            <date when-iso="1857-07-21">1857-07-21</date>
+            <placeName>Iserthal/Reky, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-03-23">1936-03-23</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/124749275</idno>
+        </person>
+        <person xml:id="krp_person_id__555">
+          <persName>Bourbon-Parma, Robert [von]</persName>
+          <birth>
+            <date when-iso="1848-07-09">1848-07-09</date>
+            <placeName>Florenz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1907-11-16">1907-11-16</date>
+            <placeName>Lucca</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/129125903</idno>
+        </person>
+        <person xml:id="krp_person_id__22">
+          <persName>Paul, Ludwig</persName>
+          <birth>
+            <date when-iso="1864-09-16">1864-09-16</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1920-07-01">1920-07-01</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1025496779</idno>
+        </person>
+        <person xml:id="krp_person_id__23">
+          <persName>Pflügl, Egon [Edler von]</persName>
+        </person>
+        <person xml:id="krp_person_id__24">
+          <persName>Ramek, Rudolf</persName>
+          <birth>
+            <date when-iso="1881-04-12">1881-04-12</date>
+            <placeName>Teschen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1941-07-24">1941-07-24</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/126762589</idno>
+        </person>
+        <person xml:id="krp_person_id__25">
+          <persName>Reisch, Richard</persName>
+          <birth>
+            <date when-iso="1866-04-07">1866-04-07</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1938-12-14">1938-12-14</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/100859666</idno>
+        </person>
+        <person xml:id="krp_person_id__26">
+          <persName>Renner, Karl Dr.</persName>
+          <birth>
+            <date when-iso="1870-12-14">1870-12-14</date>
+            <placeName>Dolní Dunajovice</placeName>
+          </birth>
+          <death>
+            <date when-iso="1950-12-31">1950-12-31</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118599739</idno>
+        </person>
+        <person xml:id="krp_person_id__27">
+          <persName>Resch, Josef Dr.</persName>
+          <birth>
+            <date when-iso="1880-09-28">1880-09-28</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1939-04-06">1939-04-06</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119327635</idno>
+        </person>
+        <person xml:id="krp_person_id__28">
+          <persName>Roller, Julius Dr.</persName>
+          <birth>
+            <date when-iso="1862-10-29">1862-10-29</date>
+            <placeName>Thomigsdorf, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1946-12-27">1946-12-27</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1028281269</idno>
+        </person>
+        <person xml:id="krp_person_id__29">
+          <persName>Schumpeter, Josef Dr.</persName>
+          <birth>
+            <date when-iso="1883-02-08">1883-02-08</date>
+            <placeName>Trest</placeName>
+          </birth>
+          <death>
+            <date when-iso="1950-01-08">1950-01-08</date>
+            <placeName>Taconic</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118611682</idno>
+        </person>
+        <person xml:id="krp_person_id__30">
+          <persName>Seitz, Karl</persName>
+          <birth>
+            <date when-iso="1869-09-04">1869-09-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1950-02-03">1950-02-03</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119184745</idno>
+        </person>
+        <person xml:id="krp_person_id__31">
+          <persName>Steinwender, Otto Dr.</persName>
+          <birth>
+            <date when-iso="1847-02-17">1847-02-17</date>
+            <placeName>Klagenfurt</placeName>
+          </birth>
+          <death>
+            <date when-iso="1921-03-20">1921-03-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/120148269</idno>
+        </person>
+        <person xml:id="krp_person_id__32">
+          <persName>Stöckler, Josef</persName>
+          <birth>
+            <date when-iso="1866-06-08">1866-06-08</date>
+            <placeName>St. Valentin, Niederösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-12-09">1936-12-09</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/103681033X</idno>
+        </person>
+        <person xml:id="krp_person_id__33">
+          <persName>Tandler, Julius Dr.</persName>
+          <birth>
+            <date when-iso="1869-02-16">1869-02-16</date>
+            <placeName>Iglau</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-08-25">1936-08-25</date>
+            <placeName>Moskau</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118620657</idno>
+        </person>
+        <person xml:id="krp_person_id__610">
+          <persName>Tunk, Eduard</persName>
+        </person>
+        <person xml:id="krp_person_id__34">
+          <persName>Urban, Karl Dr.</persName>
+          <birth>
+            <date when-iso="1855-09-01">1855-09-01</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </birth>
+          <death>
+            <date when-iso="1940-10-24">1940-10-24</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1148771107</idno>
+        </person>
+        <person xml:id="krp_person_id__35">
+          <persName>Waber, Leopold Dr.</persName>
+          <birth>
+            <date when-iso="1875-03-17">1875-03-17</date>
+            <placeName ref="#krp_place_id__315">Mährisch Neustadt</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-03-12">1945-03-12</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/130170429</idno>
+        </person>
+        <person xml:id="krp_person_id__509">
+          <persName>Wagner, Dominik</persName>
+        </person>
+        <person xml:id="krp_person_id__620">
+          <persName>Wagner, Richard</persName>
+        </person>
+        <person xml:id="krp_person_id__36">
+          <persName>Waiss, Erwin Dr.</persName>
+          <birth>
+            <date when-iso="1880-08-03">1880-08-03</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1959-07-05">1959-07-05</date>
+            <placeName>Sich am Attersee</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__37">
+          <persName>Wallenstorfer, Norbert</persName>
+          <birth>
+            <date when-iso="1872-01-14">1872-01-14</date>
+            <placeName>Krems an der Donau</placeName>
+          </birth>
+        </person>
+        <person xml:id="krp_person_id__38">
+          <persName>Zerdik, Johann Ing.</persName>
+          <birth>
+            <date when-iso="1878-04-07">1878-04-07</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1961-06-01">1961-06-01</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__43">
+          <persName>Breisky, Walter</persName>
+          <birth>
+            <date when-iso="1871-07-08">1871-07-08</date>
+            <placeName ref="#krp_place_id__82">Bern</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-09-25">1944-09-25</date>
+            <placeName>Klosterneuburg</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/130122955</idno>
+        </person>
+        <person xml:id="krp_person_id__488">
+          <persName>Rašín, Alois</persName>
+        </person>
+        <person xml:id="krp_person_id__477">
+          <persName>Cunningham, Thomas</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/170195155</idno>
+        </person>
+        <person xml:id="krp_person_id__557">
+          <persName>Czech, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__506">
+          <persName>Dametz, Josef</persName>
+          <birth>
+            <date when-iso="1868-05-26">1868-05-26</date>
+            <placeName>Linz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1927-09-21">1927-09-21</date>
+            <placeName>Linz</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/128384867</idno>
+        </person>
+        <person xml:id="krp_person_id__44">
+          <persName>Davy, Robert Dr.</persName>
+          <birth>
+            <date when-iso="1867-01-02">1867-01-02</date>
+            <placeName>Königsberg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1924-04-22">1924-04-22</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1168870305</idno>
+        </person>
+        <person xml:id="krp_person_id__46">
+          <persName>Dorrek, Dr. Karl</persName>
+          <birth>
+            <date when-iso="1870-09-24">1870-09-24</date>
+            <placeName>St. Georgen</placeName>
+          </birth>
+          <death>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1059154609</idno>
+        </person>
+        <person xml:id="krp_person_id__47">
+          <persName>Durig, Ernst Dr.</persName>
+          <birth>
+            <date when-iso="1870-07-29">1870-07-29</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </birth>
+          <death>
+            <date when-iso="1965-03-04">1965-03-04</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__49">
+          <persName>Feiler, Rudolf Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__50">
+          <persName>Froehlich, Georg Dr.</persName>
+          <birth>
+            <date when-iso="1872-07-17">1872-07-17</date>
+            <placeName>Brünnighausen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1939-09-21">1939-09-21</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/130138894</idno>
+        </person>
+        <person xml:id="krp_person_id__491">
+          <persName>Gruntzel, Josef Prof. Dr.</persName>
+          <birth>
+            <date when-iso="1866-10-20">1866-10-20</date>
+            <placeName>Alt-Paka (Böhmen)</placeName>
+          </birth>
+          <death>
+            <date when-iso="1934-11-21">1934-11-21</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/121546470</idno>
+        </person>
+        <person xml:id="krp_person_id__51">
+          <persName>Grünberger, Alfred Dr.</persName>
+          <birth>
+            <date when-iso="1875-10-15">1875-10-15</date>
+            <placeName>Karlsbad</placeName>
+          </birth>
+          <death>
+            <date when-iso="1935-04-25">1935-04-25</date>
+            <placeName>Paris</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/133436551</idno>
+        </person>
+        <person xml:id="krp_person_id__52">
+          <persName>Günther [Ritter von Ollenburg], Alexander</persName>
+        </person>
+        <person xml:id="krp_person_id__603">
+          <persName>Haala, Adalbert</persName>
+          <birth>
+            <date when-iso="1863-04-14">1863-04-14</date>
+          </birth>
+        </person>
+        <person xml:id="krp_person_id__54">
+          <persName>Haas, Wilhelm</persName>
+          <birth>
+            <date when-iso="1864-05-28">1864-05-28</date>
+            <placeName>Graz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1941-08-15">1941-08-15</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__55">
+          <persName>Hanausek, Wilhelm</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1050486234</idno>
+        </person>
+        <person xml:id="krp_person_id__619">
+          <persName>Hellmer, Hans</persName>
+        </person>
+        <person xml:id="krp_person_id__57">
+          <persName>Hermann, Rudolf Dr.</persName>
+          <birth>
+            <date when-iso="1873-03-03">1873-03-03</date>
+            <placeName>Friedek</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-11-23">1945-11-23</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__58">
+          <persName>Hoheisel, Konrad</persName>
+          <birth>
+            <date when-iso="1862-11-12">1862-11-12</date>
+            <placeName>Alt-Rothwasser, österr. Schlesien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1930-09-15">1930-09-15</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/121556789</idno>
+        </person>
+        <person xml:id="krp_person_id__59">
+          <persName>Homann, Emil [Freiherr v. Herimberg Dr.mont.h.c.?</persName>
+          <birth>
+            <date when-iso="1862-09-01">1862-09-01</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-02-09">1945-02-09</date>
+            <placeName>Leoben</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1012046095</idno>
+        </person>
+        <person xml:id="krp_person_id__507">
+          <persName>Hugelmann, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__60">
+          <persName>Hummel, Adolf</persName>
+        </person>
+        <person xml:id="krp_person_id__61">
+          <persName>Joas, Leopold Dr.</persName>
+          <birth>
+            <date when-iso="1867-05-29">1867-05-29</date>
+            <placeName>Rattenberg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1939-08-18">1939-08-18</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__62">
+          <persName>Kaan, Julius Dr.</persName>
+          <birth>
+            <date when-iso="1860-12-07">1860-12-07</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1924-07-02">1924-07-02</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/132792052</idno>
+        </person>
+        <person xml:id="krp_person_id__547">
+          <persName>Klimburg, Otto</persName>
+          <birth>
+            <date when-iso="1861-05-20">1861-05-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1927-07-23">1927-07-23</date>
+            <placeName>Klopein</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/136053904</idno>
+        </person>
+        <person xml:id="krp_person_id__63">
+          <persName>Kloss, Rudolf Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__64">
+          <persName>Kralowsky, Emil Dr.</persName>
+          <birth>
+            <date when-iso="1868-09-13">1868-09-13</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1941-10-19">1941-10-19</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__65">
+          <persName>Krasny, Arnold Dr. [von Ergen]</persName>
+          <birth>
+            <date when-iso="1869-01-07">1869-01-07</date>
+            <placeName>Prerau</placeName>
+          </birth>
+          <death>
+            <date when-iso="1937-03-19">1937-03-19</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/12786959X</idno>
+        </person>
+        <person xml:id="krp_person_id__66">
+          <persName>Lederer, Emil Prof. Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__67">
+          <persName>Licht, Stefan [Edler von] Dr.</persName>
+          <birth>
+            <date when-iso="1860-09-29">1860-09-29</date>
+            <placeName>Brünn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-03-04">1932-03-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/124297870</idno>
+        </person>
+        <person xml:id="krp_person_id__68">
+          <persName>Mosing, Ernst [Edler von] Dr.</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1015592775</idno>
+        </person>
+        <person xml:id="krp_person_id__69">
+          <persName>Mühlvenzl, Josef [Ritter von] Dr.</persName>
+          <birth>
+            <date when-iso="1866-12-21">1866-12-21</date>
+            <placeName>Saaz, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1933-06-15">1933-06-15</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1023723115</idno>
+        </person>
+        <person xml:id="krp_person_id__70">
+          <persName>Okorn, Friedrich</persName>
+        </person>
+        <person xml:id="krp_person_id__604">
+          <persName>Pawlitza, Josef</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1024321509</idno>
+        </person>
+        <person xml:id="krp_person_id__71">
+          <persName>Pergelt, Franz</persName>
+        </person>
+        <person xml:id="krp_person_id__72">
+          <persName>Pfersmann, Kamillo [von Eichenthal]</persName>
+          <birth>
+            <date when-iso="1874-04-28">1874-04-28</date>
+            <placeName>Mährisch-Trübau</placeName>
+          </birth>
+          <death>
+            <date when-iso="1941-10-19">1941-10-19</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1287542964</idno>
+        </person>
+        <person xml:id="krp_person_id__602">
+          <persName>Pokorny, Adolf</persName>
+        </person>
+        <person xml:id="krp_person_id__73">
+          <persName>Pokorny, Dr. Gustav</persName>
+          <birth>
+            <date when-iso="1873-07-31">1873-07-31</date>
+            <placeName>Pötzleinsdorf</placeName>
+          </birth>
+        </person>
+        <person xml:id="krp_person_id__74">
+          <persName>Pöschl, Moriz [Ritter von Hasemont] Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__600">
+          <persName>Rehrl, Franz</persName>
+          <birth>
+            <date when-iso="1890-12-04">1890-12-04</date>
+            <placeName ref="#krp_place_id__12">Salzburg (Stadt)</placeName>
+          </birth>
+          <death>
+            <date when-iso="1947-12-23">1947-12-23</date>
+            <placeName>Salzburg</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/12073978X</idno>
+        </person>
+        <person xml:id="krp_person_id__75">
+          <persName>Reich, Rudolf Ing.</persName>
+          <birth>
+            <date when-iso="1874-06-01">1874-06-01</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1954-11-04">1954-11-04</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__630">
+          <persName>Romaszkan, Josef Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__76">
+          <persName>Rotky, Otto Ing.</persName>
+          <birth>
+            <date when-iso="1870-03-29">1870-03-29</date>
+            <placeName>Tarvis</placeName>
+          </birth>
+        </person>
+        <person xml:id="krp_person_id__77">
+          <persName>Salzer, Maximilian Michael Emil Dr.</persName>
+          <birth>
+            <date when-iso="1868-03-03">1868-03-03</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1941-04-28">1941-04-28</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/136116428X</idno>
+        </person>
+        <person xml:id="krp_person_id__78">
+          <persName>Schauberger, Friedrich Dr.</persName>
+          <birth>
+            <date when-iso="1869-11-18">1869-11-18</date>
+            <placeName>Neunkirchen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1959-10-23">1959-10-23</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__79">
+          <persName>Schedlbauer, Leo Dr.</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/12796195X</idno>
+        </person>
+        <person xml:id="krp_person_id__624">
+          <persName>Kniep, Hans</persName>
+        </person>
+        <person xml:id="krp_person_id__80">
+          <persName>Schober, Johannes</persName>
+          <birth>
+            <date when-iso="1874-11-14">1874-11-14</date>
+            <placeName>Perg, Oberösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-08-19">1932-08-19</date>
+            <placeName>Baden, Niederösterreich</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118758802</idno>
+        </person>
+        <person xml:id="krp_person_id__81">
+          <persName>Schüller, Richard [von]</persName>
+          <birth>
+            <date when-iso="1870-05-28">1870-05-28</date>
+            <placeName>Brünn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1972-05-13">1972-05-13</date>
+            <placeName>Georgetown</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__82">
+          <persName>Schwarzwald, Hermann Hofrat Dr.</persName>
+          <birth>
+            <date when-iso="1871-02-13">1871-02-13</date>
+            <placeName>Czernowitz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1939-08-17">1939-08-17</date>
+            <placeName>Zürich</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1027642306</idno>
+        </person>
+        <person xml:id="krp_person_id__84">
+          <persName>Schwiedland, Eugen Peter Hofrat Dr.</persName>
+          <birth>
+            <date when-iso="1863-10-23">1863-10-23</date>
+            <placeName>Pest</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-12-22">1936-12-22</date>
+            <placeName>Inzersdorf bei Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/117430609</idno>
+        </person>
+        <person xml:id="krp_person_id__542">
+          <persName>Teufel, Oskar</persName>
+          <birth>
+            <date when-iso="1880-10-05">1880-10-05</date>
+            <placeName>Znaim, Mähren</placeName>
+          </birth>
+          <death>
+            <date when-iso="1946-01-26">1946-01-26</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1027122671</idno>
+        </person>
+        <person xml:id="krp_person_id__85">
+          <persName>Thaa, Gustav [Ritter von] Dr.</persName>
+          <birth>
+            <date when-iso="1869-04-10">1869-04-10</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1966-04-11">1966-04-11</date>
+            <placeName>Deutschfeistritz, Steiermark</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__482">
+          <persName>Weiskirchner, Richard</persName>
+          <birth>
+            <date when-iso="1861-03-24">1861-03-24</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1926-04-30">1926-04-30</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/117278602</idno>
+        </person>
+        <person xml:id="krp_person_id__86">
+          <persName>Wenedikter, Richard</persName>
+          <birth>
+            <date when-iso="1865-02-08">1865-02-08</date>
+            <placeName>Gottschee</placeName>
+          </birth>
+          <death>
+            <date when-iso="1934-10-16">1934-10-16</date>
+            <placeName>Klagenfurt</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__599">
+          <persName>Wildner, Heinrich</persName>
+          <birth>
+            <date when-iso="1879-05-27">1879-05-27</date>
+            <placeName>Reichenberg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1957-12-04">1957-12-04</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/143416235</idno>
+        </person>
+        <person xml:id="krp_person_id__88">
+          <persName>Wilfling, August Dr.</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/133807649</idno>
+        </person>
+        <person xml:id="krp_person_id__89">
+          <persName>Wollheim, Oskar Heinrich Dr.</persName>
+          <birth>
+            <date when-iso="1868-10-18">1868-10-18</date>
+            <placeName>Wien</placeName>
+          </birth>
+        </person>
+        <person xml:id="krp_person_id__90">
+          <persName>List, Karl</persName>
+        </person>
+        <person xml:id="krp_person_id__91">
+          <persName>Gruber, Rudolf</persName>
+          <birth>
+            <date when-iso="1864-11-29">1864-11-29</date>
+            <placeName>Sollenau</placeName>
+          </birth>
+          <death>
+            <date when-iso="1926-10-13">1926-10-13</date>
+            <placeName>Sollenau</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011267144</idno>
+        </person>
+        <person xml:id="krp_person_id__92">
+          <persName>Hillbrand, Josef Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__93">
+          <persName>Bechter, Gottlieb</persName>
+          <birth>
+            <date when-iso="1872-03-26">1872-03-26</date>
+            <placeName ref="#krp_place_id__318">Hittisau</placeName>
+          </birth>
+          <death>
+            <date when-iso="1960-11-26">1960-11-26</date>
+            <placeName>Hittisau</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__94">
+          <persName>Christoph, Franz</persName>
+          <birth>
+            <date when-iso="1877-12-03">1877-12-03</date>
+            <placeName>Velm</placeName>
+          </birth>
+          <death>
+            <date when-iso="1946-12-21">1946-12-21</date>
+            <placeName>Brunn am Gebirge</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__502">
+          <persName>Wimmer, Ferdinand [Freiherr von]</persName>
+          <birth>
+            <date when-iso="1860-12-18">1860-12-18</date>
+            <placeName>Persenbeug</placeName>
+          </birth>
+          <death>
+            <date when-iso="1919-11-03">1919-11-03</date>
+            <placeName>Achenkirchen</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1225370043</idno>
+        </person>
+        <person xml:id="krp_person_id__95">
+          <persName>Winsauer, Ernst Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__548">
+          <persName>Hutchinson,</persName>
+        </person>
+        <person xml:id="krp_person_id__97">
+          <persName>Ippen, Theodor</persName>
+          <birth>
+            <date when-iso="1861-11-29">1861-11-29</date>
+            <placeName>Sezemitz, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1935-01-31">1935-01-31</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118710826</idno>
+        </person>
+        <person xml:id="krp_person_id__98">
+          <persName>Oberdorffer, Leonhard</persName>
+        </person>
+        <person xml:id="krp_person_id__99">
+          <persName>Weinczierl, Dr. Johann [von]</persName>
+          <birth>
+            <date when-iso="1877-06-19">1877-06-19</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1948-10-23">1948-10-23</date>
+            <placeName>Haus/Steiermark</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__100">
+          <persName>Syrowatk, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__101">
+          <persName>Pollak, Dr. Karl</persName>
+          <birth>
+            <date when-iso="1863-05-16">1863-05-16</date>
+            <placeName>Dirná</placeName>
+          </birth>
+          <death>
+            <date when-iso="1942-08-04">1942-08-04</date>
+            <placeName>Theresienstadt</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__102">
+          <persName>Grabmayr, Karl [von Angerheim]Dr.</persName>
+          <birth>
+            <date when-iso="1848-02-11">1848-02-11</date>
+            <placeName>Bozen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1923-06-24">1923-06-24</date>
+            <placeName>Meran</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/11869684X</idno>
+        </person>
+        <person xml:id="krp_person_id__561">
+          <persName>Benedikt, Edmund Dr.</persName>
+          <birth>
+            <date when-iso="1851-06-10">1851-06-10</date>
+            <placeName ref="#krp_place_id__320">Döbling</placeName>
+          </birth>
+          <death>
+            <date when-iso="1929-02-01">1929-02-01</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__549">
+          <persName>Berchtold, Leopold [Graf]</persName>
+          <birth>
+            <date when-iso="1863-04-18">1863-04-18</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1942-11-21">1942-11-21</date>
+            <placeName>Peresznye bei Ödenburg</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__103">
+          <persName>Berka, Johann</persName>
+        </person>
+        <person xml:id="krp_person_id__104">
+          <persName>Sylvester, Julius Dr.</persName>
+          <birth>
+            <date when-iso="1854-06-30">1854-06-30</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-07-13">1944-07-13</date>
+            <placeName>Zell/Seekirchen am Wallersee??</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/120148595</idno>
+        </person>
+        <person xml:id="krp_person_id__105">
+          <persName>Urbanitzky, Ida</persName>
+        </person>
+        <person xml:id="krp_person_id__613">
+          <persName>Kiesling, Julius</persName>
+        </person>
+        <person xml:id="krp_person_id__106">
+          <persName>Klein, Franz Dr.</persName>
+          <birth>
+            <date when-iso="1854-04-24">1854-04-24</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1926-04-06">1926-04-06</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__107">
+          <persName>Peter, Franz Josef [Ritter von Thyllnreuth]</persName>
+          <birth>
+            <date when-iso="1860-04-28">1860-04-28</date>
+            <placeName>Eger</placeName>
+          </birth>
+          <death>
+            <date when-iso="1957-02-22">1957-02-22</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__108">
+          <persName>Eichhoff, Johann Andreas [Freiherr von]</persName>
+          <birth>
+            <date when-iso="1871-09-07">1871-09-07</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1963-03-22">1963-03-22</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__500">
+          <persName>Kollmann, Josef</persName>
+        </person>
+        <person xml:id="krp_person_id__618">
+          <persName>Kořim, Franz</persName>
+        </person>
+        <person xml:id="krp_person_id__110">
+          <persName>Körner, Theodor Dr. h.c.</persName>
+          <birth>
+            <date when-iso="1873-04-24">1873-04-24</date>
+            <placeName>Komorn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1957-01-04">1957-01-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118713493</idno>
+        </person>
+        <person xml:id="krp_person_id__111">
+          <persName>Pfaundler, Richard [von Hadermur]</persName>
+          <birth>
+            <date when-iso="1882-01-25">1882-01-25</date>
+            <placeName>Innsbruck</placeName>
+          </birth>
+          <death>
+            <date when-iso="1959-03-26">1959-03-26</date>
+            <placeName>Innsbruck</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__112">
+          <persName>Duveen, Joseph</persName>
+          <birth>
+            <date when-iso="1843-04-30">1843-04-30</date>
+            <placeName>Meppel</placeName>
+          </birth>
+          <death>
+            <date when-iso="1908-11-09">1908-11-09</date>
+            <placeName>Hyéres</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__113">
+          <persName>Glück, Gustav? Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__114">
+          <persName>Haberditzl, Franz Martin Dr.</persName>
+          <birth>
+            <date when-iso="1882-12-18">1882-12-18</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-01-22">1944-01-22</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/129153923</idno>
+        </person>
+        <person xml:id="krp_person_id__554">
+          <persName>Leifer,</persName>
+        </person>
+        <person xml:id="krp_person_id__115">
+          <persName>Leisching, Eduard Dr.</persName>
+          <birth>
+            <date when-iso="1858-11-26">1858-11-26</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1938-12-09">1938-12-09</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118571354</idno>
+        </person>
+        <person xml:id="krp_person_id__116">
+          <persName>Tietze, Hans Dr.</persName>
+          <birth>
+            <date when-iso="1880-03-01">1880-03-01</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </birth>
+          <death>
+            <date when-iso="1954-04-12">1954-04-12</date>
+            <placeName>New York</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/117381845</idno>
+        </person>
+        <person xml:id="krp_person_id__117">
+          <persName>Alexy, Ludwig Dr.</persName>
+          <birth>
+            <date when-iso="1871-02-14">1871-02-14</date>
+            <placeName ref="#krp_place_id__12">Salzburg (Stadt)</placeName>
+          </birth>
+          <death>
+            <date when-iso="1937-01-20">1937-01-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__118">
+          <persName>Vetter, Adolf Dr.</persName>
+          <birth>
+            <date when-iso="1867-06-18">1867-06-18</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1942-05-14">1942-05-14</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1048411257</idno>
+        </person>
+        <person xml:id="krp_person_id__483">
+          <persName>Schöpfer, Aemilian Prof. Dr.</persName>
+          <birth>
+            <date when-iso="1858-04-29">1858-04-29</date>
+            <placeName>Brixen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-03-24">1936-03-24</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119034913</idno>
+        </person>
+        <person xml:id="krp_person_id__119">
+          <persName>Schubert, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__120">
+          <persName>Auspitz, Stephan</persName>
+          <birth>
+            <date when-iso="1869-10-11">1869-10-11</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-12-17">1945-12-17</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__598">
+          <persName>Calonder, Felix Louis</persName>
+          <birth>
+            <date when-iso="1863-12-07">1863-12-07</date>
+            <placeName>Scuol</placeName>
+          </birth>
+          <death>
+            <date when-iso="1952-06-14">1952-06-14</date>
+            <placeName>Zürich</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118666681</idno>
+        </person>
+        <person xml:id="krp_person_id__123">
+          <persName>Causey</persName>
+        </person>
+        <person xml:id="krp_person_id__125">
+          <persName>Gregory</persName>
+        </person>
+        <person xml:id="krp_person_id__480">
+          <persName>Burger, Wenzel [Ritter von]</persName>
+        </person>
+        <person xml:id="krp_person_id__126">
+          <persName>Buttler</persName>
+        </person>
+        <person xml:id="krp_person_id__545">
+          <persName>Habsburg-Lothringen, Heinrich Ferdinand</persName>
+        </person>
+        <person xml:id="krp_person_id__127">
+          <persName>Habsburg-Lothringen, Hubert</persName>
+        </person>
+        <person xml:id="krp_person_id__128">
+          <persName>Habsburg-Lothringen, Franz</persName>
+        </person>
+        <person xml:id="krp_person_id__129">
+          <persName>Habsburg-Lothringen, Alice</persName>
+        </person>
+        <person xml:id="krp_person_id__130">
+          <persName>Habsburg-Lothringen, Josef Ferdinand</persName>
+        </person>
+        <person xml:id="krp_person_id__132">
+          <persName>Habsburg-Lothringen, Margarete</persName>
+        </person>
+        <person xml:id="krp_person_id__133">
+          <persName>Habsburg-Lothringen, Agnes</persName>
+        </person>
+        <person xml:id="krp_person_id__134">
+          <persName>Habsburg-Lothringen, Germana</persName>
+        </person>
+        <person xml:id="krp_person_id__135">
+          <persName>Noven, Heinrich</persName>
+        </person>
+        <person xml:id="krp_person_id__136">
+          <persName>Lindner, Alois</persName>
+        </person>
+        <person xml:id="krp_person_id__137">
+          <persName>Trenkwald, Hermann [von]</persName>
+          <birth>
+            <date when-iso="1866-05-24">1866-05-24</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1942-06-11">1942-06-11</date>
+            <placeName>Perchtoldsdorf bei Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/117413704</idno>
+        </person>
+        <person xml:id="krp_person_id__138">
+          <persName>Sever, Albert</persName>
+          <birth>
+            <date when-iso="1867-11-24">1867-11-24</date>
+            <placeName>Agram (Zagreb)</placeName>
+          </birth>
+          <death>
+            <date when-iso="1942-02-12">1942-02-12</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/120570769</idno>
+        </person>
+        <person xml:id="krp_person_id__139">
+          <persName>Ziller, Karl</persName>
+        </person>
+        <person xml:id="krp_person_id__140">
+          <persName>Boschan</persName>
+        </person>
+        <person xml:id="krp_person_id__141">
+          <persName>Hornik, Friedrich (Fritz) Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__143">
+          <persName>Mauelère</persName>
+        </person>
+        <person xml:id="krp_person_id__144">
+          <persName>Otavský, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__145">
+          <persName>Geist, Hermann Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__146">
+          <persName>Lelewer, Georg Dr.</persName>
+          <birth>
+            <date when-iso="1872-09-29">1872-09-29</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1960-04-03">1960-04-03</date>
+            <placeName>London</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/136161065</idno>
+        </person>
+        <person xml:id="krp_person_id__559">
+          <persName>Lamberg, Josefine</persName>
+        </person>
+        <person xml:id="krp_person_id__558">
+          <persName>Lamberg, Kunibald</persName>
+        </person>
+        <person xml:id="krp_person_id__147">
+          <persName>Lanzendörfer, Ferdinand</persName>
+          <birth>
+            <date when-iso="1868-03-15">1868-03-15</date>
+            <placeName>Falkenau an der Donau, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1943-03-04">1943-03-04</date>
+            <placeName>Nikolsburg, Mähren</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1018261893</idno>
+        </person>
+        <person xml:id="krp_person_id__629">
+          <persName>Karzel, Georg Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__149">
+          <persName>Katz, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__150">
+          <persName>Chlumecky, Leopold [Freiherr von]</persName>
+          <birth>
+            <date when-iso="1873-02-03">1873-02-03</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1940-01-14">1940-01-14</date>
+            <placeName>Buenos Aires</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/138066736</idno>
+        </person>
+        <person xml:id="krp_person_id__184">
+          <persName>Coumont, Eduard Dr.</persName>
+          <birth>
+            <date when-iso="1861-03-17">1861-03-17</date>
+            <placeName>Brünn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1930-07-03">1930-07-03</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/14392902X</idno>
+        </person>
+        <person xml:id="krp_person_id__185">
+          <persName>Stritzl, Friedrich Dr. [Edler von Artstatt]</persName>
+        </person>
+        <person xml:id="krp_person_id__187">
+          <persName>Redlich, Oswald Dr.</persName>
+          <birth>
+            <date when-iso="1858-03-17">1858-03-17</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-01-20">1944-01-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118743732</idno>
+        </person>
+        <person xml:id="krp_person_id__190">
+          <persName>Richter, Paul</persName>
+          <birth>
+            <date when-iso="1877-11-22">1877-11-22</date>
+            <placeName>Dresden</placeName>
+          </birth>
+          <death>
+            <date when-iso="1958-01-20">1958-01-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1344409873</idno>
+        </person>
+        <person xml:id="krp_person_id__192">
+          <persName>Egghard, Karl</persName>
+        </person>
+        <person xml:id="krp_person_id__194">
+          <persName>Geiser, Josef</persName>
+        </person>
+        <person xml:id="krp_person_id__196">
+          <persName>Hübner, Roman</persName>
+        </person>
+        <person xml:id="krp_person_id__197">
+          <persName>Neander, Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__198">
+          <persName>Zavodsky, Gustav</persName>
+        </person>
+        <person xml:id="krp_person_id__485">
+          <persName>Kowy, Jakob Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__200">
+          <persName>Kun, Béla</persName>
+          <birth>
+            <placeName>Cehu Silvaniei</placeName>
+          </birth>
+          <death>
+            <placeName>Moskau</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118778218</idno>
+        </person>
+        <person xml:id="krp_person_id__201">
+          <persName>Schuhmacher, Franz Dr.</persName>
+          <birth>
+            <date when-iso="1861-03-13">1861-03-13</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </birth>
+          <death>
+            <date when-iso="1939-07-23">1939-07-23</date>
+            <placeName>Kleinvolderberg, Tirol</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__202">
+          <persName>Fleischhacker, Robert Dr. [von]</persName>
+          <birth>
+            <date when-iso="1855-11-09">1855-11-09</date>
+            <placeName>Graz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1937-08-31">1937-08-31</date>
+            <placeName>Graz</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116601833</idno>
+        </person>
+        <person xml:id="krp_person_id__605">
+          <persName>Gerstmann, Siegfried</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/139506993</idno>
+        </person>
+        <person xml:id="krp_person_id__203">
+          <persName>Glanz, Egon Dr. [von Eicha, Freiherr]</persName>
+          <birth>
+            <date when-iso="1880-12-29">1880-12-29</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-04-16">1945-04-16</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011357763</idno>
+        </person>
+        <person xml:id="krp_person_id__204">
+          <persName>Keil, Anton</persName>
+          <birth>
+            <date when-iso="1854-06-03">1854-06-03</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1926-11-21">1926-11-21</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/101325127X</idno>
+        </person>
+        <person xml:id="krp_person_id__205">
+          <persName>Stockton, Gilchrist Baker</persName>
+          <birth>
+            <date when-iso="1890-08-20">1890-08-20</date>
+            <placeName>Jacksonville</placeName>
+          </birth>
+          <death>
+            <date when-iso="1972-08-28">1972-08-28</date>
+            <placeName>Jacksonville</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1112485287</idno>
+        </person>
+        <person xml:id="krp_person_id__207">
+          <persName>Hoover, Herbert Clark</persName>
+          <birth>
+            <date when-iso="1874-08-10">1874-08-10</date>
+            <placeName>West Branch, Iowa</placeName>
+          </birth>
+          <death>
+            <date when-iso="1964-10-20">1964-10-20</date>
+            <placeName>New York</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118706985</idno>
+        </person>
+        <person xml:id="krp_person_id__208">
+          <persName>Kelle, Carl Dr. [von]</persName>
+          <birth>
+            <date when-iso="1859-12-08">1859-12-08</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </birth>
+          <death>
+            <date when-iso="1935-02-13">1935-02-13</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/101325192X</idno>
+        </person>
+        <person xml:id="krp_person_id__209">
+          <persName>Stockhammer</persName>
+        </person>
+        <person xml:id="krp_person_id__505">
+          <persName>Wernigg, Maria</persName>
+        </person>
+        <person xml:id="krp_person_id__210">
+          <persName>Wernisch, Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__212">
+          <persName>Gruber, Hermann</persName>
+        </person>
+        <person xml:id="krp_person_id__215">
+          <persName>Binder, Anton Dr.</persName>
+          <birth>
+            <date when-iso="1860-05-11">1860-05-11</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1927-07-30">1927-07-30</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__217">
+          <persName>Alter, Dr. Wilhelm [Ritter von Waltrecht]</persName>
+          <birth>
+            <date when-iso="1872-07-16">1872-07-16</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </birth>
+          <death>
+            <date when-iso="1942-07-20">1942-07-20</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__219">
+          <persName>Fischer, Friedrich Ing. [Edler von Zickhartburg]</persName>
+          <birth>
+            <date when-iso="1860-06-29">1860-06-29</date>
+            <placeName>Padua</placeName>
+          </birth>
+          <death>
+            <date when-iso="1930-08-03">1930-08-03</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__220">
+          <persName>Kniep, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__486">
+          <persName>Neumann, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__223">
+          <persName>Neurath, Ludwig [von Neudenegg]</persName>
+          <birth>
+            <date when-iso="1866-08-17">1866-08-17</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1941-03-17">1941-03-17</date>
+            <placeName>Torquay</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__562">
+          <persName>Rintelen, Anton</persName>
+          <birth>
+            <date when-iso="1876-11-15">1876-11-15</date>
+            <placeName>Graz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1946-01-28">1946-01-28</date>
+            <placeName>Graz</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/11655116X</idno>
+        </person>
+        <person xml:id="krp_person_id__224">
+          <persName>Rogers, Howard L.</persName>
+        </person>
+        <person xml:id="krp_person_id__608">
+          <persName>Weyda, Lothar</persName>
+        </person>
+        <person xml:id="krp_person_id__225">
+          <persName>Whitson, G.</persName>
+        </person>
+        <person xml:id="krp_person_id__226">
+          <persName>Pohl, Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__228">
+          <persName>Plener, Ernst [Freiherr von] Dr.</persName>
+          <birth>
+            <date when-iso="1841-10-18">1841-10-18</date>
+            <placeName>Eger, Kraj Karlsbad</placeName>
+          </birth>
+          <death>
+            <date when-iso="1923-04-29">1923-04-29</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116209550</idno>
+        </person>
+        <person xml:id="krp_person_id__621">
+          <persName>Fontana, Oskar</persName>
+        </person>
+        <person xml:id="krp_person_id__229">
+          <persName>Foris, Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__230">
+          <persName>Jentl, Bernhard Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__231">
+          <persName>Speil-Ostheim, Oskar? Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__232">
+          <persName>Allizé, Henry</persName>
+          <birth>
+            <date when-iso="1860-09-24">1860-09-24</date>
+          </birth>
+          <death>
+            <date when-iso="1930-10-13">1930-10-13</date>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/133539296</idno>
+        </person>
+        <person xml:id="krp_person_id__233">
+          <persName>Pesta, Dr. Karl</persName>
+          <birth>
+            <date when-iso="1871-01-15">1871-01-15</date>
+            <placeName>Hard bei Bregenz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-12-03">1945-12-03</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__601">
+          <persName>Kelsen, Hans a.o. Professor</persName>
+          <birth>
+            <date when-iso="1881-11-10">1881-11-10</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </birth>
+          <death>
+            <date when-iso="1973-04-19">1973-04-19</date>
+            <placeName>Berkeley, California</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118561219</idno>
+        </person>
+        <person xml:id="krp_person_id__234">
+          <persName>Kienböck, Viktor Dr.</persName>
+          <birth>
+            <date when-iso="1873-01-18">1873-01-18</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1956-11-23">1956-11-23</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/129085804</idno>
+        </person>
+        <person xml:id="krp_person_id__235">
+          <persName>Tomschik, Josef</persName>
+          <birth>
+            <date when-iso="1867-12-27">1867-12-27</date>
+            <placeName>Josefstadt, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-07-06">1945-07-06</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1113900385</idno>
+        </person>
+        <person xml:id="krp_person_id__237">
+          <persName>Zelenka, Franz</persName>
+          <birth>
+            <date when-iso="1886-10-13">1886-10-13</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1960-01-02">1960-01-02</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__238">
+          <persName>Phillpotts, Owen S.</persName>
+        </person>
+        <person xml:id="krp_person_id__239">
+          <persName>Goode, William</persName>
+        </person>
+        <person xml:id="krp_person_id__240">
+          <persName>Hamburger, Fritz</persName>
+        </person>
+        <person xml:id="krp_person_id__241">
+          <persName>Hummer, Gustav Mag. pharm.</persName>
+          <birth>
+            <date when-iso="1877-12-11">1877-12-11</date>
+            <placeName>Znojmo</placeName>
+          </birth>
+          <death>
+            <date when-iso="1959-11-17">1959-11-17</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1107190673</idno>
+        </person>
+        <person xml:id="krp_person_id__242">
+          <persName>Jüptner</persName>
+        </person>
+        <person xml:id="krp_person_id__243">
+          <persName>Hlawač, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__245">
+          <persName>Ehrenfeld-Pop</persName>
+        </person>
+        <person xml:id="krp_person_id__246">
+          <persName>Rücker, Friedrich</persName>
+          <birth>
+            <date when-iso="1868-09-16">1868-09-16</date>
+            <placeName>Mies</placeName>
+          </birth>
+          <death>
+            <date when-iso="1960-07-16">1960-07-16</date>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__609">
+          <persName>Kunz, Gottfried Dr.</persName>
+          <birth>
+            <date when-iso="1869-01-07">1869-01-07</date>
+            <placeName>Ostrau, österr Schlesien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1931-08-14">1931-08-14</date>
+            <placeName>Graz</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1017791813</idno>
+        </person>
+        <person xml:id="krp_person_id__247">
+          <persName>Kunze, Ing. Otto</persName>
+          <birth>
+            <date when-iso="1868-02-13">1868-02-13</date>
+            <placeName>Schloss Sadek (Mähren)</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-11-26">1945-11-26</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__248">
+          <persName>Vielgut</persName>
+        </person>
+        <person xml:id="krp_person_id__249">
+          <persName>Redinger, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__250">
+          <persName>Scapinelli, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__252">
+          <persName>Halban, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__253">
+          <persName>Kaltenbrunner, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__489">
+          <persName>Harpner, Gustav Dr.</persName>
+          <birth>
+            <date when-iso="1864-03-25">1864-03-25</date>
+            <placeName>Brünn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1924-07-10">1924-07-10</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/126695962</idno>
+        </person>
+        <person xml:id="krp_person_id__255">
+          <persName>Hartl, Karl Dr.</persName>
+          <birth>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1275740928</idno>
+        </person>
+        <person xml:id="krp_person_id__256">
+          <persName>Müller, Rudolf</persName>
+        </person>
+        <person xml:id="krp_person_id__257">
+          <persName>Neumann, Jakob</persName>
+          <birth>
+            <date when-iso="1853-12-31">1853-12-31</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1925-07-29">1925-07-29</date>
+            <placeName>Klagenfurt</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__258">
+          <persName>Breitner, Hugo</persName>
+          <birth>
+            <date when-iso="1873-11-09">1873-11-09</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1946-03-05">1946-03-05</date>
+            <placeName>Clamreont (USA)</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__259">
+          <persName>Speiser</persName>
+        </person>
+        <person xml:id="krp_person_id__260">
+          <persName>Schneller, Karl</persName>
+        </person>
+        <person xml:id="krp_person_id__265">
+          <persName>Cilek, Karl</persName>
+          <birth>
+            <date when-iso="1916-02-23">1916-02-23</date>
+          </birth>
+          <death>
+            <date when-iso="1991-06-05">1991-06-05</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__266">
+          <persName>Stams, Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__267">
+          <persName>Burg, Richard</persName>
+        </person>
+        <person xml:id="krp_person_id__269">
+          <persName>Gottlieb-Billroth, Dr. Otto</persName>
+          <birth>
+            <date when-iso="1862-10-04">1862-10-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1935-07-28">1935-07-28</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116794305</idno>
+        </person>
+        <person xml:id="krp_person_id__270">
+          <persName>Grünwald-Ehren, Paul Dr.</persName>
+          <birth>
+            <date when-iso="1876-12-21">1876-12-21</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1925-10-15">1925-10-15</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__550">
+          <persName>Millsteiger, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__271">
+          <persName>Mörth, Dr. Karl</persName>
+          <birth>
+            <date when-iso="1873-01-09">1873-01-09</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1938-09-18">1938-09-18</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__272">
+          <persName>Hauser, Johann Nepomuk</persName>
+          <birth>
+            <date when-iso="1866-03-24">1866-03-24</date>
+            <placeName>Kopfing, Oberösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1927-08-08">1927-08-08</date>
+            <placeName>Wilhering, Oberösterreich</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118709178</idno>
+        </person>
+        <person xml:id="krp_person_id__617">
+          <persName>Seidmann, Karl Dr.</persName>
+          <birth>
+            <date when-iso="1882-04-15">1882-04-15</date>
+            <placeName>Jurkoutz, Bukowina</placeName>
+          </birth>
+          <death>
+            <date when-iso="1949-12-01">1949-12-01</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1033727849</idno>
+        </person>
+        <person xml:id="krp_person_id__476">
+          <persName>Segré, Roberto</persName>
+          <birth>
+            <date when-iso="1872-04-06">1872-04-06</date>
+            <placeName>Turin</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-02-07">1936-02-07</date>
+            <placeName>Mailand</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1228589259</idno>
+        </person>
+        <person xml:id="krp_person_id__274">
+          <persName>Seipel, Ignaz Dr.</persName>
+          <birth>
+            <date when-iso="1876-07-19">1876-07-19</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-08-02">1932-08-02</date>
+            <placeName>Pernitz</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/11861293X</idno>
+        </person>
+        <person xml:id="krp_person_id__276">
+          <persName>Gürtler, Alfred Dr.</persName>
+          <birth>
+            <date when-iso="1875-10-30">1875-10-30</date>
+            <placeName>Gabel, Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1933-03-16">1933-03-16</date>
+            <placeName>Graz</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011404214</idno>
+        </person>
+        <person xml:id="krp_person_id__277">
+          <persName>Adler, Friedrich Dr.</persName>
+          <birth>
+            <date when-iso="1879-07-09">1879-07-09</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1960-01-02">1960-01-02</date>
+            <placeName ref="#krp_place_id__117">Zürich (Stadt)</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118960407</idno>
+        </person>
+        <person xml:id="krp_person_id__279">
+          <persName>Dittes, Paul Johann Ing.</persName>
+          <birth>
+            <date when-iso="1871-07-16">1871-07-16</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1940-03-04">1940-03-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/127568271</idno>
+        </person>
+        <person xml:id="krp_person_id__280">
+          <persName>Hold, Richard Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__282">
+          <persName>Allina, Heinrich</persName>
+          <birth>
+            <date when-iso="1878-11-24">1878-11-24</date>
+            <placeName ref="#krp_place_id__316">Schaffa</placeName>
+          </birth>
+          <death>
+            <date when-iso="1953-12-10">1953-12-10</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1374721611</idno>
+        </person>
+        <person xml:id="krp_person_id__283">
+          <persName>Friedmann, Max</persName>
+          <birth>
+            <date when-iso="1864-04-14">1864-04-14</date>
+            <placeName>Resita</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-08-23">1936-08-23</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1020823909</idno>
+        </person>
+        <person xml:id="krp_person_id__284">
+          <persName>Logan</persName>
+        </person>
+        <person xml:id="krp_person_id__560">
+          <persName>Singer, Julius</persName>
+        </person>
+        <person xml:id="krp_person_id__484">
+          <persName>Slatin, Rudolf</persName>
+          <birth>
+            <date when-iso="1857-06-27">1857-06-27</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-10-04">1932-10-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118748432</idno>
+        </person>
+        <person xml:id="krp_person_id__285">
+          <persName>Smith,</persName>
+        </person>
+        <person xml:id="krp_person_id__508">
+          <persName>Boog, Adolf [von]</persName>
+          <birth>
+            <date when-iso="1866-04-27">1866-04-27</date>
+            <placeName ref="#krp_place_id__321">Belluno</placeName>
+          </birth>
+          <death>
+            <date when-iso="1929-02-15">1929-02-15</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1314980769</idno>
+        </person>
+        <person xml:id="krp_person_id__286">
+          <persName>Bösbauer, Hans</persName>
+        </person>
+        <person xml:id="krp_person_id__288">
+          <persName>Bourcart, Charles-Daniel Dr. jur.</persName>
+          <birth>
+            <date when-iso="1860-05-20">1860-05-20</date>
+            <placeName>Guebwiller</placeName>
+          </birth>
+          <death>
+            <date when-iso="1940-05-31">1940-05-31</date>
+            <placeName>Basel</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1068158964</idno>
+        </person>
+        <person xml:id="krp_person_id__622">
+          <persName>Rodler, Walter Dr.</persName>
+          <birth>
+            <date when-iso="1867-02-02">1867-02-02</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1931-12-24">1931-12-24</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__289">
+          <persName>Roller, Alfred</persName>
+          <birth>
+            <date when-iso="1864-10-02">1864-10-02</date>
+            <placeName>Brünn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1935-06-21">1935-06-21</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118791036</idno>
+        </person>
+        <person xml:id="krp_person_id__479">
+          <persName>Ganglbauer, Ernest</persName>
+        </person>
+        <person xml:id="krp_person_id__290">
+          <persName>Garzarolli, Karl? [von Thurnlackh] junior</persName>
+          <birth>
+            <date when-iso="1894-09-25">1894-09-25</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </birth>
+          <death>
+            <date when-iso="1964-09-11">1964-09-11</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1018921001</idno>
+        </person>
+        <person xml:id="krp_person_id__291">
+          <persName>Hölzl, Anton Franz</persName>
+          <birth>
+            <date when-iso="1874-11-19">1874-11-19</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1946-02-19">1946-02-19</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__292">
+          <persName>Nitti, Francesco Saverio</persName>
+          <birth>
+            <date when-iso="1868-07-19">1868-07-19</date>
+            <placeName>Melfi</placeName>
+          </birth>
+          <death>
+            <date when-iso="1953-02-20">1953-02-20</date>
+            <placeName>Rom</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119470764</idno>
+        </person>
+        <person xml:id="krp_person_id__293">
+          <persName>Stark, Josef</persName>
+        </person>
+        <person xml:id="krp_person_id__294">
+          <persName>Falser, Stephan</persName>
+          <birth>
+            <date when-iso="1855-08-30">1855-08-30</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-03-19">1944-03-19</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/126264198</idno>
+        </person>
+        <person xml:id="krp_person_id__295">
+          <persName>Erler, Eduard Dr.</persName>
+          <birth>
+            <date when-iso="1861-09-25">1861-09-25</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </birth>
+          <death>
+            <date when-iso="1949-01-01">1949-01-01</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1066387540</idno>
+        </person>
+        <person xml:id="krp_person_id__296">
+          <persName>Bernegger, Matthias Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__611">
+          <persName>Jacobi, Adolf Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__297">
+          <persName>Jäger, Ernst Dr.</persName>
+          <birth>
+            <date when-iso="1847-05-17">1847-05-17</date>
+            <placeName>Ehrwald</placeName>
+          </birth>
+          <death>
+            <date when-iso="1929-06-06">1929-06-06</date>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__298">
+          <persName>Zweifel, Jost</persName>
+        </person>
+        <person xml:id="krp_person_id__299">
+          <persName>Ludwig (Anton Joseph) Viktor, Erzherzog von Österreich</persName>
+        </person>
+        <person xml:id="krp_person_id__301">
+          <persName>Habsburg-Lothringen, Maria Josefa</persName>
+        </person>
+        <person xml:id="krp_person_id__302">
+          <persName>Jung, Georg</persName>
+        </person>
+        <person xml:id="krp_person_id__497">
+          <persName>Wokral, Josef</persName>
+        </person>
+        <person xml:id="krp_person_id__612">
+          <persName>Dorschel, Otmar Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__607">
+          <persName>Drucker, Adolf Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__304">
+          <persName>Dubowy, Ernst Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__305">
+          <persName>Linder, Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__306">
+          <persName>Troubridge, Ernest</persName>
+          <birth>
+            <date when-iso="1862-07-15">1862-07-15</date>
+            <placeName>London-Hampstead</placeName>
+          </birth>
+          <death>
+            <date when-iso="1926-01-28">1926-01-28</date>
+            <placeName>Biarritz</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1169254551</idno>
+        </person>
+        <person xml:id="krp_person_id__307">
+          <persName>Buchinger, Rudolf</persName>
+          <birth>
+            <date when-iso="1879-03-03">1879-03-03</date>
+            <placeName ref="#krp_place_id__136">Staasdorf</placeName>
+          </birth>
+          <death>
+            <date when-iso="1950-02-20">1950-02-20</date>
+            <placeName ref="#krp_place_id__86">Tulln</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/129156698</idno>
+        </person>
+        <person xml:id="krp_person_id__309">
+          <persName>Smitka, Johann</persName>
+        </person>
+        <person xml:id="krp_person_id__543">
+          <persName>Oldofredi</persName>
+        </person>
+        <person xml:id="krp_person_id__310">
+          <persName>Oppenheimer, Richard [Ritter von Marnholm]</persName>
+          <birth>
+            <date when-iso="1864-08-10">1864-08-10</date>
+            <placeName>Janowitz/Böhmen</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-05-02">1945-05-02</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__490">
+          <persName>Heiderich, Franz Prof. Dr.</persName>
+          <birth>
+            <date when-iso="1863-10-25">1863-10-25</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1926-07-27">1926-07-27</date>
+            <placeName>Bad Gastein</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116605227</idno>
+        </person>
+        <person xml:id="krp_person_id__312">
+          <persName>Heinz, Franz Dr.</persName>
+          <birth>
+            <date when-iso="1862-05-16">1862-05-16</date>
+            <placeName>Fulnek</placeName>
+          </birth>
+          <death>
+            <date when-iso="1937-10-06">1937-10-06</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/13770691X</idno>
+        </person>
+        <person xml:id="krp_person_id__313">
+          <persName>Haager, Karl Dr. [Edler von Vanderhaag]</persName>
+          <birth>
+            <date when-iso="1872-11-10">1872-11-10</date>
+            <placeName>Budapest</placeName>
+          </birth>
+        </person>
+        <person xml:id="krp_person_id__315">
+          <persName>Redlich, Josef Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__316">
+          <persName>Rappaport, Alfred</persName>
+        </person>
+        <person xml:id="krp_person_id__319">
+          <persName>Paltauf, Rudolf Dr.</persName>
+          <birth>
+            <date when-iso="1862-12-16">1862-12-16</date>
+            <placeName>Judenburg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1936-03-11">1936-03-11</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__615">
+          <persName>Ballacs, Josef Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__474">
+          <persName>Bamberger, Max Dr.</persName>
+          <birth>
+            <date when-iso="1861-10-07">1861-10-07</date>
+            <placeName ref="#krp_place_id__317">Kufstein</placeName>
+          </birth>
+          <death>
+            <date when-iso="1927-10-28">1927-10-28</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116047607</idno>
+        </person>
+        <person xml:id="krp_person_id__614">
+          <persName>Bandl, Erich Dr.</persName>
+          <birth>
+            <date when-iso="1880-08-02">1880-08-02</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1960-10-09">1960-10-09</date>
+            <placeName>Steindorf am Ossiachersee</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/131705326</idno>
+        </person>
+        <person xml:id="krp_person_id__320">
+          <persName>Barrés,</persName>
+        </person>
+        <person xml:id="krp_person_id__321">
+          <persName>Wallace,</persName>
+        </person>
+        <person xml:id="krp_person_id__322">
+          <persName>Torretta, Pietro Tomasi</persName>
+          <birth>
+            <date when-iso="1873-04-07">1873-04-07</date>
+            <placeName>Palermo</placeName>
+          </birth>
+          <death>
+            <date when-iso="1962-12-04">1962-12-04</date>
+            <placeName>Rom</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1295214849</idno>
+        </person>
+        <person xml:id="krp_person_id__544">
+          <persName>Habsburg-Lothringen, Peter Ferdinand</persName>
+          <birth>
+            <date when-iso="1874-05-12">1874-05-12</date>
+            <placeName ref="#krp_place_id__12">Salzburg (Stadt)</placeName>
+          </birth>
+          <death>
+            <date when-iso="1948-11-09">1948-11-09</date>
+            <placeName>St. Gilgen</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__323">
+          <persName>Habsburg-Lothringen, Rainer</persName>
+        </person>
+        <person xml:id="krp_person_id__325">
+          <persName>Dittrich, Bruno</persName>
+        </person>
+        <person xml:id="krp_person_id__326">
+          <persName>Wettendorfer,</persName>
+        </person>
+        <person xml:id="krp_person_id__627">
+          <persName>Dvořák, Max Dr.</persName>
+          <birth>
+            <date when-iso="1874-06-24">1874-06-24</date>
+            <placeName>Raudnitz an der Elbe</placeName>
+          </birth>
+          <death>
+            <date when-iso="1921-02-08">1921-02-08</date>
+            <placeName>Schloss Grusbach</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__504">
+          <persName>Eckl, Herta</persName>
+        </person>
+        <person xml:id="krp_person_id__327">
+          <persName>Egger, Rudolf Franz Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__328">
+          <persName>Ruber, Ignaz Viktor Rudolf Emil Franz [Edler von]</persName>
+          <birth>
+            <date when-iso="1876-10-14">1876-10-14</date>
+            <placeName>Brünn</placeName>
+          </birth>
+          <death>
+            <date when-iso="1943-02-25">1943-02-25</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__329">
+          <persName>Schwegel, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__330">
+          <persName>Peter, Albert</persName>
+        </person>
+        <person xml:id="krp_person_id__546">
+          <persName>Amon,</persName>
+        </person>
+        <person xml:id="krp_person_id__331">
+          <persName>Aub,</persName>
+        </person>
+        <person xml:id="krp_person_id__499">
+          <persName>Kunzl, F. Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__332">
+          <persName>Kurz</persName>
+        </person>
+        <person xml:id="krp_person_id__333">
+          <persName>Thomes, Albert</persName>
+          <birth>
+            <date when-iso="1878-06-16">1878-06-16</date>
+            <placeName>Champigny sur Marne</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-05-08">1932-05-08</date>
+            <placeName>Paris</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D120163993</idno>
+        </person>
+        <person xml:id="krp_person_id__334">
+          <persName>de L‘Epine</persName>
+        </person>
+        <person xml:id="krp_person_id__335">
+          <persName>Bartsch, Robert (Johann Heinrich Friedrich) Dr.</persName>
+          <birth>
+            <date when-iso="1874-07-23">1874-07-23</date>
+            <placeName ref="#krp_place_id__85">Mödling</placeName>
+          </birth>
+          <death>
+            <date when-iso="1955-05-30">1955-05-30</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info.gnd/116075651</idno>
+        </person>
+        <person xml:id="krp_person_id__337">
+          <persName>Bunau-Varilla Maurice</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/133302636</idno>
+        </person>
+        <person xml:id="krp_person_id__552">
+          <persName>Schoeller, Paul</persName>
+        </person>
+        <person xml:id="krp_person_id__556">
+          <persName>Scholz, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__338">
+          <persName>Schönemann, Adolf</persName>
+        </person>
+        <person xml:id="krp_person_id__503">
+          <persName>Kratzig, Wilhelmine</persName>
+        </person>
+        <person xml:id="krp_person_id__339">
+          <persName>Kronholz, Robert</persName>
+        </person>
+        <person xml:id="krp_person_id__340">
+          <persName>Löwe, Ferdinand</persName>
+          <birth>
+            <date when-iso="1865-02-19">1865-02-19</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1925-01-06">1925-01-06</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.unfo/gnd/119273853</idno>
+        </person>
+        <person xml:id="krp_person_id__623">
+          <persName>Ludwig, Eduard</persName>
+          <birth>
+            <date when-iso="1883-01-09">1883-01-09</date>
+            <placeName>Persenbeug</placeName>
+          </birth>
+          <death>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https:/d-nb.info/gnd/128654457</idno>
+        </person>
+        <person xml:id="krp_person_id__341">
+          <persName>Mandyczewski, Eusebius Dr.</persName>
+          <birth>
+            <date when-iso="1857-08-18">1857-08-18</date>
+            <placeName>Czernowitz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1929-07-13">1929-07-13</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116728698</idno>
+        </person>
+        <person xml:id="krp_person_id__625">
+          <persName>Scheuch, Leopold</persName>
+        </person>
+        <person xml:id="krp_person_id__342">
+          <persName>Schlemmer-Ambros, Irene</persName>
+          <birth>
+            <date when-iso="1853-11-13">1853-11-13</date>
+            <placeName ref="#krp_place_id__42">Prag</placeName>
+          </birth>
+          <death>
+            <date when-iso="1943-09-29">1943-09-29</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/11732471X</idno>
+        </person>
+        <person xml:id="krp_person_id__343">
+          <persName>Fórsten, Filip</persName>
+          <birth>
+            <date when-iso="1852-07-06">1852-07-06</date>
+            <placeName>Nurmijärvi</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-09-18">1932-09-18</date>
+            <placeName>Wyborg</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1076420370</idno>
+        </person>
+        <person xml:id="krp_person_id__344">
+          <persName>Geiringer, Gustav</persName>
+          <birth>
+            <date when-iso="1856-12-15">1856-12-15</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-04-22">1945-04-22</date>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/142252549</idno>
+        </person>
+        <person xml:id="krp_person_id__345">
+          <persName>Haböck, Franz</persName>
+          <birth>
+            <date when-iso="1868-04-23">1868-04-23</date>
+            <placeName>Bad Hall, Oberösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1921-12-16">1921-12-16</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/130170038</idno>
+        </person>
+        <person xml:id="krp_person_id__346">
+          <persName>Thomas, Eugen</persName>
+          <birth>
+            <date when-iso="1863-01-30">1863-01-30</date>
+            <placeName>Surabaya</placeName>
+          </birth>
+          <death>
+            <date when-iso="1922-07-17">1922-07-17</date>
+            <placeName>Schloss Orth bei Gmunden, Oberösterreich</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/131603949</idno>
+        </person>
+        <person xml:id="krp_person_id__347">
+          <persName>Reinhold, Hugo</persName>
+          <birth>
+            <date when-iso="1854-03-03">1854-03-03</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1935-09-04">1935-09-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116423064</idno>
+        </person>
+        <person xml:id="krp_person_id__553">
+          <persName>Pantz, Dr. Anton [von]</persName>
+          <birth>
+            <date when-iso="1864-10-22">1864-10-22</date>
+            <placeName>Eibiswald</placeName>
+          </birth>
+          <death>
+            <date when-iso="1945-08-31">1945-08-31</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/127926186</idno>
+        </person>
+        <person xml:id="krp_person_id__348">
+          <persName>Papier-Paumgartner, Rosa</persName>
+          <birth>
+            <date when-iso="1858-09-15">1858-09-15</date>
+            <placeName>Baden, Niederösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-02-09">1932-02-09</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116067144</idno>
+        </person>
+        <person xml:id="krp_person_id__349">
+          <persName>Hofmann, Josef</persName>
+          <birth>
+            <date when-iso="1865-08-13">1865-08-13</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1927-10-18">1927-10-18</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__493">
+          <persName>Schmid, Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__350">
+          <persName>Schmidt, Franz</persName>
+        </person>
+        <person xml:id="krp_person_id__495">
+          <persName>Priebsch, Josef Prof. Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__351">
+          <persName>Prohaska, Karl</persName>
+          <birth>
+            <date when-iso="1869-04-25">1869-04-25</date>
+            <placeName>Mödling, Niederösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1927-03-27">1927-03-27</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__383">
+          <persName>Grümmer, Paul</persName>
+          <birth>
+            <date when-iso="1879-02-26">1879-02-26</date>
+            <placeName>Gera</placeName>
+          </birth>
+          <death>
+            <date when-iso="1965-10-30">1965-10-30</date>
+            <placeName>Zug</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__551">
+          <persName>Marschall, Rudolf Dr.</persName>
+          <birth>
+            <date when-iso="1873-12-03">1873-12-03</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1967-07-24">1967-07-24</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/129250821</idno>
+        </person>
+        <person xml:id="krp_person_id__384">
+          <persName>Marx, Josef</persName>
+        </person>
+        <person xml:id="krp_person_id__416">
+          <persName>Pöstinger, Mathias</persName>
+        </person>
+        <person xml:id="krp_person_id__417">
+          <persName>Zsiska, Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__418">
+          <persName>Kotzian, Mathias</persName>
+        </person>
+        <person xml:id="krp_person_id__419">
+          <persName>Kogler, Raimund</persName>
+        </person>
+        <person xml:id="krp_person_id__452">
+          <persName>Obermaier, Josef</persName>
+        </person>
+        <person xml:id="krp_person_id__453">
+          <persName>Griesmüller, Karl</persName>
+        </person>
+        <person xml:id="krp_person_id__487">
+          <persName>Hartmann, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__454">
+          <persName>Hartmannsgruber, Eberhard</persName>
+        </person>
+        <person xml:id="krp_person_id__496">
+          <persName>Schürff, Hans Dr.</persName>
+          <birth>
+            <date when-iso="1875-05-12">1875-05-12</date>
+            <placeName>Mödling, Niederösterreich</placeName>
+          </birth>
+          <death>
+            <date when-iso="1939-03-27">1939-03-27</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1033101540</idno>
+        </person>
+        <person xml:id="krp_person_id__455">
+          <persName>Schwarzinger, Ernst</persName>
+        </person>
+        <person xml:id="krp_person_id__456">
+          <persName>Ring, Ferdinand</persName>
+        </person>
+        <person xml:id="krp_person_id__628">
+          <persName>Bolzer, Ferdinand Ing.</persName>
+        </person>
+        <person xml:id="krp_person_id__457">
+          <persName>Boninchi, Franz</persName>
+        </person>
+        <person xml:id="krp_person_id__458">
+          <persName>Sonnberger, Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__459">
+          <persName>Haider, Franz</persName>
+        </person>
+        <person xml:id="krp_person_id__460">
+          <persName>Breuer, Anton</persName>
+        </person>
+        <person xml:id="krp_person_id__461">
+          <persName>Wiesmaier, Josef</persName>
+        </person>
+        <person xml:id="krp_person_id__462">
+          <persName>Schlosser, Rudolf</persName>
+        </person>
+        <person xml:id="krp_person_id__463">
+          <persName>Cnobloch, Johann Alois Alfred Dr.</persName>
+          <birth>
+            <date when-iso="1871-03-06">1871-03-06</date>
+            <placeName>St. Ruprecht</placeName>
+          </birth>
+          <death>
+            <date when-iso="1962-02-19">1962-02-19</date>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__616">
+          <persName>Lenz, Franz Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__464">
+          <persName>Lers</persName>
+        </person>
+        <person xml:id="krp_person_id__465">
+          <persName>Pozzi</persName>
+        </person>
+        <person xml:id="krp_person_id__467">
+          <persName>Mannlicher, Egbert Dr.</persName>
+          <birth>
+            <date when-iso="1882-02-21">1882-02-21</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1973-10-05">1973-10-05</date>
+            <placeName>Oberalm</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/132883422</idno>
+        </person>
+        <person xml:id="krp_person_id__468">
+          <persName>Bernhard, Alphons</persName>
+        </person>
+        <person xml:id="krp_person_id__469">
+          <persName>Schüch</persName>
+        </person>
+        <person xml:id="krp_person_id__626">
+          <persName>Mengele, Benno</persName>
+        </person>
+        <person xml:id="krp_person_id__470">
+          <persName>Metzger, Hugo August</persName>
+          <birth>
+            <date when-iso="1881-03-03">1881-03-03</date>
+            <placeName>Lemberg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1950-01-28">1950-01-28</date>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__471">
+          <persName>Steyrer,</persName>
+        </person>
+        <person xml:id="krp_person_id__472">
+          <persName>Kohler</persName>
+        </person>
+        <person xml:id="krp_person_id__595">
+          <persName>Spitzmüller, Alexander [von Harmersbach]</persName>
+          <birth>
+            <date when-iso="1862-05-12">1862-05-12</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1953-09-06">1953-09-06</date>
+            <placeName>Felden/Wörthersee (Kärnten)</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118867342</idno>
+        </person>
+        <person xml:id="krp_person_id__596">
+          <persName>Goebl, Karl</persName>
+          <birth>
+            <date when-iso="1870-03-12">1870-03-12</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1940-01-16">1940-01-16</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__597">
+          <persName>Schraffl, Josef</persName>
+          <birth>
+            <date when-iso="1855-06-13">1855-06-13</date>
+            <placeName>Sillian</placeName>
+          </birth>
+          <death>
+            <date when-iso="1922-01-11">1922-01-11</date>
+            <placeName ref="#krp_place_id__16">Innsbruck</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1013959752</idno>
+        </person>
+        <person xml:id="krp_person_id__661">
+          <persName>Alberti</persName>
+        </person>
+        <person xml:id="krp_person_id__662">
+          <persName>Curzon, George Nathaniel</persName>
+          <birth>
+            <date when-iso="1859-01-11">1859-01-11</date>
+            <placeName>Kedleston Hall</placeName>
+          </birth>
+          <death>
+            <date when-iso="1925-03-20">1925-03-20</date>
+            <placeName>London</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119091364</idno>
+        </person>
+        <person xml:id="krp_person_id__695">
+          <persName>Steiner, Leopold</persName>
+        </person>
+        <person xml:id="krp_person_id__696">
+          <persName>Zedtwitz, Albrecht Heinrich Julius Dr.</persName>
+          <birth>
+            <date when-iso="1869-05-16">1869-05-16</date>
+            <placeName>Neuberg</placeName>
+          </birth>
+          <death>
+            <date when-iso="1950-01-10">1950-01-10</date>
+            <placeName>Graz</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__697">
+          <persName>Reiber, Viktor</persName>
+        </person>
+        <person xml:id="krp_person_id__698">
+          <persName>Österreich, Friedrich [Erzherzog von]</persName>
+        </person>
+        <person xml:id="krp_person_id__731">
+          <persName>Riedl, Richard</persName>
+          <birth>
+            <date when-iso="1865-12-08">1865-12-08</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-03-09">1944-03-09</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__764">
+          <persName>Karl I.</persName>
+        </person>
+        <person xml:id="krp_person_id__765">
+          <persName>Löwenthal, Josef Dr. [Freiherrr von]</persName>
+          <birth>
+            <date when-iso="1873-05-04">1873-05-04</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1940-01-12">1940-01-12</date>
+            <placeName ref="#krp_place_id__15">Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__766">
+          <persName>Grienberger, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__767">
+          <persName>Bertele, Otto Ing. [von Grenadenberg]</persName>
+        </person>
+        <person xml:id="krp_person_id__768">
+          <persName>Kunst, Josef Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__770">
+          <persName>Obersten</persName>
+        </person>
+        <person xml:id="krp_person_id__771">
+          <persName>Preis, Friedrich</persName>
+        </person>
+        <person xml:id="krp_person_id__772">
+          <persName>Hammerschlag, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__773">
+          <persName>Weiner, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__774">
+          <persName>Rapp, Max [von]</persName>
+        </person>
+        <person xml:id="krp_person_id__775">
+          <persName>Sieghart, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__776">
+          <persName>Hoffmann, Johannes</persName>
+        </person>
+        <person xml:id="krp_person_id__777">
+          <persName>Napoleon I.</persName>
+        </person>
+        <person xml:id="krp_person_id__778">
+          <persName>Walker, Gustav Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__779">
+          <persName>Muchitsch, Vinzenz</persName>
+        </person>
+        <person xml:id="krp_person_id__780">
+          <persName>Reif</persName>
+        </person>
+        <person xml:id="krp_person_id__781">
+          <persName>Deutsch, Viktor Stefan</persName>
+          <birth>
+            <date when-iso="1864-02-26">1864-02-26</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1941-11-06">1941-11-06</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__782">
+          <persName>Lemisch, Arthur</persName>
+        </person>
+        <person xml:id="krp_person_id__783">
+          <persName>Engel, Friedrich</persName>
+        </person>
+        <person xml:id="krp_person_id__784">
+          <persName>Schwarz, Karl Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__785">
+          <persName>Reumann, Jakob</persName>
+          <birth>
+            <date when-iso="1853-12-31">1853-12-31</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1925-07-25">1925-07-25</date>
+            <placeName>Klagenfurt</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1014062276</idno>
+        </person>
+        <person xml:id="krp_person_id__786">
+          <persName>Millerand, Alexandre</persName>
+        </person>
+        <person xml:id="krp_person_id__819">
+          <persName>Piffl, Friedrich Gustav</persName>
+          <birth>
+            <date when-iso="1864-10-15">1864-10-15</date>
+            <placeName>Lanškroun</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-04-21">1932-04-21</date>
+            <placeName>Wien</placeName>
+          </death>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118846116</idno>
+        </person>
+        <person xml:id="krp_person_id__820">
+          <persName>Spalovsky</persName>
+        </person>
+        <person xml:id="krp_person_id__821">
+          <persName>Habsburg-Lothringen, Zita Maria delle Grazie</persName>
+        </person>
+        <person xml:id="krp_person_id__822">
+          <persName>Tschitscherin, Georgi Wassiljewitsch</persName>
+        </person>
+        <person xml:id="krp_person_id__823">
+          <persName>Tusar, Vlastimil</persName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/133790649</idno>
+        </person>
+        <person xml:id="krp_person_id__824">
+          <persName>Sobotka, Felix</persName>
+        </person>
+        <person xml:id="krp_person_id__825">
+          <persName>Hoen, Maximilian [von]</persName>
+        </person>
+        <person xml:id="krp_person_id__826">
+          <persName>Schwager, Vilma</persName>
+        </person>
+        <person xml:id="krp_person_id__827">
+          <persName>Sochor</persName>
+        </person>
+        <person xml:id="krp_person_id__828">
+          <persName>Dillon</persName>
+        </person>
+        <person xml:id="krp_person_id__861">
+          <persName>Emmerling, Georg</persName>
+          <birth>
+            <date when-iso="1870-07-12">1870-07-12</date>
+            <placeName>Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1948-12-12">1948-12-12</date>
+            <placeName>Wien</placeName>
+          </death>
+        </person>
+        <person xml:id="krp_person_id__862">
+          <persName>Sachs, Konrad Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__863">
+          <persName>Schuster, Maximilian [Edler von Bonnott]</persName>
+        </person>
+        <person xml:id="krp_person_id__864">
+          <persName>Jenny, Wilhelm [von]</persName>
+        </person>
+        <person xml:id="krp_person_id__865">
+          <persName>Hock, Paul [Freiherr von]</persName>
+        </person>
+        <person xml:id="krp_person_id__866">
+          <persName>Schimm, Anton Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__867">
+          <persName>Hiller-Schönaich, Johann [Freiherr von]</persName>
+        </person>
+        <person xml:id="krp_person_id__868">
+          <persName>Weiss-Starkenfels, Viktor [Freiherr von]</persName>
+        </person>
+        <person xml:id="krp_person_id__869">
+          <persName>Tezner, Friedrich Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__871">
+          <persName>Löcker, Julius Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__872">
+          <persName>Herrnritt, Rudolf Herrmann [von]</persName>
+        </person>
+        <person xml:id="krp_person_id__873">
+          <persName>Schneller, Johann [Edler von]</persName>
+        </person>
+        <person xml:id="krp_person_id__874">
+          <persName>Bonfioli-Valcabó, Guido [von]</persName>
+        </person>
+        <person xml:id="krp_person_id__875">
+          <persName>Kamitz, Wenzel Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__876">
+          <persName>Schubert, Friedrich</persName>
+        </person>
+        <person xml:id="krp_person_id__877">
+          <persName>Wilhelm, Karl Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__878">
+          <persName>Binder, Georg Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__879">
+          <persName>Peer, Josef Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__880">
+          <persName>Reissig, Heinrich [Freiherr von]</persName>
+        </person>
+        <person xml:id="krp_person_id__881">
+          <persName>Adolf, Gustav II.</persName>
+        </person>
+        <person xml:id="krp_person_id__882">
+          <persName>Ludwig Viktor, Erzherzog</persName>
+        </person>
+        <person xml:id="krp_person_id__915">
+          <persName>Feucht</persName>
+        </person>
+        <person xml:id="krp_person_id__948">
+          <persName>Bourbon-Parma, Sixtus [von]</persName>
+        </person>
+        <person xml:id="krp_person_id__949">
+          <persName>Bourbon-Parma, Franz Xaver [von]</persName>
+        </person>
+        <person xml:id="krp_person_id__950">
+          <persName>Meyer, Oskar</persName>
+        </person>
+        <person xml:id="krp_person_id__951">
+          <persName>Stutz, Ernst</persName>
+        </person>
+        <person xml:id="krp_person_id__984">
+          <persName>Böhm, Vilmos</persName>
+        </person>
+        <person xml:id="krp_person_id__1017">
+          <persName>Borghese, Livio</persName>
+        </person>
+        <person xml:id="krp_person_id__1018">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1019">
+          <persName></persName>
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>
