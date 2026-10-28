@@ -38,7 +38,7 @@
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "label": "Ungarische Republik [-21.03.1919; 01.08.1919-21.03.1920]",
+    "label": "Ungarische Republik [bis 21.03.1919; 01.08.1919-21.03.1920]",
     "krp_place_id": "krp_place_id__5",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__5\">Ungarn</rs>",
@@ -3138,6 +3138,33 @@
     "krp_place_id": "krp_place_id__548",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__548\">Sonnberg</rs>",
+    "mrp_place_id": ""
+  },
+  "580": {
+    "id": 580,
+    "order": "340.00000000000000000000",
+    "label": "Steinhof",
+    "krp_place_id": "krp_place_id__580",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__580\">Steinhof</rs>",
+    "mrp_place_id": ""
+  },
+  "581": {
+    "id": 581,
+    "order": "341.00000000000000000000",
+    "label": "Preußen",
+    "krp_place_id": "krp_place_id__581",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__581\">Preußen</rs>",
+    "mrp_place_id": ""
+  },
+  "582": {
+    "id": 582,
+    "order": "342.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__582",
+    "alternative_name": "",
+    "tei_code": "",
     "mrp_place_id": ""
   }
 }

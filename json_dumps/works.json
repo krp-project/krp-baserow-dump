@@ -38,5 +38,15 @@
     "source": "",
     "mrp_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__35\"></rs>"
+  },
+  "36": {
+    "id": 36,
+    "order": "5.00000000000000000000",
+    "label": "Haager Prozessübereinkommen",
+    "note": "",
+    "krp_work_id": "krp_work_id__36",
+    "source": "",
+    "mrp_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__36\">Haager Prozessübereinkommen</rs>"
   }
 }

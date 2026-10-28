@@ -3622,11 +3622,11 @@
   "610": {
     "id": 610,
     "order": "368.00000000000000000000",
-    "label": "",
+    "label": "Aktionskomitee der militärischen Angestellten",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__610",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__610\"></rs>",
     "mrp_org_id": ""
   },
   "643": {
@@ -3757,6 +3757,66 @@
     "source": "",
     "krp_org_id": "krp_org_id__687",
     "tei_code": "<rs type=\"org\" ref=\"#krp_id__687\">Stadtschutzwache</rs>",
+    "mrp_org_id": ""
+  },
+  "688": {
+    "id": 688,
+    "order": "382.00000000000000000000",
+    "label": "k.k. Justizministerium",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__688",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__688\">k.k. Justizministerium</rs>",
+    "mrp_org_id": ""
+  },
+  "689": {
+    "id": 689,
+    "order": "383.00000000000000000000",
+    "label": "Stift St. Peter Salzburg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__689",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__689\"></rs>",
+    "mrp_org_id": ""
+  },
+  "690": {
+    "id": 690,
+    "order": "384.00000000000000000000",
+    "label": "Hofmuseen, ehemaligen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__690",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__690\">Hofmuseen</rs>",
+    "mrp_org_id": ""
+  },
+  "691": {
+    "id": 691,
+    "order": "385.00000000000000000000",
+    "label": "Kreditinstitutes für Verkehrsunternehmungen und öffentliche Arbeiten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__691",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__691\"></rs>",
+    "mrp_org_id": ""
+  },
+  "692": {
+    "id": 692,
+    "order": "386.00000000000000000000",
+    "label": "Wiener Giro- und Cassenverein",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__692",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__692\"></rs>",
+    "mrp_org_id": ""
+  },
+  "693": {
+    "id": 693,
+    "order": "387.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__693",
+    "tei_code": "",
     "mrp_org_id": ""
   }
 }
