@@ -246,7 +246,7 @@
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Staatssekretär für Volksernährung [I-III]</occupation>
-          <idno type="URL" subtype="GND">https://d-nb.info/gnd/11813692</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118813692</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1695403</idno>
         </person>
         <person xml:id="krp_person_id__16">
@@ -751,7 +751,7 @@ Kollegium für das liquidierende Kriegsministerium</occupation>
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Sektionschef im Staatsamt für Handel und Gewerbe, Industrie und Bauten; Generalpostdirektor</occupation>
-          <idno type="URL" subtype="GND">https://d-nb.info/gnd/121556789</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/131556789</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1782058</idno>
         </person>
         <person xml:id="krp_person_id__59">
@@ -997,7 +997,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/12796195X</idno>
         </person>
         <person xml:id="krp_person_id__624">
-          <persName>Kniep, Hans</persName>
+          <persName>Kniep, Hans (Johann)</persName>
           <occupation>Generalkommissär für den Wirtschaftsverkehr mit Jugoslawien</occupation>
         </person>
         <person xml:id="krp_person_id__80">
@@ -2871,7 +2871,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
           <occupation>technischer Direktor der staatlichen Industriewerke</occupation>
         </person>
         <person xml:id="krp_person_id__333">
-          <persName>Thomes, Albert</persName>
+          <persName>Thomas, Albert</persName>
           <birth>
             <date when-iso="1878-06-16">1878-06-16</date>
             <placeName>Champigny sur Marne</placeName>
@@ -2881,7 +2881,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
             <placeName>Paris</placeName>
           </death>
           <occupation>Direktor des Internationalen Arbeitsamtes</occupation>
-          <idno type="URL" subtype="GND">https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D120163993</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/120163993</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2025679</idno>
         </person>
         <person xml:id="krp_person_id__334">
@@ -2899,7 +2899,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Ministerialrat Staatsamt für soziale Verwaltung [III]</occupation>
-          <idno type="URL" subtype="GND">https://d-nb.info.gnd/116075651</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116075651</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q22691279</idno>
         </person>
         <person xml:id="krp_person_id__337">
@@ -2939,7 +2939,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Direktor der Staatsakademie für Musik und darstellende Kunst</occupation>
-          <idno type="URL" subtype="GND">https://d-nb.unfo/gnd/119273853</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119273853</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q84709</idno>
         </person>
         <person xml:id="krp_person_id__623">
@@ -2952,7 +2952,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Publizistischer Mitarbeiter Eduard Ludwig</occupation>
-          <idno type="URL" subtype="GND">https:/d-nb.info/gnd/128654457</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/128654457</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1289204</idno>
         </person>
         <person xml:id="krp_person_id__341">
@@ -3677,6 +3677,29 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
         <person xml:id="krp_person_id__1022">
           <persName>Clemenceau, Georges</persName>
           <occupation>Ministerpräsident Frankreich, Präsident der Friedenskonferenz</occupation>
+        </person>
+        <person xml:id="krp_person_id__1023">
+          <persName>Habsburg-Lothringen, Friedrich</persName>
+        </person>
+        <person xml:id="krp_person_id__1024">
+          <persName>Schiffer, Eugen</persName>
+          <birth>
+            <date when-iso="1860-02-14">1860-02-14</date>
+            <placeName>Breslau</placeName>
+          </birth>
+          <death>
+            <date when-iso="1954-09-05">1954-09-05</date>
+            <placeName>Berlin</placeName>
+          </death>
+          <occupation>Abgeordneter des deutschen Reichstages</occupation>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118824155</idno>
+        </person>
+        <person xml:id="krp_person_id__1025">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1026">
+          <persName>Erzberger, Matthias</persName>
+          <occupation>Abgeordneter des deutschen Reichstages</occupation>
         </person>
       </listPerson>
     </body>
