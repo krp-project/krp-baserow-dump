@@ -2,7 +2,7 @@ name: Dump Entities from Baserow
 
 on:
   schedule:
-  - cron: "33 8 * * *"
+  - cron: "45 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,14 +14,21 @@ jobs:
       BASEROW_USER: ${{ secrets.BASEROW_USER }}
       BASEROW_PW: ${{ secrets.BASEROW_PW }}
     steps:
-      - name: checkout the repo  
+      - name: checkout the repo
         uses: actions/checkout@v5
       - name: Install the latest version of uv
         uses: astral-sh/setup-uv@v7
       - name: dump the data
         run: |
           uv run dump_data.py
-      - name: Commit data
+      - name: commit data
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Data update from Baserow
+      - name: create indices
+        run: |
+          uv run json2tei.py
+      - name: commit indices
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Indices update from Baserow data
