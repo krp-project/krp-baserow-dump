@@ -3153,8 +3153,8 @@
     "id": 466,
     "order": "320.00000000000000000000",
     "label": "Handels- und Gewerbekammer",
-    "note": "",
-    "source": "",
+    "note": "Kammern für Handel, Gewerbe und Industrie",
+    "source": "https://www.parlament.gv.at/dokument/KN/I-KN/518/imfname_719522.pdf",
     "krp_org_id": "krp_org_id__466",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__466\"></rs>",
     "mrp_org_id": ""
@@ -3687,6 +3687,76 @@
     "source": "",
     "krp_org_id": "krp_org_id__680",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__680\"></rs>",
+    "mrp_org_id": ""
+  },
+  "681": {
+    "id": 681,
+    "order": "375.00000000000000000000",
+    "label": "Staatskommission für Kriegsgefangenen- und Zivilinterniertenfürsorge",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__681",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__681\">Staatskommission</rs>",
+    "mrp_org_id": ""
+  },
+  "682": {
+    "id": 682,
+    "order": "376.00000000000000000000",
+    "label": "Stubachwerk",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__682",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__682\">Stubachwerk</rs>",
+    "mrp_org_id": ""
+  },
+  "683": {
+    "id": 683,
+    "order": "377.00000000000000000000",
+    "label": "Mallnitzwerk",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__683",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__683\">Mallnitzwerk</rs>",
+    "mrp_org_id": ""
+  },
+  "684": {
+    "id": 684,
+    "order": "378.00000000000000000000",
+    "label": "Schweizer Unterrichtsamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__684",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__684\">Schweizer Unterrichtsamt</rs>",
+    "mrp_org_id": ""
+  },
+  "685": {
+    "id": 685,
+    "order": "379.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__685",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "686": {
+    "id": 686,
+    "order": "380.00000000000000000000",
+    "label": "Kriegsgefangenen- und Zivilinterniertenamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__686",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__686\">Kriegsgefangenen- und Zivilinterniertenamt</rs>",
+    "mrp_org_id": ""
+  },
+  "687": {
+    "id": 687,
+    "order": "381.00000000000000000000",
+    "label": "Stadtschutzwache",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__687",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_id__687\">Stadtschutzwache</rs>",
     "mrp_org_id": ""
   }
 }
