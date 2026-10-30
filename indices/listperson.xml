@@ -533,7 +533,7 @@
           <occupation>Vertragsangestellter des Reichsbildungsamtes</occupation>
         </person>
         <person xml:id="krp_person_id__36">
-          <persName>Waiss, Erwin Dr.</persName>
+          <persName>Waiss, Erwin</persName>
           <birth>
             <date when-iso="1880-08-03">1880-08-03</date>
             <placeName ref="#krp_place_id__15">Wien</placeName>
@@ -3700,6 +3700,9 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
         <person xml:id="krp_person_id__1026">
           <persName>Erzberger, Matthias</persName>
           <occupation>Abgeordneter des deutschen Reichstages</occupation>
+        </person>
+        <person xml:id="krp_person_id__1059">
+          <persName></persName>
         </person>
       </listPerson>
     </body>
