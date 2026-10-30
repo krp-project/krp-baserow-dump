@@ -3818,5 +3818,105 @@
     "krp_org_id": "krp_org_id__693",
     "tei_code": "",
     "mrp_org_id": ""
+  },
+  "694": {
+    "id": 694,
+    "order": "388.00000000000000000000",
+    "label": "Verkehrsausschuss der Nationalversammlung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__694",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__694\"></rs>",
+    "mrp_org_id": ""
+  },
+  "695": {
+    "id": 695,
+    "order": "389.00000000000000000000",
+    "label": "Reichsvollzugsausschuss der Arbeiterräte",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__695",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__695\"></rs>",
+    "mrp_org_id": ""
+  },
+  "696": {
+    "id": 696,
+    "order": "390.00000000000000000000",
+    "label": "Salzburger Zeitung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__696",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__696\"></rs>",
+    "mrp_org_id": ""
+  },
+  "697": {
+    "id": 697,
+    "order": "391.00000000000000000000",
+    "label": "Vorarlberger Landesrat [[03.11.1918-]",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__697",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__697\"></rs>",
+    "mrp_org_id": ""
+  },
+  "730": {
+    "id": 730,
+    "order": "392.00000000000000000000",
+    "label": "Staatsschuldenkontrollkommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__730",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__730\">Staatsschuldenkontrollkommission</rs>",
+    "mrp_org_id": ""
+  },
+  "731": {
+    "id": 731,
+    "order": "393.00000000000000000000",
+    "label": "Staatsrechnungshof",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__731",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__731\">Staatsrechnungshof</rs>",
+    "mrp_org_id": ""
+  },
+  "732": {
+    "id": 732,
+    "order": "394.00000000000000000000",
+    "label": "Generalinspektion des österreischischen Eisenbahnwesens",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__732",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__732\"></rs>",
+    "mrp_org_id": ""
+  },
+  "733": {
+    "id": 733,
+    "order": "395.00000000000000000000",
+    "label": "„Henry\" Seifen-, Kerzen- und Fettwarenfabrik GmbH",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__733",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__733\"></rs>",
+    "mrp_org_id": ""
+  },
+  "734": {
+    "id": 734,
+    "order": "396.00000000000000000000",
+    "label": "Österreichischen Credit-Instituts für öffentliche Unternehmungen und Arbeiten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__734",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__734\"></rs>",
+    "mrp_org_id": ""
+  },
+  "735": {
+    "id": 735,
+    "order": "397.00000000000000000000",
+    "label": "Wiener Börse",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__735",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__735\"></rs>",
+    "mrp_org_id": ""
   }
 }

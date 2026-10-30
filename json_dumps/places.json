@@ -3166,5 +3166,23 @@
     "alternative_name": "",
     "tei_code": "",
     "mrp_place_id": ""
+  },
+  "583": {
+    "id": 583,
+    "order": "343.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__583",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "584": {
+    "id": 584,
+    "order": "344.00000000000000000000",
+    "label": "Feldkirch",
+    "krp_place_id": "krp_place_id__584",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__584\">Feldkirch</rs>",
+    "mrp_place_id": ""
   }
 }

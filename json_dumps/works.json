@@ -48,5 +48,15 @@
     "source": "",
     "mrp_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__36\">Haager Prozessübereinkommen</rs>"
+  },
+  "37": {
+    "id": 37,
+    "order": "6.00000000000000000000",
+    "label": "Berner Urheberschutzkonvention",
+    "note": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001746&FassungVom=2026-10-19&Artikel=1&Paragraf=&Anlage=&Uebergangsrecht=",
+    "krp_work_id": "krp_work_id__37",
+    "source": "",
+    "mrp_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__37\">Berner Urheberschutzkonvention</rs>"
   }
 }
