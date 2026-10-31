@@ -3704,6 +3704,22 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
         <person xml:id="krp_person_id__1059">
           <persName></persName>
         </person>
+        <person xml:id="krp_person_id__1060">
+          <persName>Freissler, Dr.</persName>
+        </person>
+        <person xml:id="krp_person_id__1061">
+          <persName>Gleispach, Dr.</persName>
+          <birth>
+            <date when-iso="1867-08-22">1867-08-22</date>
+            <placeName>Graz</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-03-12">1944-03-12</date>
+            <placeName>Wien</placeName>
+          </death>
+          <occupation>Universitätsprofessor</occupation>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118746596</idno>
+        </person>
       </listPerson>
     </body>
   </text>
