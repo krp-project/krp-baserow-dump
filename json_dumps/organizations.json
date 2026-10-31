@@ -3732,7 +3732,7 @@
   "685": {
     "id": 685,
     "order": "379.00000000000000000000",
-    "label": "",
+    "label": "Allgemeine Verband ländlicher Genossenschaften in Österreich",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__685",
@@ -3917,6 +3917,86 @@
     "source": "",
     "krp_org_id": "krp_org_id__735",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__735\"></rs>",
+    "mrp_org_id": ""
+  },
+  "768": {
+    "id": 768,
+    "order": "398.00000000000000000000",
+    "label": "Österreichische Staatstheater",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__768",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__768\">Österreichische Staatstheater</rs>",
+    "mrp_org_id": ""
+  },
+  "769": {
+    "id": 769,
+    "order": "399.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__769",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "770": {
+    "id": 770,
+    "order": "400.00000000000000000000",
+    "label": "Burgtheater",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__770",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__770\">Burgtheater</rs>",
+    "mrp_org_id": ""
+  },
+  "771": {
+    "id": 771,
+    "order": "401.00000000000000000000",
+    "label": "Operntheater",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__771",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__771\">Operntheater</rs>",
+    "mrp_org_id": ""
+  },
+  "772": {
+    "id": 772,
+    "order": "402.00000000000000000000",
+    "label": "Schönbrunner Schlosstheater",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__772",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__772\">Schönbrunner Schlosstheater </rs>",
+    "mrp_org_id": ""
+  },
+  "802": {
+    "id": 802,
+    "order": "403.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__802",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "803": {
+    "id": 803,
+    "order": "404.00000000000000000000",
+    "label": "Österreichische Waffenfabriks-Gesellschaft",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__803",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__803\"></rs>",
+    "mrp_org_id": ""
+  },
+  "804": {
+    "id": 804,
+    "order": "405.00000000000000000000",
+    "label": "Tschechoslowakisches Eisenbahnministerium",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__804",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__804\"></rs>",
     "mrp_org_id": ""
   }
 }

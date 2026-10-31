@@ -3184,5 +3184,50 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__584\">Feldkirch</rs>",
     "mrp_place_id": ""
+  },
+  "616": {
+    "id": 616,
+    "order": "345.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__616",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "617": {
+    "id": 617,
+    "order": "346.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__617",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "618": {
+    "id": 618,
+    "order": "347.00000000000000000000",
+    "label": "Rauris",
+    "krp_place_id": "krp_place_id__618",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "619": {
+    "id": 619,
+    "order": "348.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__619",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "620": {
+    "id": 620,
+    "order": "349.00000000000000000000",
+    "label": "Lundenburg",
+    "krp_place_id": "krp_place_id__620",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__620\">Lundenburg</rs>",
+    "mrp_place_id": ""
   }
 }

@@ -9638,5 +9638,43 @@
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": "0"
+  },
+  "1060": {
+    "id": 1060,
+    "order": "427.00000000000000000000",
+    "label": "Freissler, Dr.",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "",
+    "source": "",
+    "krp_person_id": "krp_person_id__1060",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1060\"></rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": "0"
+  },
+  "1061": {
+    "id": 1061,
+    "order": "428.00000000000000000000",
+    "label": "Gleispach, Dr.",
+    "note": "",
+    "gnd_url": "https://d-nb.info/gnd/118746596",
+    "occupation": "Universitätsprofessor",
+    "source": "",
+    "krp_person_id": "krp_person_id__1061",
+    "wikidata_url": "",
+    "date_of_birth": "1867-08-22",
+    "date_of_death": "1944-03-12",
+    "Geburtsort": "Graz",
+    "Sterbeort": "Wien",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1061\">Gleispach</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": "0"
   }
 }
