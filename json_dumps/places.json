@@ -2834,15 +2834,6 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__357\">Amsterdam</rs>",
     "mrp_place_id": ""
   },
-  "390": {
-    "id": 390,
-    "order": "306.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__390",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
   "391": {
     "id": 391,
     "order": "307.00000000000000000000",
@@ -3005,15 +2996,6 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__439\">Freihaus</rs>",
     "mrp_place_id": ""
   },
-  "440": {
-    "id": 440,
-    "order": "325.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__440",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
   "441": {
     "id": 441,
     "order": "326.00000000000000000000",
@@ -3030,15 +3012,6 @@
     "krp_place_id": "krp_place_id__442",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__442\">Lützen</rs>",
-    "mrp_place_id": ""
-  },
-  "443": {
-    "id": 443,
-    "order": "328.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__443",
-    "alternative_name": "",
-    "tei_code": "",
     "mrp_place_id": ""
   },
   "444": {
@@ -3095,15 +3068,6 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__481\">Krems an der Donau</rs>",
     "mrp_place_id": ""
   },
-  "482": {
-    "id": 482,
-    "order": "335.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__482",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
   "483": {
     "id": 483,
     "order": "336.00000000000000000000",
@@ -3120,15 +3084,6 @@
     "krp_place_id": "krp_place_id__514",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brunn</rs>",
-    "mrp_place_id": ""
-  },
-  "547": {
-    "id": 547,
-    "order": "338.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__547",
-    "alternative_name": "",
-    "tei_code": "",
     "mrp_place_id": ""
   },
   "548": {
@@ -3158,24 +3113,6 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__581\">Preußen</rs>",
     "mrp_place_id": ""
   },
-  "582": {
-    "id": 582,
-    "order": "342.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__582",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
-  "583": {
-    "id": 583,
-    "order": "343.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__583",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
   "584": {
     "id": 584,
     "order": "344.00000000000000000000",
@@ -3185,38 +3122,11 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__584\">Feldkirch</rs>",
     "mrp_place_id": ""
   },
-  "616": {
-    "id": 616,
-    "order": "345.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__616",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
-  "617": {
-    "id": 617,
-    "order": "346.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__617",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
   "618": {
     "id": 618,
     "order": "347.00000000000000000000",
     "label": "Rauris",
     "krp_place_id": "krp_place_id__618",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
-  },
-  "619": {
-    "id": 619,
-    "order": "348.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__619",
     "alternative_name": "",
     "tei_code": "",
     "mrp_place_id": ""

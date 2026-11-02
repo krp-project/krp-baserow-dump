@@ -3809,16 +3809,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__692\"></rs>",
     "mrp_org_id": ""
   },
-  "693": {
-    "id": 693,
-    "order": "387.00000000000000000000",
-    "label": "",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__693",
-    "tei_code": "",
-    "mrp_org_id": ""
-  },
   "694": {
     "id": 694,
     "order": "388.00000000000000000000",
@@ -3929,16 +3919,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__768\">Österreichische Staatstheater</rs>",
     "mrp_org_id": ""
   },
-  "769": {
-    "id": 769,
-    "order": "399.00000000000000000000",
-    "label": "",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__769",
-    "tei_code": "",
-    "mrp_org_id": ""
-  },
   "770": {
     "id": 770,
     "order": "400.00000000000000000000",
@@ -3967,16 +3947,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__772",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__772\">Schönbrunner Schlosstheater </rs>",
-    "mrp_org_id": ""
-  },
-  "802": {
-    "id": 802,
-    "order": "403.00000000000000000000",
-    "label": "",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__802",
-    "tei_code": "",
     "mrp_org_id": ""
   },
   "803": {
