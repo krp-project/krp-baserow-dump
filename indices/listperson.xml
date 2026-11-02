@@ -389,8 +389,7 @@
             <date when-iso="1950-12-31">1950-12-31</date>
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
-          <occupation>Staatskanzler [I-III]; Leiter Staatsämter für Inneres und für Unterricht [II]; nach 26.07.1919 Staatssekretär des Äußeren [II]; für Äußeres [III]; Betraut mit der einstweiligen Führung des Staatsamtes für Land- und Forstwirtschaft
-25.06.1920-07.07.1920</occupation>
+          <occupation>Staatskanzler [I-III]; Leiter Staatsämter für Inneres und für Unterricht [II]; nach 26.07.1919 Staatssekretär des Äußeren [II]; für Äußeres [III]; Betraut mit der einstweiligen Führung des Staatsamtes für Land- und Forstwirtschaft; 25.06.1920-07.07.1920</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118599739</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11726</idno>
         </person>
@@ -462,7 +461,7 @@
           </death>
           <occupation>Staatssekretär für Finanzen [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/120148269</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q88621</idno>
+          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1680904</idno>
         </person>
         <person xml:id="krp_person_id__32">
           <persName>Stöckler, Josef</persName>
@@ -506,7 +505,7 @@
             <date when-iso="1940-10-24">1940-10-24</date>
             <placeName ref="#krp_place_id__42">Prag</placeName>
           </death>
-          <occupation>Staatssekretär für Gewerbe,  Industrie und Handel [I]; Staatssekretär für Kriegs- und Übergangswirtschaft [I]</occupation>
+          <occupation>Staatssekretär für Gewerbe, Industrie und Handel [I]; Staatssekretär für Kriegs- und Übergangswirtschaft [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1148771107</idno>
           <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q12028696</idno>
         </person>
@@ -604,7 +603,7 @@
           </death>
           <occupation>Bürgermeister von Linz</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/128384867</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q112601719</idno>
+          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1704460</idno>
         </person>
         <person xml:id="krp_person_id__44">
           <persName>Davy, Robert Dr.</persName>
@@ -716,12 +715,7 @@
         </person>
         <person xml:id="krp_person_id__55">
           <persName>Hanausek, Wilhelm</persName>
-          <occupation>Sektionschef im Staatsamt für Heerwesen, 
-Deutschösterreichischer Liquidierungskommissär
-für das liquidierende Kriegsministerium und das
-liquidierende Landesverteidigungsministerium,
-1920 Österreichischer Vertreter im bevollmächtigten
-Kollegium für das liquidierende Kriegsministerium</occupation>
+          <occupation>Sektionschef im Staatsamt für Heerwesen; Deutschösterreichischer Liquidierungskommissär für das liquidierende Kriegsministerium und das liquidierende Landesverteidigungsministerium; 1920 Österreichischer Vertreter im bevollmächtigten Kollegium für das liquidierende Kriegsministerium</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1050486234</idno>
         </person>
         <person xml:id="krp_person_id__619">
@@ -816,8 +810,7 @@ Kollegium für das liquidierende Kriegsministerium</occupation>
         </person>
         <person xml:id="krp_person_id__63">
           <persName>Kloss, Rudolf Dr.</persName>
-          <occupation>Oberbergrat im Staatsamt für öffentliche Arbeiten; Ministerialrat im Staatsamt für Handel
-und Gewerbe, Industrie und Bauten [II-III]</occupation>
+          <occupation>Oberbergrat im Staatsamt für öffentliche Arbeiten; Ministerialrat im Staatsamt für Handel und Gewerbe, Industrie und Bauten [II-III]</occupation>
         </person>
         <person xml:id="krp_person_id__64">
           <persName>Kralowsky, Emil Dr.</persName>
@@ -1271,7 +1264,6 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Rechtsanwalt</occupation>
-          <idno type="URL" subtype="WIKIDATA">https://www.geschichtewiki.wien.gv.at/Edmund_Benedikt</idno>
         </person>
         <person xml:id="krp_person_id__549">
           <persName>Berchtold, Leopold [Graf]</persName>
@@ -1558,7 +1550,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
         </person>
         <person xml:id="krp_person_id__134">
           <persName>Habsburg-Lothringen, Germana</persName>
-          <occupation>vormals Erzherzogin Germana  von Österreich</occupation>
+          <occupation>vormals Erzherzogin Germana von Österreich</occupation>
         </person>
         <person xml:id="krp_person_id__135">
           <persName>Noven, Heinrich</persName>
@@ -1830,7 +1822,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
           </death>
           <occupation>Leiter der amerikanischen Hilfsaktion</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1112485287</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1705866</idno>
+          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55684692</idno>
         </person>
         <person xml:id="krp_person_id__207">
           <persName>Hoover, Herbert Clark</persName>
@@ -2131,7 +2123,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
           </death>
           <occupation>Polizeidirektor in Graz</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1017791813</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q151646</idno>
+          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q98907890</idno>
         </person>
         <person xml:id="krp_person_id__247">
           <persName>Kunze, Ing. Otto</persName>
@@ -2707,7 +2699,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
           </death>
           <occupation>Sektionschef Staatsamt für Inneres und Unterricht [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/13770691X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19279798</idno>
+          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q105024495</idno>
         </person>
         <person xml:id="krp_person_id__313">
           <persName>Haager, Karl Dr. [Edler von Vanderhaag]</persName>
@@ -2801,7 +2793,7 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
             <date when-iso="1948-11-09">1948-11-09</date>
             <placeName>St. Gilgen</placeName>
           </death>
-          <occupation>vormalig Erzherzog  Peter Ferdinand</occupation>
+          <occupation>vormalig Erzherzog Peter Ferdinand</occupation>
         </person>
         <person xml:id="krp_person_id__323">
           <persName>Habsburg-Lothringen, Rainer</persName>
@@ -3660,12 +3652,6 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
           <persName>Borghese, Livio</persName>
           <occupation>Familienoberhaupt des hochadligen Geschlechts Borghese</occupation>
         </person>
-        <person xml:id="krp_person_id__1018">
-          <persName></persName>
-        </person>
-        <person xml:id="krp_person_id__1019">
-          <persName></persName>
-        </person>
         <person xml:id="krp_person_id__1020">
           <persName>Czobel, Dr.</persName>
           <occupation>Ungarischer Gesandter</occupation>
@@ -3694,15 +3680,9 @@ und Gewerbe, Industrie und Bauten [II-III]</occupation>
           <occupation>Abgeordneter des deutschen Reichstages</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118824155</idno>
         </person>
-        <person xml:id="krp_person_id__1025">
-          <persName></persName>
-        </person>
         <person xml:id="krp_person_id__1026">
           <persName>Erzberger, Matthias</persName>
           <occupation>Abgeordneter des deutschen Reichstages</occupation>
-        </person>
-        <person xml:id="krp_person_id__1059">
-          <persName></persName>
         </person>
         <person xml:id="krp_person_id__1060">
           <persName>Freissler, Dr.</persName>
