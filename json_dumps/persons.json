@@ -1487,7 +1487,7 @@
     "date_of_death": "1945-11-23",
     "Geburtsort": "Friedek",
     "Sterbeort": "Wien",
-    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__57\">Herman</rs>",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__57\">Hermann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": "0"

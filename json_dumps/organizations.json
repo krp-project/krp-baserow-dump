@@ -3762,7 +3762,7 @@
   "688": {
     "id": 688,
     "order": "382.00000000000000000000",
-    "label": "k.k. Justizministerium",
+    "label": "k. k. Justizministerium",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__688",
@@ -3967,6 +3967,46 @@
     "source": "",
     "krp_org_id": "krp_org_id__804",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__804\"></rs>",
+    "mrp_org_id": ""
+  },
+  "805": {
+    "id": 805,
+    "order": "406.00000000000000000000",
+    "label": "Spullerseewerk",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__805",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__805\">Spullerseewerk</rs>",
+    "mrp_org_id": ""
+  },
+  "806": {
+    "id": 806,
+    "order": "407.00000000000000000000",
+    "label": "Vorarlberger Landtag",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__806",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_d__806\">Vorarlberger Landtag</rs>",
+    "mrp_org_id": ""
+  },
+  "807": {
+    "id": 807,
+    "order": "408.00000000000000000000",
+    "label": "Frastanzer Ried",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__807",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__807\">Frastanzer Ried</rs>",
+    "mrp_org_id": ""
+  },
+  "808": {
+    "id": 808,
+    "order": "409.00000000000000000000",
+    "label": "ungarische Armee",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__808",
+    "tei_code": "",
     "mrp_org_id": ""
   }
 }

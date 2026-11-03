@@ -3139,5 +3139,23 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__620\">Lundenburg</rs>",
     "mrp_place_id": ""
+  },
+  "621": {
+    "id": 621,
+    "order": "350.00000000000000000000",
+    "label": "Achensee",
+    "krp_place_id": "krp_place_id__621",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "622": {
+    "id": 622,
+    "order": "351.00000000000000000000",
+    "label": "Hinterseer Alm in Wiestal",
+    "krp_place_id": "krp_place_id__622",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__622\">Hinterseer Alm in Wiestal</rs>",
+    "mrp_place_id": ""
   }
 }
