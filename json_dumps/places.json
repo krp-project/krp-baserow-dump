@@ -332,15 +332,6 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__32\">Tirol</rs>",
     "mrp_place_id": null
   },
-  "33": {
-    "id": 33,
-    "order": "32.00000000000000000000",
-    "label": "Burgenland",
-    "krp_place_id": "krp_place_id__33",
-    "alternative_name": "Westungarn",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__33\">Burgenland</rs>",
-    "mrp_place_id": null
-  },
   "34": {
     "id": 34,
     "order": "33.00000000000000000000",
@@ -623,7 +614,7 @@
   "65": {
     "id": 65,
     "order": "62.00000000000000000000",
-    "label": "Wiener Neustadt",
+    "label": "Wiener Neustadt (Stadt)",
     "krp_place_id": "krp_place_id__65",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__65\">Wiener Neustadt</rs>",
@@ -2317,7 +2308,7 @@
     "order": "247.00000000000000000000",
     "label": "Mährisch-Ostrau",
     "krp_place_id": "krp_place_id__299",
-    "alternative_name": "",
+    "alternative_name": "Ostrau; Ostrava",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__299\">Mährisch-Ostrau</rs>",
     "mrp_place_id": null
   },
@@ -2452,7 +2443,7 @@
     "order": "262.00000000000000000000",
     "label": "Westungarn",
     "krp_place_id": "krp_place_id__314",
-    "alternative_name": "",
+    "alternative_name": "Burgenland; Vierburgenland",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__314\">Westungarn</rs>",
     "mrp_place_id": null
   },
@@ -3156,6 +3147,195 @@
     "krp_place_id": "krp_place_id__622",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__622\">Hinterseer Alm in Wiestal</rs>",
+    "mrp_place_id": ""
+  },
+  "624": {
+    "id": 624,
+    "order": "353.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__624",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "625": {
+    "id": 625,
+    "order": "354.00000000000000000000",
+    "label": "Trofaiach",
+    "krp_place_id": "krp_place_id__625",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__625\">Trofaiach</rs>",
+    "mrp_place_id": ""
+  },
+  "626": {
+    "id": 626,
+    "order": "355.00000000000000000000",
+    "label": "Wiener Neustadt (Bezirk)",
+    "krp_place_id": "krp_place_id__626",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__626\">Wiener Neustadt</rs>",
+    "mrp_place_id": ""
+  },
+  "627": {
+    "id": 627,
+    "order": "356.00000000000000000000",
+    "label": "Greifenstein",
+    "krp_place_id": "krp_place_id__627",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__627\">Greifenstein</rs>",
+    "mrp_place_id": ""
+  },
+  "628": {
+    "id": 628,
+    "order": "357.00000000000000000000",
+    "label": "Langenzersdorf",
+    "krp_place_id": "krp_place_id__628",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__628\">Langenzersdorf</rs>",
+    "mrp_place_id": ""
+  },
+  "630": {
+    "id": 630,
+    "order": "358.00000000000000000000",
+    "label": "Lünersee",
+    "krp_place_id": "krp_place_id__630",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__630\"></rs>",
+    "mrp_place_id": ""
+  },
+  "631": {
+    "id": 631,
+    "order": "359.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__631",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "632": {
+    "id": 632,
+    "order": "360.00000000000000000000",
+    "label": "Leopoldau",
+    "krp_place_id": "krp_place_id__632",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__632\">Leopoldau</rs>",
+    "mrp_place_id": ""
+  },
+  "633": {
+    "id": 633,
+    "order": "361.00000000000000000000",
+    "label": "Fehring",
+    "krp_place_id": "krp_place_id__633",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__633\">Fehring</rs>",
+    "mrp_place_id": ""
+  },
+  "634": {
+    "id": 634,
+    "order": "362.00000000000000000000",
+    "label": "Pinkafeld",
+    "krp_place_id": "krp_place_id__634",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__634\">Pinkafeld</rs>",
+    "mrp_place_id": ""
+  },
+  "635": {
+    "id": 635,
+    "order": "363.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__635",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "636": {
+    "id": 636,
+    "order": "364.00000000000000000000",
+    "label": "Ligetfalu",
+    "krp_place_id": "krp_place_id__636",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__636\">Ligetfalu</rs>",
+    "mrp_place_id": ""
+  },
+  "637": {
+    "id": 637,
+    "order": "365.00000000000000000000",
+    "label": "Wolfsthal",
+    "krp_place_id": "krp_place_id__637",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__637\">Wolfsthal</rs>",
+    "mrp_place_id": ""
+  },
+  "638": {
+    "id": 638,
+    "order": "366.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__638",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": ""
+  },
+  "639": {
+    "id": 639,
+    "order": "367.00000000000000000000",
+    "label": "Szigetfalu",
+    "krp_place_id": "krp_place_id__639",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__639\">Szigetfalu</rs>",
+    "mrp_place_id": ""
+  },
+  "640": {
+    "id": 640,
+    "order": "368.00000000000000000000",
+    "label": "Kittsee",
+    "krp_place_id": "krp_place_id__640",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__640\">Kittsee</rs>",
+    "mrp_place_id": ""
+  },
+  "641": {
+    "id": 641,
+    "order": "369.00000000000000000000",
+    "label": "Katzelsdorf",
+    "krp_place_id": "krp_place_id__641",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__641\">Katzelsdorf</rs>",
+    "mrp_place_id": ""
+  },
+  "643": {
+    "id": 643,
+    "order": "371.00000000000000000000",
+    "label": "Sommerein",
+    "krp_place_id": "krp_place_id__643",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__643\">Sommerein</rs>",
+    "mrp_place_id": ""
+  },
+  "644": {
+    "id": 644,
+    "order": "372.00000000000000000000",
+    "label": "Fürstenfeld",
+    "krp_place_id": "krp_place_id__644",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__644\">Fürstenfeld</rs>",
+    "mrp_place_id": ""
+  },
+  "677": {
+    "id": 677,
+    "order": "373.00000000000000000000",
+    "label": "Frastanzer Ried",
+    "krp_place_id": "krp_place_id__677",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__677\">Frastanzer Ried</rs>",
+    "mrp_place_id": ""
+  },
+  "678": {
+    "id": 678,
+    "order": "374.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__678",
+    "alternative_name": "",
+    "tei_code": "",
     "mrp_place_id": ""
   }
 }

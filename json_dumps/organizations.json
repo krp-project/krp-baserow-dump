@@ -1256,7 +1256,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__226",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__226\">Staatsamt für Heereswesen</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__226\"></rs>",
     "mrp_org_id": null
   },
   "227": {
@@ -3989,16 +3989,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_d__806\">Vorarlberger Landtag</rs>",
     "mrp_org_id": ""
   },
-  "807": {
-    "id": 807,
-    "order": "408.00000000000000000000",
-    "label": "Frastanzer Ried",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__807",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__807\">Frastanzer Ried</rs>",
-    "mrp_org_id": ""
-  },
   "808": {
     "id": 808,
     "order": "409.00000000000000000000",
@@ -4007,6 +3997,126 @@
     "source": "",
     "krp_org_id": "krp_org_id__808",
     "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "809": {
+    "id": 809,
+    "order": "410.00000000000000000000",
+    "label": "G.M. Cloez & Cie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__809",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__809\">",
+    "mrp_org_id": ""
+  },
+  "810": {
+    "id": 810,
+    "order": "411.00000000000000000000",
+    "label": "Elektrisierungsamt der deutschösterreichischen Staatsbahnen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__810",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__810\"></rs>",
+    "mrp_org_id": ""
+  },
+  "811": {
+    "id": 811,
+    "order": "412.00000000000000000000",
+    "label": "Stift Klosterneuburg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__811",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__811\"></rs>",
+    "mrp_org_id": ""
+  },
+  "812": {
+    "id": 812,
+    "order": "413.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__812",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "813": {
+    "id": 813,
+    "order": "414.00000000000000000000",
+    "label": "Wiener Städtische Straßenbahnen",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__813",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__813\"></rs>",
+    "mrp_org_id": ""
+  },
+  "814": {
+    "id": 814,
+    "order": "415.00000000000000000000",
+    "label": "Staatsdenkmalamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__814",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__814\"></rs>",
+    "mrp_org_id": ""
+  },
+  "815": {
+    "id": 815,
+    "order": "416.00000000000000000000",
+    "label": "Landesgendarmariekommando Graz",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__815",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__815\"></rs>",
+    "mrp_org_id": ""
+  },
+  "816": {
+    "id": 816,
+    "order": "417.00000000000000000000",
+    "label": "Oberster Rat der alliierten und assoziierten Mächte",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__816",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__816\"></rs>",
+    "mrp_org_id": ""
+  },
+  "817": {
+    "id": 817,
+    "order": "418.00000000000000000000",
+    "label": "Staatsanwaltschaft Budapest",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__817",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__817\"></rs>",
+    "mrp_org_id": ""
+  },
+  "818": {
+    "id": 818,
+    "order": "419.00000000000000000000",
+    "label": "Staatsanwaltschaft Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__818",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__818\"></rs>",
+    "mrp_org_id": ""
+  },
+  "819": {
+    "id": 819,
+    "order": "420.00000000000000000000",
+    "label": "Staatsanwaltschaft Krems",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__819",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__819\"></rs>",
+    "mrp_org_id": ""
+  },
+  "850": {
+    "id": 850,
+    "order": "421.00000000000000000000",
+    "label": "Die rote Fahne",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__850",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__850\"></rs>",
     "mrp_org_id": ""
   }
 }
