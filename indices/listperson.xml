@@ -33,7 +33,7 @@
           </death>
           <occupation>Staatsekretär für Äußeres [I]; des Äußeren [II]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118507346</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11730</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11730</idno>
         </person>
         <person xml:id="krp_person_id__2">
           <persName>Beck, Eugen [Ritter von Mannagetta und Lerchenau] Dr.</persName>
@@ -79,7 +79,7 @@
           </death>
           <occupation>Unterstaatssekretär für Heereswesen [I]; Staatssekretär für Heereswesen [II]; für Heereswesen [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118678027</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q78963</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78963</idno>
         </person>
         <person xml:id="krp_person_id__5">
           <persName>Eisler, Arnold Dr.</persName>
@@ -93,7 +93,7 @@
           </death>
           <occupation>Unterstaatssekretär für Justiz [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/143678620</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q695109</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q695109</idno>
         </person>
         <person xml:id="krp_person_id__6">
           <persName>Eldersch, Matthias</persName>
@@ -107,7 +107,7 @@
           </death>
           <occupation>Unterstaatssekretär für Inneres [II]; Staatssekretär für Inneres und Unterricht [III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Justiz [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/126417598</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1305686</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1305686</idno>
         </person>
         <person xml:id="krp_person_id__7">
           <persName>Ellenbogen, Wilhelm Dr.</persName>
@@ -121,7 +121,7 @@
           </death>
           <occupation>Unterstaatssekretär für Handel und Gewerbe, Industrie und Bauten [II-III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Handel etc. [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118529978</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94464</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94464</idno>
         </person>
         <person xml:id="krp_person_id__8">
           <persName>Enderes, Bruno [von] Ing.</persName>
@@ -135,7 +135,7 @@
           </death>
           <occupation>Unterstaatsekretär für Verkehrswesen [I]; Sektionschef im Staatsamt für Verkehrswesen [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/117500348</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55847493</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55847493</idno>
         </person>
         <person xml:id="krp_person_id__494">
           <persName>Feitler, Sigmund Prof. Dr.</persName>
@@ -149,7 +149,7 @@
           </death>
           <occupation>Professor an der Exportakademie</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/144007339</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60623526</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60623526</idno>
         </person>
         <person xml:id="krp_person_id__9">
           <persName>Fink, Jodok</persName>
@@ -162,7 +162,7 @@
           </death>
           <occupation>Vizekanzler [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/120009889</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1691294</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1691294</idno>
         </person>
         <person xml:id="krp_person_id__10">
           <persName>Glöckel, Otto</persName>
@@ -176,7 +176,7 @@
           </death>
           <occupation>Unterstaatssekretär für Inneres [I]; Unterstaatssekretär für Unterricht im Inneres und Unterreicht [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118695452</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q87501</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87501</idno>
         </person>
         <person xml:id="krp_person_id__11">
           <persName>Grimm, Ferdinand [von] Dr.</persName>
@@ -190,7 +190,7 @@
           </death>
           <occupation>Unterstaatssekretär für Finanzen [I]; Sektionschef im Staatsamt für Finanzen [I-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011184664</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1405342</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1405342</idno>
         </person>
         <person xml:id="krp_person_id__12">
           <persName>Hanusch, Ferdinand</persName>
@@ -204,7 +204,7 @@
           </death>
           <occupation>Staatsekretär für soziale Fürsorge [I]; soziale Verwaltung [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118701460</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q688666</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q688666</idno>
         </person>
         <person xml:id="krp_person_id__13">
           <persName>Jukel, Karl Ing.</persName>
@@ -218,7 +218,7 @@
           </death>
           <occupation>Staatssekretär für Verkehrswesen [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1012922529</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1039086</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1039086</idno>
         </person>
         <person xml:id="krp_person_id__14">
           <persName>Kaup, Ignaz Dr.</persName>
@@ -247,7 +247,7 @@
           </death>
           <occupation>Staatssekretär für Volksernährung [I-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118813692</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1695403</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1695403</idno>
         </person>
         <person xml:id="krp_person_id__16">
           <persName>Marckhl, Richard</persName>
@@ -265,7 +265,7 @@
           </death>
           <occupation>Staatssekretär für Inneres [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/137937598</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1598273</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1598273</idno>
         </person>
         <person xml:id="krp_person_id__18">
           <persName>Mayer, Josef</persName>
@@ -303,7 +303,7 @@
           </death>
           <occupation>Unterstaatssekretär für Kultus [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118783882</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q84263</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84263</idno>
         </person>
         <person xml:id="krp_person_id__21">
           <persName>Pacher, Rafael</persName>
@@ -317,7 +317,7 @@
           </death>
           <occupation>Staatssekretär für Unterricht [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/124749275</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1319861</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1319861</idno>
         </person>
         <person xml:id="krp_person_id__555">
           <persName>Bourbon-Parma, Robert [von]</persName>
@@ -331,7 +331,7 @@
           </death>
           <occupation>Herzog</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/129125903</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q314577</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q314577</idno>
         </person>
         <person xml:id="krp_person_id__22">
           <persName>Paul, Ludwig</persName>
@@ -345,7 +345,7 @@
           </death>
           <occupation>Staatssekretär für Verkehrswesen [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1025496779</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1726393</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1726393</idno>
         </person>
         <person xml:id="krp_person_id__23">
           <persName>Pflügl, Egon [Edler von]</persName>
@@ -363,7 +363,7 @@
           </death>
           <occupation>Staatsekretär für Justiz [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/126762589</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11722</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11722</idno>
         </person>
         <person xml:id="krp_person_id__25">
           <persName>Reisch, Richard</persName>
@@ -377,7 +377,7 @@
           </death>
           <occupation>Staatssekretär für Finanzen [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/100859666</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1531637</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1531637</idno>
         </person>
         <person xml:id="krp_person_id__26">
           <persName>Renner, Karl Dr.</persName>
@@ -391,7 +391,7 @@
           </death>
           <occupation>Staatskanzler [I-III]; Leiter Staatsämter für Inneres und für Unterricht [II]; nach 26.07.1919 Staatssekretär des Äußeren [II]; für Äußeres [III]; Betraut mit der einstweiligen Führung des Staatsamtes für Land- und Forstwirtschaft; 25.06.1920-07.07.1920</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118599739</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11726</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11726</idno>
         </person>
         <person xml:id="krp_person_id__27">
           <persName>Resch, Josef Dr.</persName>
@@ -405,7 +405,7 @@
           </death>
           <occupation>Unterstaatsekretär für soziale Fürsorge [I]; für soziale Verwaltung [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/119327635</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1705546</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1705546</idno>
         </person>
         <person xml:id="krp_person_id__28">
           <persName>Roller, Julius Dr.</persName>
@@ -419,7 +419,7 @@
           </death>
           <occupation>Staatssekretär für Justiz [I]; Präsident des Obersten Gerichtshofes</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1028281269</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15712668</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15712668</idno>
         </person>
         <person xml:id="krp_person_id__29">
           <persName>Schumpeter, Josef Dr.</persName>
@@ -433,7 +433,7 @@
           </death>
           <occupation>Staatssekretär für Finanzen [II]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118611682</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q78477</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78477</idno>
         </person>
         <person xml:id="krp_person_id__30">
           <persName>Seitz, Karl</persName>
@@ -447,7 +447,7 @@
           </death>
           <occupation>Präsident der Provisorischen Nationalversammlung und Vorsitzender des Staatsrates [I]; Erster Präsident der Konstituierenden Nationalversammlung [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/119184745</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q84254</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84254</idno>
         </person>
         <person xml:id="krp_person_id__31">
           <persName>Steinwender, Otto Dr.</persName>
@@ -461,7 +461,7 @@
           </death>
           <occupation>Staatssekretär für Finanzen [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/120148269</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1680904</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1680904</idno>
         </person>
         <person xml:id="krp_person_id__32">
           <persName>Stöckler, Josef</persName>
@@ -475,7 +475,7 @@
           </death>
           <occupation>Staatssekretär für Land- und Forstwirtschaft [I-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/103681033X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1705866</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1705866</idno>
         </person>
         <person xml:id="krp_person_id__33">
           <persName>Tandler, Julius Dr.</persName>
@@ -489,7 +489,7 @@
           </death>
           <occupation>Unterstaatsekretär für Volksgesundheit [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118620657</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q87415</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87415</idno>
         </person>
         <person xml:id="krp_person_id__610">
           <persName>Tunk, Eduard</persName>
@@ -507,7 +507,7 @@
           </death>
           <occupation>Staatssekretär für Gewerbe, Industrie und Handel [I]; Staatssekretär für Kriegs- und Übergangswirtschaft [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1148771107</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q12028696</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q12028696</idno>
         </person>
         <person xml:id="krp_person_id__35">
           <persName>Waber, Leopold Dr.</persName>
@@ -521,7 +521,7 @@
           </death>
           <occupation>Unterstaatssekretär für Äußeres [I]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/130170429</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1289340</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1289340</idno>
         </person>
         <person xml:id="krp_person_id__509">
           <persName>Wagner, Dominik</persName>
@@ -575,7 +575,7 @@
           </death>
           <occupation>Ministerialrat in der Staatskanzlei</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/130122955</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15944</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15944</idno>
         </person>
         <person xml:id="krp_person_id__488">
           <persName>Rašín, Alois</persName>
@@ -585,7 +585,7 @@
           <persName>Cunningham, Thomas</persName>
           <occupation>Oberster britischer Militärattaché in Wien</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/170195155</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q112601719</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q112601719</idno>
         </person>
         <person xml:id="krp_person_id__557">
           <persName>Czech, Dr.</persName>
@@ -603,7 +603,7 @@
           </death>
           <occupation>Bürgermeister von Linz</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/128384867</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1704460</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1704460</idno>
         </person>
         <person xml:id="krp_person_id__44">
           <persName>Davy, Robert Dr.</persName>
@@ -617,7 +617,7 @@
           </death>
           <occupation>Ministerialrat im Staatsamt für Inneres und Unterricht</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1168870305</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1519458</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1519458</idno>
         </person>
         <person xml:id="krp_person_id__46">
           <persName>Dorrek, Dr. Karl</persName>
@@ -630,7 +630,7 @@
           </death>
           <occupation>Ministerialrat im Staatsamt für Finanzen</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1059154609</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q104528550</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q104528550</idno>
         </person>
         <person xml:id="krp_person_id__47">
           <persName>Durig, Ernst Dr.</persName>
@@ -660,7 +660,7 @@
           </death>
           <occupation>Sektionrat in der Staatskanzlei</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/130138894</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q26085545</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q26085545</idno>
         </person>
         <person xml:id="krp_person_id__491">
           <persName>Gruntzel, Josef Prof. Dr.</persName>
@@ -674,7 +674,7 @@
           </death>
           <occupation>Professor an der Exportakademie</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/121546470</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5773887</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5773887</idno>
         </person>
         <person xml:id="krp_person_id__51">
           <persName>Grünberger, Alfred Dr.</persName>
@@ -688,7 +688,7 @@
           </death>
           <occupation>Ministerialrat im Staatsamt für Volksernährung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/133436551</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2645069</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2645069</idno>
         </person>
         <person xml:id="krp_person_id__52">
           <persName>Günther [Ritter von Ollenburg], Alexander</persName>
@@ -746,7 +746,7 @@
           </death>
           <occupation>Sektionschef im Staatsamt für Handel und Gewerbe, Industrie und Bauten; Generalpostdirektor</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/131556789</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1782058</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1782058</idno>
         </person>
         <person xml:id="krp_person_id__59">
           <persName>Homann, Emil [Freiherr v. Herimberg Dr.mont.h.c.?</persName>
@@ -760,7 +760,7 @@
           </death>
           <occupation>Leiter des liquidierenden Kriegsministeriums</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1012046095</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q11878674</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11878674</idno>
         </person>
         <person xml:id="krp_person_id__507">
           <persName>Hugelmann, Dr.</persName>
@@ -806,7 +806,7 @@
           </death>
           <occupation>Sektionschef in der bosnisch herzegowinischen Abteilung des liquidierenden gemeinsamen Finanzministeriums</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/136053904</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55853562</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55853562</idno>
         </person>
         <person xml:id="krp_person_id__63">
           <persName>Kloss, Rudolf Dr.</persName>
@@ -836,7 +836,7 @@
           </death>
           <occupation>Sektionschef im Staatsamt für öffentliche Arbeiten [1919 in den Ruhestand]; Staatskommission für Sozialisierung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/12786959X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60816212</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60816212</idno>
         </person>
         <person xml:id="krp_person_id__66">
           <persName>Lederer, Emil Prof. Dr.</persName>
@@ -854,13 +854,13 @@
           </death>
           <occupation>Staatsrat</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/124297870</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15730947</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15730947</idno>
         </person>
         <person xml:id="krp_person_id__68">
           <persName>Mosing, Ernst [Edler von] Dr.</persName>
           <occupation>Oberfinanzrat im Staatsamt für Finanzen</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1015592775</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q106925215</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q106925215</idno>
         </person>
         <person xml:id="krp_person_id__69">
           <persName>Mühlvenzl, Josef [Ritter von] Dr.</persName>
@@ -874,7 +874,7 @@
           </death>
           <occupation>Sektionschef im Staatsamt für Finanzen; Mitglied in der Kommission für Kriegs- und Übergangswirtschaft</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1023723115</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60818857</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60818857</idno>
         </person>
         <person xml:id="krp_person_id__70">
           <persName>Okorn, Friedrich</persName>
@@ -884,7 +884,7 @@
           <persName>Pawlitza, Josef</persName>
           <occupation>Hofrat der Finanz-Landesdirektion</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1024321509</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95257707</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95257707</idno>
         </person>
         <person xml:id="krp_person_id__71">
           <persName>Pergelt, Franz</persName>
@@ -902,7 +902,7 @@
           </death>
           <occupation>Sektionsrat im Staatsamt für öffentliche Arbeiten</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1287542964</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q135482093</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q135482093</idno>
         </person>
         <person xml:id="krp_person_id__602">
           <persName>Pokorny, Adolf</persName>
@@ -932,7 +932,7 @@
           </death>
           <occupation>Landeshauptmannstellvertreter von Salzburg</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/12073978X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1268604</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1268604</idno>
         </person>
         <person xml:id="krp_person_id__75">
           <persName>Reich, Rudolf Ing.</persName>
@@ -970,7 +970,7 @@
           </death>
           <occupation>Ministerialrat im Staatsamt für Finanzen [auch im K. K. Finanz-Ministerium] [1922 Sektionschef im Bundesministerium für Finanzen]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/136116428X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q96090176</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q96090176</idno>
         </person>
         <person xml:id="krp_person_id__78">
           <persName>Schauberger, Friedrich Dr.</persName>
@@ -1005,7 +1005,7 @@
           </death>
           <occupation>Präsident der Polizeidirektion Wien</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118758802</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q78557</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78557</idno>
         </person>
         <person xml:id="krp_person_id__81">
           <persName>Schüller, Richard [von]</persName>
@@ -1031,7 +1031,7 @@
           </death>
           <occupation>Ministerialrat im Staatsamt für Finanzen</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1027642306</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1509833</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1509833</idno>
         </person>
         <person xml:id="krp_person_id__84">
           <persName>Schwiedland, Eugen Peter Hofrat Dr.</persName>
@@ -1045,7 +1045,7 @@
           </death>
           <occupation>1917–1921, fachliche Mitarbeiter des General-Kommissariats für Kriegs- und Übergangswirtschaft</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/117430609</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q59530401</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q59530401</idno>
         </person>
         <person xml:id="krp_person_id__542">
           <persName>Teufel, Oskar</persName>
@@ -1059,7 +1059,7 @@
           </death>
           <occupation>Reichsratsabgeordneter der Deutschradikalen Partei</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1027122671</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q14970860</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q14970860</idno>
         </person>
         <person xml:id="krp_person_id__85">
           <persName>Thaa, Gustav [Ritter von] Dr.</persName>
@@ -1085,7 +1085,7 @@
           </death>
           <occupation>Bürgermeister Wiens</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/117278602</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2150882</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2150882</idno>
         </person>
         <person xml:id="krp_person_id__86">
           <persName>Wenedikter, Richard</persName>
@@ -1111,7 +1111,7 @@
           </death>
           <occupation>Generalkonsul</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/143416235</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94944169</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94944169</idno>
         </person>
         <person xml:id="krp_person_id__88">
           <persName>Wilfling, August Dr.</persName>
@@ -1142,7 +1142,7 @@
           </death>
           <occupation>Vizepräsident des Landeskulturrates Niederösterreich</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011267144</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15870653</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15870653</idno>
         </person>
         <person xml:id="krp_person_id__92">
           <persName>Hillbrand, Josef Anton</persName>
@@ -1205,7 +1205,7 @@
           </death>
           <occupation>Gesandter</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118710826</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4806933</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4806933</idno>
         </person>
         <person xml:id="krp_person_id__98">
           <persName>Oberdorffer, Leonhard</persName>
@@ -1251,7 +1251,7 @@
           </death>
           <occupation>Präsident des Reichsgerichts</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/11869684X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1528630</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1528630</idno>
         </person>
         <person xml:id="krp_person_id__561">
           <persName>Benedikt, Edmund Dr.</persName>
@@ -1293,7 +1293,7 @@
           </death>
           <occupation>vormaliger Staatsnotar</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/120148595</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1360900</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1360900</idno>
         </person>
         <person xml:id="krp_person_id__105">
           <persName>Urbanitzky, Ida</persName>
@@ -1360,7 +1360,7 @@
           </death>
           <occupation>Oberst, Staatsamt für Heereswesen</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118713493</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q84204</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84204</idno>
         </person>
         <person xml:id="krp_person_id__111">
           <persName>Pfaundler, Richard [von Hadermur]</persName>
@@ -1419,7 +1419,7 @@
           </death>
           <occupation>Museum für Kunst und Industrie</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118571354</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1289139</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1289139</idno>
         </person>
         <person xml:id="krp_person_id__116">
           <persName>Tietze, Hans Dr.</persName>
@@ -1433,7 +1433,7 @@
           </death>
           <occupation>Ministerialrat Staatsamt für Unterricht</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/117381845</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1425008</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1425008</idno>
         </person>
         <person xml:id="krp_person_id__117">
           <persName>Alexy, Ludwig Dr.</persName>
@@ -1459,7 +1459,7 @@
           </death>
           <occupation>Sektionschef</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1048411257</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94833036</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94833036</idno>
         </person>
         <person xml:id="krp_person_id__483">
           <persName>Schöpfer, Aemilian Prof. Dr.</persName>
@@ -1473,7 +1473,7 @@
           </death>
           <occupation>Vorsitzende der Staatskommission für Kriegsgefangene</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/119034913</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q255037</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q255037</idno>
         </person>
         <person xml:id="krp_person_id__119">
           <persName>Schubert, Dr.</persName>
@@ -1503,7 +1503,7 @@
           </death>
           <occupation>Schweizer Bundespräsident</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118666681</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q664398</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q664398</idno>
         </person>
         <person xml:id="krp_person_id__123">
           <persName>Causey</persName>
@@ -1572,7 +1572,7 @@
           </death>
           <occupation>Vizedirektor des österreichischen Museums für Kunst und Industrie; Regierungsrat</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/117413704</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q29856272</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q29856272</idno>
         </person>
         <person xml:id="krp_person_id__138">
           <persName>Sever, Albert</persName>
@@ -1586,7 +1586,7 @@
           </death>
           <occupation>Landeshauptmann Niederösterreich</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/120570769</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2638814</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2638814</idno>
         </person>
         <person xml:id="krp_person_id__139">
           <persName>Ziller, Karl</persName>
@@ -1624,7 +1624,7 @@
           </death>
           <occupation>Leiter der Fachgruppe VI im Staatsamt für Heerwesen</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/136161065</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15454392</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15454392</idno>
         </person>
         <person xml:id="krp_person_id__559">
           <persName>Lamberg, Josefine</persName>
@@ -1646,7 +1646,7 @@
           </death>
           <occupation>Militäroberintendant</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1018261893</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60816788</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60816788</idno>
         </person>
         <person xml:id="krp_person_id__629">
           <persName>Karzel, Georg Ing.</persName>
@@ -1667,7 +1667,7 @@
           </death>
           <occupation>Leiter der "Oesterreichischen Propagandastelle"</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/138066736</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55847441</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55847441</idno>
         </person>
         <person xml:id="krp_person_id__184">
           <persName>Coumont, Eduard Dr.</persName>
@@ -1681,7 +1681,7 @@
           </death>
           <occupation>Rechtsanwalt</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/14392902X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60623294</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60623294</idno>
         </person>
         <person xml:id="krp_person_id__185">
           <persName>Stritzl, Friedrich Dr. [Edler von Artstatt]</persName>
@@ -1699,7 +1699,7 @@
           </death>
           <occupation>Historiker</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118743732</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q94055</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q94055</idno>
         </person>
         <person xml:id="krp_person_id__190">
           <persName>Richter, Paul</persName>
@@ -1713,7 +1713,7 @@
           </death>
           <occupation>Vizepräsident der Staatskommission für Kriegsgefangenen- und Zivilinterniertenangelegenheiten</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1344409873</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q28025991</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q28025991</idno>
         </person>
         <person xml:id="krp_person_id__192">
           <persName>Egghard, Karl</persName>
@@ -1749,7 +1749,7 @@
           </death>
           <occupation>Volkskommissar</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118778218</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q151646</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q151646</idno>
         </person>
         <person xml:id="krp_person_id__201">
           <persName>Schuhmacher, Franz Dr.</persName>
@@ -1775,7 +1775,7 @@
           </death>
           <occupation>Bürgermeister von Graz 1912-1914</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116601833</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15444299</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15444299</idno>
         </person>
         <person xml:id="krp_person_id__605">
           <persName>Gerstmann, Siegfried</persName>
@@ -1794,7 +1794,7 @@
           </death>
           <occupation>Hofrat der ehemaligen politischen Verwaltung Triest</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011357763</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1298607</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1298607</idno>
         </person>
         <person xml:id="krp_person_id__204">
           <persName>Keil, Anton</persName>
@@ -1808,7 +1808,7 @@
           </death>
           <occupation>Weihbischof der Salzburger Erzdiözese</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/101325127X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q17138726</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q17138726</idno>
         </person>
         <person xml:id="krp_person_id__205">
           <persName>Stockton, Gilchrist Baker</persName>
@@ -1822,7 +1822,7 @@
           </death>
           <occupation>Leiter der amerikanischen Hilfsaktion</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1112485287</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55684692</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55684692</idno>
         </person>
         <person xml:id="krp_person_id__207">
           <persName>Hoover, Herbert Clark</persName>
@@ -1836,7 +1836,7 @@
           </death>
           <occupation>amerikanischer Lebensmittelkontrollor</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118706985</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q35236</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q35236</idno>
         </person>
         <person xml:id="krp_person_id__208">
           <persName>Kelle, Carl Dr. [von]</persName>
@@ -1850,7 +1850,7 @@
           </death>
           <occupation>Sektionschef Staatsamt für Inneres und Unterricht</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/101325192X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60815450</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60815450</idno>
         </person>
         <person xml:id="krp_person_id__209">
           <persName>Stockhammer</persName>
@@ -1936,7 +1936,7 @@
           </death>
           <occupation>Landeshauptmann der Steiermark</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/11655116X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q84731</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84731</idno>
         </person>
         <person xml:id="krp_person_id__224">
           <persName>Rogers, Howard L.</persName>
@@ -1966,7 +1966,7 @@
           </death>
           <occupation>Leiter des liquidierenden gemeinsamen Obersten Rechnungshofes</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116209550</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q324918</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q324918</idno>
         </person>
         <person xml:id="krp_person_id__621">
           <persName>Fontana, Oskar</persName>
@@ -1994,7 +1994,7 @@
           </death>
           <occupation>Gesandter</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/133539296</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1605689</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1605689</idno>
         </person>
         <person xml:id="krp_person_id__233">
           <persName>Pesta, Dr. Karl</persName>
@@ -2020,7 +2020,7 @@
           </death>
           <occupation>Verfassungsrechtler</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118561219</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q84165</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84165</idno>
         </person>
         <person xml:id="krp_person_id__234">
           <persName>Kienböck, Viktor Dr.</persName>
@@ -2034,7 +2034,7 @@
           </death>
           <occupation>Rechtsanwalt</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/129085804</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q114653</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q114653</idno>
         </person>
         <person xml:id="krp_person_id__235">
           <persName>Tomschik, Josef</persName>
@@ -2048,7 +2048,7 @@
           </death>
           <occupation>Mitglied der Nationalversammlung (SDAP)</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1113900385</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15838290</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15838290</idno>
         </person>
         <person xml:id="krp_person_id__237">
           <persName>Zelenka, Franz</persName>
@@ -2086,7 +2086,7 @@
           </death>
           <occupation>Mitglied der Prov Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1107190673</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15726884</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15726884</idno>
         </person>
         <person xml:id="krp_person_id__242">
           <persName>Jüptner</persName>
@@ -2123,7 +2123,7 @@
           </death>
           <occupation>Polizeidirektor in Graz</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1017791813</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q98907890</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q98907890</idno>
         </person>
         <person xml:id="krp_person_id__247">
           <persName>Kunze, Ing. Otto</persName>
@@ -2169,7 +2169,7 @@
           </death>
           <occupation>Rechtsanwalt in Wien</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/126695962</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1555914</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1555914</idno>
         </person>
         <person xml:id="krp_person_id__255">
           <persName>Hartl, Karl Dr.</persName>
@@ -2181,7 +2181,7 @@
           </death>
           <occupation>Magistratsdirektor Gemeinde Wien</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1275740928</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q107022715</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q107022715</idno>
         </person>
         <person xml:id="krp_person_id__256">
           <persName>Müller, Rudolf</persName>
@@ -2250,7 +2250,7 @@
           </death>
           <occupation>Sektionschef Staatsamt für Finanzen [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116794305</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q124877885</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124877885</idno>
         </person>
         <person xml:id="krp_person_id__270">
           <persName>Grünwald-Ehren, Paul Dr.</persName>
@@ -2292,7 +2292,7 @@
           </death>
           <occupation>Präsident des Hauptausschusses der Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118709178</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q89817</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q89817</idno>
         </person>
         <person xml:id="krp_person_id__617">
           <persName>Seidmann, Karl Dr.</persName>
@@ -2306,7 +2306,7 @@
           </death>
           <occupation>Staatsamt für Volksernährung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1033727849</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q60822130</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60822130</idno>
         </person>
         <person xml:id="krp_person_id__476">
           <persName>Segré, Roberto</persName>
@@ -2320,7 +2320,7 @@
           </death>
           <occupation>Leiter der italienischen Waffenstillstandskommission</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1228589259</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3939157</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3939157</idno>
         </person>
         <person xml:id="krp_person_id__274">
           <persName>Seipel, Ignaz Dr.</persName>
@@ -2334,7 +2334,7 @@
           </death>
           <occupation>Abgeordneter der Konst. Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/11861293X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q78720</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78720</idno>
         </person>
         <person xml:id="krp_person_id__276">
           <persName>Gürtler, Alfred Dr.</persName>
@@ -2348,7 +2348,7 @@
           </death>
           <occupation>Mitglied der Konst. Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1011404214</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1731382</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1731382</idno>
         </person>
         <person xml:id="krp_person_id__277">
           <persName>Adler, Friedrich Dr.</persName>
@@ -2362,7 +2362,7 @@
           </death>
           <occupation>Mitglied der Konst. Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118960407</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q93503</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q93503</idno>
         </person>
         <person xml:id="krp_person_id__279">
           <persName>Dittes, Paul Johann Ing.</persName>
@@ -2376,7 +2376,7 @@
           </death>
           <occupation>Direktor des Elektrisierungsamtes der österreichischen Staatsbahnen</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/127568271</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55849300</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55849300</idno>
         </person>
         <person xml:id="krp_person_id__280">
           <persName>Hold, Richard Dr.</persName>
@@ -2394,7 +2394,7 @@
           </death>
           <occupation>Mitglied der Kunst. Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1374721611</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1596544</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1596544</idno>
         </person>
         <person xml:id="krp_person_id__283">
           <persName>Friedmann, Max</persName>
@@ -2408,7 +2408,7 @@
           </death>
           <occupation>Mitglied der Konst. Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1020823909</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15916622</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15916622</idno>
         </person>
         <person xml:id="krp_person_id__284">
           <persName>Logan</persName>
@@ -2430,7 +2430,7 @@
           </death>
           <occupation>Mitglied in der Staatskommission für Kriegsgefangene</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118748432</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q87275</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87275</idno>
         </person>
         <person xml:id="krp_person_id__285">
           <persName>Smith,</persName>
@@ -2448,7 +2448,7 @@
           </death>
           <occupation>Feldmarschallleutnant</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1314980769</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q364714</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q364714</idno>
         </person>
         <person xml:id="krp_person_id__286">
           <persName>Bösbauer, Hans</persName>
@@ -2466,7 +2466,7 @@
           </death>
           <occupation>Gesandter der Bundesrepublik Schweiz</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1068158964</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q33262531</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q33262531</idno>
         </person>
         <person xml:id="krp_person_id__622">
           <persName>Rodler, Walter Dr.</persName>
@@ -2492,7 +2492,7 @@
           </death>
           <occupation>Bühnenbildner, Maler</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118791036</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q78981</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q78981</idno>
         </person>
         <person xml:id="krp_person_id__479">
           <persName>Ganglbauer, Ernest</persName>
@@ -2510,7 +2510,7 @@
           </death>
           <occupation>Finanzprokuraturssekretär</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1018921001</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2739410</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2739410</idno>
         </person>
         <person xml:id="krp_person_id__291">
           <persName>Hölzl, Anton Franz</persName>
@@ -2536,7 +2536,7 @@
           </death>
           <occupation>Ministerpräsident Italien Juni 1919-Juni 1920</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/119470764</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q367132</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q367132</idno>
         </person>
         <person xml:id="krp_person_id__293">
           <persName>Stark, Josef</persName>
@@ -2554,7 +2554,7 @@
           </death>
           <occupation>Ersatzmann am VfGH bis 1920</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/126264198</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15456335</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15456335</idno>
         </person>
         <person xml:id="krp_person_id__295">
           <persName>Erler, Eduard Dr.</persName>
@@ -2568,7 +2568,7 @@
           </death>
           <occupation>Ersatzmann am VfGH bis 1920</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1066387540</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q15916628</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q15916628</idno>
         </person>
         <person xml:id="krp_person_id__296">
           <persName>Bernegger, Matthias Dr.</persName>
@@ -2637,7 +2637,7 @@
           </death>
           <occupation>Vorsitzender der Internationalen Donaukommission</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1169254551</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q4816840</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4816840</idno>
         </person>
         <person xml:id="krp_person_id__307">
           <persName>Buchinger, Rudolf</persName>
@@ -2651,7 +2651,7 @@
           </death>
           <occupation>Mitglied der Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/129156698</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2172479</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2172479</idno>
         </person>
         <person xml:id="krp_person_id__309">
           <persName>Smitka, Johann</persName>
@@ -2685,7 +2685,7 @@
           </death>
           <occupation>Professor an der Exportakademie</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116605227</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q19279798</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q19279798</idno>
         </person>
         <person xml:id="krp_person_id__312">
           <persName>Heinz, Franz Dr.</persName>
@@ -2699,7 +2699,7 @@
           </death>
           <occupation>Sektionschef Staatsamt für Inneres und Unterricht [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/13770691X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q105024495</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q105024495</idno>
         </person>
         <person xml:id="krp_person_id__313">
           <persName>Haager, Karl Dr. [Edler von Vanderhaag]</persName>
@@ -2745,7 +2745,7 @@
           </death>
           <occupation>Professor an der Technischen Hochschule in Wien</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116047607</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1912192</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1912192</idno>
         </person>
         <person xml:id="krp_person_id__614">
           <persName>Bandl, Erich Dr.</persName>
@@ -2759,7 +2759,7 @@
           </death>
           <occupation>Sektionsrat im Staatsamt für Volksernährung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/131705326</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q106924940</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q106924940</idno>
         </person>
         <person xml:id="krp_person_id__320">
           <persName>Barrés,</persName>
@@ -2781,7 +2781,7 @@
           </death>
           <occupation>italienischer Gesandter</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1295214849</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1054146</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1054146</idno>
         </person>
         <person xml:id="krp_person_id__544">
           <persName>Habsburg-Lothringen, Peter Ferdinand</persName>
@@ -2874,7 +2874,7 @@
           </death>
           <occupation>Direktor des Internationalen Arbeitsamtes</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/120163993</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q2025679</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q2025679</idno>
         </person>
         <person xml:id="krp_person_id__334">
           <persName>de L‘Epine</persName>
@@ -2892,13 +2892,13 @@
           </death>
           <occupation>Ministerialrat Staatsamt für soziale Verwaltung [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116075651</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q22691279</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q22691279</idno>
         </person>
         <person xml:id="krp_person_id__337">
           <persName>Bunau-Varilla Maurice</persName>
           <occupation>Besitzer der Freischürfe und Grubenmasse am Rathausberg; Anmerkung in KRP 189 S. 8 Moritz geschrieben.</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/133302636</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q3300511</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3300511</idno>
         </person>
         <person xml:id="krp_person_id__552">
           <persName>Schoeller, Paul</persName>
@@ -2932,7 +2932,7 @@
           </death>
           <occupation>Direktor der Staatsakademie für Musik und darstellende Kunst</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/119273853</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q84709</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q84709</idno>
         </person>
         <person xml:id="krp_person_id__623">
           <persName>Ludwig, Eduard</persName>
@@ -2945,7 +2945,7 @@
           </death>
           <occupation>Publizistischer Mitarbeiter Eduard Ludwig</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/128654457</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1289204</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1289204</idno>
         </person>
         <person xml:id="krp_person_id__341">
           <persName>Mandyczewski, Eusebius Dr.</persName>
@@ -2959,7 +2959,7 @@
           </death>
           <occupation>Professor an der Staatsakademie für Musik und darstellende Kunst</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116728698</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q701340</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q701340</idno>
         </person>
         <person xml:id="krp_person_id__625">
           <persName>Scheuch, Leopold</persName>
@@ -2977,7 +2977,7 @@
           </death>
           <occupation>Professorin an der Staatsakademie für Musik und darstellende Kunst</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/11732471X</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q95741690</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q95741690</idno>
         </person>
         <person xml:id="krp_person_id__343">
           <persName>Fórsten, Filip</persName>
@@ -2991,7 +2991,7 @@
           </death>
           <occupation>1894–1926 Prof. am Konservatorium der GdM bzw. an der Wiener MAkad.</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1076420370</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1754023</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1754023</idno>
         </person>
         <person xml:id="krp_person_id__344">
           <persName>Geiringer, Gustav</persName>
@@ -3004,7 +3004,7 @@
           </death>
           <occupation>Lehrer für Sologesang</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/142252549</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q124790644</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q124790644</idno>
         </person>
         <person xml:id="krp_person_id__345">
           <persName>Haböck, Franz</persName>
@@ -3018,7 +3018,7 @@
           </death>
           <occupation>Professor an der Staatsakademie für Musik und darstellende Kunst</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/130170038</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q55676810</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55676810</idno>
         </person>
         <person xml:id="krp_person_id__346">
           <persName>Thomas, Eugen</persName>
@@ -3045,7 +3045,7 @@
           </death>
           <occupation>Professor an der Staatsakademie für Musik und darstellende Kunst</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116423064</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q5934379</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5934379</idno>
         </person>
         <person xml:id="krp_person_id__553">
           <persName>Pantz, Dr. Anton [von]</persName>
@@ -3072,7 +3072,7 @@
           </death>
           <occupation>Professorin an der Staatsakademie für Musik und darstellende Kunst</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/116067144</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q86708</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q86708</idno>
         </person>
         <person xml:id="krp_person_id__349">
           <persName>Hofmann, Josef</persName>
@@ -3134,7 +3134,7 @@
           </death>
           <occupation>Professor an der bildenden Akademie der Künste</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/129250821</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1251585</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1251585</idno>
         </person>
         <person xml:id="krp_person_id__384">
           <persName>Marx, Josef</persName>
@@ -3184,7 +3184,7 @@
           </death>
           <occupation>Abgeordnerter in der Nationalversammlung</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1033101540</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1582487</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1582487</idno>
         </person>
         <person xml:id="krp_person_id__455">
           <persName>Schwarzinger, Ernst</persName>
@@ -3257,7 +3257,7 @@
           </death>
           <occupation>Sektionsrat Staatskanzlei</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/132883422</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q1296854</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1296854</idno>
         </person>
         <person xml:id="krp_person_id__468">
           <persName>Bernhard, Alphons</persName>
@@ -3302,7 +3302,7 @@
           </death>
           <occupation>k.k. Handelsminister a.D.; k.k. Finanzminister a.D.; k.u.k. Finanzminster a.D.</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118867342</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q88621</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q88621</idno>
         </person>
         <person xml:id="krp_person_id__596">
           <persName>Goebl, Karl</persName>
@@ -3345,7 +3345,7 @@
           </death>
           <occupation>Mitglied des englischen Oberhauses, Lord</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/119091364</idno>
-          <idno type="URL" subtype="WIKIDATA">https://www.wikidata.org/wiki/Q271878</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q271878</idno>
         </person>
         <person xml:id="krp_person_id__695">
           <persName>Steiner, Leopold</persName>

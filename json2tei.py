@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import shutil
 
 from lxml import etree
@@ -8,6 +9,7 @@ OUTPUT_DIR = os.path.join("indices")
 INPUT_DIR = "json_dumps"
 TEI_NS = "http://www.tei-c.org/ns/1.0"
 XML_NS = "http://www.w3.org/XML/1998/namespace"
+WIKIDATA_QID = re.compile(r"\bQ\d+\b")
 
 
 def build_root(list_title):
@@ -109,8 +111,10 @@ for person in persons:
         tei_person_idno_gnd.text = person["gnd_url"]
 
     if person["wikidata_url"]:
-        tei_person_idno_wd = etree.SubElement(tei_person, f"{{{TEI_NS}}}idno", type="URL", subtype="WIKIDATA")
-        tei_person_idno_wd.text = person["wikidata_url"]
+        wikidata_qid = WIKIDATA_QID.search(person["wikidata_url"])
+        if wikidata_qid:
+            tei_person_idno_wd = etree.SubElement(tei_person, f"{{{TEI_NS}}}idno", type="URL", subtype="WIKIDATA")
+            tei_person_idno_wd.text = f"http://www.wikidata.org/entity/{wikidata_qid.group()}"
 
     if person["mrp_person_id"] and person["mrp_person_id"] != "0":
         tei_person_idno_mrp = etree.SubElement(tei_person, f"{{{TEI_NS}}}idno", type="URL", subtype="MRP")
