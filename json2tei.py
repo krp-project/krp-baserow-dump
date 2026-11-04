@@ -130,3 +130,63 @@ root.addprevious(pi)
 tree = etree.ElementTree(root)
 
 tree.write(output_path, encoding="utf-8", xml_declaration=True, pretty_print=True)
+
+# listPlace
+
+input_path = os.path.join(INPUT_DIR, "places.json")
+
+with open(input_path, "r", encoding="utf-8") as json_file:
+    data = json.load(json_file)
+
+places = data.values()
+
+root = build_root("Ortsregister zum Projekt „Die Protokolle des österreichischen Kabinettsrates 1919–1920“")
+
+tei_text = etree.SubElement(root, f"{{{TEI_NS}}}text")
+
+tei_body = etree.SubElement(tei_text, f"{{{TEI_NS}}}body")
+
+tei_listplace = etree.SubElement(tei_body, f"{{{TEI_NS}}}listPlace")
+
+for place in places:
+
+    tei_place = etree.SubElement(tei_listplace, f"{{{TEI_NS}}}place",
+                                 attrib={f"{{{XML_NS}}}id": place["krp_place_id"]})
+
+    tei_placename = etree.SubElement(tei_place, f"{{{TEI_NS}}}placeName")
+    tei_placename.text = place["label"]
+
+    if place["alternative_name"]:
+        tei_placename_alt = etree.SubElement(tei_place, f"{{{TEI_NS}}}placeName", type="alt")
+        tei_placename_alt.text = place["alternative_name"]
+
+    if place["geonames_url"]:
+        geonames_id = re.search(r"\b\d+\b", place["geonames_url"])
+        if geonames_id:
+            tei_place_idno_gn = etree.SubElement(tei_place, f"{{{TEI_NS}}}idno", type="URL", subtype="GEONAMES")
+            tei_place_idno_gn.text = f"https://sws.geonames.org/{geonames_id.group()}/"
+
+    if place["wikidata_url"]:
+        wikidata_qid = WIKIDATA_QID.search(place["wikidata_url"])
+        if wikidata_qid:
+            tei_place_idno_wd = etree.SubElement(tei_place, f"{{{TEI_NS}}}idno", type="URL", subtype="WIKIDATA")
+            tei_place_idno_wd.text = f"http://www.wikidata.org/entity/{wikidata_qid.group()}"
+
+    if place["gnd_url"]:
+        tei_place_idno_gnd = etree.SubElement(tei_place, f"{{{TEI_NS}}}idno", type="URL", subtype="GND")
+        tei_place_idno_gnd.text = place["gnd_url"]
+
+    if place["mrp_place_id"] and place["mrp_place_id"] != "0":
+        tei_place_idno_mrp = etree.SubElement(tei_place, f"{{{TEI_NS}}}idno", type="URL", subtype="MRP")
+        tei_place_idno_mrp.text = f"https://mpr.acdh.oeaw.ac.at/entity/{place["mrp_place_id"]}/"
+
+output_path = os.path.join(OUTPUT_DIR, "listplace.xml")
+
+pi = etree.ProcessingInstruction("xml-model",
+                                 "href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' " \
+                                 "type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'")
+root.addprevious(pi)
+
+tree = etree.ElementTree(root)
+
+tree.write(output_path, encoding="utf-8", xml_declaration=True, pretty_print=True)

@@ -1,0 +1,1180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ortsregister zum Projekt „Die Protokolle des österreichischen Kabinettsrates 1919–1920“</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from Baserow data dumped as JSON to https://github.com/krp-project/krp-baserow-dump</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+        <place xml:id="krp_place_id__1">
+          <placeName>Tschechoslowakei</placeName>
+          <placeName type="alt">Tschechoslowakien</placeName>
+        </place>
+        <place xml:id="krp_place_id__2">
+          <placeName>Österreich</placeName>
+          <placeName type="alt">Deutschösterreich</placeName>
+        </place>
+        <place xml:id="krp_place_id__3">
+          <placeName>Italien</placeName>
+          <placeName type="alt">Königreich Italien</placeName>
+        </place>
+        <place xml:id="krp_place_id__4">
+          <placeName>Frankreich</placeName>
+        </place>
+        <place xml:id="krp_place_id__5">
+          <placeName>Ungarische Republik [bis 21.03.1919; 01.08.1919-21.03.1920]</placeName>
+        </place>
+        <place xml:id="krp_place_id__6">
+          <placeName>Deutsches Reich</placeName>
+          <placeName type="alt">Deutschland</placeName>
+        </place>
+        <place xml:id="krp_place_id__7">
+          <placeName>Liechtenstein</placeName>
+        </place>
+        <place xml:id="krp_place_id__8">
+          <placeName>Schweiz</placeName>
+        </place>
+        <place xml:id="krp_place_id__258">
+          <placeName>Klein-Eberhard</placeName>
+        </place>
+        <place xml:id="krp_place_id__9">
+          <placeName>Königreich SHS</placeName>
+          <placeName type="alt">Jugoslawien</placeName>
+        </place>
+        <place xml:id="krp_place_id__286">
+          <placeName>Brenner</placeName>
+        </place>
+        <place xml:id="krp_place_id__285">
+          <placeName>Salurner Klause</placeName>
+        </place>
+        <place xml:id="krp_place_id__13">
+          <placeName>Salzburg (Land)</placeName>
+        </place>
+        <place xml:id="krp_place_id__10">
+          <placeName>Schweden</placeName>
+        </place>
+        <place xml:id="krp_place_id__11">
+          <placeName>Norwegen</placeName>
+        </place>
+        <place xml:id="krp_place_id__12">
+          <placeName>Salzburg (Stadt)</placeName>
+        </place>
+        <place xml:id="krp_place_id__14">
+          <placeName>Paris</placeName>
+        </place>
+        <place xml:id="krp_place_id__251">
+          <placeName>Westukrainische Volksrepublik</placeName>
+        </place>
+        <place xml:id="krp_place_id__15">
+          <placeName>Wien</placeName>
+        </place>
+        <place xml:id="krp_place_id__16">
+          <placeName>Innsbruck</placeName>
+        </place>
+        <place xml:id="krp_place_id__17">
+          <placeName>Klagenfurt</placeName>
+        </place>
+        <place xml:id="krp_place_id__41">
+          <placeName>Großbritannien</placeName>
+          <placeName type="alt">England</placeName>
+        </place>
+        <place xml:id="krp_place_id__18">
+          <placeName>Graz</placeName>
+        </place>
+        <place xml:id="krp_place_id__19">
+          <placeName>Linz</placeName>
+        </place>
+        <place xml:id="krp_place_id__20">
+          <placeName>New York</placeName>
+        </place>
+        <place xml:id="krp_place_id__21">
+          <placeName>Oberösterreich</placeName>
+          <placeName type="alt">Achtung hatte vormals falsche ID 297!!!</placeName>
+        </place>
+        <place xml:id="krp_place_id__22">
+          <placeName>Niederösterreich</placeName>
+        </place>
+        <place xml:id="krp_place_id__23">
+          <placeName>Vereinigte Staaten von Amerika</placeName>
+          <placeName type="alt">Amerika</placeName>
+        </place>
+        <place xml:id="krp_place_id__24">
+          <placeName>St. Pölten</placeName>
+        </place>
+        <place xml:id="krp_place_id__25">
+          <placeName>Malmaison [Schloss]</placeName>
+        </place>
+        <place xml:id="krp_place_id__26">
+          <placeName>Sudetenland</placeName>
+        </place>
+        <place xml:id="krp_place_id__27">
+          <placeName>St. Germain</placeName>
+        </place>
+        <place xml:id="krp_place_id__28">
+          <placeName>Steiermark</placeName>
+        </place>
+        <place xml:id="krp_place_id__29">
+          <placeName>Deutschböhmen</placeName>
+        </place>
+        <place xml:id="krp_place_id__30">
+          <placeName>Vorarlberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__31">
+          <placeName>Kärnten</placeName>
+        </place>
+        <place xml:id="krp_place_id__32">
+          <placeName>Tirol</placeName>
+        </place>
+        <place xml:id="krp_place_id__34">
+          <placeName>Sopron</placeName>
+          <placeName type="alt">Ödenburg</placeName>
+        </place>
+        <place xml:id="krp_place_id__35">
+          <placeName>Budapest</placeName>
+        </place>
+        <place xml:id="krp_place_id__36">
+          <placeName>Österreich-Ungarn</placeName>
+        </place>
+        <place xml:id="krp_place_id__37">
+          <placeName>Südtirol</placeName>
+          <placeName type="alt">Deutsch-Südtirol</placeName>
+        </place>
+        <place xml:id="krp_place_id__38">
+          <placeName>Zwettl</placeName>
+        </place>
+        <place xml:id="krp_place_id__39">
+          <placeName>Eckartsau</placeName>
+        </place>
+        <place xml:id="krp_place_id__42">
+          <placeName>Prag</placeName>
+          <placeName type="alt">Praha</placeName>
+        </place>
+        <place xml:id="krp_place_id__43">
+          <placeName>Böhmen</placeName>
+        </place>
+        <place xml:id="krp_place_id__44">
+          <placeName>Mähren</placeName>
+        </place>
+        <place xml:id="krp_place_id__284">
+          <placeName>Bischofshofen</placeName>
+        </place>
+        <place xml:id="krp_place_id__45">
+          <placeName>Blumau</placeName>
+        </place>
+        <place xml:id="krp_place_id__46">
+          <placeName>Wöllersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__47">
+          <placeName>Ukraine</placeName>
+        </place>
+        <place xml:id="krp_place_id__48">
+          <placeName>Russland</placeName>
+        </place>
+        <place xml:id="krp_place_id__49">
+          <placeName>Rumänien</placeName>
+        </place>
+        <place xml:id="krp_place_id__50">
+          <placeName>Bulgarien</placeName>
+        </place>
+        <place xml:id="krp_place_id__52">
+          <placeName>Fischamend</placeName>
+        </place>
+        <place xml:id="krp_place_id__290">
+          <placeName>Warschau</placeName>
+        </place>
+        <place xml:id="krp_place_id__53">
+          <placeName>Weimar</placeName>
+        </place>
+        <place xml:id="krp_place_id__259">
+          <placeName>Jarolden</placeName>
+        </place>
+        <place xml:id="krp_place_id__54">
+          <placeName>Jochberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__55">
+          <placeName>Fischau</placeName>
+        </place>
+        <place xml:id="krp_place_id__56">
+          <placeName>Strass</placeName>
+        </place>
+        <place xml:id="krp_place_id__57">
+          <placeName>Bruck</placeName>
+        </place>
+        <place xml:id="krp_place_id__58">
+          <placeName>Liebenau</placeName>
+        </place>
+        <place xml:id="krp_place_id__289">
+          <placeName>Hall in Tirol</placeName>
+        </place>
+        <place xml:id="krp_place_id__59">
+          <placeName>Hainburg an der Donau</placeName>
+        </place>
+        <place xml:id="krp_place_id__60">
+          <placeName>Hirtenberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__61">
+          <placeName>Zillingdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__63">
+          <placeName>Berlin</placeName>
+        </place>
+        <place xml:id="krp_place_id__64">
+          <placeName>Bratislava</placeName>
+          <placeName type="alt">Pressburg</placeName>
+        </place>
+        <place xml:id="krp_place_id__65">
+          <placeName>Wiener Neustadt (Stadt)</placeName>
+        </place>
+        <place xml:id="krp_place_id__66">
+          <placeName>Enns</placeName>
+        </place>
+        <place xml:id="krp_place_id__67">
+          <placeName>Bukowina</placeName>
+        </place>
+        <place xml:id="krp_place_id__68">
+          <placeName>Schlesien</placeName>
+        </place>
+        <place xml:id="krp_place_id__69">
+          <placeName>Gleisdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__70">
+          <placeName>Weiz</placeName>
+        </place>
+        <place xml:id="krp_place_id__71">
+          <placeName>Loipersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__72">
+          <placeName>Völlerndorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__73">
+          <placeName>Gerersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__74">
+          <placeName>Südsteiermark</placeName>
+        </place>
+        <place xml:id="krp_place_id__75">
+          <placeName>Ljubljana</placeName>
+          <placeName type="alt">Laibach</placeName>
+        </place>
+        <place xml:id="krp_place_id__76">
+          <placeName>Bukarest</placeName>
+        </place>
+        <place xml:id="krp_place_id__77">
+          <placeName>Groß-Enzersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__78">
+          <placeName>Argentinien</placeName>
+        </place>
+        <place xml:id="krp_place_id__79">
+          <placeName>Polen</placeName>
+        </place>
+        <place xml:id="krp_place_id__80">
+          <placeName>London</placeName>
+        </place>
+        <place xml:id="krp_place_id__82">
+          <placeName>Bern</placeName>
+        </place>
+        <place xml:id="krp_place_id__83">
+          <placeName>Hohenberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__84">
+          <placeName>Traisen</placeName>
+        </place>
+        <place xml:id="krp_place_id__85">
+          <placeName>Mödling</placeName>
+        </place>
+        <place xml:id="krp_place_id__86">
+          <placeName>Tulln</placeName>
+        </place>
+        <place xml:id="krp_place_id__87">
+          <placeName>Mautern</placeName>
+        </place>
+        <place xml:id="krp_place_id__88">
+          <placeName>Stein an der Donau</placeName>
+        </place>
+        <place xml:id="krp_place_id__89">
+          <placeName>Vitis</placeName>
+        </place>
+        <place xml:id="krp_place_id__90">
+          <placeName>Kaltenbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__91">
+          <placeName>Schachersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__92">
+          <placeName>Schobersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__93">
+          <placeName>Triest</placeName>
+        </place>
+        <place xml:id="krp_place_id__94">
+          <placeName>Lilienfeld</placeName>
+        </place>
+        <place xml:id="krp_place_id__95">
+          <placeName>Schweigers</placeName>
+        </place>
+        <place xml:id="krp_place_id__96">
+          <placeName>Oberstrahlbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__97">
+          <placeName>Finnland</placeName>
+        </place>
+        <place xml:id="krp_place_id__98">
+          <placeName>Thenneberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__99">
+          <placeName>Petzelsberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__100">
+          <placeName>Etzen</placeName>
+        </place>
+        <place xml:id="krp_place_id__101">
+          <placeName>Waidhofen an der Thaya</placeName>
+        </place>
+        <place xml:id="krp_place_id__102">
+          <placeName>Natschbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__254">
+          <placeName>München</placeName>
+        </place>
+        <place xml:id="krp_place_id__103">
+          <placeName>Muckendorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__104">
+          <placeName>Posselsdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__105">
+          <placeName>Sittendorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__106">
+          <placeName>Reidlingberg-Pyrafeld</placeName>
+        </place>
+        <place xml:id="krp_place_id__107">
+          <placeName>Gopprechts</placeName>
+        </place>
+        <place xml:id="krp_place_id__108">
+          <placeName>Walkenstein</placeName>
+        </place>
+        <place xml:id="krp_place_id__109">
+          <placeName>Unter-Waltersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__110">
+          <placeName>Ungerbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__111">
+          <placeName>Fiecht</placeName>
+        </place>
+        <place xml:id="krp_place_id__112">
+          <placeName>Wels</placeName>
+        </place>
+        <place xml:id="krp_place_id__113">
+          <placeName>Kirchberg am Wechsel</placeName>
+        </place>
+        <place xml:id="krp_place_id__114">
+          <placeName>Zürich (Kanton)</placeName>
+        </place>
+        <place xml:id="krp_place_id__115">
+          <placeName>Bregenz</placeName>
+        </place>
+        <place xml:id="krp_place_id__116">
+          <placeName>St. Gallen (Stadt)</placeName>
+        </place>
+        <place xml:id="krp_place_id__117">
+          <placeName>Zürich (Stadt)</placeName>
+        </place>
+        <place xml:id="krp_place_id__118">
+          <placeName>St. Gallen (Kanton)</placeName>
+        </place>
+        <place xml:id="krp_place_id__119">
+          <placeName>Stainach</placeName>
+        </place>
+        <place xml:id="krp_place_id__120">
+          <placeName>Irdning</placeName>
+        </place>
+        <place xml:id="krp_place_id__121">
+          <placeName>Attnang-Puchheim</placeName>
+          <placeName type="alt">Achtung hatte vormals falsche ID 164!!</placeName>
+        </place>
+        <place xml:id="krp_place_id__122">
+          <placeName>Jugoslawien</placeName>
+        </place>
+        <place xml:id="krp_place_id__123">
+          <placeName>Krakau</placeName>
+          <placeName type="alt">Krakow</placeName>
+        </place>
+        <place xml:id="krp_place_id__124">
+          <placeName>Reitzenschlag</placeName>
+        </place>
+        <place xml:id="krp_place_id__125">
+          <placeName>Polnisch-Galizien</placeName>
+        </place>
+        <place xml:id="krp_place_id__126">
+          <placeName>Waidhofen an der Ybbs</placeName>
+        </place>
+        <place xml:id="krp_place_id__128">
+          <placeName>St. Josef bei Stainz</placeName>
+        </place>
+        <place xml:id="krp_place_id__129">
+          <placeName>Währing</placeName>
+        </place>
+        <place xml:id="krp_place_id__291">
+          <placeName>Ehrwald</placeName>
+        </place>
+        <place xml:id="krp_place_id__130">
+          <placeName>Elsern</placeName>
+        </place>
+        <place xml:id="krp_place_id__131">
+          <placeName>Ulrichs</placeName>
+        </place>
+        <place xml:id="krp_place_id__132">
+          <placeName>Oberhöflein</placeName>
+        </place>
+        <place xml:id="krp_place_id__133">
+          <placeName>Hagenberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__134">
+          <placeName>Kainraths</placeName>
+        </place>
+        <place xml:id="krp_place_id__135">
+          <placeName>Lembach</placeName>
+        </place>
+        <place xml:id="krp_place_id__136">
+          <placeName>Staasdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__257">
+          <placeName>Laxenburg [Schloss]</placeName>
+        </place>
+        <place xml:id="krp_place_id__137">
+          <placeName>Lauterbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__138">
+          <placeName>Siebenhöf</placeName>
+        </place>
+        <place xml:id="krp_place_id__139">
+          <placeName>Heinrichs</placeName>
+        </place>
+        <place xml:id="krp_place_id__140">
+          <placeName>St. Valentin-Landschach</placeName>
+        </place>
+        <place xml:id="krp_place_id__141">
+          <placeName>Goggitsch</placeName>
+        </place>
+        <place xml:id="krp_place_id__142">
+          <placeName>Maigen</placeName>
+        </place>
+        <place xml:id="krp_place_id__143">
+          <placeName>Hippersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__144">
+          <placeName>St. Johann am Steinfelde</placeName>
+        </place>
+        <place xml:id="krp_place_id__145">
+          <placeName>Paudorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__146">
+          <placeName>Klein-Burgstall</placeName>
+        </place>
+        <place xml:id="krp_place_id__147">
+          <placeName>Raach</placeName>
+        </place>
+        <place xml:id="krp_place_id__148">
+          <placeName>Rodingersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__149">
+          <placeName>Eschenau</placeName>
+        </place>
+        <place xml:id="krp_place_id__150">
+          <placeName>Thumritz</placeName>
+        </place>
+        <place xml:id="krp_place_id__151">
+          <placeName>Ulrichskirchen</placeName>
+        </place>
+        <place xml:id="krp_place_id__152">
+          <placeName>Pernegg</placeName>
+        </place>
+        <place xml:id="krp_place_id__153">
+          <placeName>Feistritz am Wechsel</placeName>
+        </place>
+        <place xml:id="krp_place_id__154">
+          <placeName>Sallapulka</placeName>
+        </place>
+        <place xml:id="krp_place_id__155">
+          <placeName>Göstling</placeName>
+        </place>
+        <place xml:id="krp_place_id__156">
+          <placeName>Matzelsdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__157">
+          <placeName>Albrechtsberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__158">
+          <placeName>Nödersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__160">
+          <placeName>Niederleis</placeName>
+        </place>
+        <place xml:id="krp_place_id__162">
+          <placeName>Diesendorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__163">
+          <placeName>Gloggnitz</placeName>
+        </place>
+        <place xml:id="krp_place_id__164">
+          <placeName>Asperhofen</placeName>
+        </place>
+        <place xml:id="krp_place_id__165">
+          <placeName>Neunkirchen</placeName>
+        </place>
+        <place xml:id="krp_place_id__166">
+          <placeName>Ternitz</placeName>
+        </place>
+        <place xml:id="krp_place_id__167">
+          <placeName>Melk</placeName>
+        </place>
+        <place xml:id="krp_place_id__168">
+          <placeName>Laa an der Thaya</placeName>
+        </place>
+        <place xml:id="krp_place_id__169">
+          <placeName>Stockerau</placeName>
+        </place>
+        <place xml:id="krp_place_id__170">
+          <placeName>Ybbs an der Donau</placeName>
+        </place>
+        <place xml:id="krp_place_id__171">
+          <placeName>Danöfen</placeName>
+        </place>
+        <place xml:id="krp_place_id__172">
+          <placeName>Hettmannsdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__173">
+          <placeName>Türnitz</placeName>
+        </place>
+        <place xml:id="krp_place_id__174">
+          <placeName>Thomasberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__175">
+          <placeName>Michelhausen</placeName>
+        </place>
+        <place xml:id="krp_place_id__176">
+          <placeName>Wolfsberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__177">
+          <placeName>Reichaueramt</placeName>
+        </place>
+        <place xml:id="krp_place_id__178">
+          <placeName>Oberkirchen</placeName>
+        </place>
+        <place xml:id="krp_place_id__179">
+          <placeName>Bogenneusiedl-Streifing</placeName>
+        </place>
+        <place xml:id="krp_place_id__180">
+          <placeName>Neueigen</placeName>
+        </place>
+        <place xml:id="krp_place_id__181">
+          <placeName>Willendorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__182">
+          <placeName>Göttlich</placeName>
+        </place>
+        <place xml:id="krp_place_id__288">
+          <placeName>Hernals</placeName>
+        </place>
+        <place xml:id="krp_place_id__183">
+          <placeName>Kottingbrunn</placeName>
+        </place>
+        <place xml:id="krp_place_id__287">
+          <placeName>Steyr</placeName>
+        </place>
+        <place xml:id="krp_place_id__184">
+          <placeName>Stiefern</placeName>
+        </place>
+        <place xml:id="krp_place_id__185">
+          <placeName>Ebenfurth</placeName>
+        </place>
+        <place xml:id="krp_place_id__186">
+          <placeName>Sollenau</placeName>
+        </place>
+        <place xml:id="krp_place_id__255">
+          <placeName>Schönbrunn [Schloss]</placeName>
+        </place>
+        <place xml:id="krp_place_id__187">
+          <placeName>Schwarzach</placeName>
+        </place>
+        <place xml:id="krp_place_id__188">
+          <placeName>Hautzendorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__189">
+          <placeName>St. Veit</placeName>
+        </place>
+        <place xml:id="krp_place_id__190">
+          <placeName>Maria-Enzersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__191">
+          <placeName>Wörgl</placeName>
+        </place>
+        <place xml:id="krp_place_id__256">
+          <placeName>Hetzendorf [Schloss]</placeName>
+        </place>
+        <place xml:id="krp_place_id__192">
+          <placeName>Hinterbrühl</placeName>
+        </place>
+        <place xml:id="krp_place_id__265">
+          <placeName>Mollzegg</placeName>
+        </place>
+        <place xml:id="krp_place_id__193">
+          <placeName>Möllersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__194">
+          <placeName>Villach</placeName>
+        </place>
+        <place xml:id="krp_place_id__195">
+          <placeName>Oftering</placeName>
+        </place>
+        <place xml:id="krp_place_id__196">
+          <placeName>Steinach</placeName>
+        </place>
+        <place xml:id="krp_place_id__197">
+          <placeName>Buchkirchen</placeName>
+        </place>
+        <place xml:id="krp_place_id__199">
+          <placeName>Leoben</placeName>
+        </place>
+        <place xml:id="krp_place_id__292">
+          <placeName>Semmering</placeName>
+        </place>
+        <place xml:id="krp_place_id__200">
+          <placeName>Senftenberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__201">
+          <placeName>Oberkreuzstetten</placeName>
+        </place>
+        <place xml:id="krp_place_id__203">
+          <placeName>Gainfarn</placeName>
+        </place>
+        <place xml:id="krp_place_id__204">
+          <placeName>Alt-Weitra</placeName>
+        </place>
+        <place xml:id="krp_place_id__205">
+          <placeName>Wagram an der Donau</placeName>
+        </place>
+        <place xml:id="krp_place_id__206">
+          <placeName>Enzersfeld</placeName>
+        </place>
+        <place xml:id="krp_place_id__207">
+          <placeName>Feldberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__208">
+          <placeName>Dorfstetten</placeName>
+        </place>
+        <place xml:id="krp_place_id__209">
+          <placeName>Schagges</placeName>
+        </place>
+        <place xml:id="krp_place_id__210">
+          <placeName>Klausen-Leopoldsdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__211">
+          <placeName>Hohenems</placeName>
+        </place>
+        <place xml:id="krp_place_id__212">
+          <placeName>Mäder</placeName>
+        </place>
+        <place xml:id="krp_place_id__213">
+          <placeName>Altach</placeName>
+        </place>
+        <place xml:id="krp_place_id__214">
+          <placeName>Götzis</placeName>
+        </place>
+        <place xml:id="krp_place_id__215">
+          <placeName>Schwaz</placeName>
+        </place>
+        <place xml:id="krp_place_id__216">
+          <placeName>Bezirk [Bezirk]</placeName>
+        </place>
+        <place xml:id="krp_place_id__217">
+          <placeName>Mank</placeName>
+        </place>
+        <place xml:id="krp_place_id__218">
+          <placeName>Scheibbs</placeName>
+        </place>
+        <place xml:id="krp_place_id__249">
+          <placeName>Rom</placeName>
+        </place>
+        <place xml:id="krp_place_id__250">
+          <placeName>Vatikan</placeName>
+        </place>
+        <place xml:id="krp_place_id__252">
+          <placeName>Galizien</placeName>
+        </place>
+        <place xml:id="krp_place_id__283">
+          <placeName>Mühldorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__253">
+          <placeName>Münchner Räterpublik [07.04.1919-02.05.1919]</placeName>
+          <placeName type="alt">Räterepublik Bayern, Bayrische Räterepublik, Münchner Räterepublik</placeName>
+        </place>
+        <place xml:id="krp_place_id__260">
+          <placeName>Schrattenbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__262">
+          <placeName>Trattenbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__263">
+          <placeName>Ottertal</placeName>
+        </place>
+        <place xml:id="krp_place_id__264">
+          <placeName>Mittel im Steinfelde</placeName>
+        </place>
+        <place xml:id="krp_place_id__267">
+          <placeName>St. Peter am Neuwald</placeName>
+        </place>
+        <place xml:id="krp_place_id__268">
+          <placeName>Mariensee</placeName>
+        </place>
+        <place xml:id="krp_place_id__269">
+          <placeName>Amt Aspang</placeName>
+        </place>
+        <place xml:id="krp_place_id__270">
+          <placeName>Feichsen</placeName>
+        </place>
+        <place xml:id="krp_place_id__271">
+          <placeName>St. Joachimsthal</placeName>
+        </place>
+        <place xml:id="krp_place_id__272">
+          <placeName>Purgstall</placeName>
+        </place>
+        <place xml:id="krp_place_id__273">
+          <placeName>Süßenbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__274">
+          <placeName>Limbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__275">
+          <placeName>Innichen</placeName>
+        </place>
+        <place xml:id="krp_place_id__276">
+          <placeName>Obermillstatt</placeName>
+        </place>
+        <place xml:id="krp_place_id__277">
+          <placeName>Sexten</placeName>
+        </place>
+        <place xml:id="krp_place_id__278">
+          <placeName>Görtschach-Förolach</placeName>
+        </place>
+        <place xml:id="krp_place_id__279">
+          <placeName>Gnesau</placeName>
+        </place>
+        <place xml:id="krp_place_id__280">
+          <placeName>Koblach</placeName>
+        </place>
+        <place xml:id="krp_place_id__281">
+          <placeName>Zedtlitzdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__282">
+          <placeName>Patergassen</placeName>
+        </place>
+        <place xml:id="krp_place_id__293">
+          <placeName>Hetzendorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__294">
+          <placeName>Czernowitz</placeName>
+        </place>
+        <place xml:id="krp_place_id__295">
+          <placeName>Seckau</placeName>
+        </place>
+        <place xml:id="krp_place_id__296">
+          <placeName>Oberschlesien</placeName>
+        </place>
+        <place xml:id="krp_place_id__297">
+          <placeName>Niederlande</placeName>
+          <placeName type="alt">Holland</placeName>
+        </place>
+        <place xml:id="krp_place_id__298">
+          <placeName>Waidmannsfeld</placeName>
+        </place>
+        <place xml:id="krp_place_id__299">
+          <placeName>Mährisch-Ostrau</placeName>
+          <placeName type="alt">Ostrau; Ostrava</placeName>
+        </place>
+        <place xml:id="krp_place_id__300">
+          <placeName>Deutschsüdmähren</placeName>
+        </place>
+        <place xml:id="krp_place_id__301">
+          <placeName>Schildern</placeName>
+        </place>
+        <place xml:id="krp_place_id__302">
+          <placeName>Belgrad</placeName>
+        </place>
+        <place xml:id="krp_place_id__303">
+          <placeName>Thernberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__304">
+          <placeName>Oderberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__305">
+          <placeName>Brünn</placeName>
+          <placeName type="alt">Brno</placeName>
+        </place>
+        <place xml:id="krp_place_id__306">
+          <placeName>Wollzeile 18, A-1020 Wien</placeName>
+        </place>
+        <place xml:id="krp_place_id__307">
+          <placeName>Floridsdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__308">
+          <placeName>Roßauer Kaserne</placeName>
+        </place>
+        <place xml:id="krp_place_id__309">
+          <placeName>Karmelitinnenkirche in Linz</placeName>
+        </place>
+        <place xml:id="krp_place_id__310">
+          <placeName>Rupprechtshofen</placeName>
+        </place>
+        <place xml:id="krp_place_id__311">
+          <placeName>Herzegowina</placeName>
+        </place>
+        <place xml:id="krp_place_id__312">
+          <placeName>Gosdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__313">
+          <placeName>Bosnien</placeName>
+        </place>
+        <place xml:id="krp_place_id__314">
+          <placeName>Westungarn</placeName>
+          <placeName type="alt">Burgenland; Vierburgenland</placeName>
+        </place>
+        <place xml:id="krp_place_id__315">
+          <placeName>Mährisch Neustadt</placeName>
+        </place>
+        <place xml:id="krp_place_id__316">
+          <placeName>Schaffa</placeName>
+        </place>
+        <place xml:id="krp_place_id__317">
+          <placeName>Kufstein</placeName>
+        </place>
+        <place xml:id="krp_place_id__318">
+          <placeName>Hittisau</placeName>
+        </place>
+        <place xml:id="krp_place_id__319">
+          <placeName>Spiegelgasse 2, A-1010 Wien</placeName>
+        </place>
+        <place xml:id="krp_place_id__320">
+          <placeName>Döbling</placeName>
+        </place>
+        <place xml:id="krp_place_id__321">
+          <placeName>Belluno</placeName>
+        </place>
+        <place xml:id="krp_place_id__322">
+          <placeName>Arlbergtunnel</placeName>
+        </place>
+        <place xml:id="krp_place_id__323">
+          <placeName>Spullersee</placeName>
+        </place>
+        <place xml:id="krp_place_id__324">
+          <placeName>Ruetzbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__325">
+          <placeName>Stubachtal</placeName>
+        </place>
+        <place xml:id="krp_place_id__326">
+          <placeName>Mallnitz</placeName>
+        </place>
+        <place xml:id="krp_place_id__327">
+          <placeName>Berndorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__328">
+          <placeName>Hassbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__329">
+          <placeName>Kirchau</placeName>
+        </place>
+        <place xml:id="krp_place_id__330">
+          <placeName>Blühnbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__331">
+          <placeName>Außerfelden</placeName>
+        </place>
+        <place xml:id="krp_place_id__332">
+          <placeName>Landeck</placeName>
+        </place>
+        <place xml:id="krp_place_id__333">
+          <placeName>Tösens</placeName>
+        </place>
+        <place xml:id="krp_place_id__334">
+          <placeName>Vöslau-Gainfarn</placeName>
+        </place>
+        <place xml:id="krp_place_id__336">
+          <placeName>Urfahr</placeName>
+        </place>
+        <place xml:id="krp_place_id__337">
+          <placeName>Pielachfluss</placeName>
+        </place>
+        <place xml:id="krp_place_id__338">
+          <placeName>Venedig</placeName>
+        </place>
+        <place xml:id="krp_place_id__339">
+          <placeName>Litauen</placeName>
+        </place>
+        <place xml:id="krp_place_id__340">
+          <placeName>Wolfsegg</placeName>
+        </place>
+        <place xml:id="krp_place_id__341">
+          <placeName>Köttlach</placeName>
+        </place>
+        <place xml:id="krp_place_id__342">
+          <placeName>St. Peter in der Au</placeName>
+        </place>
+        <place xml:id="krp_place_id__343">
+          <placeName>Sachsenburg</placeName>
+        </place>
+        <place xml:id="krp_place_id__344">
+          <placeName>St. Salvator</placeName>
+        </place>
+        <place xml:id="krp_place_id__345">
+          <placeName>Egg</placeName>
+        </place>
+        <place xml:id="krp_place_id__346">
+          <placeName>Grades</placeName>
+        </place>
+        <place xml:id="krp_place_id__347">
+          <placeName>Moosbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__348">
+          <placeName>Kaiserebersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__349">
+          <placeName>Hörlgasse [IX. Wiener Gemeindebezirk]</placeName>
+        </place>
+        <place xml:id="krp_place_id__350">
+          <placeName>Ungarische Räterepublik [21.03.1919-01.08.1919]</placeName>
+        </place>
+        <place xml:id="krp_place_id__351">
+          <placeName>Rhein</placeName>
+        </place>
+        <place xml:id="krp_place_id__352">
+          <placeName>Königreich Ungarn [21.03.1920-]</placeName>
+        </place>
+        <place xml:id="krp_place_id__353">
+          <placeName>Donau-Oder-Kanal</placeName>
+        </place>
+        <place xml:id="krp_place_id__354">
+          <placeName>Voitsberg-Köflacher Reviere</placeName>
+        </place>
+        <place xml:id="krp_place_id__355">
+          <placeName>Wieser Reviere</placeName>
+        </place>
+        <place xml:id="krp_place_id__356">
+          <placeName>Niederschlesien</placeName>
+        </place>
+        <place xml:id="krp_place_id__357">
+          <placeName>Amsterdam</placeName>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2759794/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q727</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4001783-7</idno>
+          <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/1585/</idno>
+        </place>
+        <place xml:id="krp_place_id__391">
+          <placeName>Stiftskaserne General Spannocchi</placeName>
+        </place>
+        <place xml:id="krp_place_id__392">
+          <placeName>Stephansdom [Kirche]</placeName>
+        </place>
+        <place xml:id="krp_place_id__393">
+          <placeName>Langen</placeName>
+        </place>
+        <place xml:id="krp_place_id__394">
+          <placeName>Bludenz</placeName>
+        </place>
+        <place xml:id="krp_place_id__395">
+          <placeName>Equitablepalais</placeName>
+          <placeName type="alt">https://www.geschichtewiki.wien.gv.at/Equitablepalais</placeName>
+        </place>
+        <place xml:id="krp_place_id__396">
+          <placeName>Traiskirchen</placeName>
+        </place>
+        <place xml:id="krp_place_id__397">
+          <placeName>Toskana</placeName>
+        </place>
+        <place xml:id="krp_place_id__398">
+          <placeName>Salzburger Dom</placeName>
+        </place>
+        <place xml:id="krp_place_id__399">
+          <placeName>Fünfhaus</placeName>
+        </place>
+        <place xml:id="krp_place_id__400">
+          <placeName>Tullnerbach</placeName>
+        </place>
+        <place xml:id="krp_place_id__401">
+          <placeName>Gmunden</placeName>
+        </place>
+        <place xml:id="krp_place_id__402">
+          <placeName>Washington</placeName>
+        </place>
+        <place xml:id="krp_place_id__403">
+          <placeName>Dänemark</placeName>
+        </place>
+        <place xml:id="krp_place_id__404">
+          <placeName>Argentinien</placeName>
+        </place>
+        <place xml:id="krp_place_id__436">
+          <placeName>Ried im Innkreis</placeName>
+        </place>
+        <place xml:id="krp_place_id__437">
+          <placeName>Westbahnhof [Wien]</placeName>
+        </place>
+        <place xml:id="krp_place_id__438">
+          <placeName>Ostbahnhof [Wien]</placeName>
+        </place>
+        <place xml:id="krp_place_id__439">
+          <placeName>Freihaus auf der Wieden</placeName>
+        </place>
+        <place xml:id="krp_place_id__441">
+          <placeName>Brescia</placeName>
+        </place>
+        <place xml:id="krp_place_id__442">
+          <placeName>Lützen</placeName>
+        </place>
+        <place xml:id="krp_place_id__444">
+          <placeName>Stockholm</placeName>
+        </place>
+        <place xml:id="krp_place_id__445">
+          <placeName>Liesing</placeName>
+        </place>
+        <place xml:id="krp_place_id__446">
+          <placeName>Kleßheim</placeName>
+        </place>
+        <place xml:id="krp_place_id__479">
+          <placeName>Amstetten</placeName>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871688/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q251231</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4001784-9</idno>
+          <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/4831/</idno>
+        </place>
+        <place xml:id="krp_place_id__480">
+          <placeName>Heinreichs</placeName>
+        </place>
+        <place xml:id="krp_place_id__481">
+          <placeName>Krems an der Donau</placeName>
+        </place>
+        <place xml:id="krp_place_id__483">
+          <placeName>Himberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__514">
+          <placeName>Brunn am Gebirge</placeName>
+        </place>
+        <place xml:id="krp_place_id__548">
+          <placeName>Sonnberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__580">
+          <placeName>Steinhof</placeName>
+        </place>
+        <place xml:id="krp_place_id__581">
+          <placeName>Preußen</placeName>
+        </place>
+        <place xml:id="krp_place_id__584">
+          <placeName>Feldkirch</placeName>
+        </place>
+        <place xml:id="krp_place_id__618">
+          <placeName>Rauris</placeName>
+        </place>
+        <place xml:id="krp_place_id__620">
+          <placeName>Lundenburg</placeName>
+        </place>
+        <place xml:id="krp_place_id__621">
+          <placeName>Achensee</placeName>
+        </place>
+        <place xml:id="krp_place_id__622">
+          <placeName>Hinterseer Alm in Wiestal</placeName>
+        </place>
+        <place xml:id="krp_place_id__624">
+          <placeName>Venetien</placeName>
+        </place>
+        <place xml:id="krp_place_id__625">
+          <placeName>Trofaiach</placeName>
+        </place>
+        <place xml:id="krp_place_id__626">
+          <placeName>Wiener Neustadt (Bezirk)</placeName>
+        </place>
+        <place xml:id="krp_place_id__627">
+          <placeName>Greifenstein</placeName>
+        </place>
+        <place xml:id="krp_place_id__628">
+          <placeName>Langenzersdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__630">
+          <placeName>Lünersee</placeName>
+        </place>
+        <place xml:id="krp_place_id__631">
+          <placeName>Oberdorf-Bruck an der Mur</placeName>
+        </place>
+        <place xml:id="krp_place_id__632">
+          <placeName>Leopoldau</placeName>
+        </place>
+        <place xml:id="krp_place_id__633">
+          <placeName>Fehring</placeName>
+        </place>
+        <place xml:id="krp_place_id__634">
+          <placeName>Pinkafeld</placeName>
+        </place>
+        <place xml:id="krp_place_id__635">
+          <placeName></placeName>
+        </place>
+        <place xml:id="krp_place_id__636">
+          <placeName>Ligetfalu</placeName>
+        </place>
+        <place xml:id="krp_place_id__637">
+          <placeName>Wolfsthal</placeName>
+        </place>
+        <place xml:id="krp_place_id__638">
+          <placeName></placeName>
+        </place>
+        <place xml:id="krp_place_id__639">
+          <placeName>Szigetfalu</placeName>
+        </place>
+        <place xml:id="krp_place_id__640">
+          <placeName>Kittsee</placeName>
+        </place>
+        <place xml:id="krp_place_id__641">
+          <placeName>Katzelsdorf</placeName>
+        </place>
+        <place xml:id="krp_place_id__643">
+          <placeName>Sommerein</placeName>
+        </place>
+        <place xml:id="krp_place_id__644">
+          <placeName>Fürstenfeld</placeName>
+        </place>
+        <place xml:id="krp_place_id__677">
+          <placeName>Frastanzer Ried</placeName>
+        </place>
+        <place xml:id="krp_place_id__678">
+          <placeName></placeName>
+        </place>
+        <place xml:id="krp_place_id__679">
+          <placeName>Nordfrankreich</placeName>
+        </place>
+        <place xml:id="krp_place_id__680">
+          <placeName>Innerbraz</placeName>
+        </place>
+        <place xml:id="krp_place_id__681">
+          <placeName>Dornbirn</placeName>
+        </place>
+        <place xml:id="krp_place_id__682">
+          <placeName>Lienz (Bezirk)</placeName>
+        </place>
+        <place xml:id="krp_place_id__683">
+          <placeName>Bruck an der Mur</placeName>
+        </place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>
