@@ -4118,5 +4118,95 @@
     "krp_org_id": "krp_org_id__850",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__850\"></rs>",
     "mrp_org_id": ""
+  },
+  "851": {
+    "id": 851,
+    "order": "422.00000000000000000000",
+    "label": "Arbeiterrat für Stadt und Gerichtsbezirk Waidhofen an der Ybbs",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__851",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__851\"></rs>",
+    "mrp_org_id": ""
+  },
+  "852": {
+    "id": 852,
+    "order": "423.00000000000000000000",
+    "label": "Gerichtsbezirk Waidhofen an der Ybbs",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__852",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "853": {
+    "id": 853,
+    "order": "424.00000000000000000000",
+    "label": "französische Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__853",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__853\"></rs>",
+    "mrp_org_id": ""
+  },
+  "854": {
+    "id": 854,
+    "order": "425.00000000000000000000",
+    "label": "Seidenrohstoffzentrale AG",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__854",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__854\"></rs>",
+    "mrp_org_id": ""
+  },
+  "855": {
+    "id": 855,
+    "order": "426.00000000000000000000",
+    "label": "Firma Caro & Jellinek",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__855",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__855\"></rs>",
+    "mrp_org_id": ""
+  },
+  "856": {
+    "id": 856,
+    "order": "427.00000000000000000000",
+    "label": "rumänische Armee",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__856",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__856\"></rs>",
+    "mrp_org_id": ""
+  },
+  "857": {
+    "id": 857,
+    "order": "428.00000000000000000000",
+    "label": "Landeskulturrat für Österreich unter der Enns",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__857",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__857\"></rs>",
+    "mrp_org_id": ""
+  },
+  "858": {
+    "id": 858,
+    "order": "429.00000000000000000000",
+    "label": "Landeskulturrat für Vorarlberg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__858",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__858\"></rs>",
+    "mrp_org_id": ""
+  },
+  "859": {
+    "id": 859,
+    "order": "430.00000000000000000000",
+    "label": "Oberdorfer Magnesitwerke GmbH",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__859",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__859\"></rs>",
+    "mrp_org_id": ""
   }
 }

@@ -6,7 +6,10 @@
     "krp_place_id": "krp_place_id__1",
     "alternative_name": "Tschechoslowakien",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__1\">Tschechoslowakei</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "2": {
     "id": 2,
@@ -15,7 +18,10 @@
     "krp_place_id": "krp_place_id__2",
     "alternative_name": "Deutschösterreich",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__2\">Österreich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "3": {
     "id": 3,
@@ -24,7 +30,10 @@
     "krp_place_id": "krp_place_id__3",
     "alternative_name": "Königreich Italien",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__3\">Italien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "4": {
     "id": 4,
@@ -33,7 +42,10 @@
     "krp_place_id": "krp_place_id__4",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__4\">Frankreich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "5": {
     "id": 5,
@@ -42,7 +54,10 @@
     "krp_place_id": "krp_place_id__5",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__5\">Ungarn</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "6": {
     "id": 6,
@@ -51,7 +66,10 @@
     "krp_place_id": "krp_place_id__6",
     "alternative_name": "Deutschland",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__6\">Deutsches Reich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "7": {
     "id": 7,
@@ -60,7 +78,10 @@
     "krp_place_id": "krp_place_id__7",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__7\">Liechtenstein</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "8": {
     "id": 8,
@@ -69,7 +90,10 @@
     "krp_place_id": "krp_place_id__8",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__8\">Schweiz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "258": {
     "id": 258,
@@ -78,7 +102,10 @@
     "krp_place_id": "krp_place_id__258",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__258\">Klein-Eberhard</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "9": {
     "id": 9,
@@ -87,7 +114,10 @@
     "krp_place_id": "krp_place_id__9",
     "alternative_name": "Jugoslawien",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__9\">SHS</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "286": {
     "id": 286,
@@ -96,7 +126,10 @@
     "krp_place_id": "krp_place_id__286",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__286\">Brenner</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "285": {
     "id": 285,
@@ -105,7 +138,10 @@
     "krp_place_id": "krp_place_id__285",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__285\">Salurner Klause</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "13": {
     "id": 13,
@@ -114,7 +150,10 @@
     "krp_place_id": "krp_place_id__13",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__13\">Salzburg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "10": {
     "id": 10,
@@ -123,7 +162,10 @@
     "krp_place_id": "krp_place_id__10",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__10\">Schweden</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "11": {
     "id": 11,
@@ -132,7 +174,10 @@
     "krp_place_id": "krp_place_id__11",
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__11\">Norwegen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "12": {
     "id": 12,
@@ -141,7 +186,10 @@
     "krp_place_id": "krp_place_id__12",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__12\">Salzburg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "14": {
     "id": 14,
@@ -150,7 +198,10 @@
     "krp_place_id": "krp_place_id__14",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__14\">Paris</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "251": {
     "id": 251,
@@ -159,7 +210,10 @@
     "krp_place_id": "krp_place_id__251",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__251\">Westukrainsiche Volksrepublik</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "15": {
     "id": 15,
@@ -168,7 +222,10 @@
     "krp_place_id": "krp_place_id__15",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__15\">Wien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "16": {
     "id": 16,
@@ -177,7 +234,10 @@
     "krp_place_id": "krp_place_id__16",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__16\">Innsbruck</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "17": {
     "id": 17,
@@ -186,7 +246,10 @@
     "krp_place_id": "krp_place_id__17",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__17\">Klagenfurt</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "41": {
     "id": 41,
@@ -195,7 +258,10 @@
     "krp_place_id": "krp_place_id__41",
     "alternative_name": "England",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__41\">Großbritannien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "18": {
     "id": 18,
@@ -204,7 +270,10 @@
     "krp_place_id": "krp_place_id__18",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__18\">Graz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "19": {
     "id": 19,
@@ -213,7 +282,10 @@
     "krp_place_id": "krp_place_id__19",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__19\">Linz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "20": {
     "id": 20,
@@ -222,7 +294,10 @@
     "krp_place_id": "krp_place_id__20",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__20\">New York</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "21": {
     "id": 21,
@@ -231,7 +306,10 @@
     "krp_place_id": "krp_place_id__21",
     "alternative_name": "Achtung hatte vormals falsche ID 297!!!",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__21\">Oberösterreich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "22": {
     "id": 22,
@@ -240,7 +318,10 @@
     "krp_place_id": "krp_place_id__22",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__22\">Niederösterreich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "23": {
     "id": 23,
@@ -249,7 +330,10 @@
     "krp_place_id": "krp_place_id__23",
     "alternative_name": "Amerika",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__23\">Vereinigte Staaten von Amerika</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "24": {
     "id": 24,
@@ -258,7 +342,10 @@
     "krp_place_id": "krp_place_id__24",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__24\">St. Pölten</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "25": {
     "id": 25,
@@ -267,7 +354,10 @@
     "krp_place_id": "krp_place_id__25",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__25\">Malmaison</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "26": {
     "id": 26,
@@ -276,7 +366,10 @@
     "krp_place_id": "krp_place_id__26",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__26\">Sudetenland</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "27": {
     "id": 27,
@@ -285,7 +378,10 @@
     "krp_place_id": "krp_place_id__27",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__27\">St. Germain</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "28": {
     "id": 28,
@@ -294,7 +390,10 @@
     "krp_place_id": "krp_place_id__28",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__28\">Steiermark</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "29": {
     "id": 29,
@@ -303,7 +402,10 @@
     "krp_place_id": "krp_place_id__29",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__29\">Deutschböhmen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "30": {
     "id": 30,
@@ -312,7 +414,10 @@
     "krp_place_id": "krp_place_id__30",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__30\">Vorarlberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "31": {
     "id": 31,
@@ -321,7 +426,10 @@
     "krp_place_id": "krp_place_id__31",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__31\">Kärnten</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "32": {
     "id": 32,
@@ -330,7 +438,10 @@
     "krp_place_id": "krp_place_id__32",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__32\">Tirol</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "34": {
     "id": 34,
@@ -339,7 +450,10 @@
     "krp_place_id": "krp_place_id__34",
     "alternative_name": "Ödenburg",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__34\">Sopron</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "35": {
     "id": 35,
@@ -348,7 +462,10 @@
     "krp_place_id": "krp_place_id__35",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__35\">Budapest</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "36": {
     "id": 36,
@@ -357,7 +474,10 @@
     "krp_place_id": "krp_place_id__36",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__36\">Österreich-Ungarn</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "37": {
     "id": 37,
@@ -366,7 +486,10 @@
     "krp_place_id": "krp_place_id__37",
     "alternative_name": "Deutsch-Südtirol",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__37\">Südtirol</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "38": {
     "id": 38,
@@ -375,7 +498,10 @@
     "krp_place_id": "krp_place_id__38",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__38\">Zwettl</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "39": {
     "id": 39,
@@ -384,7 +510,10 @@
     "krp_place_id": "krp_place_id__39",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__39\">Eckartsau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "42": {
     "id": 42,
@@ -393,7 +522,10 @@
     "krp_place_id": "krp_place_id__42",
     "alternative_name": "Praha",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__42\">Prag</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "43": {
     "id": 43,
@@ -402,7 +534,10 @@
     "krp_place_id": "krp_place_id__43",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__43\">Böhmen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "44": {
     "id": 44,
@@ -411,7 +546,10 @@
     "krp_place_id": "krp_place_id__44",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__44\">Mähren</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "284": {
     "id": 284,
@@ -420,7 +558,10 @@
     "krp_place_id": "krp_place_id__284",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__284\">Bischofshofen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "45": {
     "id": 45,
@@ -429,7 +570,10 @@
     "krp_place_id": "krp_place_id__45",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__45\">Blumau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "46": {
     "id": 46,
@@ -438,7 +582,10 @@
     "krp_place_id": "krp_place_id__46",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__46\">Wöllersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "47": {
     "id": 47,
@@ -447,7 +594,10 @@
     "krp_place_id": "krp_place_id__47",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__47\">Ukraine</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "48": {
     "id": 48,
@@ -456,7 +606,10 @@
     "krp_place_id": "krp_place_id__48",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__48\">Russland</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "49": {
     "id": 49,
@@ -465,7 +618,10 @@
     "krp_place_id": "krp_place_id__49",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__49\">Rumänien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "50": {
     "id": 50,
@@ -474,7 +630,10 @@
     "krp_place_id": "krp_place_id__50",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__50\">Bulgarien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "52": {
     "id": 52,
@@ -483,7 +642,10 @@
     "krp_place_id": "krp_place_id__52",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__52\">Fischamend</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "290": {
     "id": 290,
@@ -492,7 +654,10 @@
     "krp_place_id": "krp_place_id__290",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__290\">Warschau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "53": {
     "id": 53,
@@ -501,7 +666,10 @@
     "krp_place_id": "krp_place_id__53",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__53\">Weimar</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "259": {
     "id": 259,
@@ -510,7 +678,10 @@
     "krp_place_id": "krp_place_id__259",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__259\">Jarolden</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "54": {
     "id": 54,
@@ -519,7 +690,10 @@
     "krp_place_id": "krp_place_id__54",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__54\">Jochberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "55": {
     "id": 55,
@@ -528,7 +702,10 @@
     "krp_place_id": "krp_place_id__55",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__55\">Fischau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "56": {
     "id": 56,
@@ -537,7 +714,10 @@
     "krp_place_id": "krp_place_id__56",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__56\">Strass</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "57": {
     "id": 57,
@@ -546,7 +726,10 @@
     "krp_place_id": "krp_place_id__57",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__57\">Bruck</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "58": {
     "id": 58,
@@ -555,7 +738,10 @@
     "krp_place_id": "krp_place_id__58",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__58\">Liebenau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "289": {
     "id": 289,
@@ -564,7 +750,10 @@
     "krp_place_id": "krp_place_id__289",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__289\">Hall</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "59": {
     "id": 59,
@@ -573,7 +762,10 @@
     "krp_place_id": "krp_place_id__59",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__59\">Hainburg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "60": {
     "id": 60,
@@ -582,7 +774,10 @@
     "krp_place_id": "krp_place_id__60",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__60\">Hirtenberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "61": {
     "id": 61,
@@ -591,7 +786,10 @@
     "krp_place_id": "krp_place_id__61",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__61\">Zillingdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "63": {
     "id": 63,
@@ -600,7 +798,10 @@
     "krp_place_id": "krp_place_id__63",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__63\">Berlin</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "64": {
     "id": 64,
@@ -609,7 +810,10 @@
     "krp_place_id": "krp_place_id__64",
     "alternative_name": "Pressburg",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__64\">Bratislava</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "65": {
     "id": 65,
@@ -618,7 +822,10 @@
     "krp_place_id": "krp_place_id__65",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__65\">Wiener Neustadt</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "66": {
     "id": 66,
@@ -627,7 +834,10 @@
     "krp_place_id": "krp_place_id__66",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__66\">Enns</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "67": {
     "id": 67,
@@ -636,7 +846,10 @@
     "krp_place_id": "krp_place_id__67",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__67\">Bukowina</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "68": {
     "id": 68,
@@ -645,7 +858,10 @@
     "krp_place_id": "krp_place_id__68",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__68\">Schlesien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "69": {
     "id": 69,
@@ -654,7 +870,10 @@
     "krp_place_id": "krp_place_id__69",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__69\">Gleisdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "70": {
     "id": 70,
@@ -663,7 +882,10 @@
     "krp_place_id": "krp_place_id__70",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__70\">Weiz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "71": {
     "id": 71,
@@ -672,7 +894,10 @@
     "krp_place_id": "krp_place_id__71",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__71\">Loipersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "72": {
     "id": 72,
@@ -681,7 +906,10 @@
     "krp_place_id": "krp_place_id__72",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__72\">Völlerndorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "73": {
     "id": 73,
@@ -690,7 +918,10 @@
     "krp_place_id": "krp_place_id__73",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__73\">Gerersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "74": {
     "id": 74,
@@ -699,7 +930,10 @@
     "krp_place_id": "krp_place_id__74",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__74\">Südsteiermark</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "75": {
     "id": 75,
@@ -708,7 +942,10 @@
     "krp_place_id": "krp_place_id__75",
     "alternative_name": "Laibach",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__75\">Ljubljana</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "76": {
     "id": 76,
@@ -717,7 +954,10 @@
     "krp_place_id": "krp_place_id__76",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__76\">Bukarest</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "77": {
     "id": 77,
@@ -726,7 +966,10 @@
     "krp_place_id": "krp_place_id__77",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__77\">Groß-Enzersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "78": {
     "id": 78,
@@ -735,7 +978,10 @@
     "krp_place_id": "krp_place_id__78",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__78\">Argentinien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "79": {
     "id": 79,
@@ -744,7 +990,10 @@
     "krp_place_id": "krp_place_id__79",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__79\">Polen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "80": {
     "id": 80,
@@ -753,7 +1002,10 @@
     "krp_place_id": "krp_place_id__80",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__80\">London</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "82": {
     "id": 82,
@@ -762,7 +1014,10 @@
     "krp_place_id": "krp_place_id__82",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__82\">Bern</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "83": {
     "id": 83,
@@ -771,7 +1026,10 @@
     "krp_place_id": "krp_place_id__83",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__83\">Hohenberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "84": {
     "id": 84,
@@ -780,7 +1038,10 @@
     "krp_place_id": "krp_place_id__84",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__84\">Traisen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "85": {
     "id": 85,
@@ -789,7 +1050,10 @@
     "krp_place_id": "krp_place_id__85",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__85\">Mödling</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "86": {
     "id": 86,
@@ -798,7 +1062,10 @@
     "krp_place_id": "krp_place_id__86",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__86\">Tulln</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "87": {
     "id": 87,
@@ -807,7 +1074,10 @@
     "krp_place_id": "krp_place_id__87",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__87\">Mautern</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "88": {
     "id": 88,
@@ -816,7 +1086,10 @@
     "krp_place_id": "krp_place_id__88",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__88\">Stein</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "89": {
     "id": 89,
@@ -825,7 +1098,10 @@
     "krp_place_id": "krp_place_id__89",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__89\">Vitis</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "90": {
     "id": 90,
@@ -834,7 +1110,10 @@
     "krp_place_id": "krp_place_id__90",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__90\">Kaltenbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "91": {
     "id": 91,
@@ -843,7 +1122,10 @@
     "krp_place_id": "krp_place_id__91",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__91\">Schachersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "92": {
     "id": 92,
@@ -852,7 +1134,10 @@
     "krp_place_id": "krp_place_id__92",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__92\">Schobersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "93": {
     "id": 93,
@@ -861,7 +1146,10 @@
     "krp_place_id": "krp_place_id__93",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__93\">Triest</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "94": {
     "id": 94,
@@ -870,7 +1158,10 @@
     "krp_place_id": "krp_place_id__94",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__94\">Lilienfeld</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "95": {
     "id": 95,
@@ -879,7 +1170,10 @@
     "krp_place_id": "krp_place_id__95",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__95\">Schweigers</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "96": {
     "id": 96,
@@ -888,7 +1182,10 @@
     "krp_place_id": "krp_place_id__96",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__96\">Oberstrahlbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "97": {
     "id": 97,
@@ -897,7 +1194,10 @@
     "krp_place_id": "krp_place_id__97",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__97\">Finnland</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "98": {
     "id": 98,
@@ -906,7 +1206,10 @@
     "krp_place_id": "krp_place_id__98",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__98\">Thenneberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "99": {
     "id": 99,
@@ -915,7 +1218,10 @@
     "krp_place_id": "krp_place_id__99",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__99\">Petzelsberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "100": {
     "id": 100,
@@ -924,7 +1230,10 @@
     "krp_place_id": "krp_place_id__100",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__100\">Etzen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "101": {
     "id": 101,
@@ -933,7 +1242,10 @@
     "krp_place_id": "krp_place_id__101",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__101\">Waidhofen an der Thaya</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "102": {
     "id": 102,
@@ -942,7 +1254,10 @@
     "krp_place_id": "krp_place_id__102",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__102\">Natschbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "254": {
     "id": 254,
@@ -951,7 +1266,10 @@
     "krp_place_id": "krp_place_id__254",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__254\">München</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "103": {
     "id": 103,
@@ -960,7 +1278,10 @@
     "krp_place_id": "krp_place_id__103",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__103\">Muckendorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "104": {
     "id": 104,
@@ -969,7 +1290,10 @@
     "krp_place_id": "krp_place_id__104",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__104\">Posselsdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "105": {
     "id": 105,
@@ -978,7 +1302,10 @@
     "krp_place_id": "krp_place_id__105",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__105\">Sittendorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "106": {
     "id": 106,
@@ -987,7 +1314,10 @@
     "krp_place_id": "krp_place_id__106",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__106\">Reidlingberg-Pyrafeld</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "107": {
     "id": 107,
@@ -996,7 +1326,10 @@
     "krp_place_id": "krp_place_id__107",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__107\">Gopprechts</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "108": {
     "id": 108,
@@ -1005,7 +1338,10 @@
     "krp_place_id": "krp_place_id__108",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__108\">Walkenstein</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "109": {
     "id": 109,
@@ -1014,7 +1350,10 @@
     "krp_place_id": "krp_place_id__109",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__109\">Unter-Waltersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "110": {
     "id": 110,
@@ -1023,7 +1362,10 @@
     "krp_place_id": "krp_place_id__110",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__110\">Ungerbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "111": {
     "id": 111,
@@ -1032,7 +1374,10 @@
     "krp_place_id": "krp_place_id__111",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__111\">Fiecht</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "112": {
     "id": 112,
@@ -1041,7 +1386,10 @@
     "krp_place_id": "krp_place_id__112",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__112\">Wels</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "113": {
     "id": 113,
@@ -1050,7 +1398,10 @@
     "krp_place_id": "krp_place_id__113",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__113\">Kirchberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "114": {
     "id": 114,
@@ -1059,7 +1410,10 @@
     "krp_place_id": "krp_place_id__114",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__114\">Zürich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "115": {
     "id": 115,
@@ -1068,7 +1422,10 @@
     "krp_place_id": "krp_place_id__115",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__115\">Bregenz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "116": {
     "id": 116,
@@ -1077,7 +1434,10 @@
     "krp_place_id": "krp_place_id__116",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__116\">St. Gallen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "117": {
     "id": 117,
@@ -1086,7 +1446,10 @@
     "krp_place_id": "krp_place_id__117",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__117\">Zürich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "118": {
     "id": 118,
@@ -1095,7 +1458,10 @@
     "krp_place_id": "krp_place_id__118",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__118\">St. Gallen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "119": {
     "id": 119,
@@ -1104,7 +1470,10 @@
     "krp_place_id": "krp_place_id__119",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__119\">Stainach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "120": {
     "id": 120,
@@ -1113,7 +1482,10 @@
     "krp_place_id": "krp_place_id__120",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__120\">Irdning</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "121": {
     "id": 121,
@@ -1122,7 +1494,10 @@
     "krp_place_id": "krp_place_id__121",
     "alternative_name": "Achtung hatte vormals falsche ID 164!!",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__121\">Attnang-Puchheim</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "122": {
     "id": 122,
@@ -1131,7 +1506,10 @@
     "krp_place_id": "krp_place_id__122",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__122\">Jugoslawien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "123": {
     "id": 123,
@@ -1140,7 +1518,10 @@
     "krp_place_id": "krp_place_id__123",
     "alternative_name": "Krakow",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__123\">Krakau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "124": {
     "id": 124,
@@ -1149,7 +1530,10 @@
     "krp_place_id": "krp_place_id__124",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__124\">Reitzenschlag</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "125": {
     "id": 125,
@@ -1158,7 +1542,10 @@
     "krp_place_id": "krp_place_id__125",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__125\">Polnisch-Galizien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "126": {
     "id": 126,
@@ -1167,7 +1554,10 @@
     "krp_place_id": "krp_place_id__126",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__126\">Waidhofen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "128": {
     "id": 128,
@@ -1176,7 +1566,10 @@
     "krp_place_id": "krp_place_id__128",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__128\">St. Joachimsthal</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "129": {
     "id": 129,
@@ -1185,7 +1578,10 @@
     "krp_place_id": "krp_place_id__129",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__129\">Währing</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "291": {
     "id": 291,
@@ -1194,7 +1590,10 @@
     "krp_place_id": "krp_place_id__291",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__291\">Ehrwald</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "130": {
     "id": 130,
@@ -1203,7 +1602,10 @@
     "krp_place_id": "krp_place_id__130",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__130\">Elsern</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "131": {
     "id": 131,
@@ -1212,7 +1614,10 @@
     "krp_place_id": "krp_place_id__131",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__131\">Ulrichs</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "132": {
     "id": 132,
@@ -1221,7 +1626,10 @@
     "krp_place_id": "krp_place_id__132",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__132\">Oberhöflein</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "133": {
     "id": 133,
@@ -1230,7 +1638,10 @@
     "krp_place_id": "krp_place_id__133",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__133\">Hagenberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "134": {
     "id": 134,
@@ -1239,7 +1650,10 @@
     "krp_place_id": "krp_place_id__134",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__134\">Kainraths</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "135": {
     "id": 135,
@@ -1248,7 +1662,10 @@
     "krp_place_id": "krp_place_id__135",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__135\">Lembach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "136": {
     "id": 136,
@@ -1257,7 +1674,10 @@
     "krp_place_id": "krp_place_id__136",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__136\">Staasdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "257": {
     "id": 257,
@@ -1266,7 +1686,10 @@
     "krp_place_id": "krp_place_id__257",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__257\">Laxenburg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "137": {
     "id": 137,
@@ -1275,7 +1698,10 @@
     "krp_place_id": "krp_place_id__137",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__137\">Lauterbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "138": {
     "id": 138,
@@ -1284,7 +1710,10 @@
     "krp_place_id": "krp_place_id__138",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__138\">Siebenhöf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "139": {
     "id": 139,
@@ -1293,7 +1722,10 @@
     "krp_place_id": "krp_place_id__139",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__139\">Heinrichs</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "140": {
     "id": 140,
@@ -1302,7 +1734,10 @@
     "krp_place_id": "krp_place_id__140",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__140\">St. Valentin-Landschach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "141": {
     "id": 141,
@@ -1311,7 +1746,10 @@
     "krp_place_id": "krp_place_id__141",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__141\">Goggitsch</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "142": {
     "id": 142,
@@ -1320,7 +1758,10 @@
     "krp_place_id": "krp_place_id__142",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__142\">Maigen/rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "143": {
     "id": 143,
@@ -1329,7 +1770,10 @@
     "krp_place_id": "krp_place_id__143",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__143\">Hippersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "144": {
     "id": 144,
@@ -1338,7 +1782,10 @@
     "krp_place_id": "krp_place_id__144",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__144\">St. Johann</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "145": {
     "id": 145,
@@ -1347,7 +1794,10 @@
     "krp_place_id": "krp_place_id__145",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__145\">Paudorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "146": {
     "id": 146,
@@ -1356,7 +1806,10 @@
     "krp_place_id": "krp_place_id__146",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__146\">Klein-Burgstall</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "147": {
     "id": 147,
@@ -1365,7 +1818,10 @@
     "krp_place_id": "krp_place_id__147",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__147\">Raach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "148": {
     "id": 148,
@@ -1374,7 +1830,10 @@
     "krp_place_id": "krp_place_id__148",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__148\">Rodingerdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "149": {
     "id": 149,
@@ -1383,7 +1842,10 @@
     "krp_place_id": "krp_place_id__149",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__149\">Eschenau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "150": {
     "id": 150,
@@ -1392,7 +1854,10 @@
     "krp_place_id": "krp_place_id__150",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__150\">Thumritz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "151": {
     "id": 151,
@@ -1401,7 +1866,10 @@
     "krp_place_id": "krp_place_id__151",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ulrichskirchen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "152": {
     "id": 152,
@@ -1410,7 +1878,10 @@
     "krp_place_id": "krp_place_id__152",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__152\">Pernegg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "153": {
     "id": 153,
@@ -1419,7 +1890,10 @@
     "krp_place_id": "krp_place_id__153",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__153\">Feistritz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "154": {
     "id": 154,
@@ -1428,7 +1902,10 @@
     "krp_place_id": "krp_place_id__154",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__154\">Sallapulka</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "155": {
     "id": 155,
@@ -1437,7 +1914,10 @@
     "krp_place_id": "krp_place_id__155",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__155\">Göstling</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "156": {
     "id": 156,
@@ -1446,7 +1926,10 @@
     "krp_place_id": "krp_place_id__156",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__156\">Matzelsdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "157": {
     "id": 157,
@@ -1455,7 +1938,10 @@
     "krp_place_id": "krp_place_id__157",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__157\">Albrechtsberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "158": {
     "id": 158,
@@ -1464,7 +1950,10 @@
     "krp_place_id": "krp_place_id__158",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__158\">Nödersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "160": {
     "id": 160,
@@ -1473,7 +1962,10 @@
     "krp_place_id": "krp_place_id__160",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__160\">Niederleis</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "162": {
     "id": 162,
@@ -1482,7 +1974,10 @@
     "krp_place_id": "krp_place_id__162",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__162\">Diesendorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "163": {
     "id": 163,
@@ -1491,7 +1986,10 @@
     "krp_place_id": "krp_place_id__163",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__163\">Gloggnitz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "164": {
     "id": 164,
@@ -1500,7 +1998,10 @@
     "krp_place_id": "krp_place_id__164",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__164\">Asperhofen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "165": {
     "id": 165,
@@ -1509,7 +2010,10 @@
     "krp_place_id": "krp_place_id__165",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__165\">Neunkirchen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "166": {
     "id": 166,
@@ -1518,7 +2022,10 @@
     "krp_place_id": "krp_place_id__166",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__166\">Ternitz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "167": {
     "id": 167,
@@ -1527,7 +2034,10 @@
     "krp_place_id": "krp_place_id__167",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__167\">Melk</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "168": {
     "id": 168,
@@ -1536,7 +2046,10 @@
     "krp_place_id": "krp_place_id__168",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__168\">Laa an der Thaya</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "169": {
     "id": 169,
@@ -1545,7 +2058,10 @@
     "krp_place_id": "krp_place_id__169",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__169\">Stockerau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "170": {
     "id": 170,
@@ -1554,7 +2070,10 @@
     "krp_place_id": "krp_place_id__170",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__170\">Ybbs an der Donau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "171": {
     "id": 171,
@@ -1563,7 +2082,10 @@
     "krp_place_id": "krp_place_id__171",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__171\">Danöfen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "172": {
     "id": 172,
@@ -1572,7 +2094,10 @@
     "krp_place_id": "krp_place_id__172",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__172\">Hettmannsdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "173": {
     "id": 173,
@@ -1581,7 +2106,10 @@
     "krp_place_id": "krp_place_id__173",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__173\">Türnitz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "174": {
     "id": 174,
@@ -1590,7 +2118,10 @@
     "krp_place_id": "krp_place_id__174",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__174\">Thomasberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "175": {
     "id": 175,
@@ -1599,7 +2130,10 @@
     "krp_place_id": "krp_place_id__175",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__175\">Michelhausen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "176": {
     "id": 176,
@@ -1608,7 +2142,10 @@
     "krp_place_id": "krp_place_id__176",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__176\">Wolfsberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "177": {
     "id": 177,
@@ -1617,7 +2154,10 @@
     "krp_place_id": "krp_place_id__177",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__177\">Reichaueramt</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "178": {
     "id": 178,
@@ -1626,7 +2166,10 @@
     "krp_place_id": "krp_place_id__178",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__178\">Oberkirchen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "179": {
     "id": 179,
@@ -1635,7 +2178,10 @@
     "krp_place_id": "krp_place_id__179",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__179\">Bogenneusiedl-Streifing</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "180": {
     "id": 180,
@@ -1644,7 +2190,10 @@
     "krp_place_id": "krp_place_id__180",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__180\">Neueigen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "181": {
     "id": 181,
@@ -1653,7 +2202,10 @@
     "krp_place_id": "krp_place_id__181",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__181\">Willendorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "182": {
     "id": 182,
@@ -1662,7 +2214,10 @@
     "krp_place_id": "krp_place_id__182",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__182\">Göttlich</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "288": {
     "id": 288,
@@ -1671,7 +2226,10 @@
     "krp_place_id": "krp_place_id__288",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__288\">Hernals</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "183": {
     "id": 183,
@@ -1680,7 +2238,10 @@
     "krp_place_id": "krp_place_id__183",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__183\">Kottingbrunn</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "287": {
     "id": 287,
@@ -1689,7 +2250,10 @@
     "krp_place_id": "krp_place_id__287",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__287\">Steyr</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "184": {
     "id": 184,
@@ -1698,7 +2262,10 @@
     "krp_place_id": "krp_place_id__184",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__184\">Stiefern</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "185": {
     "id": 185,
@@ -1707,7 +2274,10 @@
     "krp_place_id": "krp_place_id__185",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__185\">Ebenfurth</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "186": {
     "id": 186,
@@ -1716,16 +2286,22 @@
     "krp_place_id": "krp_place_id__186",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__186\">Sollenau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "255": {
     "id": 255,
     "order": "182.50000000000000000000",
-    "label": "Schönnbrunn [Schloss]",
+    "label": "Schönbrunn [Schloss]",
     "krp_place_id": "krp_place_id__255",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__255\">Schönbrunn</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "187": {
     "id": 187,
@@ -1734,7 +2310,10 @@
     "krp_place_id": "krp_place_id__187",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__187\">Schwarzach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "188": {
     "id": 188,
@@ -1743,7 +2322,10 @@
     "krp_place_id": "krp_place_id__188",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__69\">Gleisdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "189": {
     "id": 189,
@@ -1752,7 +2334,10 @@
     "krp_place_id": "krp_place_id__189",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__189\">St. Veit</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "190": {
     "id": 190,
@@ -1761,7 +2346,10 @@
     "krp_place_id": "krp_place_id__190",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__190\">Maria-Enzersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "191": {
     "id": 191,
@@ -1770,7 +2358,10 @@
     "krp_place_id": "krp_place_id__191",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__191\">Wörgl</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "256": {
     "id": 256,
@@ -1779,7 +2370,10 @@
     "krp_place_id": "krp_place_id__256",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__256\">Hetzendorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "192": {
     "id": 192,
@@ -1788,7 +2382,10 @@
     "krp_place_id": "krp_place_id__192",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__192\">Hinterbrühl</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "265": {
     "id": 265,
@@ -1797,7 +2394,10 @@
     "krp_place_id": "krp_place_id__265",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__265\">Mollzegg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "193": {
     "id": 193,
@@ -1806,7 +2406,10 @@
     "krp_place_id": "krp_place_id__193",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__193\">Möllersdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "194": {
     "id": 194,
@@ -1815,7 +2418,10 @@
     "krp_place_id": "krp_place_id__194",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__194\">Villach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "195": {
     "id": 195,
@@ -1824,7 +2430,10 @@
     "krp_place_id": "krp_place_id__195",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__195\">Oftering</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "196": {
     "id": 196,
@@ -1833,7 +2442,10 @@
     "krp_place_id": "krp_place_id__196",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__196\">Steinach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "197": {
     "id": 197,
@@ -1842,7 +2454,10 @@
     "krp_place_id": "krp_place_id__197",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__197\">Buchkirchen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "199": {
     "id": 199,
@@ -1851,7 +2466,10 @@
     "krp_place_id": "krp_place_id__199",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__199\">Leoben</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "292": {
     "id": 292,
@@ -1860,7 +2478,10 @@
     "krp_place_id": "krp_place_id__292",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__292\">Semmering</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "200": {
     "id": 200,
@@ -1869,7 +2490,10 @@
     "krp_place_id": "krp_place_id__200",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__200\">Senftenberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "201": {
     "id": 201,
@@ -1878,7 +2502,10 @@
     "krp_place_id": "krp_place_id__201",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__201\">Oberkreuzstetten</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "203": {
     "id": 203,
@@ -1887,7 +2514,10 @@
     "krp_place_id": "krp_place_id__203",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__203\">Gainfarn</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "204": {
     "id": 204,
@@ -1896,7 +2526,10 @@
     "krp_place_id": "krp_place_id__204",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__204\">Alt-Weitra</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "205": {
     "id": 205,
@@ -1905,7 +2538,10 @@
     "krp_place_id": "krp_place_id__205",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__205\">Wagram</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "206": {
     "id": 206,
@@ -1914,7 +2550,10 @@
     "krp_place_id": "krp_place_id__206",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__206\">Enzersfeld</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "207": {
     "id": 207,
@@ -1923,7 +2562,10 @@
     "krp_place_id": "krp_place_id__207",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__207\">Feldberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "208": {
     "id": 208,
@@ -1932,7 +2574,10 @@
     "krp_place_id": "krp_place_id__208",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__208\">Dorfstetten</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "209": {
     "id": 209,
@@ -1941,7 +2586,10 @@
     "krp_place_id": "krp_place_id__209",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__209\">Schagges</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "210": {
     "id": 210,
@@ -1950,7 +2598,10 @@
     "krp_place_id": "krp_place_id__210",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__256\">Klausen-Leopoldsdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "211": {
     "id": 211,
@@ -1959,7 +2610,10 @@
     "krp_place_id": "krp_place_id__211",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__211\">Hohenems</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "212": {
     "id": 212,
@@ -1968,7 +2622,10 @@
     "krp_place_id": "krp_place_id__212",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__212\">Mäder</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "213": {
     "id": 213,
@@ -1977,7 +2634,10 @@
     "krp_place_id": "krp_place_id__213",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__213\">Altach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "214": {
     "id": 214,
@@ -1986,7 +2646,10 @@
     "krp_place_id": "krp_place_id__214",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__214\">Götzis</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "215": {
     "id": 215,
@@ -1995,7 +2658,10 @@
     "krp_place_id": "krp_place_id__215",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__215\">Schwaz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "216": {
     "id": 216,
@@ -2004,7 +2670,10 @@
     "krp_place_id": "krp_place_id__216",
     "alternative_name": "",
     "tei_code": "?",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "217": {
     "id": 217,
@@ -2013,7 +2682,10 @@
     "krp_place_id": "krp_place_id__217",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__217\">Mank</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "218": {
     "id": 218,
@@ -2022,7 +2694,10 @@
     "krp_place_id": "krp_place_id__218",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__218\">Scheibbs</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "249": {
     "id": 249,
@@ -2031,7 +2706,10 @@
     "krp_place_id": "krp_place_id__249",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__249\">Rom</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "250": {
     "id": 250,
@@ -2040,7 +2718,10 @@
     "krp_place_id": "krp_place_id__250",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__250\">Vatikan</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "252": {
     "id": 252,
@@ -2049,7 +2730,10 @@
     "krp_place_id": "krp_place_id__252",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__252\">Galizien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "283": {
     "id": 283,
@@ -2058,7 +2742,10 @@
     "krp_place_id": "krp_place_id__283",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__283\">Mühldorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "253": {
     "id": 253,
@@ -2067,7 +2754,10 @@
     "krp_place_id": "krp_place_id__253",
     "alternative_name": "Räterepublik Bayern, Bayrische Räterepublik, Münchner Räterepublik",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__253\">Münchner Räterepublik</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "260": {
     "id": 260,
@@ -2076,7 +2766,10 @@
     "krp_place_id": "krp_place_id__260",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__260\">Schrattenbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "262": {
     "id": 262,
@@ -2085,7 +2778,10 @@
     "krp_place_id": "krp_place_id__262",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__262\">Trattebach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "263": {
     "id": 263,
@@ -2094,7 +2790,10 @@
     "krp_place_id": "krp_place_id__263",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__263\">Ottertal</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "264": {
     "id": 264,
@@ -2103,7 +2802,10 @@
     "krp_place_id": "krp_place_id__264",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__264\">Mittel</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "267": {
     "id": 267,
@@ -2112,7 +2814,10 @@
     "krp_place_id": "krp_place_id__267",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__267\">St. Peter</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "268": {
     "id": 268,
@@ -2121,7 +2826,10 @@
     "krp_place_id": "krp_place_id__268",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__268\">Mariensee</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "269": {
     "id": 269,
@@ -2130,7 +2838,10 @@
     "krp_place_id": "krp_place_id__269",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__269\">Amt Aspang</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "270": {
     "id": 270,
@@ -2139,7 +2850,10 @@
     "krp_place_id": "krp_place_id__270",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__270\">Feichsen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "271": {
     "id": 271,
@@ -2148,7 +2862,10 @@
     "krp_place_id": "krp_place_id__271",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__271\">St. Joachimsthal</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "272": {
     "id": 272,
@@ -2157,7 +2874,10 @@
     "krp_place_id": "krp_place_id__272",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__272\">Purgstall</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "273": {
     "id": 273,
@@ -2166,7 +2886,10 @@
     "krp_place_id": "krp_place_id__273",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__273\">Süßenbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "274": {
     "id": 274,
@@ -2175,7 +2898,10 @@
     "krp_place_id": "krp_place_id__274",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__274\">Limbach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "275": {
     "id": 275,
@@ -2184,7 +2910,10 @@
     "krp_place_id": "krp_place_id__275",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__275\">Innichen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "276": {
     "id": 276,
@@ -2193,7 +2922,10 @@
     "krp_place_id": "krp_place_id__276",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__276\">Obermillstatt</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "277": {
     "id": 277,
@@ -2202,7 +2934,10 @@
     "krp_place_id": "krp_place_id__277",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__277\">Sexten</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "278": {
     "id": 278,
@@ -2211,7 +2946,10 @@
     "krp_place_id": "krp_place_id__278",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__278\">Görtschach-Förolach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "279": {
     "id": 279,
@@ -2220,7 +2958,10 @@
     "krp_place_id": "krp_place_id__279",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__279\">Gnesau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "280": {
     "id": 280,
@@ -2229,7 +2970,10 @@
     "krp_place_id": "krp_place_id__280",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__280\">Koblach</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "281": {
     "id": 281,
@@ -2238,7 +2982,10 @@
     "krp_place_id": "krp_place_id__281",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__281\">Zedtlitzdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "282": {
     "id": 282,
@@ -2247,7 +2994,10 @@
     "krp_place_id": "krp_place_id__282",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__282\">Patergassen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "293": {
     "id": 293,
@@ -2256,7 +3006,10 @@
     "krp_place_id": "krp_place_id__293",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__293\">Hetzendorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "294": {
     "id": 294,
@@ -2265,7 +3018,10 @@
     "krp_place_id": "krp_place_id__294",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__294\">Czernowitz</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "295": {
     "id": 295,
@@ -2274,7 +3030,10 @@
     "krp_place_id": "krp_place_id__295",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__295\">Seckau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "296": {
     "id": 296,
@@ -2283,7 +3042,10 @@
     "krp_place_id": "krp_place_id__296",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__296\">Oberschlesien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "297": {
     "id": 297,
@@ -2292,7 +3054,10 @@
     "krp_place_id": "krp_place_id__297",
     "alternative_name": "Holland",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__297\">Niederlande</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "298": {
     "id": 298,
@@ -2301,7 +3066,10 @@
     "krp_place_id": "krp_place_id__298",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__298\">Waidmannsfeld</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "299": {
     "id": 299,
@@ -2310,7 +3078,10 @@
     "krp_place_id": "krp_place_id__299",
     "alternative_name": "Ostrau; Ostrava",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__299\">Mährisch-Ostrau</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "300": {
     "id": 300,
@@ -2319,7 +3090,10 @@
     "krp_place_id": "krp_place_id__300",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__300\">Deutschsüdmähren</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "301": {
     "id": 301,
@@ -2328,7 +3102,10 @@
     "krp_place_id": "krp_place_id__301",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__301\">Schildern</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "302": {
     "id": 302,
@@ -2337,7 +3114,10 @@
     "krp_place_id": "krp_place_id__302",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__302\"></rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "303": {
     "id": 303,
@@ -2346,7 +3126,10 @@
     "krp_place_id": "krp_place_id__303",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__303\">Thernberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "304": {
     "id": 304,
@@ -2355,7 +3138,10 @@
     "krp_place_id": "krp_place_id__304",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__304\">Oderberg</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "305": {
     "id": 305,
@@ -2364,7 +3150,10 @@
     "krp_place_id": "krp_place_id__305",
     "alternative_name": "Brno",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brünn</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "306": {
     "id": 306,
@@ -2373,7 +3162,10 @@
     "krp_place_id": "krp_place_id__306",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__306\">Wollzeile 18</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "307": {
     "id": 307,
@@ -2382,7 +3174,10 @@
     "krp_place_id": "krp_place_id__307",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__307\">Floridsdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "308": {
     "id": 308,
@@ -2391,7 +3186,10 @@
     "krp_place_id": "krp_place_id__308",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__308\"></rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "309": {
     "id": 309,
@@ -2400,7 +3198,10 @@
     "krp_place_id": "krp_place_id__309",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "310": {
     "id": 310,
@@ -2409,7 +3210,10 @@
     "krp_place_id": "krp_place_id__310",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__310\">Rupprechtshofen</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "311": {
     "id": 311,
@@ -2418,7 +3222,10 @@
     "krp_place_id": "krp_place_id__311",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__311\">Herzegowina</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "312": {
     "id": 312,
@@ -2427,7 +3234,10 @@
     "krp_place_id": "krp_place_id__312",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__312\">Gosdorf</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "313": {
     "id": 313,
@@ -2436,7 +3246,10 @@
     "krp_place_id": "krp_place_id__313",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__313\">Bosnien</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "314": {
     "id": 314,
@@ -2445,7 +3258,10 @@
     "krp_place_id": "krp_place_id__314",
     "alternative_name": "Burgenland; Vierburgenland",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__314\">Westungarn</rs>",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "315": {
     "id": 315,
@@ -2454,7 +3270,10 @@
     "krp_place_id": "krp_place_id__315",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "316": {
     "id": 316,
@@ -2463,7 +3282,10 @@
     "krp_place_id": "krp_place_id__316",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "317": {
     "id": 317,
@@ -2472,7 +3294,10 @@
     "krp_place_id": "krp_place_id__317",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": null
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "318": {
     "id": 318,
@@ -2480,8 +3305,11 @@
     "label": "Hittisau",
     "krp_place_id": "krp_place_id__318",
     "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": null
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__318\">Hittisau</rs>",
+    "mrp_place_id": null,
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "319": {
     "id": 319,
@@ -2490,7 +3318,10 @@
     "krp_place_id": "krp_place_id__319",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__319\"></rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "320": {
     "id": 320,
@@ -2499,7 +3330,10 @@
     "krp_place_id": "krp_place_id__320",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__320\">Döbling</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "321": {
     "id": 321,
@@ -2508,7 +3342,10 @@
     "krp_place_id": "krp_place_id__321",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "322": {
     "id": 322,
@@ -2517,7 +3354,10 @@
     "krp_place_id": "krp_place_id__322",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__322\"></rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "323": {
     "id": 323,
@@ -2526,7 +3366,10 @@
     "krp_place_id": "krp_place_id__323",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__323\">Spullersee</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "324": {
     "id": 324,
@@ -2535,7 +3378,10 @@
     "krp_place_id": "krp_place_id__324",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__324\">Ruetzbach</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "325": {
     "id": 325,
@@ -2544,7 +3390,10 @@
     "krp_place_id": "krp_place_id__325",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__325\">Stubachtal</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "326": {
     "id": 326,
@@ -2553,7 +3402,10 @@
     "krp_place_id": "krp_place_id__326",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__326\">Mallnitz</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "327": {
     "id": 327,
@@ -2562,7 +3414,10 @@
     "krp_place_id": "krp_place_id__327",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__327\">Berndorf</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "328": {
     "id": 328,
@@ -2571,7 +3426,10 @@
     "krp_place_id": "krp_place_id__328",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__328\">Hassbaches</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "329": {
     "id": 329,
@@ -2580,7 +3438,10 @@
     "krp_place_id": "krp_place_id__329",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"'krp_place_id__329\">Kirchau</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "330": {
     "id": 330,
@@ -2589,7 +3450,10 @@
     "krp_place_id": "krp_place_id__330",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__330\">Blühnbach</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "331": {
     "id": 331,
@@ -2598,7 +3462,10 @@
     "krp_place_id": "krp_place_id__331",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__331\">Außerfelden</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "332": {
     "id": 332,
@@ -2607,7 +3474,10 @@
     "krp_place_id": "krp_place_id__332",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__332\">Landeck</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "333": {
     "id": 333,
@@ -2616,7 +3486,10 @@
     "krp_place_id": "krp_place_id__333",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__84\">Tösens</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "334": {
     "id": 334,
@@ -2625,7 +3498,10 @@
     "krp_place_id": "krp_place_id__334",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__334\">Vöslau-Gainfarn</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "336": {
     "id": 336,
@@ -2634,7 +3510,10 @@
     "krp_place_id": "krp_place_id__336",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__336\">Urfahr</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "337": {
     "id": 337,
@@ -2643,7 +3522,10 @@
     "krp_place_id": "krp_place_id__337",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__337\">Pielachfluss</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "338": {
     "id": 338,
@@ -2652,7 +3534,10 @@
     "krp_place_id": "krp_place_id__338",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__338\">Venedig</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "339": {
     "id": 339,
@@ -2661,7 +3546,10 @@
     "krp_place_id": "krp_place_id__339",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__339\">Litauen</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "340": {
     "id": 340,
@@ -2670,7 +3558,10 @@
     "krp_place_id": "krp_place_id__340",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__340\">Wolfsegg</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "341": {
     "id": 341,
@@ -2679,7 +3570,10 @@
     "krp_place_id": "krp_place_id__341",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__341\">Köttlach/rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "342": {
     "id": 342,
@@ -2688,7 +3582,10 @@
     "krp_place_id": "krp_place_id__342",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__342\">St. Peter in der Au</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "343": {
     "id": 343,
@@ -2697,7 +3594,10 @@
     "krp_place_id": "krp_place_id__343",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__343\">Sachsenburg</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "344": {
     "id": 344,
@@ -2706,7 +3606,10 @@
     "krp_place_id": "krp_place_id__344",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__344\">St. Salvator</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "345": {
     "id": 345,
@@ -2715,7 +3618,10 @@
     "krp_place_id": "krp_place_id__345",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__345\">Egg</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "346": {
     "id": 346,
@@ -2724,7 +3630,10 @@
     "krp_place_id": "krp_place_id__346",
     "alternative_name": "",
     "tei_code": "<rs=\"place\" ref=\"#krp_place_id__346\">Grades</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "347": {
     "id": 347,
@@ -2733,7 +3642,10 @@
     "krp_place_id": "krp_place_id__347",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__347\">Moosbach</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "348": {
     "id": 348,
@@ -2742,7 +3654,10 @@
     "krp_place_id": "krp_place_id__348",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__348\">Kaiserebersdorf</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "349": {
     "id": 349,
@@ -2751,7 +3666,10 @@
     "krp_place_id": "krp_place_id__349",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__349\">Hörlgasse</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "350": {
     "id": 350,
@@ -2760,7 +3678,10 @@
     "krp_place_id": "krp_place_id__350",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ungarische Räterepublik</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "351": {
     "id": 351,
@@ -2769,7 +3690,10 @@
     "krp_place_id": "krp_place_id__351",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__351\">Rhein</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "352": {
     "id": 352,
@@ -2778,7 +3702,10 @@
     "krp_place_id": "krp_place_id__352",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "353": {
     "id": 353,
@@ -2787,7 +3714,10 @@
     "krp_place_id": "krp_place_id__353",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__353\">Donau-Oder-Kanal</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "354": {
     "id": 354,
@@ -2796,7 +3726,10 @@
     "krp_place_id": "krp_place_id__354",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__354\">Voitsberg-Köflacher Reviere</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "355": {
     "id": 355,
@@ -2805,7 +3738,10 @@
     "krp_place_id": "krp_place_id__355",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__355\">Wieser Reviere</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "356": {
     "id": 356,
@@ -2814,7 +3750,10 @@
     "krp_place_id": "krp_place_id__356",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__356\">Niederschlesien</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "357": {
     "id": 357,
@@ -2823,7 +3762,10 @@
     "krp_place_id": "krp_place_id__357",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__357\">Amsterdam</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "https://sws.geonames.org/2759794",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q727",
+    "gnd_url": "https://d-nb.info/gnd/4001783-7"
   },
   "391": {
     "id": 391,
@@ -2832,7 +3774,10 @@
     "krp_place_id": "krp_place_id__391",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__391\"></rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "392": {
     "id": 392,
@@ -2841,7 +3786,10 @@
     "krp_place_id": "krp_place_id__392",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__392\">Stephansdom</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "393": {
     "id": 393,
@@ -2850,7 +3798,10 @@
     "krp_place_id": "krp_place_id__393",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__393\">Langen</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "394": {
     "id": 394,
@@ -2859,7 +3810,10 @@
     "krp_place_id": "krp_place_id__394",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__394\">Bludenz</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "395": {
     "id": 395,
@@ -2868,7 +3822,10 @@
     "krp_place_id": "krp_place_id__395",
     "alternative_name": "https://www.geschichtewiki.wien.gv.at/Equitablepalais",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__395\"></rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "396": {
     "id": 396,
@@ -2877,7 +3834,10 @@
     "krp_place_id": "krp_place_id__396",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__396\">Traiskirchen</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "397": {
     "id": 397,
@@ -2886,7 +3846,10 @@
     "krp_place_id": "krp_place_id__397",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__397\">Toskana</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "398": {
     "id": 398,
@@ -2895,7 +3858,10 @@
     "krp_place_id": "krp_place_id__398",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__398\">Salzburger Dom</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "399": {
     "id": 399,
@@ -2904,7 +3870,10 @@
     "krp_place_id": "krp_place_id__399",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__399\">Fünfhaus</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "400": {
     "id": 400,
@@ -2913,7 +3882,10 @@
     "krp_place_id": "krp_place_id__400",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__400\">Tullnerbach</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "401": {
     "id": 401,
@@ -2922,7 +3894,10 @@
     "krp_place_id": "krp_place_id__401",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__401\">Gmunden</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "402": {
     "id": 402,
@@ -2931,7 +3906,10 @@
     "krp_place_id": "krp_place_id__402",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__402\">Washington</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "403": {
     "id": 403,
@@ -2940,7 +3918,10 @@
     "krp_place_id": "krp_place_id__403",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__403\">Dänemark</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "404": {
     "id": 404,
@@ -2949,7 +3930,10 @@
     "krp_place_id": "krp_place_id__404",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__404\">Argentinien</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "436": {
     "id": 436,
@@ -2958,7 +3942,10 @@
     "krp_place_id": "krp_place_id__436",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__436\">Ried im Innkreis</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "437": {
     "id": 437,
@@ -2967,7 +3954,10 @@
     "krp_place_id": "krp_place_id__437",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__437\">Westbahnhof</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "438": {
     "id": 438,
@@ -2976,7 +3966,10 @@
     "krp_place_id": "krp_place_id__438",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__195\">Ostbahnhof</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "439": {
     "id": 439,
@@ -2985,7 +3978,10 @@
     "krp_place_id": "krp_place_id__439",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__439\">Freihaus</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "441": {
     "id": 441,
@@ -2994,7 +3990,10 @@
     "krp_place_id": "krp_place_id__441",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__441\">Brescia</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "442": {
     "id": 442,
@@ -3003,7 +4002,10 @@
     "krp_place_id": "krp_place_id__442",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__442\">Lützen</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "444": {
     "id": 444,
@@ -3012,7 +4014,10 @@
     "krp_place_id": "krp_place_id__444",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__444\">Stockholm</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "445": {
     "id": 445,
@@ -3021,7 +4026,10 @@
     "krp_place_id": "krp_place_id__445",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__445\">Liesing</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "446": {
     "id": 446,
@@ -3030,7 +4038,10 @@
     "krp_place_id": "krp_place_id__446",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__446\">Kleßheim</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "479": {
     "id": 479,
@@ -3039,7 +4050,10 @@
     "krp_place_id": "krp_place_id__479",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__479\">Amstetten</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "https://www.geonames.org/7871688",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q251231",
+    "gnd_url": "https://d-nb.info/gnd/4001784-9"
   },
   "480": {
     "id": 480,
@@ -3048,7 +4062,10 @@
     "krp_place_id": "krp_place_id__480",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__480\">Heinreichs</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "481": {
     "id": 481,
@@ -3057,7 +4074,10 @@
     "krp_place_id": "krp_place_id__481",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__481\">Krems an der Donau</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "483": {
     "id": 483,
@@ -3066,7 +4086,10 @@
     "krp_place_id": "krp_place_id__483",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__483\">Himberg</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "514": {
     "id": 514,
@@ -3075,7 +4098,10 @@
     "krp_place_id": "krp_place_id__514",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__305\">Brunn</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "548": {
     "id": 548,
@@ -3084,7 +4110,10 @@
     "krp_place_id": "krp_place_id__548",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__548\">Sonnberg</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "580": {
     "id": 580,
@@ -3093,7 +4122,10 @@
     "krp_place_id": "krp_place_id__580",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__580\">Steinhof</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "581": {
     "id": 581,
@@ -3102,7 +4134,10 @@
     "krp_place_id": "krp_place_id__581",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__581\">Preußen</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "584": {
     "id": 584,
@@ -3111,7 +4146,10 @@
     "krp_place_id": "krp_place_id__584",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__584\">Feldkirch</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "618": {
     "id": 618,
@@ -3120,7 +4158,10 @@
     "krp_place_id": "krp_place_id__618",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "620": {
     "id": 620,
@@ -3129,7 +4170,10 @@
     "krp_place_id": "krp_place_id__620",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__620\">Lundenburg</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "621": {
     "id": 621,
@@ -3138,7 +4182,10 @@
     "krp_place_id": "krp_place_id__621",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "622": {
     "id": 622,
@@ -3147,16 +4194,22 @@
     "krp_place_id": "krp_place_id__622",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__622\">Hinterseer Alm in Wiestal</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "624": {
     "id": 624,
     "order": "353.00000000000000000000",
-    "label": "",
+    "label": "Venetien",
     "krp_place_id": "krp_place_id__624",
     "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__624\">Venetien</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "625": {
     "id": 625,
@@ -3165,7 +4218,10 @@
     "krp_place_id": "krp_place_id__625",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__625\">Trofaiach</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "626": {
     "id": 626,
@@ -3174,7 +4230,10 @@
     "krp_place_id": "krp_place_id__626",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__626\">Wiener Neustadt</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "627": {
     "id": 627,
@@ -3183,7 +4242,10 @@
     "krp_place_id": "krp_place_id__627",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__627\">Greifenstein</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "628": {
     "id": 628,
@@ -3192,7 +4254,10 @@
     "krp_place_id": "krp_place_id__628",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__628\">Langenzersdorf</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "630": {
     "id": 630,
@@ -3201,16 +4266,22 @@
     "krp_place_id": "krp_place_id__630",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__630\"></rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "631": {
     "id": 631,
     "order": "359.00000000000000000000",
-    "label": "",
+    "label": "Oberdorf-Bruck an der Mur",
     "krp_place_id": "krp_place_id__631",
     "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": ""
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__631\">Oberdorf-Bruck</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "632": {
     "id": 632,
@@ -3219,7 +4290,10 @@
     "krp_place_id": "krp_place_id__632",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__632\">Leopoldau</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "633": {
     "id": 633,
@@ -3228,7 +4302,10 @@
     "krp_place_id": "krp_place_id__633",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__633\">Fehring</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "634": {
     "id": 634,
@@ -3237,7 +4314,10 @@
     "krp_place_id": "krp_place_id__634",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__634\">Pinkafeld</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "635": {
     "id": 635,
@@ -3246,7 +4326,10 @@
     "krp_place_id": "krp_place_id__635",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "636": {
     "id": 636,
@@ -3255,7 +4338,10 @@
     "krp_place_id": "krp_place_id__636",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__636\">Ligetfalu</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "637": {
     "id": 637,
@@ -3264,7 +4350,10 @@
     "krp_place_id": "krp_place_id__637",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__637\">Wolfsthal</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "638": {
     "id": 638,
@@ -3273,7 +4362,10 @@
     "krp_place_id": "krp_place_id__638",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "639": {
     "id": 639,
@@ -3282,7 +4374,10 @@
     "krp_place_id": "krp_place_id__639",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__639\">Szigetfalu</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "640": {
     "id": 640,
@@ -3291,7 +4386,10 @@
     "krp_place_id": "krp_place_id__640",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__640\">Kittsee</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "641": {
     "id": 641,
@@ -3300,7 +4398,10 @@
     "krp_place_id": "krp_place_id__641",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__641\">Katzelsdorf</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "643": {
     "id": 643,
@@ -3309,7 +4410,10 @@
     "krp_place_id": "krp_place_id__643",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__643\">Sommerein</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "644": {
     "id": 644,
@@ -3318,7 +4422,10 @@
     "krp_place_id": "krp_place_id__644",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__644\">Fürstenfeld</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "677": {
     "id": 677,
@@ -3327,7 +4434,10 @@
     "krp_place_id": "krp_place_id__677",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__677\">Frastanzer Ried</rs>",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "678": {
     "id": 678,
@@ -3336,6 +4446,69 @@
     "krp_place_id": "krp_place_id__678",
     "alternative_name": "",
     "tei_code": "",
-    "mrp_place_id": ""
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "679": {
+    "id": 679,
+    "order": "375.00000000000000000000",
+    "label": "Nordfrankreich",
+    "krp_place_id": "krp_place_id__679",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__679\">Nordfrankreich</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "680": {
+    "id": 680,
+    "order": "376.00000000000000000000",
+    "label": "Innerbraz",
+    "krp_place_id": "krp_place_id__680",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__680\">Innerbraz</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "681": {
+    "id": 681,
+    "order": "377.00000000000000000000",
+    "label": "Dornbirn",
+    "krp_place_id": "krp_place_id__681",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__681\">Dornbirn</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "682": {
+    "id": 682,
+    "order": "378.00000000000000000000",
+    "label": "Lienz (Bezirk)",
+    "krp_place_id": "krp_place_id__682",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__682\">Lienz</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "683": {
+    "id": 683,
+    "order": "379.00000000000000000000",
+    "label": "Bruck an der Mur",
+    "krp_place_id": "krp_place_id__683",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__683\">Bruck</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   }
 }
