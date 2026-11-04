@@ -3762,7 +3762,7 @@
     "krp_place_id": "krp_place_id__357",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__357\">Amsterdam</rs>",
-    "mrp_place_id": "",
+    "mrp_place_id": "1585",
     "geonames_url": "https://sws.geonames.org/2759794",
     "wikidata_url": "https://www.wikidata.org/wiki/Q727",
     "gnd_url": "https://d-nb.info/gnd/4001783-7"
@@ -4050,7 +4050,7 @@
     "krp_place_id": "krp_place_id__479",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__479\">Amstetten</rs>",
-    "mrp_place_id": "",
+    "mrp_place_id": "4831",
     "geonames_url": "https://www.geonames.org/7871688",
     "wikidata_url": "https://www.wikidata.org/wiki/Q251231",
     "gnd_url": "https://d-nb.info/gnd/4001784-9"
