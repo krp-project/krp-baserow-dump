@@ -1194,7 +1194,7 @@
           <occupation>Vertreter der amerikanischen Mission</occupation>
         </person>
         <person xml:id="krp_person_id__97">
-          <persName>Ippen, Theodor</persName>
+          <persName>Ippen, Theodor [von]</persName>
           <birth>
             <date when-iso="1861-11-29">1861-11-29</date>
             <placeName>Sezemitz, Böhmen</placeName>
@@ -3699,6 +3699,35 @@
           </death>
           <occupation>Universitätsprofessor</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118746596</idno>
+        </person>
+        <person xml:id="krp_person_id__1062">
+          <persName>Parrer, Franz</persName>
+          <birth>
+            <date when-iso="1875-03-23">1875-03-23</date>
+            <placeName>Mauer bei Wien</placeName>
+          </birth>
+          <death>
+            <date when-iso="1944-03-23">1944-03-23</date>
+            <placeName>Küb</placeName>
+          </death>
+          <occupation>Abgeordneter in der Konstiuierenden Nationalversammlung</occupation>
+        </person>
+        <person xml:id="krp_person_id__1063">
+          <persName>Léhar</persName>
+          <occupation>Oberst</occupation>
+        </person>
+        <person xml:id="krp_person_id__1064">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1065">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1066">
+          <persName>Zsombór, Géza</persName>
+          <occupation>ehemaliger Gouverneur Westungarns</occupation>
+        </person>
+        <person xml:id="krp_person_id__1097">
+          <persName>Sosna, Dr.</persName>
         </person>
       </listPerson>
     </body>
