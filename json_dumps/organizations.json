@@ -1503,7 +1503,7 @@
     "id": 251,
     "order": "141.00000000000000000000",
     "label": "Veterinärmedizinische Universität",
-    "note": "",
+    "note": "Tierärztliche Hochschule (267) gelöscht",
     "source": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
     "krp_org_id": "krp_org_id__251",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__251\"></rs>",
@@ -1647,16 +1647,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__266",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__266\">Schweizer Regierung</rs>",
-    "mrp_org_id": null
-  },
-  "267": {
-    "id": 267,
-    "order": "157.00000000000000000000",
-    "label": "Tierärztliche Hochschule",
-    "note": "",
-    "source": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
-    "krp_org_id": "krp_org_id__267",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__267\">Tierärztliche Hochschule</rs>",
     "mrp_org_id": null
   },
   "268": {
@@ -2537,16 +2527,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__367",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__367\">Reparationskommission</rs>",
-    "mrp_org_id": ""
-  },
-  "368": {
-    "id": 368,
-    "order": "254.00000000000000000000",
-    "label": "Staatskommission für Sozialisierung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__368",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__368\">Staatskommission für Sozialisierung</rs>",
     "mrp_org_id": ""
   },
   "369": {
@@ -3842,7 +3822,7 @@
   "697": {
     "id": 697,
     "order": "391.00000000000000000000",
-    "label": "Vorarlberger Landesrat [[03.11.1918-]",
+    "label": "Vorarlberger Landesrat [03.11.1918-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__697",
@@ -3982,7 +3962,7 @@
   "806": {
     "id": 806,
     "order": "407.00000000000000000000",
-    "label": "Vorarlberger Landtag",
+    "label": "Vorarlberger Landtag [27.04.1919-]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__806",
@@ -4032,11 +4012,11 @@
   "812": {
     "id": 812,
     "order": "413.00000000000000000000",
-    "label": "",
+    "label": "Österreichische Akademie der Wissenschaften",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__812",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__812\"></rs>",
     "mrp_org_id": ""
   },
   "813": {
@@ -4207,6 +4187,46 @@
     "source": "",
     "krp_org_id": "krp_org_id__859",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__859\"></rs>",
+    "mrp_org_id": ""
+  },
+  "860": {
+    "id": 860,
+    "order": "431.00000000000000000000",
+    "label": "Schweizer Aktionskomitee",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__860",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__860\"></rs>",
+    "mrp_org_id": ""
+  },
+  "861": {
+    "id": 861,
+    "order": "432.00000000000000000000",
+    "label": "Landesschulrat Kärnten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__861",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__861\"></rs>",
+    "mrp_org_id": ""
+  },
+  "862": {
+    "id": 862,
+    "order": "433.00000000000000000000",
+    "label": "Stadtschulrat Klagenfurt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__862",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__862\"></rs>",
+    "mrp_org_id": ""
+  },
+  "863": {
+    "id": 863,
+    "order": "434.00000000000000000000",
+    "label": "Technische Militärakademie in Mödling",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__863",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__863\"></rs>",
     "mrp_org_id": ""
   }
 }

@@ -22,17 +22,17 @@
   "34": {
     "id": 34,
     "order": "3.00000000000000000000",
-    "label": "",
+    "label": "„Arzneitaxe zu der                      österreichischen Pharmakopöe Ed. VIII für begünstigte Parteien“",
     "note": "",
     "krp_work_id": "krp_work_id__34",
     "source": null,
     "mrp_work_id": null,
-    "tei-code": null
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__34\"></rs>"
   },
   "35": {
     "id": 35,
     "order": "4.00000000000000000000",
-    "label": "Londoner Pakt",
+    "label": "österreichischen Pharmakopöe Ed. VIII für begünstigte Parteien“",
     "note": "?",
     "krp_work_id": "krp_work_id__35",
     "source": "",

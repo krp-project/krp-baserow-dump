@@ -4510,5 +4510,17 @@
     "geonames_url": "",
     "wikidata_url": "",
     "gnd_url": ""
+  },
+  "684": {
+    "id": 684,
+    "order": "380.00000000000000000000",
+    "label": "Bayern",
+    "krp_place_id": "krp_place_id__684",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__684\">Bayern</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   }
 }
