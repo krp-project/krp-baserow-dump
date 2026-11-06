@@ -1174,6 +1174,9 @@
         <place xml:id="krp_place_id__683">
           <placeName>Bruck an der Mur</placeName>
         </place>
+        <place xml:id="krp_place_id__684">
+          <placeName>Bayern</placeName>
+        </place>
       </listPlace>
     </body>
   </text>

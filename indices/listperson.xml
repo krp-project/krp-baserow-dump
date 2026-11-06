@@ -763,8 +763,8 @@
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11878674</idno>
         </person>
         <person xml:id="krp_person_id__507">
-          <persName>Hugelmann, Dr.</persName>
-          <occupation>Ministerialsekretär</occupation>
+          <persName>Hugelmann, Dr. Karl Gottfried</persName>
+          <occupation>Ministerialsekretär im Staatsamt für soziale Verwaltung</occupation>
         </person>
         <person xml:id="krp_person_id__60">
           <persName>Hummel, Adolf</persName>
@@ -1224,7 +1224,7 @@
           <occupation>Ministerialrat; Staatsamt für Handel und Gewerbe, Industrie und Bauten</occupation>
         </person>
         <person xml:id="krp_person_id__100">
-          <persName>Syrowatk, Dr.</persName>
+          <persName>Syrowatka, Dr.</persName>
           <occupation>Sektionsrat, Staatskommisariat für Sachdemobilisierung</occupation>
         </person>
         <person xml:id="krp_person_id__101">
@@ -3717,10 +3717,12 @@
           <occupation>Oberst</occupation>
         </person>
         <person xml:id="krp_person_id__1064">
-          <persName></persName>
+          <persName>Schulz, Hugo</persName>
+          <occupation>Mitarbeiter der Kommission zur Erhebung militärischer Pflichtverletzungen</occupation>
         </person>
         <person xml:id="krp_person_id__1065">
-          <persName></persName>
+          <persName>Friedjung, Heinrich</persName>
+          <occupation>Mitarbeiter der Kommission zur Erhebung militärischer Pflichtverletzungen</occupation>
         </person>
         <person xml:id="krp_person_id__1066">
           <persName>Zsombór, Géza</persName>
@@ -3735,6 +3737,24 @@
         <person xml:id="krp_person_id__1100">
           <persName>Boroević, Svetozar</persName>
           <occupation>Feldmarschall in der österreichisch-ungarischen Armee</occupation>
+        </person>
+        <person xml:id="krp_person_id__1134">
+          <persName>Salvi,</persName>
+          <occupation>Major im italienischen Heer</occupation>
+        </person>
+        <person xml:id="krp_person_id__1135">
+          <persName>Lovaszy, Márton</persName>
+          <occupation>Ungarischer Außenminister</occupation>
+        </person>
+        <person xml:id="krp_person_id__1136">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1137">
+          <persName>Gluth,</persName>
+          <occupation>Hauptmann</occupation>
+        </person>
+        <person xml:id="krp_person_id__1138">
+          <persName></persName>
         </person>
       </listPerson>
     </body>
