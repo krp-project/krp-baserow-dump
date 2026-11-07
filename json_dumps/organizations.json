@@ -4228,5 +4228,65 @@
     "krp_org_id": "krp_org_id__863",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__863\"></rs>",
     "mrp_org_id": ""
+  },
+  "864": {
+    "id": 864,
+    "order": "435.00000000000000000000",
+    "label": "Kronfideikommissgut Eisenerz-Radmer",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__864",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__864\"></rs>",
+    "mrp_org_id": ""
+  },
+  "865": {
+    "id": 865,
+    "order": "436.00000000000000000000",
+    "label": "Staatliche Heilmitteldirektion",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__865",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__865\"></rs>",
+    "mrp_org_id": ""
+  },
+  "866": {
+    "id": 866,
+    "order": "437.00000000000000000000",
+    "label": "Liechtensteiner Landtag",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__866",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__866\">",
+    "mrp_org_id": ""
+  },
+  "867": {
+    "id": 867,
+    "order": "438.00000000000000000000",
+    "label": "liechtensteinische Regierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__867",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__867\"></rs>",
+    "mrp_org_id": ""
+  },
+  "868": {
+    "id": 868,
+    "order": "439.00000000000000000000",
+    "label": "Österreichisch-liechtensteinerische Zoll- und Steuerverein",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__868",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__868\"></rs>",
+    "mrp_org_id": ""
+  },
+  "869": {
+    "id": 869,
+    "order": "440.00000000000000000000",
+    "label": "Landesviehverkehrsstelle Bregenz",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__869",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__869\"></rs>",
+    "mrp_org_id": ""
   }
 }

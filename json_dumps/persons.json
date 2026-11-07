@@ -9847,5 +9847,24 @@
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": "0"
+  },
+  "1140": {
+    "id": 1140,
+    "order": "442.00000000000000000000",
+    "label": "Habsburg-Lothringen, Franz-Josef",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "ehemaliger Kaiser",
+    "source": "",
+    "krp_person_id": "krp_person_id__1140",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1140\">Habsburg-Lothringen</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": "0"
   }
 }
