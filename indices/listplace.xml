@@ -851,7 +851,7 @@
         </place>
         <place xml:id="krp_place_id__314">
           <placeName>Westungarn</placeName>
-          <placeName type="alt">Burgenland; Vierburgenland</placeName>
+          <placeName type="alt">Burgenland; Vierburgenland; Dreiburgenland</placeName>
         </place>
         <place xml:id="krp_place_id__315">
           <placeName>Mährisch Neustadt</placeName>
@@ -1127,7 +1127,7 @@
           <placeName>Pinkafeld</placeName>
         </place>
         <place xml:id="krp_place_id__635">
-          <placeName></placeName>
+          <placeName>Mürzsteg</placeName>
         </place>
         <place xml:id="krp_place_id__636">
           <placeName>Ligetfalu</placeName>
