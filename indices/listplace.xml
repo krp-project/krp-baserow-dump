@@ -1135,9 +1135,6 @@
         <place xml:id="krp_place_id__637">
           <placeName>Wolfsthal</placeName>
         </place>
-        <place xml:id="krp_place_id__638">
-          <placeName></placeName>
-        </place>
         <place xml:id="krp_place_id__639">
           <placeName>Szigetfalu</placeName>
         </place>
@@ -1155,9 +1152,6 @@
         </place>
         <place xml:id="krp_place_id__677">
           <placeName>Frastanzer Ried</placeName>
-        </place>
-        <place xml:id="krp_place_id__678">
-          <placeName></placeName>
         </place>
         <place xml:id="krp_place_id__679">
           <placeName>Nordfrankreich</placeName>
