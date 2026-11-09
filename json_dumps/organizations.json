@@ -252,7 +252,7 @@
   "208": {
     "id": 208,
     "order": "16.50000000000000000000",
-    "label": "interallierte Wirtschaftskommission",
+    "label": "Interallierte Wirtschaftskommission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__208",
@@ -722,7 +722,7 @@
   "59": {
     "id": 59,
     "order": "58.00000000000000000000",
-    "label": "interalliierter Luftfahrtüberwachungsausschuss",
+    "label": "Interalliierter Luftfahrtüberwachungsausschuss",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__59",
@@ -1282,8 +1282,8 @@
   "229": {
     "id": 229,
     "order": "119.00000000000000000000",
-    "label": "Wehrmacht",
-    "note": "",
+    "label": "Bundesheer",
+    "note": "Synonyme: neue Wehrmacht, neues Heer",
     "source": "",
     "krp_org_id": "krp_org_id__229",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__229\">Wehrmacht</rs>",
@@ -2569,16 +2569,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__372\">Familienfideikommissbibliothek</rs>",
     "mrp_org_id": ""
   },
-  "373": {
-    "id": 373,
-    "order": "259.00000000000000000000",
-    "label": "Gewerkschaft der",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__373",
-    "tei_code": "",
-    "mrp_org_id": ""
-  },
   "375": {
     "id": 375,
     "order": "261.00000000000000000000",
@@ -3032,7 +3022,7 @@
   "456": {
     "id": 456,
     "order": "310.00000000000000000000",
-    "label": "interalliierter Militärmission",
+    "label": "Interalliierter Militärmission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__456",
@@ -3327,16 +3317,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__550",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__550\">Zentralverband der Staatsangestelltenvereinigungen</rs>",
-    "mrp_org_id": ""
-  },
-  "551": {
-    "id": 551,
-    "order": "341.00000000000000000000",
-    "label": "der Staatsangestelltenvereinigungen",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__551",
-    "tei_code": "",
     "mrp_org_id": ""
   },
   "552": {

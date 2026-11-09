@@ -4355,18 +4355,6 @@
     "wikidata_url": "",
     "gnd_url": ""
   },
-  "638": {
-    "id": 638,
-    "order": "366.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__638",
-    "alternative_name": "",
-    "tei_code": "",
-    "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": ""
-  },
   "639": {
     "id": 639,
     "order": "367.00000000000000000000",
@@ -4434,18 +4422,6 @@
     "krp_place_id": "krp_place_id__677",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__677\">Frastanzer Ried</rs>",
-    "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": ""
-  },
-  "678": {
-    "id": 678,
-    "order": "374.00000000000000000000",
-    "label": "",
-    "krp_place_id": "krp_place_id__678",
-    "alternative_name": "",
-    "tei_code": "",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
