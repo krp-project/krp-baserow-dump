@@ -6,7 +6,7 @@ import shutil
 from lxml import etree
 
 OUTPUT_DIR = os.path.join("indices")
-INPUT_DIR = "json_dumps"
+INPUT_DIR = os.path.join("json_dumps")
 TEI_NS = "http://www.tei-c.org/ns/1.0"
 XML_NS = "http://www.w3.org/XML/1998/namespace"
 WIKIDATA_QID = re.compile(r"\bQ\d+\b")
