@@ -3946,7 +3946,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__806",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_d__806\">Vorarlberger Landtag</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__806\">Vorarlberger Landtag</rs>",
     "mrp_org_id": ""
   },
   "808": {
@@ -3956,7 +3956,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__808",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__808\"></rs>",
     "mrp_org_id": ""
   },
   "809": {
@@ -4307,6 +4307,76 @@
     "source": "",
     "krp_org_id": "krp_org_id__873",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__873\"></rs>",
+    "mrp_org_id": ""
+  },
+  "874": {
+    "id": 874,
+    "order": "445.00000000000000000000",
+    "label": "Vorarlberger Landesausschuss",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__874",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__874\"></rs>",
+    "mrp_org_id": ""
+  },
+  "875": {
+    "id": 875,
+    "order": "446.00000000000000000000",
+    "label": "französische Militärmission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__875",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__875\"></rs>",
+    "mrp_org_id": ""
+  },
+  "877": {
+    "id": 877,
+    "order": "447.00000000000000000000",
+    "label": "Stift Michaelbeuern",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__877",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__877\"></rs>",
+    "mrp_org_id": ""
+  },
+  "878": {
+    "id": 878,
+    "order": "448.00000000000000000000",
+    "label": "Bischöfliches Ordinariat Salzburg",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__878",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__878\"></rs>",
+    "mrp_org_id": ""
+  },
+  "879": {
+    "id": 879,
+    "order": "449.00000000000000000000",
+    "label": "Tabakregie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__879",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__879\">",
+    "mrp_org_id": ""
+  },
+  "880": {
+    "id": 880,
+    "order": "450.00000000000000000000",
+    "label": "k. u. k. Montanverkaufsamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__880",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__880\"></rs>",
+    "mrp_org_id": ""
+  },
+  "881": {
+    "id": 881,
+    "order": "451.00000000000000000000",
+    "label": "tschechoslowakische Liquidierungskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__881",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__881\">",
     "mrp_org_id": ""
   }
 }

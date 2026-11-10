@@ -1565,7 +1565,7 @@
     "label": "St. Josef bei Stainz",
     "krp_place_id": "krp_place_id__128",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__128\">St. Joachimsthal</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__128\"></rs>",
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
@@ -4558,5 +4558,89 @@
     "geonames_url": "",
     "wikidata_url": "https://www.wikidata.org/wiki/Q63481954",
     "gnd_url": "https://d-nb.info/gnd/1204605858"
+  },
+  "690": {
+    "id": 690,
+    "order": "386.00000000000000000000",
+    "label": "Lustenau",
+    "krp_place_id": "krp_place_id__690",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__690\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "691": {
+    "id": 691,
+    "order": "387.00000000000000000000",
+    "label": "Istrien",
+    "krp_place_id": "krp_place_id__691",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__691\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "692": {
+    "id": 692,
+    "order": "388.00000000000000000000",
+    "label": "Dalmatien",
+    "krp_place_id": "krp_place_id__692",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__692\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "693": {
+    "id": 693,
+    "order": "389.00000000000000000000",
+    "label": "Michaelbeuern",
+    "krp_place_id": "krp_place_id__693",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__693\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "694": {
+    "id": 694,
+    "order": "390.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__694",
+    "alternative_name": "",
+    "tei_code": "",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "695": {
+    "id": 695,
+    "order": "391.00000000000000000000",
+    "label": "Teplitz",
+    "krp_place_id": "krp_place_id__695",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__695\">Teplitz</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
+  },
+  "696": {
+    "id": 696,
+    "order": "392.00000000000000000000",
+    "label": "Jägerndorf",
+    "krp_place_id": "krp_place_id__696",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__696\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   }
 }
