@@ -20,14 +20,14 @@ jobs:
         uses: astral-sh/setup-uv@v7
       - name: dump the data
         run: |
-          uv run dump_data.py
+          uv run src/dump_data.py
       - name: commit data
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Data update from Baserow
       - name: create indices
         run: |
-          uv run json2tei.py
+          uv run src/json2tei.py
       - name: commit indices
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
