@@ -1196,6 +1196,27 @@
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63481954</idno>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1204605858</idno>
         </place>
+        <place xml:id="krp_place_id__690">
+          <placeName>Lustenau</placeName>
+        </place>
+        <place xml:id="krp_place_id__691">
+          <placeName>Istrien</placeName>
+        </place>
+        <place xml:id="krp_place_id__692">
+          <placeName>Dalmatien</placeName>
+        </place>
+        <place xml:id="krp_place_id__693">
+          <placeName>Michaelbeuern</placeName>
+        </place>
+        <place xml:id="krp_place_id__694">
+          <placeName></placeName>
+        </place>
+        <place xml:id="krp_place_id__695">
+          <placeName>Teplitz</placeName>
+        </place>
+        <place xml:id="krp_place_id__696">
+          <placeName>Jägerndorf</placeName>
+        </place>
       </listPlace>
     </body>
   </text>
