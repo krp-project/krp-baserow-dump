@@ -1171,6 +1171,31 @@
         <place xml:id="krp_place_id__684">
           <placeName>Bayern</placeName>
         </place>
+        <place xml:id="krp_place_id__685">
+          <placeName>Schandachen</placeName>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2766164/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63349453</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1249283116</idno>
+        </place>
+        <place xml:id="krp_place_id__686">
+          <placeName>Illmanns</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63349409</idno>
+        </place>
+        <place xml:id="krp_place_id__687">
+          <placeName>Reingers</placeName>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872878/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q871512</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4813947-6</idno>
+        </place>
+        <place xml:id="krp_place_id__688">
+          <placeName>Steinbach</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110653286</idno>
+        </place>
+        <place xml:id="krp_place_id__689">
+          <placeName>Molzegg [Gemeinde]</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63481954</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1204605858</idno>
+        </place>
       </listPlace>
     </body>
   </text>

@@ -3754,6 +3754,9 @@
           <persName>Habsburg-Lothringen, Franz-Josef</persName>
           <occupation>ehemaliger Kaiser</occupation>
         </person>
+        <person xml:id="krp_person_id__1143">
+          <persName></persName>
+        </person>
       </listPerson>
     </body>
   </text>
