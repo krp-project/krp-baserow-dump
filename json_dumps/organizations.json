@@ -2522,11 +2522,11 @@
   "367": {
     "id": 367,
     "order": "253.00000000000000000000",
-    "label": "Reparationskommission",
+    "label": "alliierte Reparationskommission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__367",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__367\">Reparationskommission</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__501\"> Reparationskommission</rs>",
     "mrp_org_id": ""
   },
   "369": {
@@ -3162,7 +3162,7 @@
   "501": {
     "id": 501,
     "order": "324.00000000000000000000",
-    "label": "zwischenstaatliche Kommission für die Verhandlungen mit der Reparationskommission",
+    "label": "zwischenstaatliche Kommission für die Verhandlungen mit der [alliierten] Reparationskommission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__501",
@@ -3313,7 +3313,7 @@
     "id": 550,
     "order": "340.00000000000000000000",
     "label": "Zentralverband der Staatsangestelltenvereinigungen",
-    "note": "",
+    "note": "krp61 \"Zentralverband der Staatsbeamtenvereine Deutschösterreichs\"",
     "source": "",
     "krp_org_id": "krp_org_id__550",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__550\">Zentralverband der Staatsangestelltenvereinigungen</rs>",
@@ -4267,6 +4267,46 @@
     "source": "",
     "krp_org_id": "krp_org_id__869",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__869\"></rs>",
+    "mrp_org_id": ""
+  },
+  "870": {
+    "id": 870,
+    "order": "441.00000000000000000000",
+    "label": "Zentralverband der Invaliden",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__870",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__870\"></rs>",
+    "mrp_org_id": ""
+  },
+  "871": {
+    "id": 871,
+    "order": "442.00000000000000000000",
+    "label": "k. k. Ministerium des Äußern",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__871",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__871\"></rs>",
+    "mrp_org_id": ""
+  },
+  "872": {
+    "id": 872,
+    "order": "443.00000000000000000000",
+    "label": "k. k. Ministerium für Kultus und Unterricht",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__872",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__872\"></rs>",
+    "mrp_org_id": ""
+  },
+  "873": {
+    "id": 873,
+    "order": "444.00000000000000000000",
+    "label": "Kloster der Töchter vom Hl. Herzen Jesu",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__873",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__873\"></rs>",
     "mrp_org_id": ""
   }
 }

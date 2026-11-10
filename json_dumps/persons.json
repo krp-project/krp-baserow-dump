@@ -4704,7 +4704,7 @@
     "date_of_death": "1956-11-23",
     "Geburtsort": "Wien",
     "Sterbeort": "Wien",
-    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__196\">Kienböck</rs>",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__234\">Kienböck</rs>",
     "place_of_birth": [
       {
         "id": 15,
@@ -9102,7 +9102,7 @@
     "date_of_death": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__871\">Ljubicic</rs>",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__871\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": null
@@ -9825,6 +9825,25 @@
     "Geburtsort": "",
     "Sterbeort": "",
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1140\">Habsburg-Lothringen</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": "0"
+  },
+  "1143": {
+    "id": 1143,
+    "order": "443.00000000000000000000",
+    "label": "",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "",
+    "source": "",
+    "krp_person_id": "krp_person_id__1143",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "",
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": "0"
