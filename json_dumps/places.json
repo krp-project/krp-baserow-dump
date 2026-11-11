@@ -4642,5 +4642,17 @@
     "geonames_url": "",
     "wikidata_url": "",
     "gnd_url": ""
+  },
+  "697": {
+    "id": 697,
+    "order": "393.00000000000000000000",
+    "label": "Baden",
+    "krp_place_id": "krp_place_id__697",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__697\">Baden</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   }
 }

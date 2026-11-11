@@ -552,7 +552,7 @@
       "color": "deep-dark-orange"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "1",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6028,7 +6028,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "7",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6071,7 +6071,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "7",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6114,7 +6114,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "2",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6157,7 +6157,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "10",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": true,
@@ -6200,7 +6200,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "8",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6243,7 +6243,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "7",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6286,7 +6286,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "3",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "9",
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
@@ -6335,7 +6335,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "6",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6421,7 +6421,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "1",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "14",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -6464,7 +6464,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "0",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "1",
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
@@ -6507,7 +6507,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "11",
     "docx_done": null,
     "str_vertr_anhang": true,
     "vertr_anhang": false,
@@ -7139,7 +7139,7 @@
       "color": "light-blue"
     },
     "steno_anzahl": "2",
-    "anzahl_beilagen": "0",
+    "anzahl_beilagen": "7",
     "docx_done": null,
     "str_vertr_anhang": false,
     "vertr_anhang": false,
@@ -7199,6 +7199,39 @@
   "242": {
     "id": 242,
     "order": "165.00000000000000000000",
+    "krp_id": "",
+    "date": null,
+    "written_date": "",
+    "title": "",
+    "orig_file_name": "",
+    "krp_mrp": {
+      "id": 22427,
+      "value": "krp",
+      "color": "light-orange"
+    },
+    "period": null,
+    "steno_anzahl": null,
+    "anzahl_beilagen": null,
+    "docx_done": null,
+    "str_vertr_anhang": false,
+    "vertr_anhang": false,
+    "reinschrift": false,
+    "anmerkungen_dokument": "",
+    "archivalien_nachdigitalisiert": "",
+    "kartonnummer": null,
+    "steno_trans": [],
+    "str_vertr_anhang_trans": [],
+    "vertr_anhang_trans": [],
+    "konzept": false,
+    "tagesordnung": false,
+    "digitalisat_komplett": false,
+    "steno_gesamtseitenzahl": null,
+    "str_vertr_anhang_gesamtseitenzahl": null,
+    "str_vertr_anhang_koll": false
+  },
+  "243": {
+    "id": 243,
+    "order": "166.00000000000000000000",
     "krp_id": "",
     "date": null,
     "written_date": "",

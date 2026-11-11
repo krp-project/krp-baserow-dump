@@ -673,7 +673,7 @@
     "id": 53,
     "order": "53.00000000000000000000",
     "label": "Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten",
-    "note": "",
+    "note": "krp78 \"Zwischenstaatsamtliches Komitee für Beamtenangelegenheiten\"",
     "source": "",
     "krp_org_id": "krp_org_id__53",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__53\"></rs>",
@@ -4377,6 +4377,16 @@
     "source": "",
     "krp_org_id": "krp_org_id__881",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__881\">",
+    "mrp_org_id": ""
+  },
+  "882": {
+    "id": 882,
+    "order": "452.00000000000000000000",
+    "label": "Arbeiter- und Soldatenrat im politischen Bezirk Baden",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__882",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__882\"></rs>",
     "mrp_org_id": ""
   }
 }
