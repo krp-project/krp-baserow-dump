@@ -1217,6 +1217,9 @@
         <place xml:id="krp_place_id__696">
           <placeName>Jägerndorf</placeName>
         </place>
+        <place xml:id="krp_place_id__697">
+          <placeName>Baden</placeName>
+        </place>
       </listPlace>
     </body>
   </text>
