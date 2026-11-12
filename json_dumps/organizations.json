@@ -1282,7 +1282,7 @@
   "229": {
     "id": 229,
     "order": "119.00000000000000000000",
-    "label": "Bundesheer",
+    "label": "Bundesheer [Ersterwähnung 19.09.1918-",
     "note": "Synonyme: neue Wehrmacht, neues Heer",
     "source": "",
     "krp_org_id": "krp_org_id__229",
@@ -4387,6 +4387,86 @@
     "source": "",
     "krp_org_id": "krp_org_id__882",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__882\"></rs>",
+    "mrp_org_id": ""
+  },
+  "883": {
+    "id": 883,
+    "order": "453.00000000000000000000",
+    "label": "American Relief Administration",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__883",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__883\"></rs>",
+    "mrp_org_id": ""
+  },
+  "884": {
+    "id": 884,
+    "order": "454.00000000000000000000",
+    "label": "Infanterie-Kadettenschule Liebenau",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__884",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__884\"></rs>",
+    "mrp_org_id": ""
+  },
+  "885": {
+    "id": 885,
+    "order": "455.00000000000000000000",
+    "label": "Gewerkschaftskommission Deutschösterreichs",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__885",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__885\"></rs>",
+    "mrp_org_id": ""
+  },
+  "886": {
+    "id": 886,
+    "order": "456.00000000000000000000",
+    "label": "Männergesangsverein Liebenau",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__886",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__886\"></rs>",
+    "mrp_org_id": ""
+  },
+  "887": {
+    "id": 887,
+    "order": "457.00000000000000000000",
+    "label": "Vereinigten Leder- und Schuhfabriken, gemeinwirtschaftliche Anstalt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__887",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__887\"></rs>",
+    "mrp_org_id": ""
+  },
+  "888": {
+    "id": 888,
+    "order": "458.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__888",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__888\"></rs>",
+    "mrp_org_id": ""
+  },
+  "889": {
+    "id": 889,
+    "order": "459.00000000000000000000",
+    "label": "Landwirtschaftliche Warenverkehrsstelle",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__889",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__889\"></rs>",
+    "mrp_org_id": ""
+  },
+  "890": {
+    "id": 890,
+    "order": "460.00000000000000000000",
+    "label": "Großeinkaufsgesellschaft für österreichische Konsumvereine",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__890",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__890\"></rs>",
     "mrp_org_id": ""
   }
 }
