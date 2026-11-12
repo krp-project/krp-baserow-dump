@@ -9,7 +9,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "2": {
     "id": 2,
@@ -21,7 +23,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "3": {
     "id": 3,
@@ -33,7 +37,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "4": {
     "id": 4,
@@ -45,7 +51,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "5": {
     "id": 5,
@@ -57,7 +65,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "6": {
     "id": 6,
@@ -69,7 +79,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "7": {
     "id": 7,
@@ -81,7 +93,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "8": {
     "id": 8,
@@ -93,7 +107,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "258": {
     "id": 258,
@@ -105,7 +121,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "9": {
     "id": 9,
@@ -117,7 +135,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "286": {
     "id": 286,
@@ -129,7 +149,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "285": {
     "id": 285,
@@ -141,7 +163,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "13": {
     "id": 13,
@@ -153,7 +177,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "10": {
     "id": 10,
@@ -165,7 +191,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "11": {
     "id": 11,
@@ -177,7 +205,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "12": {
     "id": 12,
@@ -189,7 +219,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "14": {
     "id": 14,
@@ -201,7 +233,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "251": {
     "id": 251,
@@ -213,7 +247,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "15": {
     "id": 15,
@@ -225,7 +261,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "16": {
     "id": 16,
@@ -237,7 +275,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "17": {
     "id": 17,
@@ -249,7 +289,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "41": {
     "id": 41,
@@ -261,7 +303,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "18": {
     "id": 18,
@@ -273,7 +317,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "19": {
     "id": 19,
@@ -285,7 +331,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "20": {
     "id": 20,
@@ -297,7 +345,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "21": {
     "id": 21,
@@ -309,7 +359,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "22": {
     "id": 22,
@@ -321,7 +373,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "23": {
     "id": 23,
@@ -333,7 +387,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "24": {
     "id": 24,
@@ -345,7 +401,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "25": {
     "id": 25,
@@ -357,7 +415,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "26": {
     "id": 26,
@@ -369,7 +429,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "27": {
     "id": 27,
@@ -381,7 +443,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "28": {
     "id": 28,
@@ -393,7 +457,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "29": {
     "id": 29,
@@ -405,7 +471,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "30": {
     "id": 30,
@@ -417,7 +485,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "31": {
     "id": 31,
@@ -429,7 +499,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "32": {
     "id": 32,
@@ -441,7 +513,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "34": {
     "id": 34,
@@ -453,7 +527,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "35": {
     "id": 35,
@@ -465,7 +541,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "36": {
     "id": 36,
@@ -477,7 +555,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "37": {
     "id": 37,
@@ -489,7 +569,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "38": {
     "id": 38,
@@ -501,7 +583,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "39": {
     "id": 39,
@@ -513,7 +597,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "42": {
     "id": 42,
@@ -525,7 +611,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "43": {
     "id": 43,
@@ -537,7 +625,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "44": {
     "id": 44,
@@ -549,7 +639,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "284": {
     "id": 284,
@@ -561,7 +653,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "45": {
     "id": 45,
@@ -573,7 +667,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "46": {
     "id": 46,
@@ -585,7 +681,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "47": {
     "id": 47,
@@ -597,7 +695,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "48": {
     "id": 48,
@@ -609,7 +709,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "49": {
     "id": 49,
@@ -621,7 +723,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "50": {
     "id": 50,
@@ -633,7 +737,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "52": {
     "id": 52,
@@ -645,7 +751,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "290": {
     "id": 290,
@@ -657,7 +765,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "53": {
     "id": 53,
@@ -669,7 +779,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "259": {
     "id": 259,
@@ -681,7 +793,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "54": {
     "id": 54,
@@ -693,7 +807,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "55": {
     "id": 55,
@@ -705,7 +821,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "56": {
     "id": 56,
@@ -717,7 +835,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "57": {
     "id": 57,
@@ -729,7 +849,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "58": {
     "id": 58,
@@ -741,7 +863,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "289": {
     "id": 289,
@@ -753,7 +877,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "59": {
     "id": 59,
@@ -765,7 +891,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "60": {
     "id": 60,
@@ -777,7 +905,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "61": {
     "id": 61,
@@ -789,7 +919,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "63": {
     "id": 63,
@@ -801,7 +933,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "64": {
     "id": 64,
@@ -813,7 +947,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "65": {
     "id": 65,
@@ -825,7 +961,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "66": {
     "id": 66,
@@ -837,7 +975,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "67": {
     "id": 67,
@@ -849,7 +989,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "68": {
     "id": 68,
@@ -861,7 +1003,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "69": {
     "id": 69,
@@ -873,7 +1017,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "70": {
     "id": 70,
@@ -885,7 +1031,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "71": {
     "id": 71,
@@ -897,7 +1045,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "72": {
     "id": 72,
@@ -909,7 +1059,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "73": {
     "id": 73,
@@ -921,7 +1073,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "74": {
     "id": 74,
@@ -933,7 +1087,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "75": {
     "id": 75,
@@ -945,7 +1101,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "76": {
     "id": 76,
@@ -957,7 +1115,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "77": {
     "id": 77,
@@ -969,7 +1129,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "78": {
     "id": 78,
@@ -981,7 +1143,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "79": {
     "id": 79,
@@ -993,7 +1157,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "80": {
     "id": 80,
@@ -1005,7 +1171,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "82": {
     "id": 82,
@@ -1017,7 +1185,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "83": {
     "id": 83,
@@ -1029,7 +1199,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "84": {
     "id": 84,
@@ -1041,7 +1213,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "85": {
     "id": 85,
@@ -1053,7 +1227,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "86": {
     "id": 86,
@@ -1065,7 +1241,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "87": {
     "id": 87,
@@ -1077,7 +1255,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "88": {
     "id": 88,
@@ -1089,7 +1269,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "89": {
     "id": 89,
@@ -1101,7 +1283,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "90": {
     "id": 90,
@@ -1113,7 +1297,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "91": {
     "id": 91,
@@ -1125,7 +1311,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "92": {
     "id": 92,
@@ -1137,7 +1325,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "93": {
     "id": 93,
@@ -1149,7 +1339,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "94": {
     "id": 94,
@@ -1161,7 +1353,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "95": {
     "id": 95,
@@ -1173,7 +1367,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "96": {
     "id": 96,
@@ -1185,7 +1381,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "97": {
     "id": 97,
@@ -1197,7 +1395,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "98": {
     "id": 98,
@@ -1209,7 +1409,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "99": {
     "id": 99,
@@ -1221,7 +1423,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "100": {
     "id": 100,
@@ -1233,7 +1437,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "101": {
     "id": 101,
@@ -1245,7 +1451,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "102": {
     "id": 102,
@@ -1257,7 +1465,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "254": {
     "id": 254,
@@ -1269,7 +1479,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "103": {
     "id": 103,
@@ -1281,7 +1493,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "104": {
     "id": 104,
@@ -1293,7 +1507,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "105": {
     "id": 105,
@@ -1305,7 +1521,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "106": {
     "id": 106,
@@ -1317,7 +1535,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "107": {
     "id": 107,
@@ -1329,7 +1549,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "108": {
     "id": 108,
@@ -1341,7 +1563,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "109": {
     "id": 109,
@@ -1353,7 +1577,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "110": {
     "id": 110,
@@ -1365,7 +1591,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "111": {
     "id": 111,
@@ -1377,7 +1605,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "112": {
     "id": 112,
@@ -1389,7 +1619,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "113": {
     "id": 113,
@@ -1401,7 +1633,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "114": {
     "id": 114,
@@ -1413,7 +1647,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "115": {
     "id": 115,
@@ -1425,7 +1661,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "116": {
     "id": 116,
@@ -1437,7 +1675,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "117": {
     "id": 117,
@@ -1449,7 +1689,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "118": {
     "id": 118,
@@ -1461,7 +1703,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "119": {
     "id": 119,
@@ -1473,7 +1717,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "120": {
     "id": 120,
@@ -1485,7 +1731,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "121": {
     "id": 121,
@@ -1497,7 +1745,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "122": {
     "id": 122,
@@ -1509,7 +1759,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "123": {
     "id": 123,
@@ -1521,7 +1773,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "124": {
     "id": 124,
@@ -1533,7 +1787,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "125": {
     "id": 125,
@@ -1545,7 +1801,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "126": {
     "id": 126,
@@ -1557,7 +1815,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "128": {
     "id": 128,
@@ -1569,7 +1829,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "129": {
     "id": 129,
@@ -1581,7 +1843,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "291": {
     "id": 291,
@@ -1593,7 +1857,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "130": {
     "id": 130,
@@ -1605,7 +1871,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "131": {
     "id": 131,
@@ -1617,7 +1885,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "132": {
     "id": 132,
@@ -1629,7 +1899,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "133": {
     "id": 133,
@@ -1641,7 +1913,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "134": {
     "id": 134,
@@ -1653,7 +1927,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "135": {
     "id": 135,
@@ -1665,7 +1941,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "136": {
     "id": 136,
@@ -1677,7 +1955,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "257": {
     "id": 257,
@@ -1689,7 +1969,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "137": {
     "id": 137,
@@ -1701,7 +1983,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "138": {
     "id": 138,
@@ -1713,7 +1997,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "139": {
     "id": 139,
@@ -1725,7 +2011,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "140": {
     "id": 140,
@@ -1737,7 +2025,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "141": {
     "id": 141,
@@ -1749,7 +2039,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "142": {
     "id": 142,
@@ -1761,7 +2053,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "143": {
     "id": 143,
@@ -1773,7 +2067,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "144": {
     "id": 144,
@@ -1785,7 +2081,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "145": {
     "id": 145,
@@ -1797,7 +2095,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "146": {
     "id": 146,
@@ -1809,7 +2109,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "147": {
     "id": 147,
@@ -1821,7 +2123,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "148": {
     "id": 148,
@@ -1833,7 +2137,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "149": {
     "id": 149,
@@ -1845,7 +2151,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "150": {
     "id": 150,
@@ -1857,7 +2165,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "151": {
     "id": 151,
@@ -1869,7 +2179,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "152": {
     "id": 152,
@@ -1881,7 +2193,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "153": {
     "id": 153,
@@ -1893,7 +2207,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "154": {
     "id": 154,
@@ -1905,7 +2221,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "155": {
     "id": 155,
@@ -1917,7 +2235,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "156": {
     "id": 156,
@@ -1929,7 +2249,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "157": {
     "id": 157,
@@ -1941,7 +2263,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "158": {
     "id": 158,
@@ -1953,7 +2277,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "160": {
     "id": 160,
@@ -1965,7 +2291,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "162": {
     "id": 162,
@@ -1977,7 +2305,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "163": {
     "id": 163,
@@ -1989,7 +2319,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "164": {
     "id": 164,
@@ -2001,7 +2333,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "165": {
     "id": 165,
@@ -2013,7 +2347,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "166": {
     "id": 166,
@@ -2025,7 +2361,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "167": {
     "id": 167,
@@ -2037,7 +2375,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "168": {
     "id": 168,
@@ -2049,7 +2389,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "169": {
     "id": 169,
@@ -2061,7 +2403,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "170": {
     "id": 170,
@@ -2073,7 +2417,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "171": {
     "id": 171,
@@ -2085,7 +2431,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "172": {
     "id": 172,
@@ -2097,7 +2445,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "173": {
     "id": 173,
@@ -2109,7 +2459,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "174": {
     "id": 174,
@@ -2121,7 +2473,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "175": {
     "id": 175,
@@ -2133,7 +2487,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "176": {
     "id": 176,
@@ -2145,7 +2501,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "177": {
     "id": 177,
@@ -2157,7 +2515,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "178": {
     "id": 178,
@@ -2169,7 +2529,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "179": {
     "id": 179,
@@ -2181,7 +2543,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "180": {
     "id": 180,
@@ -2193,7 +2557,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "181": {
     "id": 181,
@@ -2205,7 +2571,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "182": {
     "id": 182,
@@ -2217,7 +2585,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "288": {
     "id": 288,
@@ -2229,7 +2599,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "183": {
     "id": 183,
@@ -2241,7 +2613,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "287": {
     "id": 287,
@@ -2253,7 +2627,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "184": {
     "id": 184,
@@ -2265,7 +2641,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "185": {
     "id": 185,
@@ -2277,7 +2655,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "186": {
     "id": 186,
@@ -2289,7 +2669,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "255": {
     "id": 255,
@@ -2301,7 +2683,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "187": {
     "id": 187,
@@ -2313,7 +2697,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "188": {
     "id": 188,
@@ -2325,7 +2711,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "189": {
     "id": 189,
@@ -2337,7 +2725,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "190": {
     "id": 190,
@@ -2349,7 +2739,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "191": {
     "id": 191,
@@ -2361,7 +2753,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "256": {
     "id": 256,
@@ -2373,7 +2767,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "192": {
     "id": 192,
@@ -2385,7 +2781,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "265": {
     "id": 265,
@@ -2397,7 +2795,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "193": {
     "id": 193,
@@ -2409,7 +2809,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "194": {
     "id": 194,
@@ -2421,7 +2823,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "195": {
     "id": 195,
@@ -2433,7 +2837,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "196": {
     "id": 196,
@@ -2445,7 +2851,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "197": {
     "id": 197,
@@ -2457,7 +2865,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "199": {
     "id": 199,
@@ -2469,7 +2879,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "292": {
     "id": 292,
@@ -2481,7 +2893,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "200": {
     "id": 200,
@@ -2493,7 +2907,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "201": {
     "id": 201,
@@ -2505,7 +2921,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "203": {
     "id": 203,
@@ -2517,7 +2935,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "204": {
     "id": 204,
@@ -2529,7 +2949,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "205": {
     "id": 205,
@@ -2541,7 +2963,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "206": {
     "id": 206,
@@ -2553,7 +2977,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "207": {
     "id": 207,
@@ -2565,7 +2991,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "208": {
     "id": 208,
@@ -2577,7 +3005,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "209": {
     "id": 209,
@@ -2589,7 +3019,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "210": {
     "id": 210,
@@ -2601,7 +3033,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "211": {
     "id": 211,
@@ -2613,7 +3047,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "212": {
     "id": 212,
@@ -2625,7 +3061,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "213": {
     "id": 213,
@@ -2637,7 +3075,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "214": {
     "id": 214,
@@ -2649,7 +3089,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "215": {
     "id": 215,
@@ -2661,7 +3103,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "216": {
     "id": 216,
@@ -2673,7 +3117,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "217": {
     "id": 217,
@@ -2685,7 +3131,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "218": {
     "id": 218,
@@ -2697,7 +3145,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "249": {
     "id": 249,
@@ -2709,7 +3159,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "250": {
     "id": 250,
@@ -2721,7 +3173,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "252": {
     "id": 252,
@@ -2733,7 +3187,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "283": {
     "id": 283,
@@ -2745,7 +3201,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "253": {
     "id": 253,
@@ -2757,7 +3215,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "260": {
     "id": 260,
@@ -2769,7 +3229,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "262": {
     "id": 262,
@@ -2781,7 +3243,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "263": {
     "id": 263,
@@ -2793,7 +3257,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "264": {
     "id": 264,
@@ -2805,7 +3271,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "267": {
     "id": 267,
@@ -2817,7 +3285,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "268": {
     "id": 268,
@@ -2829,7 +3299,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "269": {
     "id": 269,
@@ -2841,7 +3313,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "270": {
     "id": 270,
@@ -2853,7 +3327,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "271": {
     "id": 271,
@@ -2865,7 +3341,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "272": {
     "id": 272,
@@ -2877,7 +3355,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "273": {
     "id": 273,
@@ -2889,7 +3369,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "274": {
     "id": 274,
@@ -2901,7 +3383,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "275": {
     "id": 275,
@@ -2913,7 +3397,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "276": {
     "id": 276,
@@ -2925,7 +3411,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "277": {
     "id": 277,
@@ -2937,7 +3425,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "278": {
     "id": 278,
@@ -2949,7 +3439,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "279": {
     "id": 279,
@@ -2961,7 +3453,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "280": {
     "id": 280,
@@ -2973,7 +3467,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "281": {
     "id": 281,
@@ -2985,7 +3481,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "282": {
     "id": 282,
@@ -2997,7 +3495,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "293": {
     "id": 293,
@@ -3009,7 +3509,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "294": {
     "id": 294,
@@ -3021,7 +3523,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "295": {
     "id": 295,
@@ -3033,7 +3537,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "296": {
     "id": 296,
@@ -3045,7 +3551,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "297": {
     "id": 297,
@@ -3057,7 +3565,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "298": {
     "id": 298,
@@ -3069,7 +3579,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "299": {
     "id": 299,
@@ -3081,19 +3593,23 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "300": {
     "id": 300,
     "order": "248.00000000000000000000",
     "label": "Deutschsüdmähren",
     "krp_place_id": "krp_place_id__300",
-    "alternative_name": "",
+    "alternative_name": "Kreis",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__300\">Deutschsüdmähren</rs>",
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "301": {
     "id": 301,
@@ -3105,7 +3621,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "302": {
     "id": 302,
@@ -3117,7 +3635,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "303": {
     "id": 303,
@@ -3129,7 +3649,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "304": {
     "id": 304,
@@ -3141,7 +3663,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "305": {
     "id": 305,
@@ -3153,7 +3677,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "306": {
     "id": 306,
@@ -3165,7 +3691,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "307": {
     "id": 307,
@@ -3177,7 +3705,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "308": {
     "id": 308,
@@ -3189,7 +3719,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "309": {
     "id": 309,
@@ -3201,7 +3733,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "310": {
     "id": 310,
@@ -3213,7 +3747,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "311": {
     "id": 311,
@@ -3225,7 +3761,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "312": {
     "id": 312,
@@ -3237,7 +3775,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "313": {
     "id": 313,
@@ -3249,7 +3789,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "314": {
     "id": 314,
@@ -3261,7 +3803,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "315": {
     "id": 315,
@@ -3273,7 +3817,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "316": {
     "id": 316,
@@ -3285,7 +3831,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "317": {
     "id": 317,
@@ -3297,7 +3845,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "318": {
     "id": 318,
@@ -3309,7 +3859,9 @@
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "319": {
     "id": 319,
@@ -3321,7 +3873,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "320": {
     "id": 320,
@@ -3333,7 +3887,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "321": {
     "id": 321,
@@ -3345,7 +3901,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "322": {
     "id": 322,
@@ -3357,7 +3915,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "323": {
     "id": 323,
@@ -3369,7 +3929,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "324": {
     "id": 324,
@@ -3381,7 +3943,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "325": {
     "id": 325,
@@ -3393,7 +3957,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "326": {
     "id": 326,
@@ -3405,7 +3971,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "327": {
     "id": 327,
@@ -3417,7 +3985,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "328": {
     "id": 328,
@@ -3429,7 +3999,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "329": {
     "id": 329,
@@ -3441,7 +4013,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "330": {
     "id": 330,
@@ -3453,7 +4027,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "331": {
     "id": 331,
@@ -3465,7 +4041,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "332": {
     "id": 332,
@@ -3477,7 +4055,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "333": {
     "id": 333,
@@ -3489,7 +4069,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "334": {
     "id": 334,
@@ -3501,7 +4083,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "336": {
     "id": 336,
@@ -3513,7 +4097,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "337": {
     "id": 337,
@@ -3525,7 +4111,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "338": {
     "id": 338,
@@ -3537,7 +4125,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "339": {
     "id": 339,
@@ -3549,7 +4139,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "340": {
     "id": 340,
@@ -3561,7 +4153,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "341": {
     "id": 341,
@@ -3573,7 +4167,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "342": {
     "id": 342,
@@ -3585,7 +4181,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "343": {
     "id": 343,
@@ -3597,7 +4195,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "344": {
     "id": 344,
@@ -3609,7 +4209,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "345": {
     "id": 345,
@@ -3621,7 +4223,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "346": {
     "id": 346,
@@ -3633,7 +4237,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "347": {
     "id": 347,
@@ -3645,7 +4251,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "348": {
     "id": 348,
@@ -3657,7 +4265,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "349": {
     "id": 349,
@@ -3669,7 +4279,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "350": {
     "id": 350,
@@ -3681,7 +4293,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "351": {
     "id": 351,
@@ -3693,7 +4307,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "352": {
     "id": 352,
@@ -3705,7 +4321,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "353": {
     "id": 353,
@@ -3717,7 +4335,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "354": {
     "id": 354,
@@ -3729,7 +4349,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "355": {
     "id": 355,
@@ -3741,7 +4363,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "356": {
     "id": 356,
@@ -3753,7 +4377,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "357": {
     "id": 357,
@@ -3765,7 +4391,9 @@
     "mrp_place_id": "1585",
     "geonames_url": "https://sws.geonames.org/2759794",
     "wikidata_url": "https://www.wikidata.org/wiki/Q727",
-    "gnd_url": "https://d-nb.info/gnd/4001783-7"
+    "gnd_url": "https://d-nb.info/gnd/4001783-7",
+    "latitude": null,
+    "longitude": null
   },
   "391": {
     "id": 391,
@@ -3777,7 +4405,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "392": {
     "id": 392,
@@ -3789,7 +4419,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "393": {
     "id": 393,
@@ -3801,7 +4433,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "394": {
     "id": 394,
@@ -3813,7 +4447,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "395": {
     "id": 395,
@@ -3825,7 +4461,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "396": {
     "id": 396,
@@ -3837,7 +4475,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "397": {
     "id": 397,
@@ -3849,7 +4489,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "398": {
     "id": 398,
@@ -3861,7 +4503,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "399": {
     "id": 399,
@@ -3873,7 +4517,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "400": {
     "id": 400,
@@ -3885,7 +4531,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "401": {
     "id": 401,
@@ -3897,7 +4545,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "402": {
     "id": 402,
@@ -3909,7 +4559,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "403": {
     "id": 403,
@@ -3921,19 +4573,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
-  },
-  "404": {
-    "id": 404,
-    "order": "320.00000000000000000000",
-    "label": "Argentinien",
-    "krp_place_id": "krp_place_id__404",
-    "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__404\">Argentinien</rs>",
-    "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "436": {
     "id": 436,
@@ -3945,7 +4587,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "437": {
     "id": 437,
@@ -3957,7 +4601,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "438": {
     "id": 438,
@@ -3969,7 +4615,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "439": {
     "id": 439,
@@ -3981,7 +4629,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "441": {
     "id": 441,
@@ -3993,7 +4643,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "442": {
     "id": 442,
@@ -4005,7 +4657,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "444": {
     "id": 444,
@@ -4017,7 +4671,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "445": {
     "id": 445,
@@ -4029,7 +4685,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "446": {
     "id": 446,
@@ -4041,7 +4699,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "479": {
     "id": 479,
@@ -4053,7 +4713,9 @@
     "mrp_place_id": "4831",
     "geonames_url": "https://www.geonames.org/7871688",
     "wikidata_url": "https://www.wikidata.org/wiki/Q251231",
-    "gnd_url": "https://d-nb.info/gnd/4001784-9"
+    "gnd_url": "https://d-nb.info/gnd/4001784-9",
+    "latitude": null,
+    "longitude": null
   },
   "480": {
     "id": 480,
@@ -4065,7 +4727,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "481": {
     "id": 481,
@@ -4077,7 +4741,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "483": {
     "id": 483,
@@ -4089,7 +4755,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "514": {
     "id": 514,
@@ -4101,7 +4769,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "548": {
     "id": 548,
@@ -4113,7 +4783,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "580": {
     "id": 580,
@@ -4125,7 +4797,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "581": {
     "id": 581,
@@ -4137,7 +4811,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "584": {
     "id": 584,
@@ -4149,7 +4825,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "618": {
     "id": 618,
@@ -4161,7 +4839,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "620": {
     "id": 620,
@@ -4173,7 +4853,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "621": {
     "id": 621,
@@ -4185,7 +4867,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "622": {
     "id": 622,
@@ -4197,7 +4881,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "624": {
     "id": 624,
@@ -4209,7 +4895,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "625": {
     "id": 625,
@@ -4221,7 +4909,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "626": {
     "id": 626,
@@ -4233,7 +4923,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "627": {
     "id": 627,
@@ -4245,7 +4937,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "628": {
     "id": 628,
@@ -4257,7 +4951,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "630": {
     "id": 630,
@@ -4269,7 +4965,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "631": {
     "id": 631,
@@ -4281,7 +4979,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "632": {
     "id": 632,
@@ -4293,7 +4993,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "633": {
     "id": 633,
@@ -4305,7 +5007,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "634": {
     "id": 634,
@@ -4317,7 +5021,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "635": {
     "id": 635,
@@ -4329,7 +5035,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "636": {
     "id": 636,
@@ -4341,7 +5049,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "637": {
     "id": 637,
@@ -4353,7 +5063,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "639": {
     "id": 639,
@@ -4365,7 +5077,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "640": {
     "id": 640,
@@ -4377,7 +5091,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "641": {
     "id": 641,
@@ -4389,7 +5105,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "643": {
     "id": 643,
@@ -4401,7 +5119,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "644": {
     "id": 644,
@@ -4413,7 +5133,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "677": {
     "id": 677,
@@ -4425,7 +5147,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "679": {
     "id": 679,
@@ -4437,7 +5161,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "680": {
     "id": 680,
@@ -4449,7 +5175,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "681": {
     "id": 681,
@@ -4461,7 +5189,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "682": {
     "id": 682,
@@ -4473,7 +5203,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "683": {
     "id": 683,
@@ -4485,7 +5217,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "684": {
     "id": 684,
@@ -4497,7 +5231,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "685": {
     "id": 685,
@@ -4509,7 +5245,9 @@
     "mrp_place_id": "",
     "geonames_url": "https://www.geonames.org/2766164",
     "wikidata_url": "https://www.wikidata.org/wiki/Q63349453",
-    "gnd_url": "https://d-nb.info/gnd/1249283116"
+    "gnd_url": "https://d-nb.info/gnd/1249283116",
+    "latitude": null,
+    "longitude": null
   },
   "686": {
     "id": 686,
@@ -4521,7 +5259,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "https://www.wikidata.org/wiki/Q63349409",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "687": {
     "id": 687,
@@ -4533,7 +5273,9 @@
     "mrp_place_id": "",
     "geonames_url": "https://www.geonames.org/7872878",
     "wikidata_url": "https://www.wikidata.org/wiki/Q871512",
-    "gnd_url": "https://d-nb.info/gnd/4813947-6"
+    "gnd_url": "https://d-nb.info/gnd/4813947-6",
+    "latitude": null,
+    "longitude": null
   },
   "688": {
     "id": 688,
@@ -4545,7 +5287,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110653286",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "689": {
     "id": 689,
@@ -4557,7 +5301,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "https://www.wikidata.org/wiki/Q63481954",
-    "gnd_url": "https://d-nb.info/gnd/1204605858"
+    "gnd_url": "https://d-nb.info/gnd/1204605858",
+    "latitude": null,
+    "longitude": null
   },
   "690": {
     "id": 690,
@@ -4569,7 +5315,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "691": {
     "id": 691,
@@ -4581,7 +5329,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "692": {
     "id": 692,
@@ -4593,7 +5343,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "693": {
     "id": 693,
@@ -4605,7 +5357,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "694": {
     "id": 694,
@@ -4617,7 +5371,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "695": {
     "id": 695,
@@ -4629,7 +5385,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "696": {
     "id": 696,
@@ -4641,7 +5399,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "697": {
     "id": 697,
@@ -4653,7 +5413,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "698": {
     "id": 698,
@@ -4665,7 +5427,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "699": {
     "id": 699,
@@ -4677,7 +5441,9 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   },
   "700": {
     "id": 700,
@@ -4689,6 +5455,92 @@
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
+  },
+  "701": {
+    "id": 701,
+    "order": "397.00000000000000000000",
+    "label": "Reichenberg",
+    "krp_place_id": "krp_place_id__701",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__701\">Reichenberg</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
+  },
+  "703": {
+    "id": 703,
+    "order": "398.00000000000000000000",
+    "label": "Wörth",
+    "krp_place_id": "krp_place_id__703",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__703\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
+  },
+  "704": {
+    "id": 704,
+    "order": "399.00000000000000000000",
+    "label": "Deutschsüdböhmen",
+    "krp_place_id": "krp_place_id__704",
+    "alternative_name": "Kreis",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__704\">Deutschsüdböhmen</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
+  },
+  "705": {
+    "id": 705,
+    "order": "400.00000000000000000000",
+    "label": "Iglau",
+    "krp_place_id": "krp_place_id__705",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__705\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
+  },
+  "706": {
+    "id": 706,
+    "order": "401.00000000000000000000",
+    "label": "Olmütz",
+    "krp_place_id": "krp_place_id__706",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__706\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
+  },
+  "707": {
+    "id": 707,
+    "order": "402.00000000000000000000",
+    "label": "Gmünd [Bahnhof]",
+    "krp_place_id": "krp_place_id__707",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__707\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": null,
+    "longitude": null
   }
 }

@@ -4442,7 +4442,7 @@
   "888": {
     "id": 888,
     "order": "458.00000000000000000000",
-    "label": "",
+    "label": "Sachverständigenkommission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__888",
@@ -4467,6 +4467,66 @@
     "source": "",
     "krp_org_id": "krp_org_id__890",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__890\"></rs>",
+    "mrp_org_id": ""
+  },
+  "892": {
+    "id": 892,
+    "order": "461.00000000000000000000",
+    "label": "Verein der deutschen Eisenbahnbeamten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__892",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__892\"></rs>",
+    "mrp_org_id": ""
+  },
+  "893": {
+    "id": 893,
+    "order": "462.00000000000000000000",
+    "label": "Kreisarbeiterrat Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__893",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__893\"></rs>",
+    "mrp_org_id": ""
+  },
+  "894": {
+    "id": 894,
+    "order": "463.00000000000000000000",
+    "label": "Volksbekleidungsamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__894",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__894\"></rs>",
+    "mrp_org_id": ""
+  },
+  "895": {
+    "id": 895,
+    "order": "464.00000000000000000000",
+    "label": "Arader Gegenregierung (Ungarn)",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__895",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "896": {
+    "id": 896,
+    "order": "465.00000000000000000000",
+    "label": "zwischenstaatsamtliche Verwaltungskommission für Heeresbetriebe",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__896",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__896\"></rs>",
+    "mrp_org_id": ""
+  },
+  "897": {
+    "id": 897,
+    "order": "466.00000000000000000000",
+    "label": "Reichsrat [bis November 1918]",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__897",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__897\"></rs>",
     "mrp_org_id": ""
   }
 }
