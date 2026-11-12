@@ -3783,6 +3783,14 @@
         <person xml:id="krp_person_id__1152">
           <persName></persName>
         </person>
+        <person xml:id="krp_person_id__1153">
+          <persName>Würth, Viktor</persName>
+          <occupation>Zentralgewerbeinspektor</occupation>
+        </person>
+        <person xml:id="krp_person_id__1154">
+          <persName>Tauss, Hans</persName>
+          <occupation>Zentralgewerbeinspektor</occupation>
+        </person>
       </listPerson>
     </body>
   </text>
