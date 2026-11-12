@@ -1209,7 +1209,7 @@
           <placeName>Michaelbeuern</placeName>
         </place>
         <place xml:id="krp_place_id__694">
-          <placeName></placeName>
+          <placeName>Faistenau</placeName>
         </place>
         <place xml:id="krp_place_id__695">
           <placeName>Teplitz</placeName>
@@ -1219,6 +1219,15 @@
         </place>
         <place xml:id="krp_place_id__697">
           <placeName>Baden</placeName>
+        </place>
+        <place xml:id="krp_place_id__698">
+          <placeName>Teschen</placeName>
+        </place>
+        <place xml:id="krp_place_id__699">
+          <placeName>Hof bei Salzburg</placeName>
+        </place>
+        <place xml:id="krp_place_id__700">
+          <placeName>Vordersee</placeName>
         </place>
       </listPlace>
     </body>
