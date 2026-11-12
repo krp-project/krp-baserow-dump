@@ -160,6 +160,11 @@ for place in places:
         tei_placename_alt = etree.SubElement(tei_place, f"{{{TEI_NS}}}placeName", type="alt")
         tei_placename_alt.text = place["alternative_name"]
 
+    if place["latitude"] and place["longitude"]:
+        tei_location = etree.SubElement(tei_place, f"{{{TEI_NS}}}location")
+        tei_geo = etree.SubElement(tei_location, f"{{{TEI_NS}}}geo")
+        tei_geo.text = f"{place["latitude"]} {place["longitude"]}"
+
     if place["geonames_url"]:
         geonames_id = re.search(r"\b\d+\b", place["geonames_url"])
         if geonames_id:
