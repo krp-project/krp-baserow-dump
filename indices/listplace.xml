@@ -808,6 +808,7 @@
         </place>
         <place xml:id="krp_place_id__300">
           <placeName>Deutschsüdmähren</placeName>
+          <placeName type="alt">Kreis</placeName>
         </place>
         <place xml:id="krp_place_id__301">
           <placeName>Schildern</placeName>
@@ -1023,9 +1024,6 @@
         <place xml:id="krp_place_id__403">
           <placeName>Dänemark</placeName>
         </place>
-        <place xml:id="krp_place_id__404">
-          <placeName>Argentinien</placeName>
-        </place>
         <place xml:id="krp_place_id__436">
           <placeName>Ried im Innkreis</placeName>
         </place>
@@ -1228,6 +1226,25 @@
         </place>
         <place xml:id="krp_place_id__700">
           <placeName>Vordersee</placeName>
+        </place>
+        <place xml:id="krp_place_id__701">
+          <placeName>Reichenberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__703">
+          <placeName>Wörth</placeName>
+        </place>
+        <place xml:id="krp_place_id__704">
+          <placeName>Deutschsüdböhmen</placeName>
+          <placeName type="alt">Kreis</placeName>
+        </place>
+        <place xml:id="krp_place_id__705">
+          <placeName>Iglau</placeName>
+        </place>
+        <place xml:id="krp_place_id__706">
+          <placeName>Olmütz</placeName>
+        </place>
+        <place xml:id="krp_place_id__707">
+          <placeName>Gmünd [Bahnhof]</placeName>
         </place>
       </listPlace>
     </body>

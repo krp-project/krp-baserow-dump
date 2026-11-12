@@ -2188,7 +2188,7 @@
           <occupation>Landesrat des Landes Niederösterreich</occupation>
         </person>
         <person xml:id="krp_person_id__257">
-          <persName>Neumann, Jakob</persName>
+          <persName>Reumann, Jakob</persName>
           <birth>
             <date when-iso="1853-12-31">1853-12-31</date>
             <placeName ref="#krp_place_id__15">Wien</placeName>
@@ -2622,7 +2622,7 @@
           <occupation>Ministerialrat Staatsamt für Justiz [III]</occupation>
         </person>
         <person xml:id="krp_person_id__305">
-          <persName>Linder, Ing.</persName>
+          <persName>Linder, Ing. Leo</persName>
           <occupation>Generaldirektor Industriewerke</occupation>
         </person>
         <person xml:id="krp_person_id__306">
@@ -3757,6 +3757,31 @@
         <person xml:id="krp_person_id__1144">
           <persName>Haas von Hagenfels, Johann</persName>
           <occupation>Landesbefehlshaber in Wien</occupation>
+        </person>
+        <person xml:id="krp_person_id__1146">
+          <persName>Neumann, Jakob</persName>
+          <occupation>Vertreter im Volksbekleidungsamt</occupation>
+        </person>
+        <person xml:id="krp_person_id__1147">
+          <persName>Des Loges,</persName>
+          <occupation>Ministerialsekretär in der Staatskanzlei</occupation>
+        </person>
+        <person xml:id="krp_person_id__1148">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1149">
+          <persName>Lenoble</persName>
+          <occupation>Oberst, Mitglied der französischen Mission</occupation>
+        </person>
+        <person xml:id="krp_person_id__1150">
+          <persName>Langen, Ing. Friedrich</persName>
+        </person>
+        <person xml:id="krp_person_id__1151">
+          <persName>Gröger, Dr. Ing.</persName>
+          <occupation>Generalsekretär</occupation>
+        </person>
+        <person xml:id="krp_person_id__1152">
+          <persName></persName>
         </person>
       </listPerson>
     </body>
