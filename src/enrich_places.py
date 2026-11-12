@@ -9,7 +9,7 @@ place_table_id = br_client.get_table_by_name(BASEROW_DB_ID, "places")
 
 
 items = []
-filters = {"filter__field_49493__contains": "https", "filter__field_49494__empty": True}
+filters = {"filter__field_49404__contains": "https", "filter__field_49493__empty": True}
 for x in br_client.yield_rows(place_table_id, filters=filters):
     item = x
     items.append(item)
