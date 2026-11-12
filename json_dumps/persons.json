@@ -10014,7 +10014,7 @@
     "date_of_death": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1154\">Tandler</rs>",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1154\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": "0"
