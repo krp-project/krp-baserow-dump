@@ -58,5 +58,15 @@
     "source": "",
     "mrp_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__37\">Berner Urheberschutzkonvention</rs>"
+  },
+  "38": {
+    "id": 38,
+    "order": "7.00000000000000000000",
+    "label": "",
+    "note": "",
+    "krp_work_id": "krp_work_id__38",
+    "source": "",
+    "mrp_work_id": "",
+    "tei-code": ""
   }
 }

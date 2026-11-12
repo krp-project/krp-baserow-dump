@@ -4528,5 +4528,15 @@
     "krp_org_id": "krp_org_id__897",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__897\"></rs>",
     "mrp_org_id": ""
+  },
+  "898": {
+    "id": 898,
+    "order": "467.00000000000000000000",
+    "label": "Wiener Zeitung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__898",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__898\"></rs>",
+    "mrp_org_id": ""
   }
 }

@@ -9980,5 +9980,43 @@
     "place_of_birth": [],
     "place_of_death": [],
     "mrp_person_id": "0"
+  },
+  "1153": {
+    "id": 1153,
+    "order": "452.00000000000000000000",
+    "label": "Würth, Viktor",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "Zentralgewerbeinspektor",
+    "source": "",
+    "krp_person_id": "krp_person_id__1153",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1153\"></rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": "0"
+  },
+  "1154": {
+    "id": 1154,
+    "order": "453.00000000000000000000",
+    "label": "Tauss, Hans",
+    "note": "",
+    "gnd_url": "",
+    "occupation": "Zentralgewerbeinspektor",
+    "source": "",
+    "krp_person_id": "krp_person_id__1154",
+    "wikidata_url": "",
+    "date_of_birth": null,
+    "date_of_death": null,
+    "Geburtsort": "",
+    "Sterbeort": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1154\">Tandler</rs>",
+    "place_of_birth": [],
+    "place_of_death": [],
+    "mrp_person_id": "0"
   }
 }

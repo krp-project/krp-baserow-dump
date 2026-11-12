@@ -4389,11 +4389,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__357\">Amsterdam</rs>",
     "mrp_place_id": "1585",
-    "geonames_url": "https://sws.geonames.org/2759794",
+    "geonames_url": "https://www.geonames.org/2759794",
     "wikidata_url": "https://www.wikidata.org/wiki/Q727",
     "gnd_url": "https://d-nb.info/gnd/4001783-7",
-    "latitude": null,
-    "longitude": null
+    "latitude": "52.37403",
+    "longitude": "4.88969"
   },
   "391": {
     "id": 391,
@@ -4714,8 +4714,8 @@
     "geonames_url": "https://www.geonames.org/7871688",
     "wikidata_url": "https://www.wikidata.org/wiki/Q251231",
     "gnd_url": "https://d-nb.info/gnd/4001784-9",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.10062",
+    "longitude": "14.82711"
   },
   "480": {
     "id": 480,
@@ -5246,8 +5246,8 @@
     "geonames_url": "https://www.geonames.org/2766164",
     "wikidata_url": "https://www.wikidata.org/wiki/Q63349453",
     "gnd_url": "https://d-nb.info/gnd/1249283116",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.96667",
+    "longitude": "15.08333"
   },
   "686": {
     "id": 686,
@@ -5274,8 +5274,8 @@
     "geonames_url": "https://www.geonames.org/7872878",
     "wikidata_url": "https://www.wikidata.org/wiki/Q871512",
     "gnd_url": "https://d-nb.info/gnd/4813947-6",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.96968",
+    "longitude": "15.1353"
   },
   "688": {
     "id": 688,
