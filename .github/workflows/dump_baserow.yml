@@ -20,6 +20,7 @@ jobs:
         uses: astral-sh/setup-uv@v7
       - name: dump the data
         run: |
+          uv run src/enrich_places.py  
           uv run src/dump_data.py
       - name: commit data
         uses: stefanzweifel/git-auto-commit-action@v7
