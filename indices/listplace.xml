@@ -979,6 +979,9 @@
         </place>
         <place xml:id="krp_place_id__357">
           <placeName>Amsterdam</placeName>
+          <location>
+            <geo>52.37403 4.88969</geo>
+          </location>
           <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2759794/</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q727</idno>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/4001783-7</idno>
@@ -1053,6 +1056,9 @@
         </place>
         <place xml:id="krp_place_id__479">
           <placeName>Amstetten</placeName>
+          <location>
+            <geo>48.10062 14.82711</geo>
+          </location>
           <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871688/</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q251231</idno>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/4001784-9</idno>
@@ -1171,6 +1177,9 @@
         </place>
         <place xml:id="krp_place_id__685">
           <placeName>Schandachen</placeName>
+          <location>
+            <geo>48.96667 15.08333</geo>
+          </location>
           <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2766164/</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63349453</idno>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/1249283116</idno>
@@ -1181,6 +1190,9 @@
         </place>
         <place xml:id="krp_place_id__687">
           <placeName>Reingers</placeName>
+          <location>
+            <geo>48.96968 15.1353</geo>
+          </location>
           <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872878/</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q871512</idno>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/4813947-6</idno>
