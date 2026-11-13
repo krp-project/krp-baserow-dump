@@ -3406,7 +3406,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__560",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__560\"></rs>",
     "mrp_org_id": ""
   },
   "561": {
