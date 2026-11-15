@@ -31,9 +31,20 @@
         </place>
         <place xml:id="krp_place_id__4">
           <placeName>Frankreich</placeName>
+          <location>
+            <geo>46.0 2.0</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3017382/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q142</idno>
         </place>
         <place xml:id="krp_place_id__5">
           <placeName>Ungarische Republik [bis 21.03.1919; 01.08.1919-21.03.1920]</placeName>
+          <location>
+            <geo>47.0 20.0</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/719819/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q28</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4078541-5</idno>
         </place>
         <place xml:id="krp_place_id__6">
           <placeName>Deutsches Reich</placeName>
@@ -79,6 +90,12 @@
         </place>
         <place xml:id="krp_place_id__15">
           <placeName>Wien</placeName>
+          <location>
+            <geo>48.20849 16.37208</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2761369/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1741</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4066009-6</idno>
         </place>
         <place xml:id="krp_place_id__16">
           <placeName>Innsbruck</placeName>
@@ -89,9 +106,19 @@
         <place xml:id="krp_place_id__41">
           <placeName>Großbritannien</placeName>
           <placeName type="alt">England</placeName>
+          <location>
+            <geo>54.75844 -2.69531</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2635167/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q145</idno>
         </place>
         <place xml:id="krp_place_id__18">
           <placeName>Graz</placeName>
+          <location>
+            <geo>47.06667 15.43333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2778058/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q13298</idno>
         </place>
         <place xml:id="krp_place_id__19">
           <placeName>Linz</placeName>
@@ -109,6 +136,12 @@
         <place xml:id="krp_place_id__23">
           <placeName>Vereinigte Staaten von Amerika</placeName>
           <placeName type="alt">Amerika</placeName>
+          <location>
+            <geo>39.76 -98.5</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/6252001/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q30</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4078704-7</idno>
         </place>
         <place xml:id="krp_place_id__24">
           <placeName>St. Pölten</placeName>
@@ -131,6 +164,12 @@
         </place>
         <place xml:id="krp_place_id__30">
           <placeName>Vorarlberg</placeName>
+          <location>
+            <geo>47.25 9.91667</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762300/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q38981</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4063944-7</idno>
         </place>
         <place xml:id="krp_place_id__31">
           <placeName>Kärnten</placeName>
@@ -141,6 +180,11 @@
         <place xml:id="krp_place_id__34">
           <placeName>Sopron</placeName>
           <placeName type="alt">Ödenburg</placeName>
+          <location>
+            <geo>47.68501 16.59049</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3045190/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q168648</idno>
         </place>
         <place xml:id="krp_place_id__35">
           <placeName>Budapest</placeName>
@@ -154,9 +198,20 @@
         </place>
         <place xml:id="krp_place_id__38">
           <placeName>Zwettl</placeName>
+          <location>
+            <geo>48.57435 15.17159</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2760421/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q694452</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/10092281-8</idno>
         </place>
         <place xml:id="krp_place_id__39">
           <placeName>Eckartsau</placeName>
+          <location>
+            <geo>48.1483 16.80073</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871732/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q667807</idno>
         </place>
         <place xml:id="krp_place_id__42">
           <placeName>Prag</placeName>
@@ -187,6 +242,12 @@
         </place>
         <place xml:id="krp_place_id__46">
           <placeName>Wöllersdorf</placeName>
+          <location>
+            <geo>47.865 16.17119</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2760877/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q97667758</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4410116-8</idno>
         </place>
         <place xml:id="krp_place_id__47">
           <placeName>Ukraine</placeName>
@@ -202,12 +263,29 @@
         </place>
         <place xml:id="krp_place_id__52">
           <placeName>Fischamend</placeName>
+          <location>
+            <geo>48.11843 16.61211</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779549/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q594276</idno>
         </place>
         <place xml:id="krp_place_id__290">
           <placeName>Warschau</placeName>
+          <location>
+            <geo>52.22977 21.01178</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/756135/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q270</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4079048-4</idno>
         </place>
         <place xml:id="krp_place_id__53">
           <placeName>Weimar</placeName>
+          <location>
+            <geo>50.9803 11.32903</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2812482/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q3955</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4065105-8</idno>
         </place>
         <place xml:id="krp_place_id__259">
           <placeName>Jarolden</placeName>
@@ -217,6 +295,11 @@
         </place>
         <place xml:id="krp_place_id__55">
           <placeName>Fischau</placeName>
+          <location>
+            <geo>47.83137 16.16707</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2782060/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q671253</idno>
         </place>
         <place xml:id="krp_place_id__56">
           <placeName>Strass</placeName>
@@ -238,6 +321,10 @@
         </place>
         <place xml:id="krp_place_id__61">
           <placeName>Zillingdorf</placeName>
+          <location>
+            <geo>47.84378 16.38126</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/11669094/</idno>
         </place>
         <place xml:id="krp_place_id__63">
           <placeName>Berlin</placeName>
@@ -254,9 +341,20 @@
         </place>
         <place xml:id="krp_place_id__65">
           <placeName>Wiener Neustadt (Stadt)</placeName>
+          <location>
+            <geo>47.8 16.25</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2761349/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q131612</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4066023-0</idno>
         </place>
         <place xml:id="krp_place_id__66">
           <placeName>Enns</placeName>
+          <location>
+            <geo>48.23333 14.5</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2780047/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q260089</idno>
         </place>
         <place xml:id="krp_place_id__67">
           <placeName>Bukowina</placeName>
@@ -266,18 +364,39 @@
         </place>
         <place xml:id="krp_place_id__69">
           <placeName>Gleisdorf</placeName>
+          <location>
+            <geo>47.10608 15.71269</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7873560/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q643600</idno>
         </place>
         <place xml:id="krp_place_id__70">
           <placeName>Weiz</placeName>
+          <location>
+            <geo>47.3 15.65</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2761530/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q665571</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4802308-5</idno>
         </place>
         <place xml:id="krp_place_id__71">
           <placeName>Loipersdorf</placeName>
         </place>
         <place xml:id="krp_place_id__72">
           <placeName>Völlerndorf</placeName>
+          <location>
+            <geo>48.175 15.548</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762305/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110943702</idno>
         </place>
         <place xml:id="krp_place_id__73">
           <placeName>Gerersdorf</placeName>
+          <location>
+            <geo>48.1949 15.55375</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871880/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q676195</idno>
         </place>
         <place xml:id="krp_place_id__74">
           <placeName>Südsteiermark</placeName>
@@ -291,6 +410,11 @@
         </place>
         <place xml:id="krp_place_id__77">
           <placeName>Groß-Enzersdorf</placeName>
+          <location>
+            <geo>48.18901 16.60657</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872862/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q871555</idno>
         </place>
         <place xml:id="krp_place_id__78">
           <placeName>Argentinien</placeName>
@@ -336,6 +460,12 @@
         </place>
         <place xml:id="krp_place_id__89">
           <placeName>Vitis</placeName>
+          <location>
+            <geo>48.76239 15.1818</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871924/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q666908</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4370722-1</idno>
         </place>
         <place xml:id="krp_place_id__90">
           <placeName>Kaltenbach</placeName>
@@ -360,6 +490,11 @@
         </place>
         <place xml:id="krp_place_id__97">
           <placeName>Finnland</placeName>
+          <location>
+            <geo>64.0 26.0</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/660013/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q33</idno>
         </place>
         <place xml:id="krp_place_id__98">
           <placeName>Thenneberg</placeName>
@@ -369,9 +504,20 @@
         </place>
         <place xml:id="krp_place_id__100">
           <placeName>Etzen</placeName>
+          <location>
+            <geo>48.56667 15.03333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779893/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63433935</idno>
         </place>
         <place xml:id="krp_place_id__101">
           <placeName>Waidhofen an der Thaya</placeName>
+          <location>
+            <geo>48.81667 15.28333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762079/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q660060</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4108646-6</idno>
         </place>
         <place xml:id="krp_place_id__102">
           <placeName>Natschbach</placeName>
@@ -393,27 +539,64 @@
         </place>
         <place xml:id="krp_place_id__107">
           <placeName>Gopprechts</placeName>
+          <location>
+            <geo>47.62058 10.23213</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2919047/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63349425</idno>
         </place>
         <place xml:id="krp_place_id__108">
           <placeName>Walkenstein</placeName>
+          <location>
+            <geo>48.717 15.728</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2761973/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63441082</idno>
         </place>
         <place xml:id="krp_place_id__109">
           <placeName>Unter-Waltersdorf</placeName>
+          <location>
+            <geo>47.961 16.43</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762575/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q55279905</idno>
         </place>
         <place xml:id="krp_place_id__110">
           <placeName>Ungerbach</placeName>
+          <location>
+            <geo>47.46667 16.28333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2763159/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110665980</idno>
         </place>
         <place xml:id="krp_place_id__111">
           <placeName>Fiecht</placeName>
+          <location>
+            <geo>47.35 11.7</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779594/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q14208953</idno>
         </place>
         <place xml:id="krp_place_id__112">
           <placeName>Wels</placeName>
+          <location>
+            <geo>48.16667 14.03333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2761524/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q178582</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4107955-3</idno>
         </place>
         <place xml:id="krp_place_id__113">
           <placeName>Kirchberg am Wechsel</placeName>
         </place>
         <place xml:id="krp_place_id__114">
           <placeName>Zürich (Kanton)</placeName>
+          <location>
+            <geo>47.41667 8.66667</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2657895/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q11943</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4068041-1</idno>
         </place>
         <place xml:id="krp_place_id__115">
           <placeName>Bregenz</placeName>
@@ -423,6 +606,12 @@
         </place>
         <place xml:id="krp_place_id__117">
           <placeName>Zürich (Stadt)</placeName>
+          <location>
+            <geo>47.37269 8.53576</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/6295494/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q72</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4068038-1</idno>
         </place>
         <place xml:id="krp_place_id__118">
           <placeName>St. Gallen (Kanton)</placeName>
@@ -458,18 +647,40 @@
         </place>
         <place xml:id="krp_place_id__126">
           <placeName>Waidhofen an der Ybbs</placeName>
+          <location>
+            <geo>47.96004 14.77361</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762077/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q427385</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4064334-7</idno>
         </place>
         <place xml:id="krp_place_id__128">
           <placeName>St. Josef bei Stainz</placeName>
         </place>
         <place xml:id="krp_place_id__129">
           <placeName>Währing</placeName>
+          <location>
+            <geo>48.23333 16.31667</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762091/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q690417</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4079297-3</idno>
         </place>
         <place xml:id="krp_place_id__291">
           <placeName>Ehrwald</placeName>
+          <location>
+            <geo>47.4 10.91667</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3319581/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q667088</idno>
         </place>
         <place xml:id="krp_place_id__130">
           <placeName>Elsern</placeName>
+          <location>
+            <geo>48.85 15.61667</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2780110/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110948833</idno>
         </place>
         <place xml:id="krp_place_id__131">
           <placeName>Ulrichs</placeName>
@@ -506,6 +717,11 @@
         </place>
         <place xml:id="krp_place_id__141">
           <placeName>Goggitsch</placeName>
+          <location>
+            <geo>48.77531 15.6768</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2778400/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110830308</idno>
         </place>
         <place xml:id="krp_place_id__142">
           <placeName>Maigen</placeName>
@@ -530,24 +746,42 @@
         </place>
         <place xml:id="krp_place_id__149">
           <placeName>Eschenau</placeName>
+          <location>
+            <geo>47.04525 22.47965</geo>
+          </location>
         </place>
         <place xml:id="krp_place_id__150">
           <placeName>Thumritz</placeName>
         </place>
         <place xml:id="krp_place_id__151">
           <placeName>Ulrichskirchen</placeName>
+          <location>
+            <geo>48.4 16.48333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2763170/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q97650996</idno>
         </place>
         <place xml:id="krp_place_id__152">
           <placeName>Pernegg</placeName>
         </place>
         <place xml:id="krp_place_id__153">
           <placeName>Feistritz am Wechsel</placeName>
+          <location>
+            <geo>46.70157 13.66479</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779719/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63761224</idno>
         </place>
         <place xml:id="krp_place_id__154">
           <placeName>Sallapulka</placeName>
         </place>
         <place xml:id="krp_place_id__155">
           <placeName>Göstling</placeName>
+          <location>
+            <geo>47.77535 14.95024</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7873026/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q427008</idno>
         </place>
         <place xml:id="krp_place_id__156">
           <placeName>Matzelsdorf</placeName>
@@ -570,6 +804,11 @@
         </place>
         <place xml:id="krp_place_id__163">
           <placeName>Gloggnitz</placeName>
+          <location>
+            <geo>47.66999 15.92462</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872991/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q679328</idno>
         </place>
         <place xml:id="krp_place_id__164">
           <placeName>Asperhofen</placeName>
@@ -597,6 +836,12 @@
         </place>
         <place xml:id="krp_place_id__170">
           <placeName>Ybbs an der Donau</placeName>
+          <location>
+            <geo>48.17705 15.07832</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871831/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q278447</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4067185-9</idno>
         </place>
         <place xml:id="krp_place_id__171">
           <placeName>Danöfen</placeName>
@@ -615,6 +860,11 @@
         </place>
         <place xml:id="krp_place_id__176">
           <placeName>Wolfsberg</placeName>
+          <location>
+            <geo>48.56667 15.28333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2760909/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63436929</idno>
         </place>
         <place xml:id="krp_place_id__177">
           <placeName>Reichaueramt</placeName>
@@ -630,6 +880,12 @@
         </place>
         <place xml:id="krp_place_id__181">
           <placeName>Willendorf</placeName>
+          <location>
+            <geo>47.79446 16.06298</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871876/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q536068</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4799697-3</idno>
         </place>
         <place xml:id="krp_place_id__182">
           <placeName>Göttlich</placeName>
@@ -648,6 +904,11 @@
         </place>
         <place xml:id="krp_place_id__185">
           <placeName>Ebenfurth</placeName>
+          <location>
+            <geo>47.8881 16.33139</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871927/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q661789</idno>
         </place>
         <place xml:id="krp_place_id__186">
           <placeName>Sollenau</placeName>
@@ -669,6 +930,12 @@
         </place>
         <place xml:id="krp_place_id__191">
           <placeName>Wörgl</placeName>
+          <location>
+            <geo>47.48906 12.06174</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2760854/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q253639</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4108493-7</idno>
         </place>
         <place xml:id="krp_place_id__256">
           <placeName>Hetzendorf [Schloss]</placeName>
@@ -684,6 +951,12 @@
         </place>
         <place xml:id="krp_place_id__194">
           <placeName>Villach</placeName>
+          <location>
+            <geo>46.609 13.85136</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762366/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q483522</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4063533-8</idno>
         </place>
         <place xml:id="krp_place_id__195">
           <placeName>Oftering</placeName>
@@ -708,6 +981,11 @@
         </place>
         <place xml:id="krp_place_id__203">
           <placeName>Gainfarn</placeName>
+          <location>
+            <geo>47.9628 16.19368</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779029/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5517275</idno>
         </place>
         <place xml:id="krp_place_id__204">
           <placeName>Alt-Weitra</placeName>
@@ -718,15 +996,35 @@
         </place>
         <place xml:id="krp_place_id__205">
           <placeName>Wagram an der Donau</placeName>
+          <location>
+            <geo>48.16348 16.75406</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762095/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q16113066</idno>
         </place>
         <place xml:id="krp_place_id__206">
           <placeName>Enzersfeld</placeName>
+          <location>
+            <geo>48.35708 16.42098</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872903/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q675042</idno>
         </place>
         <place xml:id="krp_place_id__207">
-          <placeName>Feldberg</placeName>
+          <placeName>Feldsberg</placeName>
+          <location>
+            <geo>48.74069 16.75499</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3063409/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q782147</idno>
         </place>
         <place xml:id="krp_place_id__208">
           <placeName>Dorfstetten</placeName>
+          <location>
+            <geo>48.3405 14.99061</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871813/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q675011</idno>
         </place>
         <place xml:id="krp_place_id__209">
           <placeName>Schagges</placeName>
@@ -749,6 +1047,11 @@
         </place>
         <place xml:id="krp_place_id__214">
           <placeName>Götzis</placeName>
+          <location>
+            <geo>47.33693 9.66319</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872676/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q698573</idno>
         </place>
         <place xml:id="krp_place_id__215">
           <placeName>Schwaz</placeName>
@@ -764,9 +1067,20 @@
         </place>
         <place xml:id="krp_place_id__250">
           <placeName>Vatikan</placeName>
+          <location>
+            <geo>41.90225 12.4533</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3164670/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q237</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4062404-3</idno>
         </place>
         <place xml:id="krp_place_id__252">
           <placeName>Galizien</placeName>
+          <location>
+            <geo>49.5 23.0</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/562153/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q180086</idno>
         </place>
         <place xml:id="krp_place_id__283">
           <placeName>Mühldorf</placeName>
@@ -798,6 +1112,11 @@
         </place>
         <place xml:id="krp_place_id__270">
           <placeName>Feichsen</placeName>
+          <location>
+            <geo>48.05238 15.10448</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779765/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q113138013</idno>
         </place>
         <place xml:id="krp_place_id__271">
           <placeName>St. Joachimsthal</placeName>
@@ -822,15 +1141,30 @@
         </place>
         <place xml:id="krp_place_id__278">
           <placeName>Görtschach-Förolach</placeName>
+          <location>
+            <geo>46.53333 14.28333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2778308/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q133446555</idno>
         </place>
         <place xml:id="krp_place_id__279">
           <placeName>Gnesau</placeName>
+          <location>
+            <geo>46.79374 13.93802</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872812/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q155113</idno>
         </place>
         <place xml:id="krp_place_id__280">
           <placeName>Koblach</placeName>
         </place>
         <place xml:id="krp_place_id__281">
           <placeName>Zedtlitzdorf</placeName>
+          <location>
+            <geo>46.79917 13.92222</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2760698/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q134291623</idno>
         </place>
         <place xml:id="krp_place_id__282">
           <placeName>Patergassen</placeName>
@@ -858,6 +1192,12 @@
         </place>
         <place xml:id="krp_place_id__298">
           <placeName>Waidmannsfeld</placeName>
+          <location>
+            <geo>47.87042 15.98116</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762071/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q548941</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4511676-3</idno>
         </place>
         <place xml:id="krp_place_id__299">
           <placeName>Mährisch-Ostrau</placeName>
@@ -866,6 +1206,7 @@
         <place xml:id="krp_place_id__300">
           <placeName>Deutschsüdmähren</placeName>
           <placeName type="alt">Kreis</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q474314</idno>
         </place>
         <place xml:id="krp_place_id__301">
           <placeName>Schildern</placeName>
@@ -890,10 +1231,21 @@
           <placeName type="alt">Brno</placeName>
         </place>
         <place xml:id="krp_place_id__306">
-          <placeName>Wollzeile 18, A-1020 Wien</placeName>
+          <placeName>Wollzeile 18, A-1010 Wien</placeName>
+          <location>
+            <geo>48.20829 16.37655</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/12574193/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q106194726</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1068836768</idno>
         </place>
         <place xml:id="krp_place_id__307">
           <placeName>Floridsdorf</placeName>
+          <location>
+            <geo>48.25 16.4</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779469/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q264645</idno>
         </place>
         <place xml:id="krp_place_id__308">
           <placeName>Roßauer Kaserne</placeName>
@@ -909,13 +1261,18 @@
         </place>
         <place xml:id="krp_place_id__312">
           <placeName>Gosdorf</placeName>
+          <location>
+            <geo>46.73052 15.81389</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7873534/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q680274</idno>
         </place>
         <place xml:id="krp_place_id__313">
           <placeName>Bosnien</placeName>
         </place>
         <place xml:id="krp_place_id__314">
           <placeName>Westungarn</placeName>
-          <placeName type="alt">Burgenland; Vierburgenland; Dreiburgenland</placeName>
+          <placeName type="alt">Burgenland; Vierburgenland; Dreiburgenland; Heinzenland</placeName>
         </place>
         <place xml:id="krp_place_id__315">
           <placeName>Mährisch Neustadt</placeName>
@@ -934,6 +1291,11 @@
         </place>
         <place xml:id="krp_place_id__320">
           <placeName>Döbling</placeName>
+          <location>
+            <geo>48.25 16.33306</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2780893/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q267360</idno>
         </place>
         <place xml:id="krp_place_id__321">
           <placeName>Belluno</placeName>
@@ -1000,6 +1362,12 @@
         </place>
         <place xml:id="krp_place_id__334">
           <placeName>Vöslau-Gainfarn</placeName>
+          <location>
+            <geo>47.9628 16.19368</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779029/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q5517275</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4349768-8</idno>
         </place>
         <place xml:id="krp_place_id__336">
           <placeName>Urfahr</placeName>
@@ -1009,12 +1377,24 @@
         </place>
         <place xml:id="krp_place_id__338">
           <placeName>Venedig</placeName>
+          <location>
+            <geo>45.43713 12.33265</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3164603/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q641</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4062501-1</idno>
         </place>
         <place xml:id="krp_place_id__339">
           <placeName>Litauen</placeName>
         </place>
         <place xml:id="krp_place_id__340">
           <placeName>Wolfsegg</placeName>
+          <location>
+            <geo>48.10907 13.68652</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7873271/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q304293</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4270824-2</idno>
         </place>
         <place xml:id="krp_place_id__341">
           <placeName>Köttlach</placeName>
@@ -1030,9 +1410,19 @@
         </place>
         <place xml:id="krp_place_id__345">
           <placeName>Egg</placeName>
+          <location>
+            <geo>47.43154 9.89762</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2780380/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183358</idno>
         </place>
         <place xml:id="krp_place_id__346">
           <placeName>Grades</placeName>
+          <location>
+            <geo>46.97908 14.25261</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2778174/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1541180</idno>
         </place>
         <place xml:id="krp_place_id__347">
           <placeName>Moosbach</placeName>
@@ -1054,6 +1444,11 @@
         </place>
         <place xml:id="krp_place_id__353">
           <placeName>Donau-Oder-Kanal</placeName>
+          <location>
+            <geo>48.19306 16.56083</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3322777/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q336097</idno>
         </place>
         <place xml:id="krp_place_id__354">
           <placeName>Voitsberg-Köflacher Reviere</placeName>
@@ -1075,7 +1470,7 @@
           <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/1585/</idno>
         </place>
         <place xml:id="krp_place_id__391">
-          <placeName>Stiftskaserne General Spannocchi</placeName>
+          <placeName>Stiftskaserne</placeName>
         </place>
         <place xml:id="krp_place_id__392">
           <placeName>Stephansdom [Kirche]</placeName>
@@ -1107,15 +1502,31 @@
         </place>
         <place xml:id="krp_place_id__399">
           <placeName>Fünfhaus</placeName>
+          <location>
+            <geo>48.19596 16.3183</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779139/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q653289</idno>
         </place>
         <place xml:id="krp_place_id__400">
           <placeName>Tullnerbach</placeName>
         </place>
         <place xml:id="krp_place_id__401">
           <placeName>Gmunden</placeName>
+          <location>
+            <geo>47.91839 13.79933</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2778436/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q430449</idno>
         </place>
         <place xml:id="krp_place_id__402">
           <placeName>Washington</placeName>
+          <location>
+            <geo>38.89511 -77.03637</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/4140963/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q61</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4064682-8</idno>
         </place>
         <place xml:id="krp_place_id__403">
           <placeName>Dänemark</placeName>
@@ -1130,12 +1541,18 @@
         </place>
         <place xml:id="krp_place_id__437">
           <placeName>Westbahnhof [Wien]</placeName>
+          <location>
+            <geo>48.19667 16.33722</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2761331/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q17100214</idno>
         </place>
         <place xml:id="krp_place_id__438">
           <placeName>Ostbahnhof [Wien]</placeName>
         </place>
         <place xml:id="krp_place_id__439">
           <placeName>Freihaus auf der Wieden</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1454259</idno>
         </place>
         <place xml:id="krp_place_id__441">
           <placeName>Brescia</placeName>
@@ -1185,6 +1602,11 @@
         </place>
         <place xml:id="krp_place_id__584">
           <placeName>Feldkirch</placeName>
+          <location>
+            <geo>47.23645 9.59734</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779674/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q183104</idno>
         </place>
         <place xml:id="krp_place_id__618">
           <placeName>Rauris</placeName>
@@ -1204,15 +1626,31 @@
         </place>
         <place xml:id="krp_place_id__624">
           <placeName>Venetien</placeName>
+          <location>
+            <geo>45.5 11.75</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3164604/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1243</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4062510-2</idno>
         </place>
         <place xml:id="krp_place_id__625">
           <placeName>Trofaiach</placeName>
         </place>
         <place xml:id="krp_place_id__626">
           <placeName>Wiener Neustadt (Bezirk)</placeName>
+          <location>
+            <geo>47.83203 16.14291</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2761352/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q854106</idno>
         </place>
         <place xml:id="krp_place_id__627">
           <placeName>Greifenstein</placeName>
+          <location>
+            <geo>50.61667 8.3</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2917793/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1545468</idno>
         </place>
         <place xml:id="krp_place_id__628">
           <placeName>Langenzersdorf</placeName>
@@ -1228,6 +1666,11 @@
         </place>
         <place xml:id="krp_place_id__633">
           <placeName>Fehring</placeName>
+          <location>
+            <geo>46.92421 16.01988</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872288/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q665198</idno>
         </place>
         <place xml:id="krp_place_id__634">
           <placeName>Pinkafeld</placeName>
@@ -1240,6 +1683,12 @@
         </place>
         <place xml:id="krp_place_id__637">
           <placeName>Wolfsthal</placeName>
+          <location>
+            <geo>48.13089 17.01686</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872854/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q661180</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4800596-4</idno>
         </place>
         <place xml:id="krp_place_id__639">
           <placeName>Szigetfalu</placeName>
@@ -1255,9 +1704,19 @@
         </place>
         <place xml:id="krp_place_id__644">
           <placeName>Fürstenfeld</placeName>
+          <location>
+            <geo>47.05 16.08333</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2779115/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q661272</idno>
         </place>
         <place xml:id="krp_place_id__677">
           <placeName>Frastanzer Ried</placeName>
+          <location>
+            <geo>47.21735 9.62995</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/8411059/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q60777364</idno>
         </place>
         <place xml:id="krp_place_id__679">
           <placeName>Nordfrankreich</placeName>
@@ -1267,6 +1726,11 @@
         </place>
         <place xml:id="krp_place_id__681">
           <placeName>Dornbirn</placeName>
+          <location>
+            <geo>47.41427 9.74195</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2780741/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q171219</idno>
         </place>
         <place xml:id="krp_place_id__682">
           <placeName>Lienz (Bezirk)</placeName>
@@ -1307,6 +1771,10 @@
         </place>
         <place xml:id="krp_place_id__688">
           <placeName>Steinbach</placeName>
+          <location>
+            <geo>48.33758 15.27771</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871825/</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110653286</idno>
         </place>
         <place xml:id="krp_place_id__689">
@@ -1333,6 +1801,11 @@
         </place>
         <place xml:id="krp_place_id__694">
           <placeName>Faistenau</placeName>
+          <location>
+            <geo>47.76424 13.261</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7872205/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q269175</idno>
         </place>
         <place xml:id="krp_place_id__695">
           <placeName>Teplitz</placeName>
@@ -1357,16 +1830,27 @@
         </place>
         <place xml:id="krp_place_id__700">
           <placeName>Vordersee</placeName>
+          <location>
+            <geo>47.75 13.25</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2762190/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q77331588</idno>
         </place>
         <place xml:id="krp_place_id__701">
           <placeName>Reichenberg</placeName>
         </place>
         <place xml:id="krp_place_id__703">
           <placeName>Wörth</placeName>
+          <location>
+            <geo>47.67325 15.96554</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2760841/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q110814681</idno>
         </place>
         <place xml:id="krp_place_id__704">
           <placeName>Deutschsüdböhmen</placeName>
           <placeName type="alt">Kreis</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q474314</idno>
         </place>
         <place xml:id="krp_place_id__705">
           <placeName>Iglau</placeName>
@@ -1376,6 +1860,42 @@
         </place>
         <place xml:id="krp_place_id__707">
           <placeName>Gmünd [Bahnhof]</placeName>
+          <location>
+            <geo>48.78326 14.98896</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871752/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q42330661</idno>
+        </place>
+        <place xml:id="krp_place_id__708">
+          <placeName>Boerhaavegasse, A-1030 Wien</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q106193419</idno>
+        </place>
+        <place xml:id="krp_place_id__709">
+          <placeName>Klinik Landstraße</placeName>
+          <placeName type="alt">Krankenanstalt Rudolfstiftung</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1526557</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4448007-6</idno>
+        </place>
+        <place xml:id="krp_place_id__710">
+          <placeName>Karlsbad</placeName>
+          <location>
+            <geo>48.90617 8.50412</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/3209432/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q542659</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4029706-8</idno>
+        </place>
+        <place xml:id="krp_place_id__711">
+          <placeName>Hotel Europa [Wien]</placeName>
+        </place>
+        <place xml:id="krp_place_id__712">
+          <placeName>Erzberg</placeName>
+        </place>
+        <place xml:id="krp_place_id__713">
+          <placeName>Serbien</placeName>
+        </place>
+        <place xml:id="krp_place_id__714">
+          <placeName>Ostpreußen</placeName>
         </place>
       </listPlace>
     </body>

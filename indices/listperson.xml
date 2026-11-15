@@ -1992,7 +1992,7 @@
           <death>
             <date when-iso="1930-10-13">1930-10-13</date>
           </death>
-          <occupation>Gesandter</occupation>
+          <occupation>französischer Gesandter</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/133539296</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1605689</idno>
         </person>
@@ -3767,7 +3767,7 @@
           <occupation>Ministerialsekretär in der Staatskanzlei</occupation>
         </person>
         <person xml:id="krp_person_id__1148">
-          <persName></persName>
+          <persName>Masaryk, Tomáš Garrigeu</persName>
         </person>
         <person xml:id="krp_person_id__1149">
           <persName>Lenoble</persName>
@@ -3781,7 +3781,7 @@
           <occupation>Generalsekretär</occupation>
         </person>
         <person xml:id="krp_person_id__1152">
-          <persName></persName>
+          <persName>Moll, Carl</persName>
         </person>
         <person xml:id="krp_person_id__1153">
           <persName>Würth, Viktor</persName>
@@ -3790,6 +3790,58 @@
         <person xml:id="krp_person_id__1154">
           <persName>Tauss, Hans</persName>
           <occupation>Zentralgewerbeinspektor</occupation>
+        </person>
+        <person xml:id="krp_person_id__1155">
+          <persName>Matjeko, Johann</persName>
+        </person>
+        <person xml:id="krp_person_id__1156">
+          <persName>Cerovič,</persName>
+          <occupation>Vertreter des südslawischen Staates [bezüglich Handelsangelegenheiten?]</occupation>
+        </person>
+        <person xml:id="krp_person_id__1157">
+          <persName>Fries</persName>
+          <occupation>Ministerialrat, Vorsitzender der Preisprüfungskommission</occupation>
+        </person>
+        <person xml:id="krp_person_id__1158">
+          <persName>Landesberger</persName>
+          <occupation>Mitglied der Friedensdelegation in St. Germain</occupation>
+        </person>
+        <person xml:id="krp_person_id__1159">
+          <persName>Flotow, Ludwig [von]</persName>
+          <occupation>k. u. k. Minister des Äußern, Leiter des liquidierenden Ministerium des Äußern, Sektionschef</occupation>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/118534068</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q85777</idno>
+        </person>
+        <person xml:id="krp_person_id__1160">
+          <persName>Partik, Matthias</persName>
+          <occupation>Abgeordneter in der Konstituierenden Nationalversammlung</occupation>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q28047190</idno>
+        </person>
+        <person xml:id="krp_person_id__1161">
+          <persName>Sartori,</persName>
+          <occupation>Vertreter der Kunstsammler</occupation>
+        </person>
+        <person xml:id="krp_person_id__1162">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1163">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1164">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1165">
+          <persName>Seidler [von Feuchtenegg], Ernst Dr.</persName>
+          <birth>
+            <date when-iso="1862-06-05">1862-06-05</date>
+            <placeName>Schwechat</placeName>
+          </birth>
+          <death>
+            <date when-iso="1932-01-23">1932-01-23</date>
+            <placeName>Wien</placeName>
+          </death>
+          <occupation>Ministerpräsident der österreichischen Reichshälfte</occupation>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/117464929</idno>
         </person>
       </listPerson>
     </body>
