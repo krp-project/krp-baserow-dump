@@ -49,11 +49,11 @@
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__4\">Frankreich</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/3017382",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q142",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.0",
+    "longitude": "2.0"
   },
   "5": {
     "id": 5,
@@ -63,11 +63,11 @@
     "alternative_name": null,
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__5\">Ungarn</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/719819",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q28",
+    "gnd_url": "https://d-nb.info/gnd/4078541-5",
+    "latitude": "47.0",
+    "longitude": "20.0"
   },
   "6": {
     "id": 6,
@@ -259,11 +259,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__15\">Wien</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2761369",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1741",
+    "gnd_url": "https://d-nb.info/gnd/4066009-6",
+    "latitude": "48.20849",
+    "longitude": "16.37208"
   },
   "16": {
     "id": 16,
@@ -301,11 +301,11 @@
     "alternative_name": "England",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__41\">Großbritannien</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2635167",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q145",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "54.75844",
+    "longitude": "-2.69531"
   },
   "18": {
     "id": 18,
@@ -315,11 +315,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__18\">Graz</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2778058",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q13298",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.06667",
+    "longitude": "15.43333"
   },
   "19": {
     "id": 19,
@@ -385,11 +385,11 @@
     "alternative_name": "Amerika",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__23\">Vereinigte Staaten von Amerika</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/6252001",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q30",
+    "gnd_url": "https://d-nb.info/gnd/4078704-7",
+    "latitude": "39.76",
+    "longitude": "-98.5"
   },
   "24": {
     "id": 24,
@@ -483,11 +483,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__30\">Vorarlberg</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2762300",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38981",
+    "gnd_url": "https://d-nb.info/gnd/4063944-7",
+    "latitude": "47.25",
+    "longitude": "9.91667"
   },
   "31": {
     "id": 31,
@@ -525,11 +525,11 @@
     "alternative_name": "Ödenburg",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__34\">Sopron</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/3045190",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q168648",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.68501",
+    "longitude": "16.59049"
   },
   "35": {
     "id": 35,
@@ -581,11 +581,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__38\">Zwettl</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2760421",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q694452",
+    "gnd_url": "https://d-nb.info/gnd/10092281-8",
+    "latitude": "48.57435",
+    "longitude": "15.17159"
   },
   "39": {
     "id": 39,
@@ -595,11 +595,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__39\">Eckartsau</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7871732",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q667807",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.1483",
+    "longitude": "16.80073"
   },
   "42": {
     "id": 42,
@@ -679,11 +679,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__46\">Wöllersdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2760877",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q97667758",
+    "gnd_url": "https://d-nb.info/gnd/4410116-8",
+    "latitude": "47.865",
+    "longitude": "16.17119"
   },
   "47": {
     "id": 47,
@@ -749,11 +749,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__52\">Fischamend</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779549",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q594276",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.11843",
+    "longitude": "16.61211"
   },
   "290": {
     "id": 290,
@@ -763,11 +763,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__290\">Warschau</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/756135",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q270",
+    "gnd_url": "https://d-nb.info/gnd/4079048-4",
+    "latitude": "52.22977",
+    "longitude": "21.01178"
   },
   "53": {
     "id": 53,
@@ -777,11 +777,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__53\">Weimar</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2812482",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q3955",
+    "gnd_url": "https://d-nb.info/gnd/4065105-8",
+    "latitude": "50.9803",
+    "longitude": "11.32903"
   },
   "259": {
     "id": 259,
@@ -819,11 +819,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__55\">Fischau</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2782060",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q671253",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.83137",
+    "longitude": "16.16707"
   },
   "56": {
     "id": 56,
@@ -917,11 +917,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__61\">Zillingdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/11669094",
     "wikidata_url": "",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.84378",
+    "longitude": "16.38126"
   },
   "63": {
     "id": 63,
@@ -959,11 +959,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__65\">Wiener Neustadt</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2761349",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q131612",
+    "gnd_url": "https://d-nb.info/gnd/4066023-0",
+    "latitude": "47.8",
+    "longitude": "16.25"
   },
   "66": {
     "id": 66,
@@ -973,11 +973,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__66\">Enns</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2780047",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q260089",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.23333",
+    "longitude": "14.5"
   },
   "67": {
     "id": 67,
@@ -1015,11 +1015,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__69\">Gleisdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7873560/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q643600",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.10608",
+    "longitude": "15.71269"
   },
   "70": {
     "id": 70,
@@ -1029,11 +1029,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__70\">Weiz</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2761530",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q665571",
+    "gnd_url": "https://d-nb.info/gnd/4802308-5",
+    "latitude": "47.3",
+    "longitude": "15.65"
   },
   "71": {
     "id": 71,
@@ -1057,11 +1057,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__72\">Völlerndorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2762305",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110943702",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.175",
+    "longitude": "15.548"
   },
   "73": {
     "id": 73,
@@ -1071,11 +1071,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__73\">Gerersdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7871880",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q676195",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.1949",
+    "longitude": "15.55375"
   },
   "74": {
     "id": 74,
@@ -1127,11 +1127,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__77\">Groß-Enzersdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7872862/gross-enzersdorf.html",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q871555",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.18901",
+    "longitude": "16.60657"
   },
   "78": {
     "id": 78,
@@ -1281,11 +1281,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__89\">Vitis</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/7871924",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q666908",
+    "gnd_url": "https://d-nb.info/gnd/4370722-1",
+    "latitude": "48.76239",
+    "longitude": "15.1818"
   },
   "90": {
     "id": 90,
@@ -1393,11 +1393,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__97\">Finnland</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/660013",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q33",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "64.0",
+    "longitude": "26.0"
   },
   "98": {
     "id": 98,
@@ -1435,11 +1435,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__100\">Etzen</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779893",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63433935",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.56667",
+    "longitude": "15.03333"
   },
   "101": {
     "id": 101,
@@ -1449,11 +1449,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__101\">Waidhofen an der Thaya</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2762079",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q660060",
+    "gnd_url": "https://d-nb.info/gnd/4108646-6",
+    "latitude": "48.81667",
+    "longitude": "15.28333"
   },
   "102": {
     "id": 102,
@@ -1547,11 +1547,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__107\">Gopprechts</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2919047",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63349425",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.62058",
+    "longitude": "10.23213"
   },
   "108": {
     "id": 108,
@@ -1561,11 +1561,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__108\">Walkenstein</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2761973",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63441082",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.717",
+    "longitude": "15.728"
   },
   "109": {
     "id": 109,
@@ -1575,11 +1575,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__109\">Unter-Waltersdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2762575",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q55279905",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.961",
+    "longitude": "16.43"
   },
   "110": {
     "id": 110,
@@ -1589,11 +1589,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__110\">Ungerbach</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2763159",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110665980",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.46667",
+    "longitude": "16.28333"
   },
   "111": {
     "id": 111,
@@ -1603,11 +1603,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__111\">Fiecht</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779594",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q14208953",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.35",
+    "longitude": "11.7"
   },
   "112": {
     "id": 112,
@@ -1617,11 +1617,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__112\">Wels</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2761524",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q178582",
+    "gnd_url": "https://d-nb.info/gnd/4107955-3",
+    "latitude": "48.16667",
+    "longitude": "14.03333"
   },
   "113": {
     "id": 113,
@@ -1645,11 +1645,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__114\">Zürich</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2657895",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q11943",
+    "gnd_url": "https://d-nb.info/gnd/4068041-1",
+    "latitude": "47.41667",
+    "longitude": "8.66667"
   },
   "115": {
     "id": 115,
@@ -1687,11 +1687,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__117\">Zürich</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/6295494",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q72",
+    "gnd_url": "https://d-nb.info/gnd/4068038-1",
+    "latitude": "47.37269",
+    "longitude": "8.53576"
   },
   "118": {
     "id": 118,
@@ -1813,11 +1813,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__126\">Waidhofen</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2762077",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q427385",
+    "gnd_url": "https://d-nb.info/gnd/4064334-7",
+    "latitude": "47.96004",
+    "longitude": "14.77361"
   },
   "128": {
     "id": 128,
@@ -1825,7 +1825,7 @@
     "label": "St. Josef bei Stainz",
     "krp_place_id": "krp_place_id__128",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__128\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__128\">St. Josef</rs>",
     "mrp_place_id": null,
     "geonames_url": "",
     "wikidata_url": "",
@@ -1841,11 +1841,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__129\">Währing</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2762091",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q690417",
+    "gnd_url": "https://d-nb.info/gnd/4079297-3",
+    "latitude": "48.23333",
+    "longitude": "16.31667"
   },
   "291": {
     "id": 291,
@@ -1855,11 +1855,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__291\">Ehrwald</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/3319581",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q667088",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.4",
+    "longitude": "10.91667"
   },
   "130": {
     "id": 130,
@@ -1869,11 +1869,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__130\">Elsern</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2780110",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110948833",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.85",
+    "longitude": "15.61667"
   },
   "131": {
     "id": 131,
@@ -2037,11 +2037,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__141\">Goggitsch</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2778400",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110830308",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.77531",
+    "longitude": "15.6768"
   },
   "142": {
     "id": 142,
@@ -2149,11 +2149,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__149\">Eschenau</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.wikidata.org/wiki/Q676655",
+    "wikidata_url": "https://www.geonames.org/7872928",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.04525",
+    "longitude": "22.47965"
   },
   "150": {
     "id": 150,
@@ -2177,11 +2177,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__151\">Ulrichskirchen</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2763170",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q97650996",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.4",
+    "longitude": "16.48333"
   },
   "152": {
     "id": 152,
@@ -2205,11 +2205,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__153\">Feistritz</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779719/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63761224",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.70157",
+    "longitude": "13.66479"
   },
   "154": {
     "id": 154,
@@ -2233,11 +2233,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__155\">Göstling</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7873026/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q427008",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.77535",
+    "longitude": "14.95024"
   },
   "156": {
     "id": 156,
@@ -2317,11 +2317,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__163\">Gloggnitz</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7872991",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q679328",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.66999",
+    "longitude": "15.92462"
   },
   "164": {
     "id": 164,
@@ -2415,11 +2415,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__170\">Ybbs an der Donau</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/7871831/ybbs-an-der-donau.html",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q278447",
+    "gnd_url": "https://d-nb.info/gnd/4067185-9",
+    "latitude": "48.17705",
+    "longitude": "15.07832"
   },
   "171": {
     "id": 171,
@@ -2499,11 +2499,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__176\">Wolfsberg</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2760909",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63436929",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.56667",
+    "longitude": "15.28333"
   },
   "177": {
     "id": 177,
@@ -2569,11 +2569,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__181\">Willendorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/7871876",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q536068",
+    "gnd_url": "https://d-nb.info/gnd/4799697-3",
+    "latitude": "47.79446",
+    "longitude": "16.06298"
   },
   "182": {
     "id": 182,
@@ -2653,11 +2653,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__185\">Ebenfurth</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7871927",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q661789",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.8881",
+    "longitude": "16.33139"
   },
   "186": {
     "id": 186,
@@ -2751,11 +2751,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__191\">Wörgl</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2760854",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q253639",
+    "gnd_url": "https://d-nb.info/gnd/4108493-7",
+    "latitude": "47.48906",
+    "longitude": "12.06174"
   },
   "256": {
     "id": 256,
@@ -2821,11 +2821,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__194\">Villach</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2762366",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q483522",
+    "gnd_url": "https://d-nb.info/gnd/4063533-8",
+    "latitude": "46.609",
+    "longitude": "13.85136"
   },
   "195": {
     "id": 195,
@@ -2933,11 +2933,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__203\">Gainfarn</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779029",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5517275",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.9628",
+    "longitude": "16.19368"
   },
   "204": {
     "id": 204,
@@ -2961,11 +2961,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__205\">Wagram</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2762095",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q16113066",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.16348",
+    "longitude": "16.75406"
   },
   "206": {
     "id": 206,
@@ -2975,25 +2975,25 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__206\">Enzersfeld</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7872903",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q675042",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.35708",
+    "longitude": "16.42098"
   },
   "207": {
     "id": 207,
     "order": "203.00000000000000000000",
-    "label": "Feldberg",
+    "label": "Feldsberg",
     "krp_place_id": "krp_place_id__207",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__207\">Feldberg</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__207\">Feldsberg</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/3063409",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q782147",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.74069",
+    "longitude": "16.75499"
   },
   "208": {
     "id": 208,
@@ -3003,11 +3003,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__208\">Dorfstetten</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7871813",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q675011",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.3405",
+    "longitude": "14.99061"
   },
   "209": {
     "id": 209,
@@ -3087,11 +3087,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__214\">Götzis</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7872676/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q698573",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.33693",
+    "longitude": "9.66319"
   },
   "215": {
     "id": 215,
@@ -3157,11 +3157,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__250\">Vatikan</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/3164670",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q237",
+    "gnd_url": "https://d-nb.info/gnd/4062404-3",
+    "latitude": "41.90225",
+    "longitude": "12.4533"
   },
   "252": {
     "id": 252,
@@ -3171,11 +3171,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__252\">Galizien</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/562153/galicia.html",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q180086",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "49.5",
+    "longitude": "23.0"
   },
   "283": {
     "id": 283,
@@ -3311,11 +3311,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__270\">Feichsen</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779765",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q113138013",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.05238",
+    "longitude": "15.10448"
   },
   "271": {
     "id": 271,
@@ -3423,11 +3423,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__278\">Görtschach-Förolach</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2778308/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q133446555",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.53333",
+    "longitude": "14.28333"
   },
   "279": {
     "id": 279,
@@ -3437,11 +3437,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__279\">Gnesau</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7872812/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q155113",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.79374",
+    "longitude": "13.93802"
   },
   "280": {
     "id": 280,
@@ -3465,11 +3465,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__281\">Zedtlitzdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2760698",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q134291623",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.79917",
+    "longitude": "13.92222"
   },
   "282": {
     "id": 282,
@@ -3563,11 +3563,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__298\">Waidmannsfeld</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2762071",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q548941",
+    "gnd_url": "https://d-nb.info/gnd/4511676-3",
+    "latitude": "47.87042",
+    "longitude": "15.98116"
   },
   "299": {
     "id": 299,
@@ -3592,7 +3592,7 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__300\">Deutschsüdmähren</rs>",
     "mrp_place_id": null,
     "geonames_url": "",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q474314",
     "gnd_url": "",
     "latitude": null,
     "longitude": null
@@ -3670,16 +3670,16 @@
   "306": {
     "id": 306,
     "order": "254.00000000000000000000",
-    "label": "Wollzeile 18, A-1020 Wien",
+    "label": "Wollzeile 18, A-1010 Wien",
     "krp_place_id": "krp_place_id__306",
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__306\">Wollzeile 18</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/12574193",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106194726",
+    "gnd_url": "https://d-nb.info/gnd/1068836768",
+    "latitude": "48.20829",
+    "longitude": "16.37655"
   },
   "307": {
     "id": 307,
@@ -3689,11 +3689,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__307\">Floridsdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779469",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q264645",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.25",
+    "longitude": "16.4"
   },
   "308": {
     "id": 308,
@@ -3759,11 +3759,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__312\">Gosdorf</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7873534",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q680274",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.73052",
+    "longitude": "15.81389"
   },
   "313": {
     "id": 313,
@@ -3784,7 +3784,7 @@
     "order": "262.00000000000000000000",
     "label": "Westungarn",
     "krp_place_id": "krp_place_id__314",
-    "alternative_name": "Burgenland; Vierburgenland; Dreiburgenland",
+    "alternative_name": "Burgenland; Vierburgenland; Dreiburgenland; Heinzenland",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__314\">Westungarn</rs>",
     "mrp_place_id": null,
     "geonames_url": "",
@@ -3855,7 +3855,7 @@
     "label": "Spiegelgasse 2, A-1010 Wien",
     "krp_place_id": "krp_place_id__319",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__319\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__319\">Spiegelgasse</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -3871,11 +3871,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__320\">Döbling</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2780893",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q267360",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.25",
+    "longitude": "16.33306"
   },
   "321": {
     "id": 321,
@@ -4067,11 +4067,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__334\">Vöslau-Gainfarn</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2779029",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q5517275",
+    "gnd_url": "https://d-nb.info/gnd/4349768-8",
+    "latitude": "47.9628",
+    "longitude": "16.19368"
   },
   "336": {
     "id": 336,
@@ -4109,11 +4109,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__338\">Venedig</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/3164603",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q641",
+    "gnd_url": "https://d-nb.info/gnd/4062501-1",
+    "latitude": "45.43713",
+    "longitude": "12.33265"
   },
   "339": {
     "id": 339,
@@ -4137,11 +4137,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__340\">Wolfsegg</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/7873271",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q304293",
+    "gnd_url": "https://d-nb.info/gnd/4270824-2",
+    "latitude": "48.10907",
+    "longitude": "13.68652"
   },
   "341": {
     "id": 341,
@@ -4207,11 +4207,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__345\">Egg</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2780380/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q183358",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.43154",
+    "longitude": "9.89762"
   },
   "346": {
     "id": 346,
@@ -4221,11 +4221,11 @@
     "alternative_name": "",
     "tei_code": "<rs=\"place\" ref=\"#krp_place_id__346\">Grades</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2778174",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1541180",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.97908",
+    "longitude": "14.25261"
   },
   "347": {
     "id": 347,
@@ -4319,11 +4319,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__353\">Donau-Oder-Kanal</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/3322777",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q336097",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.19306",
+    "longitude": "16.56083"
   },
   "354": {
     "id": 354,
@@ -4384,10 +4384,10 @@
   "391": {
     "id": 391,
     "order": "307.00000000000000000000",
-    "label": "Stiftskaserne General Spannocchi",
+    "label": "Stiftskaserne",
     "krp_place_id": "krp_place_id__391",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__391\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__391\">Stiftskaserne</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -4443,7 +4443,7 @@
     "label": "Equitablepalais",
     "krp_place_id": "krp_place_id__395",
     "alternative_name": "https://www.geschichtewiki.wien.gv.at/Equitablepalais",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__395\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__395\">Equitablepalais</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -4501,11 +4501,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__399\">Fünfhaus</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779139",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q653289",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.19596",
+    "longitude": "16.3183"
   },
   "400": {
     "id": 400,
@@ -4529,11 +4529,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__401\">Gmunden</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2778436",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q430449",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.91839",
+    "longitude": "13.79933"
   },
   "402": {
     "id": 402,
@@ -4543,11 +4543,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__402\">Washington</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/4140963",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q61",
+    "gnd_url": "https://d-nb.info/gnd/4064682-8",
+    "latitude": "38.89511",
+    "longitude": "-77.03637"
   },
   "403": {
     "id": 403,
@@ -4585,11 +4585,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__437\">Westbahnhof</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2761331",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q17100214",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.19667",
+    "longitude": "16.33722"
   },
   "438": {
     "id": 438,
@@ -4614,7 +4614,7 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__439\">Freihaus</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1454259",
     "gnd_url": "",
     "latitude": null,
     "longitude": null
@@ -4809,11 +4809,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__584\">Feldkirch</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779674",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q183104",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.23645",
+    "longitude": "9.59734"
   },
   "618": {
     "id": 618,
@@ -4879,11 +4879,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__624\">Venetien</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/3164604",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1243",
+    "gnd_url": "https://d-nb.info/gnd/4062510-2",
+    "latitude": "45.5",
+    "longitude": "11.75"
   },
   "625": {
     "id": 625,
@@ -4907,11 +4907,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__626\">Wiener Neustadt</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2761352",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q854106",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.83203",
+    "longitude": "16.14291"
   },
   "627": {
     "id": 627,
@@ -4921,11 +4921,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__627\">Greifenstein</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2917793",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1545468",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "50.61667",
+    "longitude": "8.3"
   },
   "628": {
     "id": 628,
@@ -4947,7 +4947,7 @@
     "label": "Lünersee",
     "krp_place_id": "krp_place_id__630",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__630\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__630\">Lünersee</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -4991,11 +4991,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__633\">Fehring</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7872288",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q665198",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "46.92421",
+    "longitude": "16.01988"
   },
   "634": {
     "id": 634,
@@ -5047,11 +5047,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__637\">Wolfsthal</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/7872854",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q661180",
+    "gnd_url": "https://d-nb.info/gnd/4800596-4",
+    "latitude": "48.13089",
+    "longitude": "17.01686"
   },
   "639": {
     "id": 639,
@@ -5117,11 +5117,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__644\">Fürstenfeld</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2779115",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q661272",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.05",
+    "longitude": "16.08333"
   },
   "677": {
     "id": 677,
@@ -5131,11 +5131,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__677\">Frastanzer Ried</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/8411059",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q60777364",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.21735",
+    "longitude": "9.62995"
   },
   "679": {
     "id": 679,
@@ -5173,11 +5173,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__681\">Dornbirn</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2780741/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q171219",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.41427",
+    "longitude": "9.74195"
   },
   "682": {
     "id": 682,
@@ -5271,11 +5271,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__688\">Steinbach</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/7871825",
     "wikidata_url": "https://www.wikidata.org/wiki/Q110653286",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.33758",
+    "longitude": "15.27771"
   },
   "689": {
     "id": 689,
@@ -5297,7 +5297,7 @@
     "label": "Lustenau",
     "krp_place_id": "krp_place_id__690",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__690\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__690\">Lustenau</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -5311,7 +5311,7 @@
     "label": "Istrien",
     "krp_place_id": "krp_place_id__691",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__691\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__691\">Istrien</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -5353,13 +5353,13 @@
     "label": "Faistenau",
     "krp_place_id": "krp_place_id__694",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__694\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__694\">Faistenau</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/7872205",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q269175",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.76424",
+    "longitude": "13.261"
   },
   "695": {
     "id": 695,
@@ -5381,7 +5381,7 @@
     "label": "Jägerndorf",
     "krp_place_id": "krp_place_id__696",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__696\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__696\">Jägerndorf</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -5409,7 +5409,7 @@
     "label": "Teschen",
     "krp_place_id": "krp_place_id__698",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__698\">",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__698\">Teschen</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -5437,13 +5437,13 @@
     "label": "Vordersee",
     "krp_place_id": "krp_place_id__700",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__700\">Vorarlberg</rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__700\"></rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2762190",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q77331588",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.75",
+    "longitude": "13.25"
   },
   "701": {
     "id": 701,
@@ -5465,13 +5465,13 @@
     "label": "Wörth",
     "krp_place_id": "krp_place_id__703",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__703\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__703\">Wörth</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2760841",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q110814681",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.67325",
+    "longitude": "15.96554"
   },
   "704": {
     "id": 704,
@@ -5482,7 +5482,7 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__704\">Deutschsüdböhmen</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
-    "wikidata_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q474314",
     "gnd_url": "",
     "latitude": null,
     "longitude": null
@@ -5493,7 +5493,7 @@
     "label": "Iglau",
     "krp_place_id": "krp_place_id__705",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__705\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__705\">Iglau</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -5507,7 +5507,7 @@
     "label": "Olmütz",
     "krp_place_id": "krp_place_id__706",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__706\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__706\">Olmütz</rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
@@ -5521,12 +5521,110 @@
     "label": "Gmünd [Bahnhof]",
     "krp_place_id": "krp_place_id__707",
     "alternative_name": "",
-    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__707\"></rs>",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__707\">Gmünd</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "https://www.geonames.org/7871752/",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q42330661",
+    "gnd_url": "",
+    "latitude": "48.78326",
+    "longitude": "14.98896"
+  },
+  "708": {
+    "id": 708,
+    "order": "403.00000000000000000000",
+    "label": "Boerhaavegasse, A-1030 Wien",
+    "krp_place_id": "krp_place_id__708",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__708\">Boerhaavegasse</rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q106193419",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "709": {
+    "id": 709,
+    "order": "404.00000000000000000000",
+    "label": "Klinik Landstraße",
+    "krp_place_id": "krp_place_id__709",
+    "alternative_name": "Krankenanstalt Rudolfstiftung",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__709\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1526557",
+    "gnd_url": "https://d-nb.info/gnd/4448007-6",
+    "latitude": "",
+    "longitude": ""
+  },
+  "710": {
+    "id": 710,
+    "order": "405.00000000000000000000",
+    "label": "Karlsbad",
+    "krp_place_id": "krp_place_id__710",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__710\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "https://www.geonames.org/3209432",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q542659",
+    "gnd_url": "https://d-nb.info/gnd/4029706-8",
+    "latitude": "48.90617",
+    "longitude": "8.50412"
+  },
+  "711": {
+    "id": 711,
+    "order": "406.00000000000000000000",
+    "label": "Hotel Europa [Wien]",
+    "krp_place_id": "krp_place_id__711",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__711\"></rs>",
     "mrp_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "",
+    "longitude": ""
+  },
+  "712": {
+    "id": 712,
+    "order": "407.00000000000000000000",
+    "label": "Erzberg",
+    "krp_place_id": "krp_place_id__712",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__712\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "713": {
+    "id": 713,
+    "order": "408.00000000000000000000",
+    "label": "Serbien",
+    "krp_place_id": "krp_place_id__713",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__713\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "714": {
+    "id": 714,
+    "order": "409.00000000000000000000",
+    "label": "Ostpreußen",
+    "krp_place_id": "krp_place_id__714",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__714\"></rs>",
+    "mrp_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
   }
 }

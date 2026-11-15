@@ -992,7 +992,7 @@
   "197": {
     "id": 197,
     "order": "88.00000000000000000000",
-    "label": "Salzburger Provisorische Landesversammlung [07.11.1919-22.05.1919]",
+    "label": "Salzburger Provisorische Landesversammlung [07.11.1918-22.05.1919]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__197",
@@ -1117,16 +1117,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__210",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__210\"></rs>",
-    "mrp_org_id": null
-  },
-  "211": {
-    "id": 211,
-    "order": "101.00000000000000000000",
-    "label": "Konstitutionelle Landesversammlung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__211",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__211\"></rs>",
     "mrp_org_id": null
   },
   "212": {
@@ -1282,7 +1272,7 @@
   "229": {
     "id": 229,
     "order": "119.00000000000000000000",
-    "label": "Bundesheer [Ersterwähnung 19.09.1918-",
+    "label": "Bundesheer [Ersterwähnung 19.09.1918-]",
     "note": "Synonyme: neue Wehrmacht, neues Heer",
     "source": "",
     "krp_org_id": "krp_org_id__229",
@@ -2939,16 +2929,6 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__447\">Großdeutsche Partei</rs>",
     "mrp_org_id": ""
   },
-  "448": {
-    "id": 448,
-    "order": "302.00000000000000000000",
-    "label": "Warenverkehrsbüro",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__448",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__448\">Warenverkehrsbüro</rs>",
-    "mrp_org_id": ""
-  },
   "449": {
     "id": 449,
     "order": "303.00000000000000000000",
@@ -4282,7 +4262,7 @@
   "871": {
     "id": 871,
     "order": "442.00000000000000000000",
-    "label": "k. k. Ministerium des Äußern",
+    "label": "k. u. k. Ministerium des Äußern",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__871",
@@ -4537,6 +4517,156 @@
     "source": "",
     "krp_org_id": "krp_org_id__898",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__898\"></rs>",
+    "mrp_org_id": ""
+  },
+  "899": {
+    "id": 899,
+    "order": "468.00000000000000000000",
+    "label": "Landesverband für Fremdenverkehr in Deutschböhmen",
+    "note": "Sitz in Karlsbad",
+    "source": "",
+    "krp_org_id": "krp_org_id__899",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__899\"></rs>",
+    "mrp_org_id": ""
+  },
+  "900": {
+    "id": 900,
+    "order": "469.00000000000000000000",
+    "label": "Linzer Kriegswucheramt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__900",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__900\"></rs>",
+    "mrp_org_id": ""
+  },
+  "901": {
+    "id": 901,
+    "order": "470.00000000000000000000",
+    "label": "Grazer Kriegswucheramt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__901",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__901\"></rs>",
+    "mrp_org_id": ""
+  },
+  "902": {
+    "id": 902,
+    "order": "471.00000000000000000000",
+    "label": "k. k. Ministerium für Volksernährung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__902",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__902\"></rs>",
+    "mrp_org_id": ""
+  },
+  "903": {
+    "id": 903,
+    "order": "472.00000000000000000000",
+    "label": "Whitehead & CO AG",
+    "note": "in St. Pölten, krp70",
+    "source": "",
+    "krp_org_id": "krp_org_id__903",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__903\"></rs>",
+    "mrp_org_id": ""
+  },
+  "904": {
+    "id": 904,
+    "order": "473.00000000000000000000",
+    "label": "Staatsgalerie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__904",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__904\"></rs>",
+    "mrp_org_id": ""
+  },
+  "905": {
+    "id": 905,
+    "order": "474.00000000000000000000",
+    "label": "Hofmuseum",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__905",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__905\"></rs>",
+    "mrp_org_id": ""
+  },
+  "906": {
+    "id": 906,
+    "order": "475.00000000000000000000",
+    "label": "Museum für Kunst und Industrie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__906",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__906\"></rs>",
+    "mrp_org_id": ""
+  },
+  "907": {
+    "id": 907,
+    "order": "476.00000000000000000000",
+    "label": "Stadterweiterungsfonds",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__907",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__907\"></rs>",
+    "mrp_org_id": ""
+  },
+  "908": {
+    "id": 908,
+    "order": "477.00000000000000000000",
+    "label": "Verband der landwirtschaftlichen Genossenschaften Niederösterrreich",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__908",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__908\"></rs>",
+    "mrp_org_id": ""
+  },
+  "909": {
+    "id": 909,
+    "order": "478.00000000000000000000",
+    "label": "Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__909",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__909\"></rs>",
+    "mrp_org_id": ""
+  },
+  "911": {
+    "id": 911,
+    "order": "479.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__911",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "912": {
+    "id": 912,
+    "order": "480.00000000000000000000",
+    "label": "Postsparkassenamt",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__912",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__912\"></rs>",
+    "mrp_org_id": ""
+  },
+  "913": {
+    "id": 913,
+    "order": "481.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__913",
+    "tei_code": "",
+    "mrp_org_id": ""
+  },
+  "914": {
+    "id": 914,
+    "order": "482.00000000000000000000",
+    "label": "Neue Freie Presse",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__914",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__914\"></rs>",
     "mrp_org_id": ""
   }
 }
