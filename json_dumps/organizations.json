@@ -3376,7 +3376,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__559",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__559\"></rs>",
     "mrp_org_id": ""
   },
   "560": {
@@ -4667,6 +4667,26 @@
     "source": "",
     "krp_org_id": "krp_org_id__914",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__914\"></rs>",
+    "mrp_org_id": ""
+  },
+  "915": {
+    "id": 915,
+    "order": "483.00000000000000000000",
+    "label": "Friedensdelegation in St. Germain",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__915",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__915\"></rs>",
+    "mrp_org_id": ""
+  },
+  "916": {
+    "id": 916,
+    "order": "484.00000000000000000000",
+    "label": "Landesschulrat Tirol",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__916",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__916\"></rs>",
     "mrp_org_id": ""
   }
 }

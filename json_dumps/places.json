@@ -693,11 +693,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__47\">Ukraine</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/690791",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q212",
+    "gnd_url": "https://d-nb.info/gnd/4061496-7",
+    "latitude": "49.0",
+    "longitude": "32.0"
   },
   "48": {
     "id": 48,
@@ -1239,11 +1239,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__86\">Tulln</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/7871918",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q489810",
+    "gnd_url": "https://d-nb.info/gnd/4061190-5",
+    "latitude": "48.33327",
+    "longitude": "16.06409"
   },
   "87": {
     "id": 87,
@@ -1883,11 +1883,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__131\">Ulrichs</rs>",
     "mrp_place_id": null,
-    "geonames_url": "",
-    "wikidata_url": "",
+    "geonames_url": "https://www.geonames.org/2763179",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q63351710",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "48.709",
+    "longitude": "14.932"
   },
   "132": {
     "id": 132,
@@ -2458,8 +2458,8 @@
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__173\">Türnitz</rs>",
     "mrp_place_id": null,
     "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q676220",
+    "gnd_url": "https://d-nb.info/gnd/4513723-7",
     "latitude": null,
     "longitude": null
   },
@@ -4515,11 +4515,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__400\">Tullnerbach</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
-    "wikidata_url": "",
-    "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "geonames_url": "https://www.geonames.org/2763264",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q672331",
+    "gnd_url": "https://d-nb.info/gnd/4279637-4",
+    "latitude": "48.19155",
+    "longitude": "16.10888"
   },
   "401": {
     "id": 401,
@@ -4893,11 +4893,11 @@
     "alternative_name": "",
     "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__625\">Trofaiach</rs>",
     "mrp_place_id": "",
-    "geonames_url": "",
+    "geonames_url": "https://www.geonames.org/7873488",
     "wikidata_url": "",
     "gnd_url": "",
-    "latitude": null,
-    "longitude": null
+    "latitude": "47.4221",
+    "longitude": "15.00819"
   },
   "626": {
     "id": 626,
