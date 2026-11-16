@@ -251,6 +251,12 @@
         </place>
         <place xml:id="krp_place_id__47">
           <placeName>Ukraine</placeName>
+          <location>
+            <geo>49.0 32.0</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/690791/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q212</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4061496-7</idno>
         </place>
         <place xml:id="krp_place_id__48">
           <placeName>Russland</placeName>
@@ -451,6 +457,12 @@
         </place>
         <place xml:id="krp_place_id__86">
           <placeName>Tulln</placeName>
+          <location>
+            <geo>48.33327 16.06409</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871918/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q489810</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4061190-5</idno>
         </place>
         <place xml:id="krp_place_id__87">
           <placeName>Mautern</placeName>
@@ -684,6 +696,11 @@
         </place>
         <place xml:id="krp_place_id__131">
           <placeName>Ulrichs</placeName>
+          <location>
+            <geo>48.709 14.932</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2763179/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q63351710</idno>
         </place>
         <place xml:id="krp_place_id__132">
           <placeName>Oberhöflein</placeName>
@@ -851,6 +868,8 @@
         </place>
         <place xml:id="krp_place_id__173">
           <placeName>Türnitz</placeName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q676220</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4513723-7</idno>
         </place>
         <place xml:id="krp_place_id__174">
           <placeName>Thomasberg</placeName>
@@ -1510,6 +1529,12 @@
         </place>
         <place xml:id="krp_place_id__400">
           <placeName>Tullnerbach</placeName>
+          <location>
+            <geo>48.19155 16.10888</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2763264/</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q672331</idno>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4279637-4</idno>
         </place>
         <place xml:id="krp_place_id__401">
           <placeName>Gmunden</placeName>
@@ -1635,6 +1660,10 @@
         </place>
         <place xml:id="krp_place_id__625">
           <placeName>Trofaiach</placeName>
+          <location>
+            <geo>47.4221 15.00819</geo>
+          </location>
+          <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7873488/</idno>
         </place>
         <place xml:id="krp_place_id__626">
           <placeName>Wiener Neustadt (Bezirk)</placeName>
