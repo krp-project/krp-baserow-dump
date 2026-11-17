@@ -2294,7 +2294,7 @@
           <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/2759794/</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q727</idno>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/4001783-7</idno>
-          <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/1585/</idno>
+          <idno type="URL" subtype="MPR">https://mpr.acdh.oeaw.ac.at/entity/1585/</idno>
         </place>
         <place xml:id="krp_place_id__391">
           <placeName>Stiftskaserne</placeName>
@@ -2465,7 +2465,7 @@
           <idno type="URL" subtype="GEONAMES">https://sws.geonames.org/7871688/</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q251231</idno>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/4001784-9</idno>
-          <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/4831/</idno>
+          <idno type="URL" subtype="MPR">https://mpr.acdh.oeaw.ac.at/entity/4831/</idno>
         </place>
         <place xml:id="krp_place_id__480">
           <placeName>Heinreichs</placeName>

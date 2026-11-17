@@ -24,7 +24,7 @@
           <orgName>Anglo-österreichische Bank</orgName>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/5239014-7</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1418039</idno>
-          <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/2318/</idno>
+          <idno type="URL" subtype="MPR">https://mpr.acdh.oeaw.ac.at/entity/2318/</idno>
         </org>
         <org xml:id="krp_org_id__3">
           <orgName>[Allgemeine österreichische] Bodencreditanstalt</orgName>

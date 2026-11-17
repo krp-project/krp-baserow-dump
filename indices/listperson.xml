@@ -1314,7 +1314,7 @@
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Minister a. D.</occupation>
-          <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/4147/</idno>
+          <idno type="URL" subtype="MPR">https://mpr.acdh.oeaw.ac.at/entity/4147/</idno>
         </person>
         <person xml:id="krp_person_id__107">
           <persName>Peter, Franz Josef [Ritter von Thyllnreuth]</persName>
