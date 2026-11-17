@@ -117,8 +117,8 @@ for person in persons:
             tei_person_idno_wd.text = f"http://www.wikidata.org/entity/{wikidata_qid.group()}"
 
     if person["mrp_person_id"] and person["mrp_person_id"] != "0":
-        tei_person_idno_mrp = etree.SubElement(tei_person, f"{{{TEI_NS}}}idno", type="URL", subtype="MRP")
-        tei_person_idno_mrp.text = f"https://mpr.acdh.oeaw.ac.at/entity/{person["mrp_person_id"]}/"
+        tei_person_idno_mpr = etree.SubElement(tei_person, f"{{{TEI_NS}}}idno", type="URL", subtype="MPR")
+        tei_person_idno_mpr.text = f"https://mpr.acdh.oeaw.ac.at/entity/{person["mrp_person_id"]}/"
 
 output_path = os.path.join(OUTPUT_DIR, "listperson.xml")
 
@@ -182,8 +182,8 @@ for place in places:
         tei_place_idno_gnd.text = place["gnd_url"]
 
     if place["mrp_place_id"] and place["mrp_place_id"] != "0":
-        tei_place_idno_mrp = etree.SubElement(tei_place, f"{{{TEI_NS}}}idno", type="URL", subtype="MRP")
-        tei_place_idno_mrp.text = f"https://mpr.acdh.oeaw.ac.at/entity/{place["mrp_place_id"]}/"
+        tei_place_idno_mpr = etree.SubElement(tei_place, f"{{{TEI_NS}}}idno", type="URL", subtype="MPR")
+        tei_place_idno_mpr.text = f"https://mpr.acdh.oeaw.ac.at/entity/{place["mrp_place_id"]}/"
 
 output_path = os.path.join(OUTPUT_DIR, "listplace.xml")
 
@@ -232,8 +232,8 @@ for organization in organizations:
             tei_org_idno_wd.text = f"http://www.wikidata.org/entity/{wikidata_qid.group()}"
 
     if organization["mrp_org_id"] and organization["mrp_org_id"] != "0":
-        tei_org_idno_mrp = etree.SubElement(tei_org, f"{{{TEI_NS}}}idno", type="URL", subtype="MRP")
-        tei_org_idno_mrp.text = f"https://mpr.acdh.oeaw.ac.at/entity/{organization["mrp_org_id"]}/"
+        tei_org_idno_mpr = etree.SubElement(tei_org, f"{{{TEI_NS}}}idno", type="URL", subtype="MPR")
+        tei_org_idno_mpr.text = f"https://mpr.acdh.oeaw.ac.at/entity/{organization["mrp_org_id"]}/"
 
 output_path = os.path.join(OUTPUT_DIR, "listorg.xml")
 
