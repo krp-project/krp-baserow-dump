@@ -195,3 +195,53 @@ root.addprevious(pi)
 tree = etree.ElementTree(root)
 
 tree.write(output_path, encoding="utf-8", xml_declaration=True, pretty_print=True)
+
+# listOrg
+
+input_path = os.path.join(INPUT_DIR, "organizations.json")
+
+with open(input_path, "r", encoding="utf-8") as json_file:
+    data = json.load(json_file)
+
+organizations = data.values()
+
+root = build_root("Organisationenregister zum Projekt „Die Protokolle des österreichischen Kabinettsrates 1919–1920“")
+
+tei_text = etree.SubElement(root, f"{{{TEI_NS}}}text")
+
+tei_body = etree.SubElement(tei_text, f"{{{TEI_NS}}}body")
+
+tei_listorg = etree.SubElement(tei_body, f"{{{TEI_NS}}}listOrg")
+
+for organization in organizations:
+
+    tei_org = etree.SubElement(tei_listorg, f"{{{TEI_NS}}}org",
+                                  attrib={f"{{{XML_NS}}}id": organization["krp_org_id"]})
+
+    tei_orgname = etree.SubElement(tei_org, f"{{{TEI_NS}}}orgName")
+    tei_orgname.text = organization["label"]
+
+    if organization["gnd_url"]:
+        tei_org_idno_gnd = etree.SubElement(tei_org, f"{{{TEI_NS}}}idno", type="URL", subtype="GND")
+        tei_org_idno_gnd.text = organization["gnd_url"]
+
+    if organization["wikidata_url"]:
+        wikidata_qid = WIKIDATA_QID.search(organization["wikidata_url"])
+        if wikidata_qid:
+            tei_org_idno_wd = etree.SubElement(tei_org, f"{{{TEI_NS}}}idno", type="URL", subtype="WIKIDATA")
+            tei_org_idno_wd.text = f"http://www.wikidata.org/entity/{wikidata_qid.group()}"
+
+    if organization["mrp_org_id"] and organization["mrp_org_id"] != "0":
+        tei_org_idno_mrp = etree.SubElement(tei_org, f"{{{TEI_NS}}}idno", type="URL", subtype="MRP")
+        tei_org_idno_mrp.text = f"https://mpr.acdh.oeaw.ac.at/entity/{organization["mrp_org_id"]}/"
+
+output_path = os.path.join(OUTPUT_DIR, "listorg.xml")
+
+pi = etree.ProcessingInstruction("xml-model",
+                                 "href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' " \
+                                 "type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'")
+root.addprevious(pi)
+
+tree = etree.ElementTree(root)
+
+tree.write(output_path, encoding="utf-8", xml_declaration=True, pretty_print=True)
