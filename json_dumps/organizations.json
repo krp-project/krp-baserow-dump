@@ -4473,7 +4473,7 @@
     "id": 894,
     "order": "463.00000000000000000000",
     "label": "Volksbekleidungsamt",
-    "note": "",
+    "note": "deutschösterreichische Hauptstelle für Volksbekleidung, Leitung Eduard Heinl",
     "source": "",
     "krp_org_id": "krp_org_id__894",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__894\"></rs>",
@@ -4652,11 +4652,11 @@
   "913": {
     "id": 913,
     "order": "481.00000000000000000000",
-    "label": "",
+    "label": "Verfassungsausschuss der deutschen Nationalversammlung",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__913",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__913\"></rs>",
     "mrp_org_id": ""
   },
   "914": {
@@ -4687,6 +4687,56 @@
     "source": "",
     "krp_org_id": "krp_org_id__916",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__916\"></rs>",
+    "mrp_org_id": ""
+  },
+  "918": {
+    "id": 918,
+    "order": "485.00000000000000000000",
+    "label": "Gendarmerie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__918",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__918\"></rs>",
+    "mrp_org_id": ""
+  },
+  "919": {
+    "id": 919,
+    "order": "486.00000000000000000000",
+    "label": "Landsturm",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__919",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__919\"></rs>",
+    "mrp_org_id": ""
+  },
+  "920": {
+    "id": 920,
+    "order": "487.00000000000000000000",
+    "label": "Verein steirischer Bodenreformer",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__920",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__920\"></rs>",
+    "mrp_org_id": ""
+  },
+  "921": {
+    "id": 921,
+    "order": "488.00000000000000000000",
+    "label": "Stift Melk",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__921",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__921\"></rs>",
+    "mrp_org_id": ""
+  },
+  "922": {
+    "id": 922,
+    "order": "489.00000000000000000000",
+    "label": "Bischöfliches Ordinariat Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__922",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__922\"></rs>",
     "mrp_org_id": ""
   }
 }
