@@ -7,7 +7,9 @@
     "source": "https://www.eww.at/ueber-uns/unternehmensgruppe",
     "krp_org_id": "krp_org_id__1",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__1\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "2": {
     "id": 2,
@@ -17,7 +19,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Anglo-%C3%B6sterreichische_Bank",
     "krp_org_id": "krp_org_id__2",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__2\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": "2318",
+    "gnd_url": "https://d-nb.info/gnd/5239014-7",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1418039"
   },
   "3": {
     "id": 3,
@@ -27,7 +31,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt",
     "krp_org_id": "krp_org_id__3",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__3\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "4": {
     "id": 4,
@@ -37,7 +43,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__4",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__4\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "5": {
     "id": 5,
@@ -47,7 +55,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__5",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__5\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "97": {
     "id": 97,
@@ -57,7 +67,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__97",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__97\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "6": {
     "id": 6,
@@ -67,7 +79,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Creditanstalt-Bankverein",
     "krp_org_id": "krp_org_id__6",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__6\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "7": {
     "id": 7,
@@ -77,7 +91,9 @@
     "source": "https://www.austrodaimler.at/firmengeschichte/",
     "krp_org_id": "krp_org_id__7",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__7\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "98": {
     "id": 98,
@@ -87,7 +103,9 @@
     "source": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck%20%204c4ae136-840a-4d52-b747-b8e62f3d7449VERA#Stueck__4c4ae136-840a-4d52-b747-b8e62f3d7449VERA",
     "krp_org_id": "krp_org_id__98",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__98\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "93": {
     "id": 93,
@@ -97,7 +115,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__93",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__93\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "94": {
     "id": 94,
@@ -107,7 +127,9 @@
     "source": "https://www.parlament.gv.at/dokument/KN/I-KN/381/imfname_719385.pdf",
     "krp_org_id": "krp_org_id__94",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__94\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "8": {
     "id": 8,
@@ -117,7 +139,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Donaudampfschiffahrtsgesellschaft",
     "krp_org_id": "krp_org_id__8",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__8\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "9": {
     "id": 9,
@@ -127,7 +151,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__9",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__9\">Eltz’sche Spinnerei</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "10": {
     "id": 10,
@@ -137,7 +163,9 @@
     "source": "https://www.archivinformationssystem.at/detail.aspx?ID=2575899",
     "krp_org_id": "krp_org_id__10",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__10\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "11": {
     "id": 11,
@@ -147,7 +175,9 @@
     "source": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck++00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA#Stueck__00937ce1-f1e8-4b1f-8f42-43f5dcc459e4VERA",
     "krp_org_id": "krp_org_id__11",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__11\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "12": {
     "id": 12,
@@ -157,7 +187,9 @@
     "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396732",
     "krp_org_id": "krp_org_id__12",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__12\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "13": {
     "id": 13,
@@ -167,7 +199,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__13",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__13\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "14": {
     "id": 14,
@@ -177,7 +211,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200625&seite=8&zoom=33&query=%22firma%22%2B%22stone%22%2B%22webster%22&ref=anno-search",
     "krp_org_id": "krp_org_id__14",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__14\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "15": {
     "id": 15,
@@ -187,7 +223,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200714&seite=14&zoom=33&query=%22Graz%2BK%C3%B6flacher%2BEisenbahn-%2Bund%2BBergbau-Gesellschaft%22&ref=anno-search",
     "krp_org_id": "krp_org_id__15",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__15\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "96": {
     "id": 96,
@@ -197,7 +235,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__96",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__96\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "102": {
     "id": 102,
@@ -207,7 +247,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__102",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__102\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "107": {
     "id": 107,
@@ -217,7 +259,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__107",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__107\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "104": {
     "id": 104,
@@ -227,7 +271,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__104",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__104\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "103": {
     "id": 103,
@@ -237,7 +283,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__103",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__103\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "16": {
     "id": 16,
@@ -247,7 +295,9 @@
     "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396750",
     "krp_org_id": "krp_org_id__16",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__16\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "208": {
     "id": 208,
@@ -257,7 +307,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__208",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__208\">Interalliierte Wirtschaftskommission</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "17": {
     "id": 17,
@@ -267,7 +319,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__17",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__17\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "18": {
     "id": 18,
@@ -277,7 +331,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Rudolf_Mayreder",
     "krp_org_id": "krp_org_id__18",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__18\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "19": {
     "id": 19,
@@ -287,7 +343,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200626&seite=14&zoom=33&query=%22inva%22&ref=anno-search",
     "krp_org_id": "krp_org_id__19",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__19\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "95": {
     "id": 95,
@@ -297,7 +355,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__95",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__95\">Interalliierte Lebensmittelkommission</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "56": {
     "id": 56,
@@ -307,7 +367,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__56",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__56\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "99": {
     "id": 99,
@@ -317,7 +379,9 @@
     "source": "https://kaerntner-forstverein.at/wp-content/uploads/2022/05/Festschrift-web.pdf",
     "krp_org_id": "krp_org_id__99",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__99\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "100": {
     "id": 100,
@@ -327,7 +391,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__100",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__100\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "20": {
     "id": 20,
@@ -337,7 +403,9 @@
     "source": "https://hls-dhs-dss.ch/de/articles/014065/2015-04-08/",
     "krp_org_id": "krp_org_id__20",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__20\">Kantonalbank</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "21": {
     "id": 21,
@@ -347,7 +415,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1920&page=135&size=45&qid=57T0KCMCR2SNTO8KP3JPVAJIUJ4J8D",
     "krp_org_id": "krp_org_id__21",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__21\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "22": {
     "id": 22,
@@ -357,7 +427,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200731&seite=20&zoom=33&query=%22l%C3%A4nderzentralbureau%22&ref=anno-search",
     "krp_org_id": "krp_org_id__22",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__22\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "23": {
     "id": 23,
@@ -367,7 +439,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__23",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__23\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "24": {
     "id": 24,
@@ -377,7 +451,9 @@
     "source": "https://sammlung.wienmuseum.at/en/object/117147-wfw-militaer-witwen-und-waisenfonds/\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=waz&datum=19190606&seite=3&zoom=33&query=%22milit%C3%A4r-witwen%2Bund%2Bwaisenfonds%22&ref=anno-search",
     "krp_org_id": "krp_org_id__24",
     "tei_code": "\"<rs type=\"org\"\" ref=\"#krp_org_id__24\">Militär-Witwen- und Waisenfonds</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "25": {
     "id": 25,
@@ -387,7 +463,9 @@
     "source": "https://www.archivinformationssystem.at/detail.aspx?ID=3977515\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=ozp&datum=19190201&seite=3&zoom=33&query=%22milit%C3%A4rsanit%C3%A4tsanstalten%22&ref=anno-search",
     "krp_org_id": "krp_org_id__25",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__25\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "26": {
     "id": 26,
@@ -397,7 +475,9 @@
     "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/163682",
     "krp_org_id": "krp_org_id__26",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__26\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "27": {
     "id": 27,
@@ -407,7 +487,9 @@
     "source": "https://en.wikipedia.org/wiki/Morgan,_Harjes_%26_Co.",
     "krp_org_id": "krp_org_id__27",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__27\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "28": {
     "id": 28,
@@ -417,7 +499,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=548&size=45&qid=BWZEZ13XUJIB3JGTLYW8HQTRBHCRM4",
     "krp_org_id": "krp_org_id__28",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__28\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "29": {
     "id": 29,
@@ -427,7 +511,9 @@
     "source": "https://www.archivinformationssystem.at/detail.aspx?ID=5710",
     "krp_org_id": "krp_org_id__29",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__29\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "30": {
     "id": 30,
@@ -437,7 +523,9 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19120004&seite=00001109&size=45",
     "krp_org_id": "krp_org_id__30",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__30\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "31": {
     "id": 31,
@@ -447,7 +535,9 @@
     "source": "https://discovery.nationalarchives.gov.uk/results/r?_q=River+Syndicated+Ltd&_sd=1919&_ed=1920&_hb=",
     "krp_org_id": "krp_org_id__31",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__31\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "32": {
     "id": 32,
@@ -457,7 +547,9 @@
     "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396823",
     "krp_org_id": "krp_org_id__32",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__32\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "33": {
     "id": 33,
@@ -467,7 +559,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=gtb&datum=19220504&seite=9&zoom=33&query=%22Reichraminger%22%2B%22Holzindustrie-Gesellschaft%22&ref=anno-search",
     "krp_org_id": "krp_org_id__33",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__33\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "34": {
     "id": 34,
@@ -477,7 +571,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=abd&datum=19170825&seite=3&zoom=33&query=%22rothsche%2Bfabrik%22&ref=anno-search",
     "krp_org_id": "krp_org_id__34",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__34\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "35": {
     "id": 35,
@@ -487,7 +583,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19200323&seite=2&zoom=33&query=%22ruetzwerk%22&ref=anno-search",
     "krp_org_id": "krp_org_id__35",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__35\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "36": {
     "id": 36,
@@ -497,7 +595,9 @@
     "source": "https://www.archivportal-d.de/item/SXWFR3RDPE5BS5UKNKHRNUSECUCUPIGD?facetValues%5B%5D=context%3DEWI22NIIAWMEBPYNYMJZVWD2M27AHPFP&lang=de&sort=random_300214365908502145+desc&offset=32&hitNumber=41",
     "krp_org_id": "krp_org_id__36",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__36\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "37": {
     "id": 37,
@@ -507,7 +607,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191228&seite=4&zoom=33&query=%22staatsangestellten%22%2B%22f%C3%BCrsorgeanstalt%22&ref=anno-search",
     "krp_org_id": "krp_org_id__37",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__37\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "38": {
     "id": 38,
@@ -517,7 +619,9 @@
     "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/153386",
     "krp_org_id": "krp_org_id__38",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__38\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "39": {
     "id": 39,
@@ -527,7 +631,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19190630&seite=2&zoom=33&query=%22Telegraphen-Korrespondenz-Bureau%22&ref=anno-search",
     "krp_org_id": "krp_org_id__39",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__39\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "40": {
     "id": 40,
@@ -537,7 +643,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Technische_Hochschule",
     "krp_org_id": "krp_org_id__40",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__40\">Technische Hochschule</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "41": {
     "id": 41,
@@ -547,7 +655,9 @@
     "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/2396860",
     "krp_org_id": "krp_org_id__41",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__41\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "42": {
     "id": 42,
@@ -557,7 +667,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19200715&seite=10&zoom=33&query=%22treuga%22&ref=anno-search",
     "krp_org_id": "krp_org_id__42",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__42\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "43": {
     "id": 43,
@@ -567,7 +679,9 @@
     "source": "https://www.archives.gov/research/guide-fed-records/groups/005.html/1000#5.1\n\nhttps://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19191002&seite=7&zoom=33&query=%22Grain%2BCorporation%22&ref=anno-search",
     "krp_org_id": "krp_org_id__43",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__43\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "44": {
     "id": 44,
@@ -577,7 +691,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=zei&datum=19180613&seite=14&zoom=33&query=%22virginier%2Bzigarre%22&ref=anno-search",
     "krp_org_id": "krp_org_id__44",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__44\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "45": {
     "id": 45,
@@ -587,7 +703,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=dsp&datum=19200826&seite=5&zoom=33&query=%22virginier-fabrik%22&ref=anno-search",
     "krp_org_id": "krp_org_id__45",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__45\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "46": {
     "id": 46,
@@ -597,7 +715,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=waw&datum=1919&page=364&size=45&qid=GCO37GKVJXDYY227BTO29F9ME939EM",
     "krp_org_id": "krp_org_id__46",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__46\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "47": {
     "id": 47,
@@ -607,7 +727,9 @@
     "source": "https://www.oesta.gv.at/veroeffentlichungen/archivale-des-monats/Archivale-des-Monats-Juni-23.html",
     "krp_org_id": "krp_org_id__47",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__47\">WEWA</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "48": {
     "id": 48,
@@ -617,7 +739,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/St%C3%A4dtische_Elektrizit%C3%A4tswerke",
     "krp_org_id": "krp_org_id__48",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__48\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "49": {
     "id": 49,
@@ -627,7 +751,9 @@
     "source": "https://www.digital.wienbibliothek.at/wbrobv/periodical/pageview/160308",
     "krp_org_id": "krp_org_id__49",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__49\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "50": {
     "id": 50,
@@ -637,7 +763,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=ibn&datum=19170430&seite=8&zoom=33&query=%22Wollzentrale%2BAG%22&ref=anno-search",
     "krp_org_id": "krp_org_id__50",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__50\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "51": {
     "id": 51,
@@ -647,7 +775,9 @@
     "source": "OESTA: AT-OeStA/AdR AuS BMfVE ZPPK",
     "krp_org_id": "krp_org_id__51",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__51\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "101": {
     "id": 101,
@@ -657,7 +787,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__101",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__101\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "52": {
     "id": 52,
@@ -667,7 +799,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__52",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__52\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "53": {
     "id": 53,
@@ -677,7 +811,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__53",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__53\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "54": {
     "id": 54,
@@ -687,7 +823,9 @@
     "source": "https://viewer.onb.ac.at/131DD9E2",
     "krp_org_id": "krp_org_id__54",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__54\">Oesterreichisch-ungarische Bank</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "55": {
     "id": 55,
@@ -697,7 +835,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=wrz&datum=19191219&seite=7&zoom=33&query=%22staatliche%22%2B%22industriewerke%22%2B%22linder%22&ref=anno-search",
     "krp_org_id": "krp_org_id__55",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__55\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "57": {
     "id": 57,
@@ -707,7 +847,9 @@
     "source": "https://sammlung-online.salzburgmuseum.at/detail/collection/1c8f3738-deaa-4fd3-8e65-356a0a9bdfe4",
     "krp_org_id": "krp_org_id__57",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__57\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "58": {
     "id": 58,
@@ -717,7 +859,9 @@
     "source": "https://www.aeiou.at/aeiou.encyclop.m/m403821.htm",
     "krp_org_id": "krp_org_id__58",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__58\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "59": {
     "id": 59,
@@ -727,7 +871,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__59",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__59\">Interalliierter Luftfahrtüberwachungsausschuss</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "60": {
     "id": 60,
@@ -737,7 +883,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__60",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__60\">Interalliierte Heeresüberwachungsauschuss</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "105": {
     "id": 105,
@@ -747,7 +895,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__105",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__105\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "106": {
     "id": 106,
@@ -757,7 +907,9 @@
     "source": "https://wiki.sn.at/wiki/Mitterberger_Kupferbergbau_(Unternehmen)",
     "krp_org_id": "krp_org_id__106",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__106\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "109": {
     "id": 109,
@@ -767,7 +919,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__109",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__109\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "110": {
     "id": 110,
@@ -777,7 +931,9 @@
     "source": "https://anno.onb.ac.at/cgi-content/anno?aid=nfp&datum=19210830&query=%22Firma+Kola%22&ref=anno-search&seite=11",
     "krp_org_id": "krp_org_id__110",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__110\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "143": {
     "id": 143,
@@ -787,7 +943,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__143",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__143\">Nationalversammlung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "144": {
     "id": 144,
@@ -797,7 +955,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__144",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__144\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "145": {
     "id": 145,
@@ -807,7 +967,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__145",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__145\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "146": {
     "id": 146,
@@ -817,7 +979,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__146",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__146\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "147": {
     "id": 147,
@@ -827,7 +991,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__147",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__147\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "179": {
     "id": 179,
@@ -837,7 +1003,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__179",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__179\">Tschechoslowakische Regierung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "180": {
     "id": 180,
@@ -847,7 +1015,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__180",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__180\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "181": {
     "id": 181,
@@ -857,7 +1027,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__181",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__181\">Staatskanzlei</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "182": {
     "id": 182,
@@ -867,7 +1039,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__182",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__182\">Kabinettsrat</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "184": {
     "id": 184,
@@ -877,7 +1051,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__184",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__184\">Regierung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "185": {
     "id": 185,
@@ -887,7 +1063,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__185",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__185\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "186": {
     "id": 186,
@@ -897,7 +1075,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__186",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__186\">Staatsamt für Äußeres</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "187": {
     "id": 187,
@@ -907,7 +1087,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__187",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__187\">Staatsamt für Finanzen</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "188": {
     "id": 188,
@@ -917,7 +1099,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__188",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__188\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "189": {
     "id": 189,
@@ -927,7 +1111,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__189",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__189\">Staatsamt für Verkehrswesen</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "190": {
     "id": 190,
@@ -937,7 +1123,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__190",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__190\">Staatsamt für soziale Verwaltung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "191": {
     "id": 191,
@@ -947,7 +1135,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__191",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__191\">Staatsamt für Handel und Gewerbe, Industrie und Bauten</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "192": {
     "id": 192,
@@ -957,7 +1147,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__192",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__192\">Staatsamt für Inneres und Unterricht</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "193": {
     "id": 193,
@@ -967,7 +1159,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__193",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__193\">Staatsamt für Justiz</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "194": {
     "id": 194,
@@ -977,7 +1171,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__194",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__194\">Staatsamt für Land- und Forstwirtschaft</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "195": {
     "id": 195,
@@ -987,7 +1183,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__195",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__195\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "197": {
     "id": 197,
@@ -997,7 +1195,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__197",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__197\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "198": {
     "id": 198,
@@ -1007,7 +1207,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__198",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__198\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "199": {
     "id": 199,
@@ -1017,7 +1219,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__199",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__199\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "200": {
     "id": 200,
@@ -1027,7 +1231,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__200",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__200\">Niederösterreichische Landtag</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "201": {
     "id": 201,
@@ -1037,7 +1243,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__201",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__201\">Verfassungsgerichtshof</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "202": {
     "id": 202,
@@ -1047,7 +1255,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__202",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__202\">Staatsamt für Volksernährung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "203": {
     "id": 203,
@@ -1057,7 +1267,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Volkswehr",
     "krp_org_id": "krp_org_id__203",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__203\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "204": {
     "id": 204,
@@ -1067,7 +1279,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Soldatenr%C3%A4te",
     "krp_org_id": "krp_org_id__204",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__204\">Soldatenrat</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "205": {
     "id": 205,
@@ -1077,7 +1291,9 @@
     "source": "https://www.bmi.gv.at/magazinfiles/2022/09_10/23_polizeigeschichte.pdf",
     "krp_org_id": "krp_org_id__205",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__205\">Kriegswucheramt</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "206": {
     "id": 206,
@@ -1087,7 +1303,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Magistratsabteilung_59_-_Marktamt",
     "krp_org_id": "krp_org_id__206",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__206\">Marktamt</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "207": {
     "id": 207,
@@ -1097,7 +1315,9 @@
     "source": "https://www.isil.nb.admin.ch/de/institutionen/schweizerische-depeschenagentur-sda-nachrichtenagentur-ch-001211-7/",
     "krp_org_id": "krp_org_id__207",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__207\">Schweizer Depeschenagentur</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "209": {
     "id": 209,
@@ -1107,7 +1327,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__209",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__209\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "210": {
     "id": 210,
@@ -1117,7 +1339,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__210",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__210\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "212": {
     "id": 212,
@@ -1127,7 +1351,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__212",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__212\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "214": {
     "id": 214,
@@ -1137,7 +1363,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__214",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__94\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "215": {
     "id": 215,
@@ -1147,7 +1375,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__215",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__215\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "216": {
     "id": 216,
@@ -1157,7 +1387,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__216",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__216\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "217": {
     "id": 217,
@@ -1167,7 +1399,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__217",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__217\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "218": {
     "id": 218,
@@ -1177,7 +1411,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__218",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__218\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "219": {
     "id": 219,
@@ -1187,7 +1423,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__219",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__219\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "220": {
     "id": 220,
@@ -1197,7 +1435,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__220",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__220\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "222": {
     "id": 222,
@@ -1207,7 +1447,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__222",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__222\">Schweizer Bundesrat</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "223": {
     "id": 223,
@@ -1217,7 +1459,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__223",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__223\">Entente</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "224": {
     "id": 224,
@@ -1227,7 +1471,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Staatsrat",
     "krp_org_id": "krp_org_id__224",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__224\">Staatsrat</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "225": {
     "id": 225,
@@ -1237,7 +1483,9 @@
     "source": "https://austriaca.at/0xc1aa5572%200x004012b8.pdf",
     "krp_org_id": "krp_org_id__225",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__225\">Eisenbahnbeirat</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "226": {
     "id": 226,
@@ -1247,7 +1495,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__226",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__226\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "227": {
     "id": 227,
@@ -1257,7 +1507,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__227",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__227\">Staatskommission für Kriegsgefangenenangelegenheiten</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "228": {
     "id": 228,
@@ -1267,7 +1519,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__228",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__228\">Schulbücherverläge</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "229": {
     "id": 229,
@@ -1277,7 +1531,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__229",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__229\">Wehrmacht</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "230": {
     "id": 230,
@@ -1287,7 +1543,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__230",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__230\">k. u. k. Armee</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "231": {
     "id": 231,
@@ -1297,7 +1555,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__231",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__203\">k. k. Landwehr</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "232": {
     "id": 232,
@@ -1307,7 +1567,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__232",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__232\">k. u. k. Kriegsmarine</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "233": {
     "id": 233,
@@ -1317,7 +1579,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__233",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__233\">Sozialdemokratische Partei</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "234": {
     "id": 234,
@@ -1327,7 +1591,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__234",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__234\">Christlichsoziale Partei</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "235": {
     "id": 235,
@@ -1337,7 +1603,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__235",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__235\">Verwaltungsgerichtshof</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "236": {
     "id": 236,
@@ -1347,7 +1615,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__236",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__236\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "237": {
     "id": 237,
@@ -1357,7 +1627,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__237",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__237\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "238": {
     "id": 238,
@@ -1367,7 +1639,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__238",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__238\">Staatsgerichtshof</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "239": {
     "id": 239,
@@ -1377,7 +1651,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__239",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__239\">englische Regierung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "240": {
     "id": 240,
@@ -1387,7 +1663,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__240",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__240\">Polizeidirektion</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "241": {
     "id": 241,
@@ -1397,7 +1675,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__241",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__241\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "242": {
     "id": 242,
@@ -1407,7 +1687,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__242",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__242\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "243": {
     "id": 243,
@@ -1417,7 +1699,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__243",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__243\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "244": {
     "id": 244,
@@ -1427,7 +1711,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__244",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__244\">Staatsratsdirektorium</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "245": {
     "id": 245,
@@ -1437,7 +1723,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__245",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__245\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "246": {
     "id": 246,
@@ -1447,7 +1735,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__246",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__246\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "247": {
     "id": 247,
@@ -1457,7 +1747,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__247",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__247\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "248": {
     "id": 248,
@@ -1467,7 +1759,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__248",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__248\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "249": {
     "id": 249,
@@ -1477,7 +1771,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__249",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__249\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "250": {
     "id": 250,
@@ -1487,7 +1783,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__250",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__250\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "251": {
     "id": 251,
@@ -1497,7 +1795,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Veterin%C3%A4rmedizinische_Universit%C3%A4t",
     "krp_org_id": "krp_org_id__251",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__251\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "252": {
     "id": 252,
@@ -1507,7 +1807,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__252",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__252\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "253": {
     "id": 253,
@@ -1517,7 +1819,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__253",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__253\">Staatsamt für öffentliche Arbeiten</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "255": {
     "id": 255,
@@ -1527,7 +1831,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__255",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__255\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "256": {
     "id": 256,
@@ -1537,7 +1843,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__256",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__256\">Staatsamt für soziale Fürsorge</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "257": {
     "id": 257,
@@ -1547,7 +1855,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__257",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__257\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "258": {
     "id": 258,
@@ -1557,7 +1867,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__258",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__258\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "259": {
     "id": 259,
@@ -1567,7 +1879,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__259",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__259\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "260": {
     "id": 260,
@@ -1577,7 +1891,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__260",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__260\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "261": {
     "id": 261,
@@ -1587,7 +1903,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__261",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__261\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "262": {
     "id": 262,
@@ -1597,7 +1915,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__262",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__262\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "263": {
     "id": 263,
@@ -1607,7 +1927,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__263",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__263\">Stadt Wien</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "264": {
     "id": 264,
@@ -1617,7 +1939,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__264",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__264\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "265": {
     "id": 265,
@@ -1627,7 +1951,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__265",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__256\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "266": {
     "id": 266,
@@ -1637,7 +1963,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__266",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__266\">Schweizer Regierung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "268": {
     "id": 268,
@@ -1647,7 +1975,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__268",
     "tei_code": "<rs type=\"org\" ref=\"'#krp_org_id__268\">Landesgericht in Wien</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "269": {
     "id": 269,
@@ -1657,7 +1987,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__269",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__269\">Kreisgericht in Wiener Neustadt</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "270": {
     "id": 270,
@@ -1667,7 +1999,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__270",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__270\"></rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "271": {
     "id": 271,
@@ -1677,7 +2011,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__271",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__271\">ungarische Regierung</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "273": {
     "id": 273,
@@ -1687,7 +2023,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__273",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__273\">Landtag in Kärnten</rs>",
-    "mrp_org_id": null
+    "mrp_org_id": null,
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "274": {
     "id": 274,
@@ -1697,7 +2035,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__274",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__274\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "275": {
     "id": 275,
@@ -1707,7 +2047,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__275",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__275\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "276": {
     "id": 276,
@@ -1717,7 +2059,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__276",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__276\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "277": {
     "id": 277,
@@ -1727,7 +2071,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__277",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__277\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "279": {
     "id": 279,
@@ -1737,7 +2083,9 @@
     "source": "https://commons.wikimedia.org/wiki/File:Landes-Hypothekenanstalt_in_Salzburg_1919.jpg",
     "krp_org_id": "krp_org_id__279",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__279\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "280": {
     "id": 280,
@@ -1747,7 +2095,9 @@
     "source": "liquidierendes Kriegsarchiv",
     "krp_org_id": "krp_org_id__280",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__280\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "282": {
     "id": 282,
@@ -1757,7 +2107,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__282",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__282\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "283": {
     "id": 283,
@@ -1767,7 +2119,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__283",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__283\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "284": {
     "id": 284,
@@ -1777,7 +2131,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__284",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__284\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "285": {
     "id": 285,
@@ -1787,7 +2143,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__285",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__285\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "286": {
     "id": 286,
@@ -1797,7 +2155,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__286",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__286\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "287": {
     "id": 287,
@@ -1807,7 +2167,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__287",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__287\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "288": {
     "id": 288,
@@ -1817,7 +2179,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__288",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__288\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "289": {
     "id": 289,
@@ -1827,7 +2191,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__289",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__289\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "291": {
     "id": 291,
@@ -1837,7 +2203,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__291",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__291\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "293": {
     "id": 293,
@@ -1847,7 +2215,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__293",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__293\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "294": {
     "id": 294,
@@ -1857,7 +2227,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__294",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__294\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "296": {
     "id": 296,
@@ -1867,7 +2239,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__296",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__296\">Wiener Straflandesgericht</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "297": {
     "id": 297,
@@ -1877,7 +2251,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__297",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__297\">Abgrenzungskommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "298": {
     "id": 298,
@@ -1887,7 +2263,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__298",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__298\">Oberösterreichische Landtag</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "299": {
     "id": 299,
@@ -1897,7 +2275,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__299",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__299\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "300": {
     "id": 300,
@@ -1907,7 +2287,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__300",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__300\">Niederösterreichische Landesregierung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "301": {
     "id": 301,
@@ -1917,7 +2299,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__301",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__301\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "302": {
     "id": 302,
@@ -1927,7 +2311,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__302",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__302\">Niederösterreichischen Landesrat</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "303": {
     "id": 303,
@@ -1937,7 +2323,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__303",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__303\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "304": {
     "id": 304,
@@ -1947,7 +2335,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__304",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__304\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "305": {
     "id": 305,
@@ -1957,7 +2347,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__305",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__305\">Internationaler Gewerkschaftsbund</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "306": {
     "id": 306,
@@ -1967,7 +2359,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__306",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__306\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "307": {
     "id": 307,
@@ -1977,7 +2371,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__307",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__307\">österreichische Staatsbahnen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "308": {
     "id": 308,
@@ -1987,7 +2383,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__308",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__308\">Zentralgrenzkommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "309": {
     "id": 309,
@@ -1997,7 +2395,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__309",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__309\">SHS-Regierung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "310": {
     "id": 310,
@@ -2007,7 +2407,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__310",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__310\">Tiroler Landtag</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "311": {
     "id": 311,
@@ -2017,7 +2419,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__311",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__311\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "312": {
     "id": 312,
@@ -2027,7 +2431,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__312",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__312\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "313": {
     "id": 313,
@@ -2037,7 +2443,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__313",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__313\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "314": {
     "id": 314,
@@ -2047,7 +2455,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__314",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__314\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "315": {
     "id": 315,
@@ -2057,7 +2467,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__315",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__315\">staatliche Mädchenmittelschulen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "316": {
     "id": 316,
@@ -2067,7 +2479,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__316",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__316\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "317": {
     "id": 317,
@@ -2077,7 +2491,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__317",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__317\">Gewerkschaft Rathausberg</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "318": {
     "id": 318,
@@ -2087,7 +2503,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__318",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__318\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "319": {
     "id": 319,
@@ -2097,7 +2515,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__319",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__319\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "320": {
     "id": 320,
@@ -2107,7 +2527,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__320",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__320\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "321": {
     "id": 321,
@@ -2117,7 +2539,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__321",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__321\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "324": {
     "id": 324,
@@ -2127,7 +2551,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__324",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__324\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "325": {
     "id": 325,
@@ -2137,7 +2563,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__325",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__325\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "326": {
     "id": 326,
@@ -2147,7 +2575,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__326",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__326\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "327": {
     "id": 327,
@@ -2157,7 +2587,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__327",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__327\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "328": {
     "id": 328,
@@ -2167,7 +2599,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__328",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__328\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "329": {
     "id": 329,
@@ -2177,7 +2611,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__329",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__329\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "330": {
     "id": 330,
@@ -2187,7 +2623,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__330",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__330\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "331": {
     "id": 331,
@@ -2197,7 +2635,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__331",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__331\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "332": {
     "id": 332,
@@ -2207,7 +2647,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__332",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__332\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "334": {
     "id": 334,
@@ -2217,7 +2659,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__334",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__334\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "335": {
     "id": 335,
@@ -2227,7 +2671,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__335",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__335\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "336": {
     "id": 336,
@@ -2237,7 +2683,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__336",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__336\">Militärliquidierungsamt</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "337": {
     "id": 337,
@@ -2247,7 +2695,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__337",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__337\">Vergleichskommission für laufende Militärlieferungsverträge</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "338": {
     "id": 338,
@@ -2257,7 +2707,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__338",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__338\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "339": {
     "id": 339,
@@ -2267,7 +2719,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__339",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__339\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "340": {
     "id": 340,
@@ -2277,7 +2731,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__340",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__340\">ungarische Liquidierungsamt</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "341": {
     "id": 341,
@@ -2287,7 +2743,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__341",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__341\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "342": {
     "id": 342,
@@ -2297,7 +2755,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__342",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__342\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "343": {
     "id": 343,
@@ -2307,7 +2767,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__343",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__343\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "344": {
     "id": 344,
@@ -2317,7 +2779,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__344",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__344\">Exportakademie Wien</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "345": {
     "id": 345,
@@ -2327,7 +2791,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__345",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__345\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "346": {
     "id": 346,
@@ -2337,7 +2803,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__346",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__346\">Kommission zur Erhebung militärischer Pflichtverletzungen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "347": {
     "id": 347,
@@ -2347,7 +2815,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__347",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__347\">Landesregierung in Vorarlberg</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "349": {
     "id": 349,
@@ -2357,7 +2827,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__349",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__349\">Steiermärkischer Landtag</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "350": {
     "id": 350,
@@ -2367,7 +2839,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__350",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__350\">Landesrat in Kärnten</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "351": {
     "id": 351,
@@ -2377,7 +2851,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__351",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__351\">Finanzlandesdirektion in Wien</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "352": {
     "id": 352,
@@ -2387,7 +2863,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__352",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__352\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "353": {
     "id": 353,
@@ -2397,7 +2875,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__353",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__353\">hofärarische Theater</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "354": {
     "id": 354,
@@ -2407,7 +2887,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__354",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__354\">Statistische Zentralkommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "355": {
     "id": 355,
@@ -2417,7 +2899,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__355",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__355\">Zentralverband der österreichischen Staatsbeamtenvereine</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "356": {
     "id": 356,
@@ -2427,7 +2911,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__356",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__356\">Erzherzog-Friedrich-Kaserne</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "357": {
     "id": 357,
@@ -2437,7 +2923,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__357",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__357\">Hauptanstalt für Sachdemobilisierung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "360": {
     "id": 360,
@@ -2447,7 +2935,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__360",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__360\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "361": {
     "id": 361,
@@ -2457,7 +2947,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__361",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__361\">Einigungsamtes für Streitigkeiten aus Lieferungsverträgen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "362": {
     "id": 362,
@@ -2467,7 +2959,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__362",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__362\">Einigungsamt in Wien</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "363": {
     "id": 363,
@@ -2477,7 +2971,9 @@
     "source": "https://www.geschichtewiki.wien.gv.at/Hofkammerarchiv",
     "krp_org_id": "krp_org_id__363",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__363\">Hofkammerarchiv</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "364": {
     "id": 364,
@@ -2487,7 +2983,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__364",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__364\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "365": {
     "id": 365,
@@ -2497,7 +2995,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__365",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__365\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "366": {
     "id": 366,
@@ -2507,7 +3007,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__366",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__366\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "367": {
     "id": 367,
@@ -2517,7 +3019,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__367",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__501\"> Reparationskommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "369": {
     "id": 369,
@@ -2527,7 +3031,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__369",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__369\">Naturhistorisches Museum</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "370": {
     "id": 370,
@@ -2537,7 +3043,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__370",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__370\">Hofbibliothek</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "371": {
     "id": 371,
@@ -2547,7 +3055,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__371",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__371\">Albertina</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "372": {
     "id": 372,
@@ -2557,7 +3067,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__372",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__372\">Familienfideikommissbibliothek</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "375": {
     "id": 375,
@@ -2567,7 +3079,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__375",
     "tei_code": "< type=\"org\" ref=\"#krp_org_id__375\">Gewerkschaft der Akademiker in öffentlichen Diensten Österreichs</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "376": {
     "id": 376,
@@ -2577,7 +3091,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__376",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__376\">paritätischen Lohnkommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "378": {
     "id": 378,
@@ -2587,7 +3103,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__378",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "379": {
     "id": 379,
@@ -2597,7 +3115,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__379",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__379\">„Technischen Union“ der Telefon- und Telegrafenbediensteten</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "380": {
     "id": 380,
@@ -2607,7 +3127,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__380",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__380\">Unionbank</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "381": {
     "id": 381,
@@ -2617,7 +3139,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__381",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__381\">Länderbank</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "382": {
     "id": 382,
@@ -2627,7 +3151,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__382",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "384": {
     "id": 384,
@@ -2637,7 +3163,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__384",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "386": {
     "id": 386,
@@ -2647,7 +3175,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__386",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__386\">Forst-und Domänendirektion</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "387": {
     "id": 387,
@@ -2657,7 +3187,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__387",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__387\">russische Regierung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "420": {
     "id": 420,
@@ -2667,7 +3199,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__420",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__420\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "421": {
     "id": 421,
@@ -2677,7 +3211,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__421",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__421\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "422": {
     "id": 422,
@@ -2687,7 +3223,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__422",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__422\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "423": {
     "id": 423,
@@ -2697,7 +3235,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__423",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__423\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "424": {
     "id": 424,
@@ -2707,7 +3247,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__424",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__424\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "425": {
     "id": 425,
@@ -2717,7 +3259,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__425",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__425\">Haus-, Hof- und Staatsarchiv</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "426": {
     "id": 426,
@@ -2727,7 +3271,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__426",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__426\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "427": {
     "id": 427,
@@ -2737,7 +3283,9 @@
     "source": "ehemals gemeinsames",
     "krp_org_id": "krp_org_id__427",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__427\">Finanzarchiv</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "428": {
     "id": 428,
@@ -2747,7 +3295,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__428",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__428\">Staatsakademie für Musik und darstellende Kunst</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "429": {
     "id": 429,
@@ -2757,7 +3307,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__429",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__429\">Zeitungsbeirat</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "430": {
     "id": 430,
@@ -2767,7 +3319,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__430",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__430\">Heeres-, Führer- und Lehrerschule</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "431": {
     "id": 431,
@@ -2777,7 +3331,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__431",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__431\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "432": {
     "id": 432,
@@ -2787,7 +3343,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__432",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__432\">Militärunterrealschule in Enns</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "433": {
     "id": 433,
@@ -2797,7 +3355,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__433",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__433\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "434": {
     "id": 434,
@@ -2807,7 +3367,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__434",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__434\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "435": {
     "id": 435,
@@ -2817,7 +3379,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__435",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__435\">Staatsamt des Innern</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "436": {
     "id": 436,
@@ -2827,7 +3391,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__436",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__436\">Staatsamt für Unterricht</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "437": {
     "id": 437,
@@ -2837,7 +3403,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__437",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__437\">Staatsamt für Gewerbe</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "438": {
     "id": 438,
@@ -2847,7 +3415,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__438",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__438\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "439": {
     "id": 439,
@@ -2857,7 +3427,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__439",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__439\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "440": {
     "id": 440,
@@ -2867,7 +3439,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__440",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__440\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "441": {
     "id": 441,
@@ -2877,7 +3451,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__441",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__441\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "443": {
     "id": 443,
@@ -2887,7 +3463,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__443",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__443\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "444": {
     "id": 444,
@@ -2897,7 +3475,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__444",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__444\">Internationaler Transportarbeiterverband</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "445": {
     "id": 445,
@@ -2907,7 +3487,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__445",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__445\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "446": {
     "id": 446,
@@ -2917,7 +3499,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__446",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__446\">Kommunistische Partei für Deutschösterreich</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "447": {
     "id": 447,
@@ -2927,7 +3511,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__447",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__447\">Großdeutsche Partei</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "449": {
     "id": 449,
@@ -2937,7 +3523,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__449",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__449\">Hochschule für Bodenkultur</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "450": {
     "id": 450,
@@ -2947,7 +3535,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__450",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__450\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "451": {
     "id": 451,
@@ -2957,7 +3547,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__451",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__451\">zwischenstaatliche Kommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "452": {
     "id": 452,
@@ -2967,7 +3559,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__452",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__452\">Kriegskreditanstalt</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "453": {
     "id": 453,
@@ -2977,7 +3571,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__453",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__453\">Internationales Arbeiteramt</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "454": {
     "id": 454,
@@ -2987,7 +3583,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__454",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__454\">Völkerbund</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "455": {
     "id": 455,
@@ -2997,7 +3595,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__455",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__455\">Komenský-Schulen in Wien</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "456": {
     "id": 456,
@@ -3007,7 +3607,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__456",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__456\">interalliierter Militärmission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "457": {
     "id": 457,
@@ -3017,7 +3619,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__457",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__457\">Staatsbahndirektionen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "458": {
     "id": 458,
@@ -3027,7 +3631,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__458",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__458\">Divisionsgerichte</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "459": {
     "id": 459,
@@ -3037,7 +3643,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__459",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__459\">Oberster Militärgerichtshof</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "460": {
     "id": 460,
@@ -3047,7 +3655,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__460",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__460\"<Interalliierter Marineüberwachungsausschuss</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "461": {
     "id": 461,
@@ -3057,7 +3667,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__461",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__461\">Zentralverband der Staatsangestellten</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "462": {
     "id": 462,
@@ -3067,7 +3679,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__462",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__462\">Richtervereinigung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "463": {
     "id": 463,
@@ -3077,7 +3691,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__463",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__463\">Syndikat Westen-Sieber</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "464": {
     "id": 464,
@@ -3087,7 +3703,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__464",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__464\">österreichische Getreideanstalt</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "465": {
     "id": 465,
@@ -3097,7 +3715,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__465",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__465\">Liquidierungsinspektorat</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "466": {
     "id": 466,
@@ -3107,7 +3727,9 @@
     "source": "https://www.parlament.gv.at/dokument/KN/I-KN/518/imfname_719522.pdf",
     "krp_org_id": "krp_org_id__466",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__466\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "467": {
     "id": 467,
@@ -3117,7 +3739,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__467",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__467\">Internationale Donaukommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "468": {
     "id": 468,
@@ -3127,7 +3751,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__468",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__468\">serbische Regierung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "469": {
     "id": 469,
@@ -3137,7 +3763,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__469",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__469\">ungarischen Ministeriums für Volksernährung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "501": {
     "id": 501,
@@ -3147,7 +3775,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__501",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__501\">zwischenstaatliche Kommission für die Verhandlungen mit der Reparationskommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "502": {
     "id": 502,
@@ -3157,7 +3787,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__502",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__502\">Niederösterreichische Landeskommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "503": {
     "id": 503,
@@ -3167,7 +3799,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__503",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__503\">deutschböhmische Landesregierung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "504": {
     "id": 504,
@@ -3177,7 +3811,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__504",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__504\">Wiener Krankenanstaltenfonds</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "507": {
     "id": 507,
@@ -3187,7 +3823,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__507",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__507\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "508": {
     "id": 508,
@@ -3197,7 +3835,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__508",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__508\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "509": {
     "id": 509,
@@ -3207,7 +3847,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__509",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__509\">österreichische Gesellschaft vom Roten Kreuze</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "510": {
     "id": 510,
@@ -3217,7 +3859,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__510",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__510\">Kriegsgeschädigtenfonds</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "511": {
     "id": 511,
@@ -3227,7 +3871,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__511",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__511\">schwedische Regierung</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "512": {
     "id": 512,
@@ -3237,7 +3883,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__512",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id_512\">Hauptzollamt in Wien</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "513": {
     "id": 513,
@@ -3247,7 +3895,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__513",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__513\">Mozarteum in Salzburg</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "514": {
     "id": 514,
@@ -3257,7 +3907,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__514",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__514\">Haus Habsburg-Lothringen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "515": {
     "id": 515,
@@ -3267,7 +3919,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__515",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__515\">Heeresverwaltungsstelle in Innsbruck</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "516": {
     "id": 516,
@@ -3277,7 +3931,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__516",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__516\">Waldviertler Elekrizitätsgenossenschaft</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "517": {
     "id": 517,
@@ -3287,7 +3943,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__517",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__517\">Wiener Finanzprokuratur</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "550": {
     "id": 550,
@@ -3297,7 +3955,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__550",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__550\">Zentralverband der Staatsangestelltenvereinigungen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "552": {
     "id": 552,
@@ -3307,7 +3967,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__552",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__552\">Staatskommissariat</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "553": {
     "id": 553,
@@ -3317,7 +3979,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__553",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__553\">MVA</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "554": {
     "id": 554,
@@ -3327,7 +3991,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__554",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__554\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "555": {
     "id": 555,
@@ -3337,7 +4003,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__555",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__555\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "556": {
     "id": 556,
@@ -3347,7 +4015,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__556",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__556\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "557": {
     "id": 557,
@@ -3357,7 +4027,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__557",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__557\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "558": {
     "id": 558,
@@ -3367,7 +4039,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__558",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__558\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "559": {
     "id": 559,
@@ -3377,7 +4051,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__559",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__559\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "560": {
     "id": 560,
@@ -3387,7 +4063,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__560",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__560\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "561": {
     "id": 561,
@@ -3397,7 +4075,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__561",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__561\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "562": {
     "id": 562,
@@ -3407,7 +4087,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__562",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__562\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "563": {
     "id": 563,
@@ -3417,7 +4099,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__563",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__563\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "564": {
     "id": 564,
@@ -3427,7 +4111,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__564",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__564\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "565": {
     "id": 565,
@@ -3437,7 +4123,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__565",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__565\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "566": {
     "id": 566,
@@ -3447,7 +4135,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__566",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__566\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "567": {
     "id": 567,
@@ -3457,7 +4147,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__567",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__567\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "568": {
     "id": 568,
@@ -3467,7 +4159,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__568",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "569": {
     "id": 569,
@@ -3477,7 +4171,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__569",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "570": {
     "id": 570,
@@ -3487,7 +4183,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__570",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "603": {
     "id": 603,
@@ -3497,7 +4195,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__603",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__603\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "604": {
     "id": 604,
@@ -3507,7 +4207,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__604",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__604\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "605": {
     "id": 605,
@@ -3517,7 +4219,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__605",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__605\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "606": {
     "id": 606,
@@ -3527,7 +4231,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__606",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__606\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "607": {
     "id": 607,
@@ -3537,7 +4243,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__607",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__607\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "608": {
     "id": 608,
@@ -3547,7 +4255,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__608",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__608\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "609": {
     "id": 609,
@@ -3557,7 +4267,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__609",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__609\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "610": {
     "id": 610,
@@ -3567,7 +4279,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__610",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__610\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "643": {
     "id": 643,
@@ -3577,7 +4291,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__643",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__643\">Wiener Arsenal</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "676": {
     "id": 676,
@@ -3587,7 +4303,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__676",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "677": {
     "id": 677,
@@ -3597,7 +4315,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__677",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__677\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "678": {
     "id": 678,
@@ -3607,7 +4327,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__678",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__678\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "679": {
     "id": 679,
@@ -3617,7 +4339,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__679",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__679\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "680": {
     "id": 680,
@@ -3627,7 +4351,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__680",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__680\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "681": {
     "id": 681,
@@ -3637,7 +4363,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__681",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__681\">Staatskommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "682": {
     "id": 682,
@@ -3647,7 +4375,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__682",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__682\">Stubachwerk</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "683": {
     "id": 683,
@@ -3657,7 +4387,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__683",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__683\">Mallnitzwerk</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "684": {
     "id": 684,
@@ -3667,7 +4399,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__684",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__684\">Schweizer Unterrichtsamt</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "685": {
     "id": 685,
@@ -3677,7 +4411,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__685",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "686": {
     "id": 686,
@@ -3687,7 +4423,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__686",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__686\">Kriegsgefangenen- und Zivilinterniertenamt</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "687": {
     "id": 687,
@@ -3697,7 +4435,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__687",
     "tei_code": "<rs type=\"org\" ref=\"#krp_id__687\">Stadtschutzwache</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "688": {
     "id": 688,
@@ -3707,7 +4447,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__688",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__688\">k.k. Justizministerium</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "689": {
     "id": 689,
@@ -3717,7 +4459,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__689",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__689\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "690": {
     "id": 690,
@@ -3727,7 +4471,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__690",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__690\">Hofmuseen</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "691": {
     "id": 691,
@@ -3737,7 +4483,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__691",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__691\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "692": {
     "id": 692,
@@ -3747,7 +4495,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__692",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__692\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "694": {
     "id": 694,
@@ -3757,7 +4507,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__694",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__694\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "695": {
     "id": 695,
@@ -3767,7 +4519,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__695",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__695\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "696": {
     "id": 696,
@@ -3777,7 +4531,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__696",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__696\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "697": {
     "id": 697,
@@ -3787,7 +4543,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__697",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__697\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "730": {
     "id": 730,
@@ -3797,7 +4555,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__730",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__730\">Staatsschuldenkontrollkommission</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "731": {
     "id": 731,
@@ -3807,7 +4567,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__731",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__731\">Staatsrechnungshof</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "732": {
     "id": 732,
@@ -3817,7 +4579,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__732",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__732\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "733": {
     "id": 733,
@@ -3827,7 +4591,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__733",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__733\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "734": {
     "id": 734,
@@ -3837,7 +4603,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__734",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__734\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "735": {
     "id": 735,
@@ -3847,7 +4615,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__735",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__735\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "768": {
     "id": 768,
@@ -3857,7 +4627,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__768",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__768\">Österreichische Staatstheater</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "770": {
     "id": 770,
@@ -3867,7 +4639,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__770",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__770\">Burgtheater</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "771": {
     "id": 771,
@@ -3877,7 +4651,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__771",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__771\">Operntheater</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "772": {
     "id": 772,
@@ -3887,7 +4663,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__772",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__772\">Schönbrunner Schlosstheater </rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "803": {
     "id": 803,
@@ -3897,7 +4675,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__803",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__803\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "804": {
     "id": 804,
@@ -3907,7 +4687,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__804",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__804\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "805": {
     "id": 805,
@@ -3917,7 +4699,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__805",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__805\">Spullerseewerk</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "806": {
     "id": 806,
@@ -3927,7 +4711,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__806",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__806\">Vorarlberger Landtag</rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "808": {
     "id": 808,
@@ -3937,7 +4723,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__808",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__808\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "809": {
     "id": 809,
@@ -3947,7 +4735,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__809",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__809\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "810": {
     "id": 810,
@@ -3957,7 +4747,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__810",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__810\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "811": {
     "id": 811,
@@ -3967,7 +4759,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__811",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__811\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "812": {
     "id": 812,
@@ -3977,7 +4771,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__812",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__812\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "813": {
     "id": 813,
@@ -3987,7 +4783,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__813",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__813\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "814": {
     "id": 814,
@@ -3997,7 +4795,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__814",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__814\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "815": {
     "id": 815,
@@ -4007,7 +4807,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__815",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__815\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "816": {
     "id": 816,
@@ -4017,7 +4819,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__816",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__816\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "817": {
     "id": 817,
@@ -4027,7 +4831,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__817",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__817\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "818": {
     "id": 818,
@@ -4037,7 +4843,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__818",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__818\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "819": {
     "id": 819,
@@ -4047,7 +4855,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__819",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__819\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "850": {
     "id": 850,
@@ -4057,7 +4867,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__850",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__850\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "851": {
     "id": 851,
@@ -4067,7 +4879,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__851",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__851\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "852": {
     "id": 852,
@@ -4077,7 +4891,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__852",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "853": {
     "id": 853,
@@ -4087,7 +4903,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__853",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__853\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "854": {
     "id": 854,
@@ -4097,7 +4915,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__854",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__854\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "855": {
     "id": 855,
@@ -4107,7 +4927,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__855",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__855\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "856": {
     "id": 856,
@@ -4117,7 +4939,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__856",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__856\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "857": {
     "id": 857,
@@ -4127,7 +4951,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__857",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__857\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "858": {
     "id": 858,
@@ -4137,7 +4963,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__858",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__858\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "859": {
     "id": 859,
@@ -4147,7 +4975,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__859",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__859\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "860": {
     "id": 860,
@@ -4157,7 +4987,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__860",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__860\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "861": {
     "id": 861,
@@ -4167,7 +4999,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__861",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__861\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "862": {
     "id": 862,
@@ -4177,7 +5011,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__862",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__862\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "863": {
     "id": 863,
@@ -4187,7 +5023,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__863",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__863\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "864": {
     "id": 864,
@@ -4197,7 +5035,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__864",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__864\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "865": {
     "id": 865,
@@ -4207,7 +5047,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__865",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__865\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "866": {
     "id": 866,
@@ -4217,7 +5059,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__866",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__866\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "867": {
     "id": 867,
@@ -4227,7 +5071,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__867",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__867\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "868": {
     "id": 868,
@@ -4237,7 +5083,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__868",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__868\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "869": {
     "id": 869,
@@ -4247,7 +5095,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__869",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__869\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "870": {
     "id": 870,
@@ -4257,7 +5107,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__870",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__870\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "871": {
     "id": 871,
@@ -4267,7 +5119,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__871",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__871\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "872": {
     "id": 872,
@@ -4277,7 +5131,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__872",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__872\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "873": {
     "id": 873,
@@ -4287,7 +5143,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__873",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__873\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "874": {
     "id": 874,
@@ -4297,7 +5155,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__874",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__874\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "875": {
     "id": 875,
@@ -4307,7 +5167,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__875",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__875\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "877": {
     "id": 877,
@@ -4317,7 +5179,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__877",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__877\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "878": {
     "id": 878,
@@ -4327,7 +5191,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__878",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__878\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "879": {
     "id": 879,
@@ -4337,7 +5203,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__879",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__879\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "880": {
     "id": 880,
@@ -4347,7 +5215,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__880",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__880\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "881": {
     "id": 881,
@@ -4357,7 +5227,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__881",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__881\">",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "882": {
     "id": 882,
@@ -4367,7 +5239,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__882",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__882\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "883": {
     "id": 883,
@@ -4377,7 +5251,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__883",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__883\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "884": {
     "id": 884,
@@ -4387,7 +5263,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__884",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__884\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "885": {
     "id": 885,
@@ -4397,7 +5275,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__885",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__885\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "886": {
     "id": 886,
@@ -4407,7 +5287,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__886",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__886\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "887": {
     "id": 887,
@@ -4417,7 +5299,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__887",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__887\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "888": {
     "id": 888,
@@ -4427,7 +5311,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__888",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__888\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "889": {
     "id": 889,
@@ -4437,7 +5323,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__889",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__889\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "890": {
     "id": 890,
@@ -4447,7 +5335,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__890",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__890\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "892": {
     "id": 892,
@@ -4457,7 +5347,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__892",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__892\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "893": {
     "id": 893,
@@ -4467,7 +5359,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__893",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__893\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "894": {
     "id": 894,
@@ -4477,7 +5371,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__894",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__894\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "895": {
     "id": 895,
@@ -4487,7 +5383,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__895",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "896": {
     "id": 896,
@@ -4497,7 +5395,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__896",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__896\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "897": {
     "id": 897,
@@ -4507,7 +5407,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__897",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__897\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "898": {
     "id": 898,
@@ -4517,7 +5419,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__898",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__898\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "899": {
     "id": 899,
@@ -4527,7 +5431,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__899",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__899\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "900": {
     "id": 900,
@@ -4537,7 +5443,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__900",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__900\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "901": {
     "id": 901,
@@ -4547,7 +5455,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__901",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__901\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "902": {
     "id": 902,
@@ -4557,7 +5467,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__902",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__902\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "903": {
     "id": 903,
@@ -4567,7 +5479,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__903",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__903\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "904": {
     "id": 904,
@@ -4577,7 +5491,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__904",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__904\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "905": {
     "id": 905,
@@ -4587,7 +5503,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__905",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__905\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "906": {
     "id": 906,
@@ -4597,7 +5515,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__906",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__906\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "907": {
     "id": 907,
@@ -4607,7 +5527,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__907",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__907\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "908": {
     "id": 908,
@@ -4617,7 +5539,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__908",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__908\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "909": {
     "id": 909,
@@ -4627,7 +5551,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__909",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__909\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "911": {
     "id": 911,
@@ -4637,7 +5563,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__911",
     "tei_code": "",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "912": {
     "id": 912,
@@ -4647,7 +5575,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__912",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__912\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "913": {
     "id": 913,
@@ -4657,7 +5587,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__913",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__913\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "914": {
     "id": 914,
@@ -4667,7 +5599,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__914",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__914\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "915": {
     "id": 915,
@@ -4677,7 +5611,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__915",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__915\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "916": {
     "id": 916,
@@ -4687,7 +5623,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__916",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__916\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "918": {
     "id": 918,
@@ -4697,7 +5635,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__918",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__918\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "919": {
     "id": 919,
@@ -4707,7 +5647,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__919",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__919\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "920": {
     "id": 920,
@@ -4717,7 +5659,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__920",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__920\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "921": {
     "id": 921,
@@ -4727,7 +5671,9 @@
     "source": "",
     "krp_org_id": "krp_org_id__921",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__921\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   },
   "922": {
     "id": 922,
@@ -4737,6 +5683,8 @@
     "source": "",
     "krp_org_id": "krp_org_id__922",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__922\"></rs>",
-    "mrp_org_id": ""
+    "mrp_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   }
 }
