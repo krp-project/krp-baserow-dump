@@ -3822,7 +3822,8 @@
           <occupation>Vertreter der Kunstsammler</occupation>
         </person>
         <person xml:id="krp_person_id__1162">
-          <persName></persName>
+          <persName>Bialoruski</persName>
+          <occupation>Rechnungsdirektor der Staatskanzlei, Hofrat</occupation>
         </person>
         <person xml:id="krp_person_id__1163">
           <persName></persName>
@@ -3842,6 +3843,15 @@
           </death>
           <occupation>Ministerpräsident der österreichischen Reichshälfte</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/117464929</idno>
+        </person>
+        <person xml:id="krp_person_id__1166">
+          <persName>Eduard Heinl</persName>
+          <occupation>Abgeordneter, Vorsitzender der deutschösterreichischen Hauptstelle für Volksbekleidung</occupation>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119485907</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1288672</idno>
+        </person>
+        <person xml:id="krp_person_id__1167">
+          <persName></persName>
         </person>
       </listPerson>
     </body>
