@@ -216,7 +216,7 @@ tei_listorg = etree.SubElement(tei_body, f"{{{TEI_NS}}}listOrg")
 for organization in organizations:
 
     tei_org = etree.SubElement(tei_listorg, f"{{{TEI_NS}}}org",
-                                  attrib={f"{{{XML_NS}}}id": organization["krp_org_id"]})
+                               attrib={f"{{{XML_NS}}}id": organization["krp_org_id"]})
 
     tei_orgname = etree.SubElement(tei_org, f"{{{TEI_NS}}}orgName")
     tei_orgname.text = organization["label"]
