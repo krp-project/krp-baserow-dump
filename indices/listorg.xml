@@ -1,0 +1,1449 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Organisationenregister zum Projekt „Die Protokolle des österreichischen Kabinettsrates 1919–1920“</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from Baserow data dumped as JSON to https://github.com/krp-project/krp-baserow-dump</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listOrg>
+        <org xml:id="krp_org_id__1">
+          <orgName>AG Elektrizitätswerk Wels</orgName>
+        </org>
+        <org xml:id="krp_org_id__2">
+          <orgName>Anglo-österreichischen Bank</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/5239014-7</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1418039</idno>
+          <idno type="URL" subtype="MRP">https://mpr.acdh.oeaw.ac.at/entity/2318/</idno>
+        </org>
+        <org xml:id="krp_org_id__3">
+          <orgName>[Allgemeine österreichische] Bodencreditanstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__4">
+          <orgName>Bankhaus Kuhn, Loeb &amp; Co</orgName>
+        </org>
+        <org xml:id="krp_org_id__5">
+          <orgName>Berufsgenossenschaftliche Unfallversicherungsanstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__97">
+          <orgName>Credit-Institute für öffentliche Unternehmungen und Arbeiten</orgName>
+        </org>
+        <org xml:id="krp_org_id__6">
+          <orgName>Creditanstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__7">
+          <orgName>Daimler-Motoren-AG</orgName>
+        </org>
+        <org xml:id="krp_org_id__98">
+          <orgName>Allgemeine österreichische Boden-Credit-Anstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__93">
+          <orgName>Arbeiter-Unfallversicherungsanstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__94">
+          <orgName>Deutschösterreichische Lebensmitteleinfuhrstelle (Dölest)</orgName>
+        </org>
+        <org xml:id="krp_org_id__8">
+          <orgName>Donaudampfschiffahrtsgesellschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__9">
+          <orgName>Eltz’sche Spinnerei</orgName>
+        </org>
+        <org xml:id="krp_org_id__10">
+          <orgName>[Erzherzogliche] Ludwig Viktor[‘sche] Familienstiftung</orgName>
+        </org>
+        <org xml:id="krp_org_id__11">
+          <orgName>Firma B. Wetzler &amp; Co.</orgName>
+        </org>
+        <org xml:id="krp_org_id__12">
+          <orgName>Firma Glesinger S.</orgName>
+        </org>
+        <org xml:id="krp_org_id__13">
+          <orgName>Firma Jakob Neurath</orgName>
+        </org>
+        <org xml:id="krp_org_id__14">
+          <orgName>Firma Stone &amp; Webster</orgName>
+        </org>
+        <org xml:id="krp_org_id__15">
+          <orgName>Graz-Köflacher Eisenbahn- und Bergbau-Gesellschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__96">
+          <orgName>Zentralstelle des öffentlichen Gesundheitsdienstes in Deutschösterreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__102">
+          <orgName>Spedition Caro &amp; Jellinek</orgName>
+        </org>
+        <org xml:id="krp_org_id__107">
+          <orgName>Reichsbank</orgName>
+        </org>
+        <org xml:id="krp_org_id__104">
+          <orgName>Reichsvollzugsausschusses der Soldatenräte Deutschösterreichs</orgName>
+        </org>
+        <org xml:id="krp_org_id__103">
+          <orgName>Gemeinde Wien-Städtische Straßenbahnen</orgName>
+        </org>
+        <org xml:id="krp_org_id__16">
+          <orgName>Holenia Franz &amp; Co.</orgName>
+        </org>
+        <org xml:id="krp_org_id__208">
+          <orgName>Interallierte Wirtschaftskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__17">
+          <orgName>Internationale Bureau zum Schutze des gewerblichen Eigentums</orgName>
+        </org>
+        <org xml:id="krp_org_id__18">
+          <orgName>Ingenieure Mayreder, Kraus &amp; Co.</orgName>
+        </org>
+        <org xml:id="krp_org_id__19">
+          <orgName>„Inva“ Buch-, Kunst-, Steindruckerei und Lithographie des Zentralverbandes der deutschösterreichischen Kriegsbeschädigten, Gesellschaft mbH</orgName>
+        </org>
+        <org xml:id="krp_org_id__95">
+          <orgName>Interalliierte Lebensmittelkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__56">
+          <orgName>Internationale Liquidierungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__99">
+          <orgName>Kärntner Forstverein</orgName>
+        </org>
+        <org xml:id="krp_org_id__100">
+          <orgName>Internationalen Komitee vom Roten Kreuz</orgName>
+        </org>
+        <org xml:id="krp_org_id__20">
+          <orgName>Kantonalbank</orgName>
+        </org>
+        <org xml:id="krp_org_id__21">
+          <orgName>Kupfer- und Zinnhütte Betriebsgesellschaft mbH.</orgName>
+        </org>
+        <org xml:id="krp_org_id__22">
+          <orgName>Länderzentralbüro</orgName>
+        </org>
+        <org xml:id="krp_org_id__23">
+          <orgName>Metall- &amp; Erz-Gesellschaft mbH.</orgName>
+        </org>
+        <org xml:id="krp_org_id__24">
+          <orgName>Militär-Witwen- und Waisenfonds</orgName>
+        </org>
+        <org xml:id="krp_org_id__25">
+          <orgName>Militärsanitätsanstalten</orgName>
+        </org>
+        <org xml:id="krp_org_id__26">
+          <orgName>„Montana“ Bergbau-Gesellschaft m.b.H.</orgName>
+        </org>
+        <org xml:id="krp_org_id__27">
+          <orgName>Morgan Harjes &amp; Co.</orgName>
+        </org>
+        <org xml:id="krp_org_id__28">
+          <orgName>niederösterreichische Landes-Hypothekenanstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__29">
+          <orgName>[Oesterreichisch-]Alpine Montangesellschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__30">
+          <orgName>Österreichischen Immobiliarbank AG</orgName>
+        </org>
+        <org xml:id="krp_org_id__31">
+          <orgName>River Syndicated Ltd</orgName>
+        </org>
+        <org xml:id="krp_org_id__32">
+          <orgName>Redlich Brüder &amp; Berger</orgName>
+        </org>
+        <org xml:id="krp_org_id__33">
+          <orgName>Reichraminger Holzindustrie-Gesellschaft mbH.</orgName>
+        </org>
+        <org xml:id="krp_org_id__34">
+          <orgName>Roth’sche Fabrik</orgName>
+        </org>
+        <org xml:id="krp_org_id__35">
+          <orgName>Ruetzwerk</orgName>
+        </org>
+        <org xml:id="krp_org_id__36">
+          <orgName>Süddeutsche Donau-Dampf-Schifffahrts-Gesellschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__37">
+          <orgName>Staatsangestellten-Fürsorgeanstalt „Stafa“</orgName>
+        </org>
+        <org xml:id="krp_org_id__38">
+          <orgName>Steinkohlenbergwerk und Kalkwerkschaft Weyer Gesellschaft m.b.H.</orgName>
+        </org>
+        <org xml:id="krp_org_id__39">
+          <orgName>Telegraphen-Korrespondenz-Bureau</orgName>
+        </org>
+        <org xml:id="krp_org_id__40">
+          <orgName>Technische Hochschule</orgName>
+        </org>
+        <org xml:id="krp_org_id__41">
+          <orgName>Tecta Grundbesitz- und Verwaltungs-Gesellschaft-mbH</orgName>
+        </org>
+        <org xml:id="krp_org_id__42">
+          <orgName>Treuga AG für Veredlungsverkehr und für treuhändige Güterverwertung</orgName>
+        </org>
+        <org xml:id="krp_org_id__43">
+          <orgName>United States Grain Corporation</orgName>
+        </org>
+        <org xml:id="krp_org_id__44">
+          <orgName>Virginierzigarren-Erzeugung</orgName>
+        </org>
+        <org xml:id="krp_org_id__45">
+          <orgName>Virginier-Fabrik</orgName>
+        </org>
+        <org xml:id="krp_org_id__46">
+          <orgName>Waldviertler Elektrizitätsgenossenschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__47">
+          <orgName>WEWA - Wasserkraft- und Elektrizitätswirtschaftsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__48">
+          <orgName>Wiener Städtische Elektrizitäts-Werke</orgName>
+        </org>
+        <org xml:id="krp_org_id__49">
+          <orgName>Wolfsegg-Traunthaler Kohlenwerks-AG</orgName>
+        </org>
+        <org xml:id="krp_org_id__50">
+          <orgName>Wollzentrale AG</orgName>
+        </org>
+        <org xml:id="krp_org_id__51">
+          <orgName>Zentral-Preisprüfungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__101">
+          <orgName>Zentralbureau für Seuchenbekämpfung</orgName>
+        </org>
+        <org xml:id="krp_org_id__52">
+          <orgName>Zentral- Ein- und Verkaufbüro</orgName>
+        </org>
+        <org xml:id="krp_org_id__53">
+          <orgName>Zwischenstaatsamtliches Komitee für Staatsbedienstetenangelegenheiten</orgName>
+        </org>
+        <org xml:id="krp_org_id__54">
+          <orgName>Oesterreichisch-ungarische Bank</orgName>
+        </org>
+        <org xml:id="krp_org_id__55">
+          <orgName>Staatliche Industriewerke</orgName>
+        </org>
+        <org xml:id="krp_org_id__57">
+          <orgName>Erzherzoglich Ludwig Viktor'sche Familienstiftung</orgName>
+        </org>
+        <org xml:id="krp_org_id__58">
+          <orgName>Mayreder, Kraus &amp; Co. Bauholdingges.M.b.H.</orgName>
+        </org>
+        <org xml:id="krp_org_id__59">
+          <orgName>Interalliierter Luftfahrtüberwachungsausschuss</orgName>
+        </org>
+        <org xml:id="krp_org_id__60">
+          <orgName>Interalliierte Heeresüberwachungsausschuss</orgName>
+        </org>
+        <org xml:id="krp_org_id__105">
+          <orgName>Firma Kreidl, Heller &amp; Co.</orgName>
+        </org>
+        <org xml:id="krp_org_id__106">
+          <orgName>Mitterberger Kupfer AG</orgName>
+        </org>
+        <org xml:id="krp_org_id__109">
+          <orgName>Oberster Gerichtshof</orgName>
+        </org>
+        <org xml:id="krp_org_id__110">
+          <orgName>Firma Kola &amp; Co.</orgName>
+        </org>
+        <org xml:id="krp_org_id__143">
+          <orgName>Konstituierende Nationalversammlung für Deutschösterreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__144">
+          <orgName>Papierfabriksverband</orgName>
+        </org>
+        <org xml:id="krp_org_id__145">
+          <orgName>Ankerbrotfabrik Mendl</orgName>
+        </org>
+        <org xml:id="krp_org_id__146">
+          <orgName>Czernowitzer Universität</orgName>
+        </org>
+        <org xml:id="krp_org_id__147">
+          <orgName>Präsidentschaftskanzlei</orgName>
+        </org>
+        <org xml:id="krp_org_id__179">
+          <orgName>Tschechoslowakische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__180">
+          <orgName>Postsparkasse</orgName>
+        </org>
+        <org xml:id="krp_org_id__181">
+          <orgName>Staatskanzlei</orgName>
+        </org>
+        <org xml:id="krp_org_id__182">
+          <orgName>Kabinettsrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__184">
+          <orgName>österreichische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__185">
+          <orgName>italienische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__186">
+          <orgName>Staatsamt für Äußeres [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__187">
+          <orgName>Staatsamt für Finanzen [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__188">
+          <orgName>Zentralausschuss der Eisenbahnbediensteten</orgName>
+        </org>
+        <org xml:id="krp_org_id__189">
+          <orgName>Staatsamt für Verkehrswesen [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__190">
+          <orgName>Staatsamt für soziale Verwaltung [II-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__191">
+          <orgName>Staatsamt für Handel und Gewerbe, Industrie und Bauten [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__192">
+          <orgName>Staatsamt für Inneres und Unterricht [II-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__193">
+          <orgName>Staatsamt für Justiz [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__194">
+          <orgName>Staatsamt für Land- und Forstwirtschaft [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__195">
+          <orgName>Steiermärkischer Landesregierung [06.11.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__197">
+          <orgName>Salzburger Provisorische Landesversammlung [07.11.1918-22.05.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__198">
+          <orgName>Salzburger Landtag [22.05.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__199">
+          <orgName>Salzburger Landesregierung [23.04.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__200">
+          <orgName>Niederösterreichischer Landtag [20.05.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__201">
+          <orgName>Verfassungsgerichtshof</orgName>
+        </org>
+        <org xml:id="krp_org_id__202">
+          <orgName>Staatsamt für Volksernährung [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__203">
+          <orgName>Volkswehr</orgName>
+        </org>
+        <org xml:id="krp_org_id__204">
+          <orgName>Soldatenrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__205">
+          <orgName>Kriegswucheramt</orgName>
+        </org>
+        <org xml:id="krp_org_id__206">
+          <orgName>Marktamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__207">
+          <orgName>Schweizer Depeschenagentur</orgName>
+        </org>
+        <org xml:id="krp_org_id__209">
+          <orgName>Präsidium der Nationalversammlung</orgName>
+        </org>
+        <org xml:id="krp_org_id__210">
+          <orgName>Provisorische Landesversammlung</orgName>
+        </org>
+        <org xml:id="krp_org_id__212">
+          <orgName>Freien Vereinigung abgerüsteter Soldaten und Heimkehrer</orgName>
+        </org>
+        <org xml:id="krp_org_id__214">
+          <orgName>Finanzkomitee der Nationalversammlung</orgName>
+        </org>
+        <org xml:id="krp_org_id__215">
+          <orgName>Technisches Museum für Industrie und Gewerbe in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__216">
+          <orgName>Wiener Kriegswucheramt</orgName>
+        </org>
+        <org xml:id="krp_org_id__217">
+          <orgName>Oberösterreichische Provisorische Landesversammlung [18.11.1918 bis 15.05.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__218">
+          <orgName>Kärntner Landesausschuss [11.11.1919-05.12.1918?]</orgName>
+        </org>
+        <org xml:id="krp_org_id__219">
+          <orgName>Kärntner vorläufige (provisorische) Landesversammlung [11.11.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__220">
+          <orgName>Sozialisierungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__222">
+          <orgName>Schweizer Bundesrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__223">
+          <orgName>Entente</orgName>
+        </org>
+        <org xml:id="krp_org_id__224">
+          <orgName>Staatsrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__225">
+          <orgName>Eisenbahnbeirat</orgName>
+        </org>
+        <org xml:id="krp_org_id__226">
+          <orgName>Staatsamt für Heereswesen [I-III]</orgName>
+        </org>
+        <org xml:id="krp_org_id__227">
+          <orgName>Staatskommission für Kriegsgefangenenangelegenheiten</orgName>
+        </org>
+        <org xml:id="krp_org_id__228">
+          <orgName>Schulbücherverläge</orgName>
+        </org>
+        <org xml:id="krp_org_id__229">
+          <orgName>Bundesheer [Ersterwähnung 19.09.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__230">
+          <orgName>k. u. k. Armee</orgName>
+        </org>
+        <org xml:id="krp_org_id__231">
+          <orgName>k. k. Landwehr</orgName>
+        </org>
+        <org xml:id="krp_org_id__232">
+          <orgName>k. u. k. Kriegsmarine</orgName>
+        </org>
+        <org xml:id="krp_org_id__233">
+          <orgName>Sozialdemokratische Partei</orgName>
+        </org>
+        <org xml:id="krp_org_id__234">
+          <orgName>Christlichsoziale Partei</orgName>
+        </org>
+        <org xml:id="krp_org_id__235">
+          <orgName>Verwaltungsgerichtshof</orgName>
+        </org>
+        <org xml:id="krp_org_id__236">
+          <orgName>Steiermärkische Provisorische Landesversammlung [06.11.1918 bis 11.05.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__237">
+          <orgName>Steiermärkischer Landesrat [06.12.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__238">
+          <orgName>Staatsgerichtshof</orgName>
+        </org>
+        <org xml:id="krp_org_id__239">
+          <orgName>englische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__240">
+          <orgName>Polizeidirektion Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__241">
+          <orgName>Tiroler Landesregierung [ab 21.12.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__242">
+          <orgName>Kärntner Landesregierung [11.11.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__243">
+          <orgName>deutsche Reichsregierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__244">
+          <orgName>Staatsratsdirektorium</orgName>
+        </org>
+        <org xml:id="krp_org_id__245">
+          <orgName>Deutsche Reichsbank</orgName>
+        </org>
+        <org xml:id="krp_org_id__246">
+          <orgName>k. u. k. Kriegsministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__247">
+          <orgName>Generalpostdirektion</orgName>
+        </org>
+        <org xml:id="krp_org_id__248">
+          <orgName>Amt für Kraftwagen- und Luftverkehr</orgName>
+        </org>
+        <org xml:id="krp_org_id__249">
+          <orgName>Militärwachkorps</orgName>
+        </org>
+        <org xml:id="krp_org_id__250">
+          <orgName>Universität Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__251">
+          <orgName>Veterinärmedizinische Universität</orgName>
+        </org>
+        <org xml:id="krp_org_id__252">
+          <orgName>Tschechoslowakisches Finanzministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__253">
+          <orgName>Staatsamt für öffentliche Arbeiten [I]</orgName>
+        </org>
+        <org xml:id="krp_org_id__255">
+          <orgName>jugoslawische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__256">
+          <orgName>Staatsamt für soziale Fürsorge [I]</orgName>
+        </org>
+        <org xml:id="krp_org_id__257">
+          <orgName>Italienische Waffenstillstandkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__258">
+          <orgName>Militärgeographische Institut</orgName>
+        </org>
+        <org xml:id="krp_org_id__259">
+          <orgName>Versicherungsgesellschaft "Österreichischer Phönix"</orgName>
+        </org>
+        <org xml:id="krp_org_id__260">
+          <orgName>Landesschulrat Steiermark</orgName>
+        </org>
+        <org xml:id="krp_org_id__261">
+          <orgName>Barmherzige Brüder</orgName>
+        </org>
+        <org xml:id="krp_org_id__262">
+          <orgName>Oberösterreichischer Religionsfonds</orgName>
+        </org>
+        <org xml:id="krp_org_id__263">
+          <orgName>Stadt Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__264">
+          <orgName>Oberösterreichischer Landesregierung [18.03.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__265">
+          <orgName>Zentralkommission für Denkmalpflege</orgName>
+        </org>
+        <org xml:id="krp_org_id__266">
+          <orgName>Schweizer Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__268">
+          <orgName>Landesgericht in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__269">
+          <orgName>Kreisgericht in Wiener Neustadt</orgName>
+        </org>
+        <org xml:id="krp_org_id__270">
+          <orgName>ungarisches Finanzministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__271">
+          <orgName>ungarische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__273">
+          <orgName>Kärntner k. k. Landtag [vor 04.11.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__274">
+          <orgName>Bezirksgericht Salzburg</orgName>
+        </org>
+        <org xml:id="krp_org_id__275">
+          <orgName>tschechoslowakische Armee</orgName>
+        </org>
+        <org xml:id="krp_org_id__276">
+          <orgName>rumänische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__277">
+          <orgName>Verein der rechtskundigen Beamten</orgName>
+        </org>
+        <org xml:id="krp_org_id__279">
+          <orgName>Landes-Hypothekenanstalt in Salzburg</orgName>
+        </org>
+        <org xml:id="krp_org_id__280">
+          <orgName>Kriegsarchiv</orgName>
+        </org>
+        <org xml:id="krp_org_id__282">
+          <orgName>polnische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__283">
+          <orgName>polnische Armee</orgName>
+        </org>
+        <org xml:id="krp_org_id__284">
+          <orgName>deutsche Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__285">
+          <orgName>Hauptausschuss der Nationalversammlung</orgName>
+        </org>
+        <org xml:id="krp_org_id__286">
+          <orgName>Hauptvolksrat Südmähren</orgName>
+        </org>
+        <org xml:id="krp_org_id__287">
+          <orgName>Landesgericht Feldkirch</orgName>
+        </org>
+        <org xml:id="krp_org_id__288">
+          <orgName>bosnisch-herzegowinische Landesregierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__289">
+          <orgName>paritätische Industrieförderungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__291">
+          <orgName>Oberster Sanitätsrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__293">
+          <orgName>Staatsamt für Volksgesundheit [I]</orgName>
+        </org>
+        <org xml:id="krp_org_id__294">
+          <orgName>Ständige Beirat für Angelegenheiten des Verkehres mit Lebensmitteln</orgName>
+        </org>
+        <org xml:id="krp_org_id__296">
+          <orgName>Wiener Straflandesgericht</orgName>
+        </org>
+        <org xml:id="krp_org_id__297">
+          <orgName>Abgrenzungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__298">
+          <orgName>Oberösterreichischer Landtag [18.05.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__299">
+          <orgName>Oberösterreichischer Landesrat [18.03.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__300">
+          <orgName>Niederösterreichische Landesregierung [14.11.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__301">
+          <orgName>Oberösterreichischer Landesausschuss [vor 09.11.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__302">
+          <orgName>Niederösterreichischer Landesrat [14.11.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__303">
+          <orgName>italienische Schutzkomitee</orgName>
+        </org>
+        <org xml:id="krp_org_id__304">
+          <orgName>Niederösterreichischer Landesausschuss [vor 05.11.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__305">
+          <orgName>Internationaler Gewerkschaftsbund</orgName>
+        </org>
+        <org xml:id="krp_org_id__306">
+          <orgName>Steiermärkischer Landesarmenfonds</orgName>
+        </org>
+        <org xml:id="krp_org_id__307">
+          <orgName>österreichische Staatsbahnen</orgName>
+        </org>
+        <org xml:id="krp_org_id__308">
+          <orgName>Zentralgrenzkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__309">
+          <orgName>SHS-Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__310">
+          <orgName>Tiroler Verfassungsgebender Landtag [15.10.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__311">
+          <orgName>Italienische Waffenstillstandsmission</orgName>
+        </org>
+        <org xml:id="krp_org_id__312">
+          <orgName>englische Waffenstillstandsmission</orgName>
+        </org>
+        <org xml:id="krp_org_id__313">
+          <orgName>Salzburger Landesrat [07.11.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__314">
+          <orgName>Industrielle Bezirkskommission für Vorarlberg</orgName>
+        </org>
+        <org xml:id="krp_org_id__315">
+          <orgName>staatliche Mädchenmittelschulen</orgName>
+        </org>
+        <org xml:id="krp_org_id__316">
+          <orgName>österreichisch-ungarische Konsulatsbehörden</orgName>
+        </org>
+        <org xml:id="krp_org_id__317">
+          <orgName>Gewerkschaft Rathausberg</orgName>
+        </org>
+        <org xml:id="krp_org_id__318">
+          <orgName>Industriekommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__319">
+          <orgName>House of Lords</orgName>
+        </org>
+        <org xml:id="krp_org_id__320">
+          <orgName>polnische Liquidierungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__321">
+          <orgName>deutsche Botschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__324">
+          <orgName>liquidierende österreich-ungarische Gesandtschaft
+in München</orgName>
+        </org>
+        <org xml:id="krp_org_id__325">
+          <orgName>Bezirksarbeiterrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__326">
+          <orgName>Firma Gebrüder Böhler &amp; Co.</orgName>
+        </org>
+        <org xml:id="krp_org_id__327">
+          <orgName>Nordbahndirektion</orgName>
+        </org>
+        <org xml:id="krp_org_id__328">
+          <orgName>Staatseisenbahngesellschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__329">
+          <orgName>Nordwestbahndirektion</orgName>
+        </org>
+        <org xml:id="krp_org_id__330">
+          <orgName>Lichtbildstelle</orgName>
+        </org>
+        <org xml:id="krp_org_id__331">
+          <orgName>Staatsbahndirektion Wien-Nordost</orgName>
+        </org>
+        <org xml:id="krp_org_id__332">
+          <orgName>Provisorische Nationalversammlung für Deutschösterreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__334">
+          <orgName>k. k. Ministerium des Innern</orgName>
+        </org>
+        <org xml:id="krp_org_id__335">
+          <orgName>tschechoslowakische Kommission für Aus- und Einfuhr</orgName>
+        </org>
+        <org xml:id="krp_org_id__336">
+          <orgName>Militärliquidierungsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__337">
+          <orgName>Vergleichskommission für laufende Militärlieferungsverträge</orgName>
+        </org>
+        <org xml:id="krp_org_id__338">
+          <orgName>Tschechoslowakisches Handelsministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__339">
+          <orgName>Filmhauptstelle</orgName>
+        </org>
+        <org xml:id="krp_org_id__340">
+          <orgName>ungarische Liquidierungsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__341">
+          <orgName>Salzburger Provisorische Landesregierung [03.11.1918-23.04.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__342">
+          <orgName>Hydrographische Zentralbüro</orgName>
+        </org>
+        <org xml:id="krp_org_id__343">
+          <orgName>Zentralangestelltenrat der deutschösterreichischen Staatsämter</orgName>
+        </org>
+        <org xml:id="krp_org_id__344">
+          <orgName>Exportakademie Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__345">
+          <orgName>Tiroler Provisorische Landesversammlung [ab 21.12.1918 bis 15.10.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__346">
+          <orgName>Kommission zur Erhebung militärischer Pflichtverletzungen</orgName>
+        </org>
+        <org xml:id="krp_org_id__347">
+          <orgName>Vorarlberger Landesregierung [14.11.1918 bis 27.04.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__349">
+          <orgName>Steiermärkischer Landtag [11.05.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__350">
+          <orgName>Kärntner Landesrat [?05.12.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__351">
+          <orgName>Finanzlandesdirektion in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__352">
+          <orgName>Vorarlberger Provisorische Landesversammlung [14.11.1918 bis 27.04.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__353">
+          <orgName>hofärarische Theater</orgName>
+        </org>
+        <org xml:id="krp_org_id__354">
+          <orgName>Statistische Zentralkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__355">
+          <orgName>Zentralverband der österreichischen Staatsbeamtenvereine</orgName>
+        </org>
+        <org xml:id="krp_org_id__356">
+          <orgName>Erzherzog-Friedrich-Kaserne</orgName>
+        </org>
+        <org xml:id="krp_org_id__357">
+          <orgName>Hauptanstalt für Sachdemobilisierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__360">
+          <orgName>Amerkanische Mission in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__361">
+          <orgName>Einigungsamtes für Streitigkeiten aus Lieferungsverträgen</orgName>
+        </org>
+        <org xml:id="krp_org_id__362">
+          <orgName>Einigungsamt in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__363">
+          <orgName>Hofkammerarchiv</orgName>
+        </org>
+        <org xml:id="krp_org_id__364">
+          <orgName>Konsularakademie</orgName>
+        </org>
+        <org xml:id="krp_org_id__365">
+          <orgName>Deutschösterreichisches Warenverkehrsbüro</orgName>
+        </org>
+        <org xml:id="krp_org_id__366">
+          <orgName>Ungarisches Warenverkehrsbüro</orgName>
+        </org>
+        <org xml:id="krp_org_id__367">
+          <orgName>alliierte Reparationskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__369">
+          <orgName>Naturhistorisches Museum</orgName>
+        </org>
+        <org xml:id="krp_org_id__370">
+          <orgName>Hofbibliothek</orgName>
+        </org>
+        <org xml:id="krp_org_id__371">
+          <orgName>Albertina</orgName>
+        </org>
+        <org xml:id="krp_org_id__372">
+          <orgName>Familienfideikommissbibliothek</orgName>
+        </org>
+        <org xml:id="krp_org_id__375">
+          <orgName>Gewerkschaft der Akademiker in öffentlichen Diensten Österreichs</orgName>
+        </org>
+        <org xml:id="krp_org_id__376">
+          <orgName>paritätischen Lohnkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__378">
+          <orgName>„Technischen Union“ der</orgName>
+        </org>
+        <org xml:id="krp_org_id__379">
+          <orgName>„Technischen Union“ der Telefon- und Telegrafenbediensteten</orgName>
+        </org>
+        <org xml:id="krp_org_id__380">
+          <orgName>Unionbank</orgName>
+        </org>
+        <org xml:id="krp_org_id__381">
+          <orgName>Länderbank</orgName>
+        </org>
+        <org xml:id="krp_org_id__382">
+          <orgName>Kramsacher Lände der Forst-</orgName>
+        </org>
+        <org xml:id="krp_org_id__384">
+          <orgName>Kramsacher Lände der Forst-</orgName>
+        </org>
+        <org xml:id="krp_org_id__386">
+          <orgName>Forst-und Domänendirektion</orgName>
+        </org>
+        <org xml:id="krp_org_id__387">
+          <orgName>russische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__420">
+          <orgName>k. u. k. Finanzministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__421">
+          <orgName>k. k. Finanzministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__422">
+          <orgName>tschechoslowakisches Ministerium für öffentliche Arbeiten</orgName>
+        </org>
+        <org xml:id="krp_org_id__423">
+          <orgName>Staatsamt für Kriegs- und Übergangswirtschaft [I]</orgName>
+        </org>
+        <org xml:id="krp_org_id__424">
+          <orgName>Niederösterreichische Provisorische Landesversammlung [05.11.1919 bis 20.05.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__425">
+          <orgName>Haus-, Hof- und Staatsarchiv</orgName>
+        </org>
+        <org xml:id="krp_org_id__426">
+          <orgName>Internationale Valutakommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__427">
+          <orgName>Finanzarchiv</orgName>
+        </org>
+        <org xml:id="krp_org_id__428">
+          <orgName>Staatsakademie für Musik und darstellende Kunst</orgName>
+        </org>
+        <org xml:id="krp_org_id__429">
+          <orgName>Zeitungsbeirat</orgName>
+        </org>
+        <org xml:id="krp_org_id__430">
+          <orgName>Heeres-, Führer- und Lehrerschule</orgName>
+        </org>
+        <org xml:id="krp_org_id__431">
+          <orgName>Theresianische Militärakademie in Wiener Neustadt</orgName>
+        </org>
+        <org xml:id="krp_org_id__432">
+          <orgName>Militärunterrealschule in Enns</orgName>
+        </org>
+        <org xml:id="krp_org_id__433">
+          <orgName>Generaldirektion der Habsburg-Lothringenschen Vermögensverwaltung</orgName>
+        </org>
+        <org xml:id="krp_org_id__434">
+          <orgName>Austro-Americana</orgName>
+        </org>
+        <org xml:id="krp_org_id__435">
+          <orgName>Staatsamt des Innern [I]</orgName>
+        </org>
+        <org xml:id="krp_org_id__436">
+          <orgName>Staatsamt für Unterricht [I]</orgName>
+        </org>
+        <org xml:id="krp_org_id__437">
+          <orgName>Staatsamt für Gewerbe, Industrie und Handel [I]</orgName>
+        </org>
+        <org xml:id="krp_org_id__438">
+          <orgName>Kongregation der Barmherzigen Schwestern vom heiligen Vinzenz von Paul</orgName>
+        </org>
+        <org xml:id="krp_org_id__439">
+          <orgName>Wiener Stadtbauamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__440">
+          <orgName>Kongregation der Missionspriester vom heiligen Vinzenz</orgName>
+        </org>
+        <org xml:id="krp_org_id__441">
+          <orgName>Bischöfliches Ordinariat Graz-Seckau</orgName>
+        </org>
+        <org xml:id="krp_org_id__443">
+          <orgName>Deutschösterreichische Dienststelle für gewerbliche Kreditangelegenheiten</orgName>
+        </org>
+        <org xml:id="krp_org_id__444">
+          <orgName>Internationaler Transportarbeiterverband</orgName>
+        </org>
+        <org xml:id="krp_org_id__445">
+          <orgName>Rote Garde</orgName>
+        </org>
+        <org xml:id="krp_org_id__446">
+          <orgName>Kommunistische Partei für Deutschösterreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__447">
+          <orgName>Großdeutsche Partei</orgName>
+        </org>
+        <org xml:id="krp_org_id__449">
+          <orgName>Hochschule für Bodenkultur</orgName>
+        </org>
+        <org xml:id="krp_org_id__450">
+          <orgName>Deutschösterreichisches Gewerbeförderungsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__451">
+          <orgName>zwischenstaatliche Kommission für die Auslegung und Handhabung von Fragen des Staatsbürgerrechtes und des Minderheitsschutzes</orgName>
+        </org>
+        <org xml:id="krp_org_id__452">
+          <orgName>Kriegskreditanstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__453">
+          <orgName>Internationales Arbeiteramt</orgName>
+        </org>
+        <org xml:id="krp_org_id__454">
+          <orgName>Völkerbund</orgName>
+        </org>
+        <org xml:id="krp_org_id__455">
+          <orgName>Komenský-Schulen in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__456">
+          <orgName>Interalliierter Militärmission</orgName>
+        </org>
+        <org xml:id="krp_org_id__457">
+          <orgName>Staatsbahndirektionen</orgName>
+        </org>
+        <org xml:id="krp_org_id__458">
+          <orgName>Divisionsgerichte</orgName>
+        </org>
+        <org xml:id="krp_org_id__459">
+          <orgName>Oberster Militärgerichtshof</orgName>
+        </org>
+        <org xml:id="krp_org_id__460">
+          <orgName>Interalliierter Marineüberwachungsausschuss</orgName>
+        </org>
+        <org xml:id="krp_org_id__461">
+          <orgName>Zentralverband der Staatsangestellten</orgName>
+        </org>
+        <org xml:id="krp_org_id__462">
+          <orgName>Richtervereinigung</orgName>
+        </org>
+        <org xml:id="krp_org_id__463">
+          <orgName>Syndikat Westen-Sieber</orgName>
+        </org>
+        <org xml:id="krp_org_id__464">
+          <orgName>österreichische Getreideanstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__465">
+          <orgName>Liquidierungsinspektorat</orgName>
+        </org>
+        <org xml:id="krp_org_id__466">
+          <orgName>Handels- und Gewerbekammer</orgName>
+        </org>
+        <org xml:id="krp_org_id__467">
+          <orgName>Internationale Donaukommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__468">
+          <orgName>serbische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__469">
+          <orgName>ungarischen Ministeriums für Volksernährung</orgName>
+        </org>
+        <org xml:id="krp_org_id__501">
+          <orgName>zwischenstaatliche Kommission für die Verhandlungen mit der [alliierten] Reparationskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__502">
+          <orgName>Niederösterreichische Landeskommission [05.11.1918 bis 14.11.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__503">
+          <orgName>deutschböhmische Landesregierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__504">
+          <orgName>Wiener Krankenanstaltenfonds</orgName>
+        </org>
+        <org xml:id="krp_org_id__507">
+          <orgName>rumänischer Nationalrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__508">
+          <orgName>tschechoslowakische Nationalversammlung</orgName>
+        </org>
+        <org xml:id="krp_org_id__509">
+          <orgName>österreichische Gesellschaft vom Roten Kreuz</orgName>
+        </org>
+        <org xml:id="krp_org_id__510">
+          <orgName>Kriegsgeschädigtenfonds</orgName>
+        </org>
+        <org xml:id="krp_org_id__511">
+          <orgName>schwedische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__512">
+          <orgName>Hauptzollamt in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__513">
+          <orgName>Mozarteum in Salzburg</orgName>
+        </org>
+        <org xml:id="krp_org_id__514">
+          <orgName>Habsburg, Familie und Vermögen</orgName>
+        </org>
+        <org xml:id="krp_org_id__515">
+          <orgName>Heeresverwaltungsstelle in Innsbruck</orgName>
+        </org>
+        <org xml:id="krp_org_id__516">
+          <orgName>Waldviertler Elekrizitätsgenossenschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__517">
+          <orgName>Wiener Finanzprokuratur</orgName>
+        </org>
+        <org xml:id="krp_org_id__550">
+          <orgName>Zentralverband der Staatsangestelltenvereinigungen</orgName>
+        </org>
+        <org xml:id="krp_org_id__552">
+          <orgName>Staatskommissariat</orgName>
+        </org>
+        <org xml:id="krp_org_id__553">
+          <orgName>Mobiliarverteilungsausschuss, MVA</orgName>
+        </org>
+        <org xml:id="krp_org_id__554">
+          <orgName>Verband der deutschösterreichischen Gewerbeförderungsanstalten</orgName>
+        </org>
+        <org xml:id="krp_org_id__555">
+          <orgName>Zentralverband der gewerblichen Erwerbs- und Wirtschaftsgenossenschaften Niederösterreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__556">
+          <orgName>k. k. höhere Weltpriester-Bildungsinstitut zum heiligen Augustin</orgName>
+        </org>
+        <org xml:id="krp_org_id__557">
+          <orgName>Landesschulrat Niederösterreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__558">
+          <orgName>Vereinigung der deutschösterreichischen Parlamentsberichterstatter</orgName>
+        </org>
+        <org xml:id="krp_org_id__559">
+          <orgName>Tiroler Landesausschuss [vor 26.10.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__560">
+          <orgName>Tiroler Landesrat [ab 21.12.1918–]</orgName>
+        </org>
+        <org xml:id="krp_org_id__561">
+          <orgName>Vereinigung der deutschösterreichischen Industrie</orgName>
+        </org>
+        <org xml:id="krp_org_id__562">
+          <orgName>Witkowitz</orgName>
+        </org>
+        <org xml:id="krp_org_id__563">
+          <orgName>Prager Eisenindustrie-Gesellschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__564">
+          <orgName>Mannesmann</orgName>
+        </org>
+        <org xml:id="krp_org_id__565">
+          <orgName>Brevillier und Urban</orgName>
+        </org>
+        <org xml:id="krp_org_id__566">
+          <orgName>Liebig</orgName>
+        </org>
+        <org xml:id="krp_org_id__567">
+          <orgName>Ginzkey</orgName>
+        </org>
+        <org xml:id="krp_org_id__568">
+          <orgName>Oberösterreichischer Provisorischer Landesausschuss [18.11.1918 bis 18.03.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__569">
+          <orgName>Salzburger Landesausschuss [vor 07.11.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__570">
+          <orgName>Steiermärkischer Landesausschuss [vor 06.11.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__603">
+          <orgName>Bund der sozialistischen Staatsangestellten Deutschösterreichs</orgName>
+        </org>
+        <org xml:id="krp_org_id__604">
+          <orgName>Wiener Gemeinderat</orgName>
+        </org>
+        <org xml:id="krp_org_id__605">
+          <orgName>Generaldirektion des Post-, Telegrafen-, und Telefswesens</orgName>
+        </org>
+        <org xml:id="krp_org_id__606">
+          <orgName>Haus Bourbon-Parma</orgName>
+        </org>
+        <org xml:id="krp_org_id__607">
+          <orgName>Obersthofmarschallamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__608">
+          <orgName>französische Armee</orgName>
+        </org>
+        <org xml:id="krp_org_id__609">
+          <orgName>Gewerbeförderungsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__610">
+          <orgName>Aktionskomitee der militärischen Angestellten</orgName>
+        </org>
+        <org xml:id="krp_org_id__643">
+          <orgName>Wiener Arsenal</orgName>
+        </org>
+        <org xml:id="krp_org_id__676">
+          <orgName>Oberösterreichische Provisorische Landesregierung [03.11.1918 bis 18.03.1919]</orgName>
+        </org>
+        <org xml:id="krp_org_id__677">
+          <orgName>Wiener Magistrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__678">
+          <orgName>Niederösterreichische k. k. Statthalterei [vor 05.11.1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__679">
+          <orgName>Landeskommission für Volkspflegestätten</orgName>
+        </org>
+        <org xml:id="krp_org_id__680">
+          <orgName>italienisches Außenamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__681">
+          <orgName>Staatskommission für Kriegsgefangenen- und Zivilinterniertenfürsorge</orgName>
+        </org>
+        <org xml:id="krp_org_id__682">
+          <orgName>Stubachwerk</orgName>
+        </org>
+        <org xml:id="krp_org_id__683">
+          <orgName>Mallnitzwerk</orgName>
+        </org>
+        <org xml:id="krp_org_id__684">
+          <orgName>Schweizer Unterrichtsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__685">
+          <orgName>Allgemeine Verband ländlicher Genossenschaften in Österreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__686">
+          <orgName>Kriegsgefangenen- und Zivilinterniertenamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__687">
+          <orgName>Stadtschutzwache</orgName>
+        </org>
+        <org xml:id="krp_org_id__688">
+          <orgName>k. k. Justizministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__689">
+          <orgName>Stift St. Peter Salzburg</orgName>
+        </org>
+        <org xml:id="krp_org_id__690">
+          <orgName>Hofmuseen, ehemaligen</orgName>
+        </org>
+        <org xml:id="krp_org_id__691">
+          <orgName>Kreditinstitutes für Verkehrsunternehmungen und öffentliche Arbeiten</orgName>
+        </org>
+        <org xml:id="krp_org_id__692">
+          <orgName>Wiener Giro- und Cassenverein</orgName>
+        </org>
+        <org xml:id="krp_org_id__694">
+          <orgName>Verkehrsausschuss der Nationalversammlung</orgName>
+        </org>
+        <org xml:id="krp_org_id__695">
+          <orgName>Reichsvollzugsausschuss der Arbeiterräte</orgName>
+        </org>
+        <org xml:id="krp_org_id__696">
+          <orgName>Salzburger Zeitung</orgName>
+        </org>
+        <org xml:id="krp_org_id__697">
+          <orgName>Vorarlberger Landesrat [03.11.1918-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__730">
+          <orgName>Staatsschuldenkontrollkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__731">
+          <orgName>Staatsrechnungshof</orgName>
+        </org>
+        <org xml:id="krp_org_id__732">
+          <orgName>Generalinspektion des österreischischen Eisenbahnwesens</orgName>
+        </org>
+        <org xml:id="krp_org_id__733">
+          <orgName>„Henry" Seifen-, Kerzen- und Fettwarenfabrik GmbH</orgName>
+        </org>
+        <org xml:id="krp_org_id__734">
+          <orgName>Österreichischen Credit-Instituts für öffentliche Unternehmungen und Arbeiten</orgName>
+        </org>
+        <org xml:id="krp_org_id__735">
+          <orgName>Wiener Börse</orgName>
+        </org>
+        <org xml:id="krp_org_id__768">
+          <orgName>Österreichische Staatstheater</orgName>
+        </org>
+        <org xml:id="krp_org_id__770">
+          <orgName>Burgtheater</orgName>
+        </org>
+        <org xml:id="krp_org_id__771">
+          <orgName>Operntheater</orgName>
+        </org>
+        <org xml:id="krp_org_id__772">
+          <orgName>Schönbrunner Schlosstheater</orgName>
+        </org>
+        <org xml:id="krp_org_id__803">
+          <orgName>Österreichische Waffenfabriks-Gesellschaft</orgName>
+        </org>
+        <org xml:id="krp_org_id__804">
+          <orgName>Tschechoslowakisches Eisenbahnministerium</orgName>
+        </org>
+        <org xml:id="krp_org_id__805">
+          <orgName>Spullerseewerk</orgName>
+        </org>
+        <org xml:id="krp_org_id__806">
+          <orgName>Vorarlberger Landtag [27.04.1919-]</orgName>
+        </org>
+        <org xml:id="krp_org_id__808">
+          <orgName>ungarische Armee</orgName>
+        </org>
+        <org xml:id="krp_org_id__809">
+          <orgName>G.M. Cloez &amp; Cie</orgName>
+        </org>
+        <org xml:id="krp_org_id__810">
+          <orgName>Elektrisierungsamt der deutschösterreichischen Staatsbahnen</orgName>
+        </org>
+        <org xml:id="krp_org_id__811">
+          <orgName>Stift Klosterneuburg</orgName>
+        </org>
+        <org xml:id="krp_org_id__812">
+          <orgName>Österreichische Akademie der Wissenschaften</orgName>
+        </org>
+        <org xml:id="krp_org_id__813">
+          <orgName>Wiener Städtische Straßenbahnen</orgName>
+        </org>
+        <org xml:id="krp_org_id__814">
+          <orgName>Staatsdenkmalamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__815">
+          <orgName>Landesgendarmariekommando Graz</orgName>
+        </org>
+        <org xml:id="krp_org_id__816">
+          <orgName>Oberster Rat der alliierten und assoziierten Mächte</orgName>
+        </org>
+        <org xml:id="krp_org_id__817">
+          <orgName>Staatsanwaltschaft Budapest</orgName>
+        </org>
+        <org xml:id="krp_org_id__818">
+          <orgName>Staatsanwaltschaft Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__819">
+          <orgName>Staatsanwaltschaft Krems</orgName>
+        </org>
+        <org xml:id="krp_org_id__850">
+          <orgName>Die rote Fahne</orgName>
+        </org>
+        <org xml:id="krp_org_id__851">
+          <orgName>Arbeiterrat für Stadt und Gerichtsbezirk Waidhofen an der Ybbs</orgName>
+        </org>
+        <org xml:id="krp_org_id__852">
+          <orgName>Gerichtsbezirk Waidhofen an der Ybbs</orgName>
+        </org>
+        <org xml:id="krp_org_id__853">
+          <orgName>französische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__854">
+          <orgName>Seidenrohstoffzentrale AG</orgName>
+        </org>
+        <org xml:id="krp_org_id__855">
+          <orgName>Firma Caro &amp; Jellinek</orgName>
+        </org>
+        <org xml:id="krp_org_id__856">
+          <orgName>rumänische Armee</orgName>
+        </org>
+        <org xml:id="krp_org_id__857">
+          <orgName>Landeskulturrat für Österreich unter der Enns</orgName>
+        </org>
+        <org xml:id="krp_org_id__858">
+          <orgName>Landeskulturrat für Vorarlberg</orgName>
+        </org>
+        <org xml:id="krp_org_id__859">
+          <orgName>Oberdorfer Magnesitwerke GmbH</orgName>
+        </org>
+        <org xml:id="krp_org_id__860">
+          <orgName>Schweizer Aktionskomitee</orgName>
+        </org>
+        <org xml:id="krp_org_id__861">
+          <orgName>Landesschulrat Kärnten</orgName>
+        </org>
+        <org xml:id="krp_org_id__862">
+          <orgName>Stadtschulrat Klagenfurt</orgName>
+        </org>
+        <org xml:id="krp_org_id__863">
+          <orgName>Technische Militärakademie in Mödling</orgName>
+        </org>
+        <org xml:id="krp_org_id__864">
+          <orgName>Kronfideikommissgut Eisenerz-Radmer</orgName>
+        </org>
+        <org xml:id="krp_org_id__865">
+          <orgName>Staatliche Heilmitteldirektion</orgName>
+        </org>
+        <org xml:id="krp_org_id__866">
+          <orgName>Liechtensteiner Landtag</orgName>
+        </org>
+        <org xml:id="krp_org_id__867">
+          <orgName>liechtensteinische Regierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__868">
+          <orgName>Österreichisch-liechtensteinerische Zoll- und Steuerverein</orgName>
+        </org>
+        <org xml:id="krp_org_id__869">
+          <orgName>Landesviehverkehrsstelle Bregenz</orgName>
+        </org>
+        <org xml:id="krp_org_id__870">
+          <orgName>Zentralverband der Invaliden</orgName>
+        </org>
+        <org xml:id="krp_org_id__871">
+          <orgName>k. u. k. Ministerium des Äußern</orgName>
+        </org>
+        <org xml:id="krp_org_id__872">
+          <orgName>k. k. Ministerium für Kultus und Unterricht</orgName>
+        </org>
+        <org xml:id="krp_org_id__873">
+          <orgName>Kloster der Töchter vom Hl. Herzen Jesu</orgName>
+        </org>
+        <org xml:id="krp_org_id__874">
+          <orgName>Vorarlberger Landesausschuss</orgName>
+        </org>
+        <org xml:id="krp_org_id__875">
+          <orgName>französische Militärmission</orgName>
+        </org>
+        <org xml:id="krp_org_id__877">
+          <orgName>Stift Michaelbeuern</orgName>
+        </org>
+        <org xml:id="krp_org_id__878">
+          <orgName>Bischöfliches Ordinariat Salzburg</orgName>
+        </org>
+        <org xml:id="krp_org_id__879">
+          <orgName>Tabakregie</orgName>
+        </org>
+        <org xml:id="krp_org_id__880">
+          <orgName>k. u. k. Montanverkaufsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__881">
+          <orgName>tschechoslowakische Liquidierungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__882">
+          <orgName>Arbeiter- und Soldatenrat im politischen Bezirk Baden</orgName>
+        </org>
+        <org xml:id="krp_org_id__883">
+          <orgName>American Relief Administration</orgName>
+        </org>
+        <org xml:id="krp_org_id__884">
+          <orgName>Infanterie-Kadettenschule Liebenau</orgName>
+        </org>
+        <org xml:id="krp_org_id__885">
+          <orgName>Gewerkschaftskommission Deutschösterreichs</orgName>
+        </org>
+        <org xml:id="krp_org_id__886">
+          <orgName>Männergesangsverein Liebenau</orgName>
+        </org>
+        <org xml:id="krp_org_id__887">
+          <orgName>Vereinigten Leder- und Schuhfabriken, gemeinwirtschaftliche Anstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__888">
+          <orgName>Sachverständigenkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__889">
+          <orgName>Landwirtschaftliche Warenverkehrsstelle</orgName>
+        </org>
+        <org xml:id="krp_org_id__890">
+          <orgName>Großeinkaufsgesellschaft für österreichische Konsumvereine</orgName>
+        </org>
+        <org xml:id="krp_org_id__892">
+          <orgName>Verein der deutschen Eisenbahnbeamten</orgName>
+        </org>
+        <org xml:id="krp_org_id__893">
+          <orgName>Kreisarbeiterrat Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__894">
+          <orgName>Volksbekleidungsamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__895">
+          <orgName>Arader Gegenregierung (Ungarn)</orgName>
+        </org>
+        <org xml:id="krp_org_id__896">
+          <orgName>zwischenstaatsamtliche Verwaltungskommission für Heeresbetriebe</orgName>
+        </org>
+        <org xml:id="krp_org_id__897">
+          <orgName>Reichsrat [bis November 1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__898">
+          <orgName>Wiener Zeitung</orgName>
+        </org>
+        <org xml:id="krp_org_id__899">
+          <orgName>Landesverband für Fremdenverkehr in Deutschböhmen</orgName>
+        </org>
+        <org xml:id="krp_org_id__900">
+          <orgName>Linzer Kriegswucheramt</orgName>
+        </org>
+        <org xml:id="krp_org_id__901">
+          <orgName>Grazer Kriegswucheramt</orgName>
+        </org>
+        <org xml:id="krp_org_id__902">
+          <orgName>k. k. Ministerium für Volksernährung</orgName>
+        </org>
+        <org xml:id="krp_org_id__903">
+          <orgName>Whitehead &amp; CO AG</orgName>
+        </org>
+        <org xml:id="krp_org_id__904">
+          <orgName>Staatsgalerie</orgName>
+        </org>
+        <org xml:id="krp_org_id__905">
+          <orgName>Hofmuseum</orgName>
+        </org>
+        <org xml:id="krp_org_id__906">
+          <orgName>Museum für Kunst und Industrie</orgName>
+        </org>
+        <org xml:id="krp_org_id__907">
+          <orgName>Stadterweiterungsfonds</orgName>
+        </org>
+        <org xml:id="krp_org_id__908">
+          <orgName>Verband der landwirtschaftlichen Genossenschaften Niederösterrreich</orgName>
+        </org>
+        <org xml:id="krp_org_id__909">
+          <orgName>Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt</orgName>
+        </org>
+        <org xml:id="krp_org_id__911">
+          <orgName></orgName>
+        </org>
+        <org xml:id="krp_org_id__912">
+          <orgName>Postsparkassenamt</orgName>
+        </org>
+        <org xml:id="krp_org_id__913">
+          <orgName>Verfassungsausschuss der deutschen Nationalversammlung</orgName>
+        </org>
+        <org xml:id="krp_org_id__914">
+          <orgName>Neue Freie Presse</orgName>
+        </org>
+        <org xml:id="krp_org_id__915">
+          <orgName>Friedensdelegation in St. Germain</orgName>
+        </org>
+        <org xml:id="krp_org_id__916">
+          <orgName>Landesschulrat Tirol</orgName>
+        </org>
+        <org xml:id="krp_org_id__918">
+          <orgName>Gendarmerie</orgName>
+        </org>
+        <org xml:id="krp_org_id__919">
+          <orgName>Landsturm</orgName>
+        </org>
+        <org xml:id="krp_org_id__920">
+          <orgName>Verein steirischer Bodenreformer</orgName>
+        </org>
+        <org xml:id="krp_org_id__921">
+          <orgName>Stift Melk</orgName>
+        </org>
+        <org xml:id="krp_org_id__922">
+          <orgName>Bischöfliches Ordinariat Wien</orgName>
+        </org>
+      </listOrg>
+    </body>
+  </text>
+</TEI>
