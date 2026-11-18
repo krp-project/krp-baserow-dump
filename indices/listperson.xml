@@ -1264,6 +1264,8 @@
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
           <occupation>Rechtsanwalt</occupation>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/116120096</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q25062055</idno>
         </person>
         <person xml:id="krp_person_id__549">
           <persName>Berchtold, Leopold [Graf]</persName>
@@ -1276,6 +1278,7 @@
             <placeName>Peresznye bei Ödenburg</placeName>
           </death>
           <occupation>Ehemaliger Oberstkämmerer</occupation>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q88594937</idno>
         </person>
         <person xml:id="krp_person_id__103">
           <persName>Berka, Johann</persName>

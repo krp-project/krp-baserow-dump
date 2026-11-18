@@ -19,6 +19,7 @@
       <listOrg>
         <org xml:id="krp_org_id__1">
           <orgName>AG Elektrizitätswerk Wels</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q105762315</idno>
         </org>
         <org xml:id="krp_org_id__2">
           <orgName>Anglo-österreichische Bank</orgName>
@@ -28,9 +29,12 @@
         </org>
         <org xml:id="krp_org_id__3">
           <orgName>[Allgemeine österreichische] Bodencreditanstalt</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q889479</idno>
         </org>
         <org xml:id="krp_org_id__4">
           <orgName>Bankhaus Kuhn, Loeb &amp; Co</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/10179869-6</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1759732</idno>
         </org>
         <org xml:id="krp_org_id__5">
           <orgName>Berufsgenossenschaftliche Unfallversicherungsanstalt</orgName>
@@ -43,6 +47,8 @@
         </org>
         <org xml:id="krp_org_id__7">
           <orgName>Daimler-Motoren-AG</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/32537-5</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q699551</idno>
         </org>
         <org xml:id="krp_org_id__98">
           <orgName>Allgemeine österreichische Boden-Credit-Anstalt</orgName>
@@ -55,6 +61,8 @@
         </org>
         <org xml:id="krp_org_id__8">
           <orgName>Donaudampfschiffahrtsgesellschaft</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1056582-6</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q697026</idno>
         </org>
         <org xml:id="krp_org_id__9">
           <orgName>Eltz’sche Spinnerei</orgName>
@@ -148,6 +156,8 @@
         </org>
         <org xml:id="krp_org_id__29">
           <orgName>[Oesterreichisch-]Alpine Montangesellschaft</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/381033-1</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q298821</idno>
         </org>
         <org xml:id="krp_org_id__30">
           <orgName>Österreichischen Immobiliarbank AG</orgName>
@@ -230,9 +240,6 @@
         <org xml:id="krp_org_id__55">
           <orgName>Staatliche Industriewerke</orgName>
         </org>
-        <org xml:id="krp_org_id__57">
-          <orgName>Erzherzoglich Ludwig Viktor'sche Familienstiftung</orgName>
-        </org>
         <org xml:id="krp_org_id__58">
           <orgName>Mayreder, Kraus &amp; Co. Bauholdingges.M.b.H.</orgName>
         </org>
@@ -262,6 +269,8 @@
         </org>
         <org xml:id="krp_org_id__145">
           <orgName>Ankerbrotfabrik Mendl</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/5149745-1</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q557116</idno>
         </org>
         <org xml:id="krp_org_id__146">
           <orgName>Czernowitzer Universität</orgName>
@@ -385,6 +394,7 @@
         </org>
         <org xml:id="krp_org_id__223">
           <orgName>Entente</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q215669</idno>
         </org>
         <org xml:id="krp_org_id__224">
           <orgName>Staatsrat</orgName>
@@ -418,6 +428,8 @@
         </org>
         <org xml:id="krp_org_id__234">
           <orgName>Christlichsoziale Partei</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/5199156-1</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q692131</idno>
         </org>
         <org xml:id="krp_org_id__235">
           <orgName>Verwaltungsgerichtshof</orgName>
@@ -451,6 +463,7 @@
         </org>
         <org xml:id="krp_org_id__245">
           <orgName>Deutsche Reichsbank</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q66774560</idno>
         </org>
         <org xml:id="krp_org_id__246">
           <orgName>k. u. k. Kriegsministerium</orgName>
@@ -785,6 +798,8 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__371">
           <orgName>Albertina</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/2012512-4</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q371908</idno>
         </org>
         <org xml:id="krp_org_id__372">
           <orgName>Familienfideikommissbibliothek</orgName>
@@ -795,9 +810,6 @@ in München</orgName>
         <org xml:id="krp_org_id__376">
           <orgName>paritätischen Lohnkommission</orgName>
         </org>
-        <org xml:id="krp_org_id__378">
-          <orgName>„Technischen Union“ der</orgName>
-        </org>
         <org xml:id="krp_org_id__379">
           <orgName>„Technischen Union“ der Telefon- und Telegrafenbediensteten</orgName>
         </org>
@@ -806,12 +818,6 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__381">
           <orgName>Länderbank</orgName>
-        </org>
-        <org xml:id="krp_org_id__382">
-          <orgName>Kramsacher Lände der Forst-</orgName>
-        </org>
-        <org xml:id="krp_org_id__384">
-          <orgName>Kramsacher Lände der Forst-</orgName>
         </org>
         <org xml:id="krp_org_id__386">
           <orgName>Forst-und Domänendirektion</orgName>
@@ -899,9 +905,13 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__447">
           <orgName>Großdeutsche Partei</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/410560-6</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q698101</idno>
         </org>
         <org xml:id="krp_org_id__449">
           <orgName>Hochschule für Bodenkultur</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1033666-7</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q876520</idno>
         </org>
         <org xml:id="krp_org_id__450">
           <orgName>Deutschösterreichisches Gewerbeförderungsamt</orgName>
@@ -1079,6 +1089,8 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__606">
           <orgName>Haus Bourbon-Parma</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/119388650</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q895187</idno>
         </org>
         <org xml:id="krp_org_id__607">
           <orgName>Obersthofmarschallamt</orgName>
@@ -1124,6 +1136,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__685">
           <orgName>Allgemeine Verband ländlicher Genossenschaften in Österreich</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q306376</idno>
         </org>
         <org xml:id="krp_org_id__686">
           <orgName>Kriegsgefangenen- und Zivilinterniertenamt</orgName>
@@ -1181,6 +1194,8 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__770">
           <orgName>Burgtheater</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1031490280</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q109377820</idno>
         </org>
         <org xml:id="krp_org_id__771">
           <orgName>Operntheater</orgName>
@@ -1214,6 +1229,8 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__812">
           <orgName>Österreichische Akademie der Wissenschaften</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1001454-8</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q299015</idno>
         </org>
         <org xml:id="krp_org_id__813">
           <orgName>Wiener Städtische Straßenbahnen</orgName>
@@ -1334,6 +1351,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__883">
           <orgName>American Relief Administration</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q466663</idno>
         </org>
         <org xml:id="krp_org_id__884">
           <orgName>Infanterie-Kadettenschule Liebenau</orgName>
@@ -1430,6 +1448,8 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__918">
           <orgName>Gendarmerie</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/402315-8</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877487</idno>
         </org>
         <org xml:id="krp_org_id__919">
           <orgName>Landsturm</orgName>

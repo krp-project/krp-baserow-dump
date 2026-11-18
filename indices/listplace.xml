@@ -2958,6 +2958,9 @@
           <placeName>Ödenburg</placeName>
           <placeName type="alt">Sopron</placeName>
         </place>
+        <place xml:id="krp_place_id__722">
+          <placeName>Kramsacher Lände</placeName>
+        </place>
       </listPlace>
     </body>
   </text>
