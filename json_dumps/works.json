@@ -6,7 +6,7 @@
     "note": "",
     "krp_work_id": "krp_work_id__1",
     "source": null,
-    "mrp_work_id": null,
+    "mpr_work_id": null,
     "tei-code": null
   },
   "2": {
@@ -16,7 +16,7 @@
     "note": "StGBl. 303/1920",
     "krp_work_id": "krp_work_id__2",
     "source": null,
-    "mrp_work_id": null,
+    "mpr_work_id": null,
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__2\">Vertrag von St. Germain</rs>"
   },
   "34": {
@@ -26,7 +26,7 @@
     "note": "",
     "krp_work_id": "krp_work_id__34",
     "source": null,
-    "mrp_work_id": null,
+    "mpr_work_id": null,
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__34\"></rs>"
   },
   "35": {
@@ -36,7 +36,7 @@
     "note": "?",
     "krp_work_id": "krp_work_id__35",
     "source": "",
-    "mrp_work_id": "",
+    "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__35\"></rs>"
   },
   "36": {
@@ -46,7 +46,7 @@
     "note": "",
     "krp_work_id": "krp_work_id__36",
     "source": "",
-    "mrp_work_id": "",
+    "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__36\">Haager Prozessübereinkommen</rs>"
   },
   "37": {
@@ -56,7 +56,7 @@
     "note": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001746&FassungVom=2026-10-19&Artikel=1&Paragraf=&Anlage=&Uebergangsrecht=",
     "krp_work_id": "krp_work_id__37",
     "source": "",
-    "mrp_work_id": "",
+    "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__37\">Berner Urheberschutzkonvention</rs>"
   },
   "38": {
@@ -66,7 +66,7 @@
     "note": "",
     "krp_work_id": "krp_work_id__38",
     "source": "",
-    "mrp_work_id": "",
+    "mpr_work_id": "",
     "tei-code": ""
   }
 }

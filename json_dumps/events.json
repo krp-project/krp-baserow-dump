@@ -6,7 +6,7 @@
     "note": "",
     "krp_event_id": "krp_event_id__1",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__1\">Sokolkongress</rs>",
-    "mrp_event_id": null
+    "mpr_event_id": null
   },
   "2": {
     "id": 2,
@@ -15,7 +15,7 @@
     "note": "krp57",
     "krp_event_id": "krp_event_id__2",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__2\">Länderkonferenz</rs>",
-    "mrp_event_id": null
+    "mpr_event_id": null
   },
   "3": {
     "id": 3,
@@ -24,7 +24,7 @@
     "note": "",
     "krp_event_id": "krp_event_id__3",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__3\">Wiener Armenlotterie</rs>",
-    "mrp_event_id": null
+    "mpr_event_id": null
   },
   "36": {
     "id": 36,
@@ -33,7 +33,7 @@
     "note": "",
     "krp_event_id": "krp_event_id__36",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__36\">Internationale Arbeitskonferenz zu Washington</rs>",
-    "mrp_event_id": ""
+    "mpr_event_id": ""
   },
   "37": {
     "id": 37,
@@ -42,6 +42,6 @@
     "note": "",
     "krp_event_id": "krp_event_id__37",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__37\">Konferenz der Internationalen Liga für Frauenstimmrecht</rs>",
-    "mrp_event_id": ""
+    "mpr_event_id": ""
   }
 }

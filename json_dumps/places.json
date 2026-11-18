@@ -5710,5 +5710,19 @@
     "gnd_url": "",
     "latitude": "",
     "longitude": ""
+  },
+  "722": {
+    "id": 722,
+    "order": "417.00000000000000000000",
+    "label": "Kramsacher Lände",
+    "krp_place_id": "krp_place_id__722",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__722\">Kramsacher Lände</rs>",
+    "mpr_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
   }
 }

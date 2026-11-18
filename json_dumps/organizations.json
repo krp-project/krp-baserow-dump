@@ -9,7 +9,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__1\"></rs>",
     "mpr_org_id": null,
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q105762315"
   },
   "2": {
     "id": 2,
@@ -33,7 +33,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__3\"></rs>",
     "mpr_org_id": null,
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q889479"
   },
   "4": {
     "id": 4,
@@ -44,8 +44,8 @@
     "krp_org_id": "krp_org_id__4",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__4\"></rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/10179869-6",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1759732"
   },
   "5": {
     "id": 5,
@@ -92,8 +92,8 @@
     "krp_org_id": "krp_org_id__7",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__7\"></rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/32537-5",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q699551"
   },
   "98": {
     "id": 98,
@@ -140,8 +140,8 @@
     "krp_org_id": "krp_org_id__8",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__8\"></rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/1056582-6",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q697026"
   },
   "9": {
     "id": 9,
@@ -512,8 +512,8 @@
     "krp_org_id": "krp_org_id__29",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__29\"></rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/381033-1",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q298821"
   },
   "30": {
     "id": 30,
@@ -839,18 +839,6 @@
     "gnd_url": "",
     "wikidata_url": ""
   },
-  "57": {
-    "id": 57,
-    "order": "56.00000000000000000000",
-    "label": "Erzherzoglich Ludwig Viktor'sche Familienstiftung",
-    "note": "",
-    "source": "https://sammlung-online.salzburgmuseum.at/detail/collection/1c8f3738-deaa-4fd3-8e65-356a0a9bdfe4",
-    "krp_org_id": "krp_org_id__57",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__57\"></rs>",
-    "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
   "58": {
     "id": 58,
     "order": "57.00000000000000000000",
@@ -968,8 +956,8 @@
     "krp_org_id": "krp_org_id__145",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__145\"></rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/5149745-1",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q557116"
   },
   "146": {
     "id": 146,
@@ -1461,7 +1449,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__223\">Entente</rs>",
     "mpr_org_id": null,
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q215669"
   },
   "224": {
     "id": 224,
@@ -1592,8 +1580,8 @@
     "krp_org_id": "krp_org_id__234",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__234\">Christlichsoziale Partei</rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/5199156-1",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q692131"
   },
   "235": {
     "id": 235,
@@ -1725,7 +1713,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__245\"></rs>",
     "mpr_org_id": null,
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q66774560"
   },
   "246": {
     "id": 246,
@@ -3056,8 +3044,8 @@
     "krp_org_id": "krp_org_id__371",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__371\">Albertina</rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/2012512-4",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q371908"
   },
   "372": {
     "id": 372,
@@ -3095,18 +3083,6 @@
     "gnd_url": "",
     "wikidata_url": ""
   },
-  "378": {
-    "id": 378,
-    "order": "264.00000000000000000000",
-    "label": "„Technischen Union“ der",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__378",
-    "tei_code": "",
-    "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
   "379": {
     "id": 379,
     "order": "265.00000000000000000000",
@@ -3139,30 +3115,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__381",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__381\">Länderbank</rs>",
-    "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
-  "382": {
-    "id": 382,
-    "order": "268.00000000000000000000",
-    "label": "Kramsacher Lände der Forst-",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__382",
-    "tei_code": "",
-    "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
-  "384": {
-    "id": 384,
-    "order": "270.00000000000000000000",
-    "label": "Kramsacher Lände der Forst-",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__384",
-    "tei_code": "",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
@@ -3512,8 +3464,8 @@
     "krp_org_id": "krp_org_id__447",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__447\">Großdeutsche Partei</rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/410560-6",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q698101"
   },
   "449": {
     "id": 449,
@@ -3524,8 +3476,8 @@
     "krp_org_id": "krp_org_id__449",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__449\">Hochschule für Bodenkultur</rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/1033666-7",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q876520"
   },
   "450": {
     "id": 450,
@@ -4232,8 +4184,8 @@
     "krp_org_id": "krp_org_id__606",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__606\"></rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/119388650",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q895187"
   },
   "607": {
     "id": 607,
@@ -4413,7 +4365,7 @@
     "tei_code": "",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q306376"
   },
   "686": {
     "id": 686,
@@ -4640,8 +4592,8 @@
     "krp_org_id": "krp_org_id__770",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__770\">Burgtheater</rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/1031490280",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q109377820"
   },
   "771": {
     "id": 771,
@@ -4772,8 +4724,8 @@
     "krp_org_id": "krp_org_id__812",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__812\"></rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/1001454-8",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q299015"
   },
   "813": {
     "id": 813,
@@ -5253,7 +5205,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__883\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q466663"
   },
   "884": {
     "id": 884,
@@ -5636,8 +5588,8 @@
     "krp_org_id": "krp_org_id__918",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__918\"></rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/402315-8",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q877487"
   },
   "919": {
     "id": 919,
