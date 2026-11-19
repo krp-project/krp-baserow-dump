@@ -63,5 +63,18 @@
     "gnd_url": "",
     "start_date": null,
     "end_date": null
+  },
+  "70": {
+    "id": 70,
+    "order": "6.00000000000000000000",
+    "label": "Test Event",
+    "note": "",
+    "krp_event_id": "krp_event_id__70",
+    "tei_code": "",
+    "mpr_event_id": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q4115189",
+    "gnd_url": "",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-19"
   }
 }
