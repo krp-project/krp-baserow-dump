@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ereignisregister zum Projekt „Die Protokolle des österreichischen Kabinettsrates 1919–1920“</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Converted from Baserow data dumped as JSON to https://github.com/krp-project/krp-baserow-dump</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listEvent>
+        <event xml:id="krp_event_id__1">
+          <eventName>Sokolkongress</eventName>
+        </event>
+        <event xml:id="krp_event_id__2">
+          <eventName>Länderkonferenz</eventName>
+        </event>
+        <event xml:id="krp_event_id__3">
+          <eventName>Wiener Armenlotterie</eventName>
+        </event>
+        <event xml:id="krp_event_id__36">
+          <eventName>Internationale Arbeitskonferenz zu Washington</eventName>
+        </event>
+        <event xml:id="krp_event_id__37">
+          <eventName>Konferenz der Internationalen Liga für Frauenstimmrecht</eventName>
+        </event>
+        <event xml:id="krp_event_id__70" notBefore-iso="2026-11-18" notAfter-iso="2026-11-19">
+          <eventName>Test Event</eventName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4115189</idno>
+        </event>
+      </listEvent>
+    </body>
+  </text>
+</TEI>
