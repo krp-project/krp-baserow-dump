@@ -8,7 +8,9 @@
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__1\">Sokolkongress</rs>",
     "mpr_event_id": null,
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "start_date": null,
+    "end_date": null
   },
   "2": {
     "id": 2,
@@ -19,7 +21,9 @@
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__2\">Länderkonferenz</rs>",
     "mpr_event_id": null,
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "start_date": null,
+    "end_date": null
   },
   "3": {
     "id": 3,
@@ -30,7 +34,9 @@
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__3\">Wiener Armenlotterie</rs>",
     "mpr_event_id": null,
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "start_date": null,
+    "end_date": null
   },
   "36": {
     "id": 36,
@@ -41,7 +47,9 @@
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__36\">Internationale Arbeitskonferenz zu Washington</rs>",
     "mpr_event_id": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "start_date": null,
+    "end_date": null
   },
   "37": {
     "id": 37,
@@ -52,6 +60,8 @@
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__37\">Konferenz der Internationalen Liga für Frauenstimmrecht</rs>",
     "mpr_event_id": "",
     "wikidata_url": "",
-    "gnd_url": ""
+    "gnd_url": "",
+    "start_date": null,
+    "end_date": null
   }
 }
