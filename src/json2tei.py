@@ -245,3 +245,57 @@ root.addprevious(pi)
 tree = etree.ElementTree(root)
 
 tree.write(output_path, encoding="utf-8", xml_declaration=True, pretty_print=True)
+
+# listEvent
+
+input_path = os.path.join(INPUT_DIR, "events.json")
+
+with open(input_path, "r", encoding="utf-8") as json_file:
+    data = json.load(json_file)
+
+events = data.values()
+
+root = build_root("Ereignisregister zum Projekt „Die Protokolle des österreichischen Kabinettsrates 1919–1920“")
+
+tei_text = etree.SubElement(root, f"{{{TEI_NS}}}text")
+
+tei_body = etree.SubElement(tei_text, f"{{{TEI_NS}}}body")
+
+tei_listevent = etree.SubElement(tei_body, f"{{{TEI_NS}}}listEvent")
+
+for event in events:
+
+    tei_event = etree.SubElement(tei_listevent, f"{{{TEI_NS}}}event",
+                                 attrib={f"{{{XML_NS}}}id": event["krp_event_id"]})
+    if event["start_date"]:
+        tei_event.set("notBefore-iso", event["start_date"])
+    if event["end_date"]:
+        tei_event.set("notAfter-iso", event["end_date"])
+
+    tei_eventname = etree.SubElement(tei_event, f"{{{TEI_NS}}}eventName")
+    tei_eventname.text = event["label"]
+
+    if event["gnd_url"]:
+        tei_event_idno_gnd = etree.SubElement(tei_event, f"{{{TEI_NS}}}idno", type="URL", subtype="GND")
+        tei_event_idno_gnd.text = event["gnd_url"]
+
+    if event["wikidata_url"]:
+        wikidata_qid = WIKIDATA_QID.search(event["wikidata_url"])
+        if wikidata_qid:
+            tei_event_idno_wd = etree.SubElement(tei_event, f"{{{TEI_NS}}}idno", type="URL", subtype="WIKIDATA")
+            tei_event_idno_wd.text = f"http://www.wikidata.org/entity/{wikidata_qid.group()}"
+
+    if event["mpr_event_id"] and event["mpr_event_id"] != "0":
+        tei_event_idno_mpr = etree.SubElement(tei_event, f"{{{TEI_NS}}}idno", type="URL", subtype="MPR")
+        tei_event_idno_mpr.text = f"https://mpr.acdh.oeaw.ac.at/entity/{event["mpr_event_id"]}/"
+
+output_path = os.path.join(OUTPUT_DIR, "listevent.xml")
+
+pi = etree.ProcessingInstruction("xml-model",
+                                 "href='http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng' " \
+                                 "type='application/xml' schematypens='http://relaxng.org/ns/structure/1.0'")
+root.addprevious(pi)
+
+tree = etree.ElementTree(root)
+
+tree.write(output_path, encoding="utf-8", xml_declaration=True, pretty_print=True)
