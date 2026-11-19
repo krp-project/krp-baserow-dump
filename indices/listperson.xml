@@ -105,7 +105,7 @@
             <date when-iso="1931-04-20">1931-04-20</date>
             <placeName ref="#krp_place_id__15">Wien</placeName>
           </death>
-          <occupation>Unterstaatssekretär für Inneres [II]; Staatssekretär für Inneres und Unterricht [III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Justiz [III]</occupation>
+          <occupation>ab 9. Mai 1919 Staatssekretär für Inneres und Unterricht [II-III]; von 26.06.1920 bis 07.07.1920 betraut mit der Führung des Staatsamtes für Justiz [III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/126417598</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1305686</idno>
         </person>
@@ -3829,10 +3829,12 @@
           <occupation>Rechnungsdirektor der Staatskanzlei, Hofrat</occupation>
         </person>
         <person xml:id="krp_person_id__1163">
-          <persName></persName>
+          <persName>Hahn, Matthias</persName>
+          <occupation>Erster Staatsanwallt in München</occupation>
         </person>
         <person xml:id="krp_person_id__1164">
-          <persName></persName>
+          <persName>Oranien-Nassau, Wilhelmina Helena Pauline Maria von</persName>
+          <occupation>Königin von Holland</occupation>
         </person>
         <person xml:id="krp_person_id__1165">
           <persName>Seidler [von Feuchtenegg], Ernst Dr.</persName>
@@ -3854,6 +3856,26 @@
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1288672</idno>
         </person>
         <person xml:id="krp_person_id__1167">
+          <persName>Minkus</persName>
+          <occupation>Präsident des Giro- und Kassenvereins</occupation>
+        </person>
+        <person xml:id="krp_person_id__1169">
+          <persName>Kola, Richard</persName>
+          <occupation>Bankhausdirektor Firma Kola</occupation>
+        </person>
+        <person xml:id="krp_person_id__1170">
+          <persName>Stzankovics,</persName>
+          <occupation>Direktor der Devisenzentrale</occupation>
+        </person>
+        <person xml:id="krp_person_id__1171">
+          <persName>Otto</persName>
+          <occupation>Staatszentralkassa Otto</occupation>
+        </person>
+        <person xml:id="krp_person_id__1172">
+          <persName>Kux</persName>
+          <occupation>Bankdirektor</occupation>
+        </person>
+        <person xml:id="krp_person_id__1173">
           <persName></persName>
         </person>
       </listPerson>

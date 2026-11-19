@@ -52,6 +52,7 @@
         </org>
         <org xml:id="krp_org_id__98">
           <orgName>Allgemeine österreichische Boden-Credit-Anstalt</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q889479</idno>
         </org>
         <org xml:id="krp_org_id__93">
           <orgName>Arbeiter-Unfallversicherungsanstalt</orgName>
@@ -207,9 +208,6 @@
         <org xml:id="krp_org_id__45">
           <orgName>Virginier-Fabrik</orgName>
         </org>
-        <org xml:id="krp_org_id__46">
-          <orgName>Waldviertler Elektrizitätsgenossenschaft</orgName>
-        </org>
         <org xml:id="krp_org_id__47">
           <orgName>WEWA - Wasserkraft- und Elektrizitätswirtschaftsamt</orgName>
         </org>
@@ -274,6 +272,7 @@
         </org>
         <org xml:id="krp_org_id__146">
           <orgName>Czernowitzer Universität</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q1551183</idno>
         </org>
         <org xml:id="krp_org_id__147">
           <orgName>Präsidentschaftskanzlei</orgName>
@@ -425,6 +424,7 @@
         </org>
         <org xml:id="krp_org_id__233">
           <orgName>Sozialdemokratische Partei</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q179111</idno>
         </org>
         <org xml:id="krp_org_id__234">
           <orgName>Christlichsoziale Partei</orgName>
@@ -479,9 +479,13 @@
         </org>
         <org xml:id="krp_org_id__250">
           <orgName>Universität Wien</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/2024703-5</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q165980</idno>
         </org>
         <org xml:id="krp_org_id__251">
           <orgName>Veterinärmedizinische Universität</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1038106-5</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q877421</idno>
         </org>
         <org xml:id="krp_org_id__252">
           <orgName>Tschechoslowakisches Finanzministerium</orgName>
@@ -490,7 +494,7 @@
           <orgName>Staatsamt für öffentliche Arbeiten [I]</orgName>
         </org>
         <org xml:id="krp_org_id__255">
-          <orgName>jugoslawische Regierung</orgName>
+          <orgName>SHS-Regierung</orgName>
         </org>
         <org xml:id="krp_org_id__256">
           <orgName>Staatsamt für soziale Fürsorge [I]</orgName>
@@ -630,9 +634,6 @@
         <org xml:id="krp_org_id__308">
           <orgName>Zentralgrenzkommission</orgName>
         </org>
-        <org xml:id="krp_org_id__309">
-          <orgName>SHS-Regierung</orgName>
-        </org>
         <org xml:id="krp_org_id__310">
           <orgName>Tiroler Verfassungsgebender Landtag [15.10.1919-]</orgName>
         </org>
@@ -729,6 +730,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__344">
           <orgName>Exportakademie Wien</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q278044</idno>
         </org>
         <org xml:id="krp_org_id__345">
           <orgName>Tiroler Provisorische Landesversammlung [ab 21.12.1918 bis 15.10.1919]</orgName>
@@ -842,6 +844,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__425">
           <orgName>Haus-, Hof- und Staatsarchiv</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q58497016</idno>
         </org>
         <org xml:id="krp_org_id__426">
           <orgName>Internationale Valutakommission</orgName>
@@ -869,6 +872,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__434">
           <orgName>Austro-Americana</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q609449</idno>
         </org>
         <org xml:id="krp_org_id__435">
           <orgName>Staatsamt des Innern [I]</orgName>
@@ -917,7 +921,7 @@ in München</orgName>
           <orgName>Deutschösterreichisches Gewerbeförderungsamt</orgName>
         </org>
         <org xml:id="krp_org_id__451">
-          <orgName>zwischenstaatliche Kommission für die Auslegung und Handhabung von Fragen des Staatsbürgerrechtes und des Minderheitsschutzes</orgName>
+          <orgName>Zwischenstaatliche Kommission für die Auslegung und Handhabung von Fragen des Staatsbürgerrechtes und des Minderheitsschutzes</orgName>
         </org>
         <org xml:id="krp_org_id__452">
           <orgName>Kriegskreditanstalt</orgName>
@@ -927,6 +931,8 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__454">
           <orgName>Völkerbund</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/12350466X</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q38130</idno>
         </org>
         <org xml:id="krp_org_id__455">
           <orgName>Komenský-Schulen in Wien</orgName>
@@ -974,7 +980,7 @@ in München</orgName>
           <orgName>ungarischen Ministeriums für Volksernährung</orgName>
         </org>
         <org xml:id="krp_org_id__501">
-          <orgName>zwischenstaatliche Kommission für die Verhandlungen mit der [alliierten] Reparationskommission</orgName>
+          <orgName>Zwischenstaatliche Kommission für die Verhandlungen mit der [alliierten] Reparationskommission</orgName>
         </org>
         <org xml:id="krp_org_id__502">
           <orgName>Niederösterreichische Landeskommission [05.11.1918 bis 14.11.1918]</orgName>
@@ -1062,6 +1068,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__565">
           <orgName>Brevillier und Urban</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q911333</idno>
         </org>
         <org xml:id="krp_org_id__566">
           <orgName>Liebig</orgName>
@@ -1106,6 +1113,8 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__643">
           <orgName>Wiener Arsenal</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4808611-3</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q697568</idno>
         </org>
         <org xml:id="krp_org_id__676">
           <orgName>Oberösterreichische Provisorische Landesregierung [03.11.1918 bis 18.03.1919]</orgName>
@@ -1149,6 +1158,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__689">
           <orgName>Stift St. Peter Salzburg</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q675735</idno>
         </org>
         <org xml:id="krp_org_id__690">
           <orgName>Hofmuseen, ehemaligen</orgName>
@@ -1226,6 +1236,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__811">
           <orgName>Stift Klosterneuburg</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q697145</idno>
         </org>
         <org xml:id="krp_org_id__812">
           <orgName>Österreichische Akademie der Wissenschaften</orgName>
@@ -1255,6 +1266,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__850">
           <orgName>Die rote Fahne</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q309119</idno>
         </org>
         <org xml:id="krp_org_id__851">
           <orgName>Arbeiterrat für Stadt und Gerichtsbezirk Waidhofen an der Ybbs</orgName>
@@ -1333,6 +1345,7 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__877">
           <orgName>Stift Michaelbeuern</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q817039</idno>
         </org>
         <org xml:id="krp_org_id__878">
           <orgName>Bischöfliches Ordinariat Salzburg</orgName>
@@ -1387,13 +1400,15 @@ in München</orgName>
           <orgName>Arader Gegenregierung (Ungarn)</orgName>
         </org>
         <org xml:id="krp_org_id__896">
-          <orgName>zwischenstaatsamtliche Verwaltungskommission für Heeresbetriebe</orgName>
+          <orgName>Zwischenstaatsamtliche Verwaltungskommission für Heeresbetriebe</orgName>
         </org>
         <org xml:id="krp_org_id__897">
           <orgName>Reichsrat [bis November 1918]</orgName>
         </org>
         <org xml:id="krp_org_id__898">
           <orgName>Wiener Zeitung</orgName>
+          <idno type="URL" subtype="GND">https://d-nb.info/gnd/4747423-3</idno>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q697173</idno>
         </org>
         <org xml:id="krp_org_id__899">
           <orgName>Landesverband für Fremdenverkehr in Deutschböhmen</orgName>
@@ -1423,7 +1438,7 @@ in München</orgName>
           <orgName>Stadterweiterungsfonds</orgName>
         </org>
         <org xml:id="krp_org_id__908">
-          <orgName>Verband der landwirtschaftlichen Genossenschaften Niederösterrreich</orgName>
+          <orgName>Verband der landwirtschaftlichen Genossenschaften Niederösterreich</orgName>
         </org>
         <org xml:id="krp_org_id__909">
           <orgName>Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt</orgName>
@@ -1459,9 +1474,22 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__921">
           <orgName>Stift Melk</orgName>
+          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q660082</idno>
         </org>
         <org xml:id="krp_org_id__922">
           <orgName>Bischöfliches Ordinariat Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__923">
+          <orgName>Wiener Oberlandesgericht</orgName>
+        </org>
+        <org xml:id="krp_org_id__924">
+          <orgName></orgName>
+        </org>
+        <org xml:id="krp_org_id__925">
+          <orgName>Wiener Bankverein</orgName>
+        </org>
+        <org xml:id="krp_org_id__926">
+          <orgName>Niederösterreichische Escompte-Gesellschaft Ludwig Wittgenstein</orgName>
         </org>
       </listOrg>
     </body>

@@ -2954,12 +2954,17 @@
         <place xml:id="krp_place_id__720">
           <placeName>Josefstadt [8. Wiener Gemeindebezirk]</placeName>
         </place>
-        <place xml:id="krp_place_id__721">
-          <placeName>Ödenburg</placeName>
-          <placeName type="alt">Sopron</placeName>
-        </place>
         <place xml:id="krp_place_id__722">
           <placeName>Kramsacher Lände</placeName>
+        </place>
+        <place xml:id="krp_place_id__723">
+          <placeName>Margareten [5. Wiener Gemeindebezik]</placeName>
+        </place>
+        <place xml:id="krp_place_id__724">
+          <placeName>Sprengergasse [Wien]</placeName>
+        </place>
+        <place xml:id="krp_place_id__725">
+          <placeName>Gratwein</placeName>
         </place>
       </listPlace>
     </body>
