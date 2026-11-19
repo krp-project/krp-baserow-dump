@@ -33,7 +33,7 @@
           <eventName>Konferenz der Internationalen Liga für Frauenstimmrecht</eventName>
         </event>
         <event xml:id="krp_event_id__70" notBefore-iso="2026-11-18" notAfter-iso="2026-11-19">
-          <eventName>Test Event</eventName>
+          <eventName>Test Event (TO BE DELETED)</eventName>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q4115189</idno>
         </event>
       </listEvent>
