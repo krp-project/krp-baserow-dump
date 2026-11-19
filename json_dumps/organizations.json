@@ -105,7 +105,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__98\"></rs>",
     "mpr_org_id": null,
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q889479"
   },
   "93": {
     "id": 93,
@@ -707,18 +707,6 @@
     "gnd_url": "",
     "wikidata_url": ""
   },
-  "46": {
-    "id": 46,
-    "order": "46.00000000000000000000",
-    "label": "Waldviertler Elektrizitätsgenossenschaft",
-    "note": "Zu besprechen: Hier mit \"rGmbH\" am Schluss https://anno.onb.ac.at/cgi-content/anno-plus?aid=wbz&datum=1919&page=481&size=45&qid=5AODNP18592CDN4T1AMD5NFGE409IF",
-    "source": "https://anno.onb.ac.at/cgi-content/anno-plus?aid=waw&datum=1919&page=364&size=45&qid=GCO37GKVJXDYY227BTO29F9ME939EM",
-    "krp_org_id": "krp_org_id__46",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__46\"></rs>",
-    "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
   "47": {
     "id": 47,
     "order": "47.00000000000000000000",
@@ -969,7 +957,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__146\"></rs>",
     "mpr_org_id": null,
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q1551183"
   },
   "147": {
     "id": 147,
@@ -1569,7 +1557,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__233\">Sozialdemokratische Partei</rs>",
     "mpr_org_id": null,
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q179111"
   },
   "234": {
     "id": 234,
@@ -1772,8 +1760,8 @@
     "krp_org_id": "krp_org_id__250",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__250\"></rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/2024703-5",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q165980"
   },
   "251": {
     "id": 251,
@@ -1784,8 +1772,8 @@
     "krp_org_id": "krp_org_id__251",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__251\"></rs>",
     "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/1038106-5",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q877421"
   },
   "252": {
     "id": 252,
@@ -1814,8 +1802,8 @@
   "255": {
     "id": 255,
     "order": "145.00000000000000000000",
-    "label": "jugoslawische Regierung",
-    "note": "Regierung SHS",
+    "label": "SHS-Regierung",
+    "note": "jugoslawische Regierung",
     "source": "",
     "krp_org_id": "krp_org_id__255",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__255\"></rs>",
@@ -2250,7 +2238,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__298",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__298\">Oberösterreichische Landtag</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__298\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
@@ -2371,18 +2359,6 @@
     "source": "",
     "krp_org_id": "krp_org_id__308",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__308\">Zentralgrenzkommission</rs>",
-    "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
-  "309": {
-    "id": 309,
-    "order": "199.00000000000000000000",
-    "label": "SHS-Regierung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__309",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__309\">SHS-Regierung</rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
@@ -2769,7 +2745,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__344\">Exportakademie Wien</rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q278044"
   },
   "345": {
     "id": 345,
@@ -3213,7 +3189,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__425\">Haus-, Hof- und Staatsarchiv</rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q58497016"
   },
   "426": {
     "id": 426,
@@ -3321,7 +3297,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__434\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q609449"
   },
   "435": {
     "id": 435,
@@ -3494,7 +3470,7 @@
   "451": {
     "id": 451,
     "order": "305.00000000000000000000",
-    "label": "zwischenstaatliche Kommission für die Auslegung und Handhabung von Fragen des Staatsbürgerrechtes und des Minderheitsschutzes",
+    "label": "Zwischenstaatliche Kommission für die Auslegung und Handhabung von Fragen des Staatsbürgerrechtes und des Minderheitsschutzes",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__451",
@@ -3536,8 +3512,8 @@
     "krp_org_id": "krp_org_id__454",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__454\">Völkerbund</rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/12350466X",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q38130"
   },
   "455": {
     "id": 455,
@@ -3699,7 +3675,7 @@
     "id": 468,
     "order": "322.00000000000000000000",
     "label": "serbische Regierung",
-    "note": "",
+    "note": "Serbischer Staat vor 1918",
     "source": "",
     "krp_org_id": "krp_org_id__468",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__468\">serbische Regierung</rs>",
@@ -3722,7 +3698,7 @@
   "501": {
     "id": 501,
     "order": "324.00000000000000000000",
-    "label": "zwischenstaatliche Kommission für die Verhandlungen mit der [alliierten] Reparationskommission",
+    "label": "Zwischenstaatliche Kommission für die Verhandlungen mit der [alliierten] Reparationskommission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__501",
@@ -4077,7 +4053,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__565\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q911333"
   },
   "566": {
     "id": 566,
@@ -4244,8 +4220,8 @@
     "krp_org_id": "krp_org_id__643",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__643\">Wiener Arsenal</rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/4808611-3",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q697568"
   },
   "676": {
     "id": 676,
@@ -4413,7 +4389,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__689\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q675735"
   },
   "690": {
     "id": 690,
@@ -4713,7 +4689,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__811\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q697145"
   },
   "812": {
     "id": 812,
@@ -4821,7 +4797,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__850\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q309119"
   },
   "851": {
     "id": 851,
@@ -5133,7 +5109,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__877\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q817039"
   },
   "878": {
     "id": 878,
@@ -5342,7 +5318,7 @@
   "896": {
     "id": 896,
     "order": "465.00000000000000000000",
-    "label": "zwischenstaatsamtliche Verwaltungskommission für Heeresbetriebe",
+    "label": "Zwischenstaatsamtliche Verwaltungskommission für Heeresbetriebe",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__896",
@@ -5372,8 +5348,8 @@
     "krp_org_id": "krp_org_id__898",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__898\"></rs>",
     "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
+    "gnd_url": "https://d-nb.info/gnd/4747423-3",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q697173"
   },
   "899": {
     "id": 899,
@@ -5486,7 +5462,7 @@
   "908": {
     "id": 908,
     "order": "477.00000000000000000000",
-    "label": "Verband der landwirtschaftlichen Genossenschaften Niederösterrreich",
+    "label": "Verband der landwirtschaftlichen Genossenschaften Niederösterreich",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__908",
@@ -5625,7 +5601,7 @@
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__921\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
-    "wikidata_url": ""
+    "wikidata_url": "https://www.wikidata.org/wiki/Q660082"
   },
   "922": {
     "id": 922,
@@ -5635,6 +5611,54 @@
     "source": "",
     "krp_org_id": "krp_org_id__922",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__922\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "923": {
+    "id": 923,
+    "order": "490.00000000000000000000",
+    "label": "Wiener Oberlandesgericht",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__923",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__923\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "924": {
+    "id": 924,
+    "order": "491.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__924",
+    "tei_code": "",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "925": {
+    "id": 925,
+    "order": "492.00000000000000000000",
+    "label": "Wiener Bankverein",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__925",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__925\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "926": {
+    "id": 926,
+    "order": "493.00000000000000000000",
+    "label": "Niederösterreichische Escompte-Gesellschaft Ludwig Wittgenstein",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__926",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__926\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""

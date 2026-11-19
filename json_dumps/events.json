@@ -6,7 +6,9 @@
     "note": "",
     "krp_event_id": "krp_event_id__1",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__1\">Sokolkongress</rs>",
-    "mpr_event_id": null
+    "mpr_event_id": null,
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "2": {
     "id": 2,
@@ -15,7 +17,9 @@
     "note": "krp57",
     "krp_event_id": "krp_event_id__2",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__2\">Länderkonferenz</rs>",
-    "mpr_event_id": null
+    "mpr_event_id": null,
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "3": {
     "id": 3,
@@ -24,16 +28,20 @@
     "note": "",
     "krp_event_id": "krp_event_id__3",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__3\">Wiener Armenlotterie</rs>",
-    "mpr_event_id": null
+    "mpr_event_id": null,
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "36": {
     "id": 36,
     "order": "4.00000000000000000000",
-    "label": "Internationale                      Arbeitskonferenz zu Washington",
+    "label": "Internationale Arbeitskonferenz zu Washington",
     "note": "",
     "krp_event_id": "krp_event_id__36",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__36\">Internationale Arbeitskonferenz zu Washington</rs>",
-    "mpr_event_id": ""
+    "mpr_event_id": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   },
   "37": {
     "id": 37,
@@ -42,6 +50,8 @@
     "note": "",
     "krp_event_id": "krp_event_id__37",
     "tei_code": "<rs type=\"event\" ref=\"#krp_event_id__37\">Konferenz der Internationalen Liga für Frauenstimmrecht</rs>",
-    "mpr_event_id": ""
+    "mpr_event_id": "",
+    "wikidata_url": "",
+    "gnd_url": ""
   }
 }
