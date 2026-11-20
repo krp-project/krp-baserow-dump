@@ -62,9 +62,149 @@
   "38": {
     "id": 38,
     "order": "7.00000000000000000000",
-    "label": "",
-    "note": "",
+    "label": "Gesetz, womit Artikel 7 des Gesetzes vom 14. März 1919, St. G. Bl. Nr. 180, über die Staatsregierung ergänzt wird",
+    "note": "StGBl. 94/1920",
     "krp_work_id": "krp_work_id__38",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000157&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__38\">Gesetz, womit Artikel 7 des Gesetzes vom 14. März 1919, StGBl. Nr. 180, über die Staatsregierung ergänzt wird</rs>"
+  },
+  "39": {
+    "id": 39,
+    "order": "8.00000000000000000000",
+    "label": "Gesetz, betreffend die Ermächtigung der Regierung zu zoll- und handelspolitischen Verfügungen",
+    "note": "StGBl. 277/1920",
+    "krp_work_id": "krp_work_id__39",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000645&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__39\">Gesetz, betreffend die Ermächtigung der Regierung zu zoll- und handelspolitischen Verfügungen</rs>"
+  },
+  "40": {
+    "id": 40,
+    "order": "9.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsämter für Finanzen, für Handel und Gewerbe, Industrie und Bauten und für Land- und Forstwirtschaft über die Zollbehandlung des Warenverkehrs mit Ungarn",
+    "note": "StGBl. 545/1920",
+    "krp_work_id": "krp_work_id__40",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001259&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__40\">Vollzugsanweisung der Staatsämter für Finanzen, für Handel und Gewerbe, Industrie und Bauten und für Land- und Forstwirtschaft über die Zollbehandlung des Warenverkehrs mit Ungarn</rs>"
+  },
+  "41": {
+    "id": 41,
+    "order": "10.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Justiz über die Beschränkung der Kündigung bestimmter Dienstverhältnisse",
+    "note": "StGBl. 197/1919",
+    "krp_work_id": "krp_work_id__41",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000444&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__41\">Vollzugsanweisung des Staatsamtes für Justiz über die Beschränkung der Kündigung bestimmter Dienstverhältnisse</rs>"
+  },
+  "42": {
+    "id": 42,
+    "order": "11.00000000000000000000",
+    "label": "Kaiserliche Verordnung, betreffend Ausnahmsbestimmungen für begünstigte Bauten während der Dauer der durch den Krieg hervorgerufenen außerordentlichen Verhältnisse",
+    "note": "RGBl. 284/1914",
+    "krp_work_id": "krp_work_id__42",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19140004&seite=00001140&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id_42\">"
+  },
+  "43": {
+    "id": 43,
+    "order": "12.00000000000000000000",
+    "label": "Gemeindewahlordnung für Kärnten",
+    "note": "LGBl. K. 18/1920",
+    "krp_work_id": "krp_work_id__43",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&page=51&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__43\">"
+  },
+  "44": {
+    "id": 44,
+    "order": "13.00000000000000000000",
+    "label": "Gesetz, wirksam für das Land Steiermark, betreffend die Einhebung von städtischen Verbrauchsabgaben im Gebiete der Landeshauptstadt Graz",
+    "note": "LGBl. St. 72/1920",
+    "krp_work_id": "krp_work_id__44",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&page=205&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__44\">"
+  },
+  "45": {
+    "id": 45,
+    "order": "14.00000000000000000000",
+    "label": "Kundmachung der Landesregierung vom 1. Oktober 1919, Z. XI b-383/8, betreffend die der Gemeinde Mitterbach im Gerichtsbezirke Lilienfeld erteilte Bewilligung zur Einhebung von 100 Prozent der direkten Steuern des Jahres 1918 übersteigenden Umlagen",
+    "note": "LGBl. N. 324/1919",
+    "krp_work_id": "krp_work_id__45",
+    "source": "",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__45\">"
+  },
+  "46": {
+    "id": 46,
+    "order": "15.00000000000000000000",
+    "label": "Wehrgesetz",
+    "note": "StGBl. 122/1920",
+    "krp_work_id": "krp_work_id__46",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000232&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__46\">Wehrgesetz</rs>"
+  },
+  "47": {
+    "id": 47,
+    "order": "16.00000000000000000000",
+    "label": "Gesetz, betreffend Kreditoperationen",
+    "note": "StGBl. 42/1920",
+    "krp_work_id": "krp_work_id__47",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000071&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__47\">Gesetz, betreffend Kreditoperationen</rs>"
+  },
+  "48": {
+    "id": 48,
+    "order": "17.00000000000000000000",
+    "label": "Gesetz, mit welchem Zuschläge zu dem Minimaleinkommen und zu den Ruhegenüssen der katholischen Seelsorger sowie zu dem Minimaleinkommen der Dignitäre und Kanoniker bei den Metropolitan- und Kathedralkapiteln der katholischen Kirche festgestellt werden",
+    "note": "StGBl. 147/1920",
+    "krp_work_id": "krp_work_id__48",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000277&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__48\">Gesetz, mit welchem Zuschläge zu dem Minimaleinkommen und zu den Ruhegenüssen der katholischen Seelsorger sowie zu dem Minimaleinkommen der Dignitäre und Kanoniker bei den Metropolitan- und Kathedralkapiteln der katholischen Kirche festgestellt werden</rs>"
+  },
+  "49": {
+    "id": 49,
+    "order": "18.00000000000000000000",
+    "label": "Gesetz, betreffend die Aufhebung des Hofdekrets vom 4. Oktober 1833, J. G. S. Nr. 2633, und des Artikels V des Gesetzes vom 1. August 1895, R. G. Bl. Nr. 112",
+    "note": "StGBl. 148/1920",
+    "krp_work_id": "krp_work_id__49",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000280&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__49\">esetz, betreffend die Aufhebung des Hofdekrets vom 4. Oktober 1833, J. G. S. Nr. 2633, und des Artikels V des Gesetzes vom 1. August 1895, R. G. Bl. Nr. 112</rs>"
+  },
+  "50": {
+    "id": 50,
+    "order": "19.00000000000000000000",
+    "label": "Gesetz vom 25. Jänner 1914, betreffend das Dienstverhältnis der Staatsbeamten und der Staatsdienerschaft (Dienstpragmatik)",
+    "note": "StGBl. 15/1914",
+    "krp_work_id": "krp_work_id__50",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=rgb&datum=19140004&seite=00000087",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__50\">Dienstpragmatik</rs>"
+  },
+  "51": {
+    "id": 51,
+    "order": "20.00000000000000000000",
+    "label": "Gesetz über die Abänderung des Gesetzes über das deutschösterreichische Staatsbürgerrecht und über die zeitweise Unzulässigkeit von Aufnahmen in den Heimatverband",
+    "note": "StGBl. 481/1919",
+    "krp_work_id": "krp_work_id__51",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001149&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__51\">"
+  },
+  "52": {
+    "id": 52,
+    "order": "21.00000000000000000000",
+    "label": "Vollzugsanweisung des Deutschösterreichischen Staatsamtes für soziale Fürsorge, betreffend die Unterstützung der arbeitslosen Arbeiter",
+    "note": "",
+    "krp_work_id": "krp_work_id__52",
     "source": "",
     "mpr_work_id": "",
     "tei-code": ""

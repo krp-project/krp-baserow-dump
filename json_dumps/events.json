@@ -10,7 +10,8 @@
     "wikidata_url": "",
     "gnd_url": "",
     "start_date": null,
-    "end_date": null
+    "end_date": null,
+    "other_url": ""
   },
   "2": {
     "id": 2,
@@ -23,7 +24,8 @@
     "wikidata_url": "",
     "gnd_url": "",
     "start_date": null,
-    "end_date": null
+    "end_date": null,
+    "other_url": ""
   },
   "3": {
     "id": 3,
@@ -36,7 +38,8 @@
     "wikidata_url": "",
     "gnd_url": "",
     "start_date": null,
-    "end_date": null
+    "end_date": null,
+    "other_url": ""
   },
   "36": {
     "id": 36,
@@ -49,7 +52,8 @@
     "wikidata_url": "",
     "gnd_url": "",
     "start_date": null,
-    "end_date": null
+    "end_date": null,
+    "other_url": ""
   },
   "37": {
     "id": 37,
@@ -62,7 +66,8 @@
     "wikidata_url": "",
     "gnd_url": "",
     "start_date": null,
-    "end_date": null
+    "end_date": null,
+    "other_url": ""
   },
   "70": {
     "id": 70,
@@ -75,6 +80,7 @@
     "wikidata_url": "https://www.wikidata.org/wiki/Q4115189",
     "gnd_url": "",
     "start_date": "2026-11-18",
-    "end_date": "2026-11-19"
+    "end_date": "2026-11-19",
+    "other_url": ""
   }
 }

@@ -5662,5 +5662,29 @@
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
+  },
+  "927": {
+    "id": 927,
+    "order": "494.00000000000000000000",
+    "label": "Dreierkommission für Sachdemobilisierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__927",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__927\">Dreierkommission für Sachdemobilisierung</rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "928": {
+    "id": 928,
+    "order": "495.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__928",
+    "tei_code": "",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   }
 }
