@@ -1491,6 +1491,12 @@ in München</orgName>
         <org xml:id="krp_org_id__926">
           <orgName>Niederösterreichische Escompte-Gesellschaft Ludwig Wittgenstein</orgName>
         </org>
+        <org xml:id="krp_org_id__927">
+          <orgName>Dreierkommission für Sachdemobilisierung</orgName>
+        </org>
+        <org xml:id="krp_org_id__928">
+          <orgName></orgName>
+        </org>
       </listOrg>
     </body>
   </text>
