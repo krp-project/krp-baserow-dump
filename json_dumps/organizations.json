@@ -1002,7 +1002,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__181",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__181\">Staatskanzlei</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__181\"></rs>",
     "mpr_org_id": null,
     "gnd_url": "",
     "wikidata_url": ""
@@ -1826,7 +1826,7 @@
   "257": {
     "id": 257,
     "order": "147.00000000000000000000",
-    "label": "Italienische Waffenstillstandkommission",
+    "label": "Italienische Waffenstillstandskommission",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__257",
@@ -5683,6 +5683,30 @@
     "source": "",
     "krp_org_id": "krp_org_id__928",
     "tei_code": "",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "929": {
+    "id": 929,
+    "order": "496.00000000000000000000",
+    "label": "Wiener Polizeidirktion",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__929",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__929\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "930": {
+    "id": 930,
+    "order": "497.00000000000000000000",
+    "label": "Niederösterreichischer Religionsfonds",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__930",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__930\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""

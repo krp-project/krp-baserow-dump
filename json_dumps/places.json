@@ -5752,5 +5752,19 @@
     "gnd_url": "",
     "latitude": "",
     "longitude": ""
+  },
+  "726": {
+    "id": 726,
+    "order": "421.00000000000000000000",
+    "label": "Zirkus \"Busch\"",
+    "krp_place_id": "krp_place_id__726",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__726\"></rs>",
+    "mpr_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
   }
 }

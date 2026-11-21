@@ -203,10 +203,410 @@
     "id": 52,
     "order": "21.00000000000000000000",
     "label": "Vollzugsanweisung des Deutschösterreichischen Staatsamtes für soziale Fürsorge, betreffend die Unterstützung der arbeitslosen Arbeiter",
-    "note": "",
+    "note": "StGBl. 120/1919",
     "krp_work_id": "krp_work_id__52",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000250&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__52\">"
+  },
+  "53": {
+    "id": 53,
+    "order": "22.00000000000000000000",
+    "label": "Vollzugsanweisung des Deutschösterreichischen Staatsamtes für soziale Fürsorge, betreffend die Unterstützung der arbeitslosen Angestellten",
+    "note": "StGBl. 121/1919",
+    "krp_work_id": "krp_work_id__53",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000253&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__53\">"
+  },
+  "54": {
+    "id": 54,
+    "order": "23.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung, betreffend die Unterstützung der arbeitslosen Arbeiter und Angestellten",
+    "note": "StGBl. 327/1919",
+    "krp_work_id": "krp_work_id__54",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000771&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__54\">"
+  },
+  "55": {
+    "id": 55,
+    "order": "24.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung, betreffend die Unterstützung der arbeitslosen Arbeiter und Angestellten",
+    "note": "StGBl. 428/1919",
+    "krp_work_id": "krp_work_id__55",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001049&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__55\">"
+  },
+  "56": {
+    "id": 56,
+    "order": "25.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über einen außerordentlichen Zuschuß zur Unterstützung arbeitsloser Arbeiter und Angestellten",
+    "note": "StGBl. 12/1920",
+    "krp_work_id": "krp_work_id__56",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000016&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__56\">"
+  },
+  "57": {
+    "id": 57,
+    "order": "26.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Form der Nachweisung bei Geltendmachung des Anspruches auf die Arbeitslosenunterstützung (I. Durchführungsverordnung zum Arbeitslosenversicherungsgesetz)",
+    "note": "StGBl. 156/1920",
+    "krp_work_id": "krp_work_id__57",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000291&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__57\">"
+  },
+  "58": {
+    "id": 58,
+    "order": "27.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Sprengel und Standorte der Industriellen Bezirkskommissionen (II. Durchführungsverordnung zum Arbeitslosenversicherungsgesetz)",
+    "note": "StGBl. 157/1920",
+    "krp_work_id": "krp_work_id__58",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000292&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__58\">"
+  },
+  "59": {
+    "id": 59,
+    "order": "28.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über Begünstigungen bei der Gewährung der Arbeitslosenunterstützung (III. Durchführungsverordnung zum Arbeitslosenversicherungsgesetz)",
+    "note": "StGBl. 158/1920",
+    "krp_work_id": "krp_work_id__59",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000292&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__59\">"
+  },
+  "60": {
+    "id": 60,
+    "order": "29.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über das Ausmaß der Unterstützung (IV. Durchführungsverordnung zum Arbeitslosenversicherungsgesetz)",
+    "note": "StGBl. 159/1920",
+    "krp_work_id": "krp_work_id__60",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000293&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__60\">"
+  },
+  "61": {
+    "id": 61,
+    "order": "30.00000000000000000000",
+    "label": "Vollzugsanweisung des Statsamtes für soziale Verwaltung über die Ausschließung jener Arbeitslosen aus der Arbeitslosenunterstützung, deren Lebensunterhalt nicht gefährdet ist (V. Durchführungsverordnung zum Arbeitslosenversicherungsgesetz)",
+    "note": "StGBl. 160/1920",
+    "krp_work_id": "krp_work_id__61",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000293&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__61\">"
+  },
+  "62": {
+    "id": 62,
+    "order": "31.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die provisorische Regelung der Dienst- und Ruhebezüge der niederösterreichischen Gemeindeärzte und deren Hinterbliebenen",
+    "note": "LGBl. N. 125/1920",
+    "krp_work_id": "krp_work_id__62",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=173",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__62\">"
+  },
+  "63": {
+    "id": 63,
+    "order": "32.00000000000000000000",
+    "label": "Kundmachung des k.k. Statthalters vom 19. März 1910, Z. Xb-44/3, mit welcher die Neueinteilung des Erzherzogtums Österreich unter der Enns in staatliche Fortstinspektions- und Forstaufsichtsbezirke, beziehungsweise die Dislokation des forsttechnischen Personals der politischen Verwaltung in Niederösterreich verlautbart wird",
+    "note": "LGBl. 106/1910",
+    "krp_work_id": "krp_work_id__63",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1910&page=231&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__63\">"
+  },
+  "64": {
+    "id": 64,
+    "order": "33.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Krems an der Donau",
+    "note": "LGBl. 140/1920",
+    "krp_work_id": "krp_work_id__64",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=187",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__64\">"
+  },
+  "65": {
+    "id": 65,
+    "order": "34.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Gloggnitz",
+    "note": "LGBl. 135/1920",
+    "krp_work_id": "krp_work_id__65",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__65\">"
+  },
+  "66": {
+    "id": 66,
+    "order": "35.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Laa an der Thaya",
+    "note": "LGBl. 136/1920",
+    "krp_work_id": "krp_work_id__66",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__66\">"
+  },
+  "67": {
+    "id": 67,
+    "order": "36.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Stockerau",
+    "note": "LGBl. 138/1920",
+    "krp_work_id": "krp_work_id__67",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__67\">"
+  },
+  "68": {
+    "id": 68,
+    "order": "37.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Waidhofen an der Thaya",
+    "note": "LGBl. 139/1920",
+    "krp_work_id": "krp_work_id__68",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=187",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__68\">"
+  },
+  "69": {
+    "id": 69,
+    "order": "38.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Himberg",
+    "note": "LGBl. 133/1920",
+    "krp_work_id": "krp_work_id__69",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=185",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__69\">"
+  },
+  "70": {
+    "id": 70,
+    "order": "39.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Melk",
+    "note": "LGBl. 134/1920",
+    "krp_work_id": "krp_work_id__70",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__70\">"
+  },
+  "71": {
+    "id": 71,
+    "order": "40.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Ybbs an der Donau",
+    "note": "LGBl. 137/1920",
+    "krp_work_id": "krp_work_id__71",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__71\">"
+  },
+  "72": {
+    "id": 72,
+    "order": "41.00000000000000000000",
+    "label": "Notenwechsel zwischen der Republik Österreich und dem Fürstentum Liechtenstein, betreffend die Regelung der Handels- und Verkehrsbeziehungen",
+    "note": "LGBl. 136/1921",
+    "krp_work_id": "krp_work_id__72",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=bgb&datum=19210004&seite=00000393&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__72\">"
+  },
+  "73": {
+    "id": 73,
+    "order": "42.00000000000000000000",
+    "label": "Gesetz über die Neufestsetzung der staatlichen Salzverschleißpreise und der bei der Einfuhr von Salz zu entrichtenden Lizenzgebühr",
+    "note": "StGBl. 152/1920",
+    "krp_work_id": "krp_work_id__73",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000281&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__73\">"
+  },
+  "74": {
+    "id": 74,
+    "order": "43.00000000000000000000",
+    "label": "Gesetz zur Regelung der dienstlichen Stellung und der Bezüge der Landesschulinspektoren",
+    "note": "StGBl. 163/1920",
+    "krp_work_id": "krp_work_id__74",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000299&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__74\">"
+  },
+  "75": {
+    "id": 75,
+    "order": "44.00000000000000000000",
+    "label": "Gesetz, betreffend die Enteignung und weitere Inanspruchnahme von Liegenschaften aus Anlaß der Sachabrüstung (Sachabrüstungs-Enteignungsgesetz)",
+    "note": "StGBl. 161/1920",
+    "krp_work_id": "krp_work_id__75",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000295&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__75\">"
+  },
+  "76": {
+    "id": 76,
+    "order": "45.00000000000000000000",
+    "label": "Gesetz, betreffend die Fortführung der Donauregulierungsarbeiten in Österreich unter der Enns",
+    "note": "StGBl. 162/1920",
+    "krp_work_id": "krp_work_id__76",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000297&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__76\">"
+  },
+  "77": {
+    "id": 77,
+    "order": "46.00000000000000000000",
+    "label": "Gesetz über die Parteienvertretung durch Frauen",
+    "note": "StGBl. 136/1920",
+    "krp_work_id": "krp_work_id__77",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000265&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__77\">"
+  },
+  "78": {
+    "id": 78,
+    "order": "47.00000000000000000000",
+    "label": "Kaiserliches Patent, womit eine Gewerbe-Ordnung für den ganzen Umfang des Reiches, mit Ausnahme des venetianischen Verwaltungsgebietes und der Militärgränze, erlassen, und vom 1. Mai 1860 angefangen in Wirksamkeit gesetzt wird",
+    "note": "RGBl. 227/1859",
+    "krp_work_id": "krp_work_id__78",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18590004&seite=00000619&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__78\">"
+  },
+  "79": {
+    "id": 79,
+    "order": "48.00000000000000000000",
+    "label": "Gesetz, wirksam für die Königreiche Böhmen, Dalmatien, Galizien und Lodomerien mit den Herzogthümern Auschwitz und Zator und dem Großherzogthume Krakau, für die Erzherzogthümer Oesterreich unter und ob der Enns, für die Herzogthümer Ober- und Nieder-Schlesien, Steiermark, Kärnthen und Krain, Salzburg und Bukowina, für die Markgrafschaft Mähren, für die gefürstete Grafschaft Tirol und das Land Vorarlberg, für die gefürstete Grafschaft Görz und Gradiska, für die Markgrafschaft Istrien und die Stadt Triest mit ihrem Gebiete, womit die grundsätzlichen Bestimmungen zur Regelung des Gemeindewesens vorgezeichnet werden",
+    "note": "RGBl. 18/1862",
+    "krp_work_id": "krp_work_id__79",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18620004&seite=00000036&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__79\">"
+  },
+  "80": {
+    "id": 80,
+    "order": "49.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung über die Regelung des Reise- und Sommerverkehres",
+    "note": "StGBl. 252/1919",
+    "krp_work_id": "krp_work_id__80",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000609&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__80\">"
+  },
+  "81": {
+    "id": 81,
+    "order": "50.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung, mit welcher die Vollzugsanweisung vom 29. April 1919, St. G. Bl. Nr. 252, ergänzt wird",
+    "note": "StGBl. 272/1919",
+    "krp_work_id": "krp_work_id__81",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000641&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__81\">"
+  },
+  "82": {
+    "id": 82,
+    "order": "51.00000000000000000000",
+    "label": "Gesetz, enthaltend die im Reichsgesetze in Betreff der Regelung der polizeilichen Abschaffung und des Schubwesens vom 27. Juli 1871, RGBl. Nr. 88, der Landesgesetzgebung vorbehaltenen Bestimmungen",
+    "note": "LGBl. 22/1899",
+    "krp_work_id": "krp_work_id__82",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1899&size=45&page=51",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__82\">"
+  },
+  "83": {
+    "id": 83,
+    "order": "52.00000000000000000000",
+    "label": "Gesetz vom 26. Februar 1920, betreffend die Festsetzung der Schubgebühren im Lande Kärnten",
+    "note": "LGBl. 22/1920",
+    "krp_work_id": "krp_work_id__83",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&size=45&page=88",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__83\">"
+  },
+  "84": {
+    "id": 84,
+    "order": "53.00000000000000000000",
+    "label": "Gesetz über die Entrichtung einer Abgabe von Spielen in öffentlichen Lokalen zur Fürsorge für Kriegsbeschädigte, Kriegerwitwen und Kriegerwaisen (Spielabgabengesetz)",
+    "note": "StGBl. 226/1920",
+    "krp_work_id": "krp_work_id__84",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000413&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__84\">"
+  },
+  "85": {
+    "id": 85,
+    "order": "54.00000000000000000000",
+    "label": "Gesetz über die Volksvertretung",
+    "note": "StGBl. 179/1919",
+    "krp_work_id": "krp_work_id__85",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000405&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__85\">"
+  },
+  "86": {
+    "id": 86,
+    "order": "55.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung zur Durchführung der die Ruhe-(Versorgungs)genüsse der Zivilstaatsangestellten und ihrer Hinterbliebenen und die Teuerungsmaßnahmen für diese Personen betreffenden Bestimmungen des Gesetzes vom 18. März 1920, St. G. Bl. Nr. 132 (Pensionistengesetz), I., II. und VII. Hauptstück",
+    "note": "StGBl. 177/1920",
+    "krp_work_id": "krp_work_id__86",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000316&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__86\">"
+  },
+  "87": {
+    "id": 87,
+    "order": "56.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung, betreffend die Durchführung des Gesetzes vom 18. März 1920, St. G. Bl. Nr. 131 (Hinterbliebenenversorgungsnovelle)",
+    "note": "StGBl. 176/1920",
+    "krp_work_id": "krp_work_id__87",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000316&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__87\">"
+  },
+  "88": {
+    "id": 88,
+    "order": "57.00000000000000000000",
+    "label": "Gesetz über die Regelung von Ruhe(Versorgungs)genüssen der Staatsangestellten und ihrer Hinterbliebenen sowie der katholischen Seelsorger, ferner über Teuerungsmaßnahmen für Pensionisten (Pensionistengesetz)",
+    "note": "StGBl. 132/1920",
+    "krp_work_id": "krp_work_id__88",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000248&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__88\">"
+  },
+  "89": {
+    "id": 89,
+    "order": "58.00000000000000000000",
+    "label": "Gesetz vom 9. März 1920, wirksam für Niederösterreich, betreffend die Regulierung des Moosbaches in den Katastralgemeinden Diesendorf und Asperhofen (Ortsgemeinde Asperhofen)",
+    "note": "LGBl. 343/1920",
+    "krp_work_id": "krp_work_id__89",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=297",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__89\">"
+  },
+  "90": {
+    "id": 90,
+    "order": "59.00000000000000000000",
+    "label": "Kundmachung der niederösterreichischen Landesregierung vom 3. Oktober 1920, Z. X-1277/18, mit welcher das von der Gemeinde Gerersdorf mit dem niederösterreichischen Landesrate und der Staatsverwaltung abgeschlossene Übereinkommen, betreffend die Regulierung des Pielachflusses in den Katastralgemeinden Loipersdorf und Völlerndorf, verlautbart wird",
+    "note": "LGBl. 772/1920",
+    "krp_work_id": "krp_work_id__90",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=591",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__90\">"
+  },
+  "91": {
+    "id": 91,
+    "order": "60.00000000000000000000",
+    "label": "Gesetz vom 21. März 1919, wirksam für das Land Kärnten, betreffend die Einberufung des verfassungsgebenden Landtages",
+    "note": "LGBl. 20/1919",
+    "krp_work_id": "krp_work_id__91",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1919&page=53&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__91\">"
+  },
+  "92": {
+    "id": 92,
+    "order": "61.00000000000000000000",
+    "label": "Londoner Vertrag",
+    "note": "",
+    "krp_work_id": "krp_work_id__92",
     "source": "",
     "mpr_work_id": "",
-    "tei-code": ""
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__92\">"
   }
 }
