@@ -2966,6 +2966,9 @@
         <place xml:id="krp_place_id__725">
           <placeName>Gratwein</placeName>
         </place>
+        <place xml:id="krp_place_id__726">
+          <placeName>Zirkus "Busch"</placeName>
+        </place>
       </listPlace>
     </body>
   </text>

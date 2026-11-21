@@ -289,7 +289,7 @@
             <date when-iso="1922-05-21">1922-05-21</date>
             <placeName>Waldneukirchen, Oberösterreich</placeName>
           </death>
-          <occupation>Staatssekretär ohne Portefeuille [II]; Staatssekretär, Vorsitz im Kabinett u Leiter d Staatskanzlei [III; ]Zuständig für Verfassungs- und Verwaltungsreformen [III]</occupation>
+          <occupation>Staatssekretär ohne Portefeuille [III]; Staatssekretär, Vorsitz im Kabinett u Leiter d Staatskanzlei [III; ]Zuständig für Verfassungs- und Verwaltungsreformen [III]</occupation>
         </person>
         <person xml:id="krp_person_id__20">
           <persName>Miklas, Wilhelm</persName>
@@ -3876,7 +3876,23 @@
           <occupation>Bankdirektor</occupation>
         </person>
         <person xml:id="krp_person_id__1173">
+          <persName>Hoffinger, Maximilian [Ritter von]</persName>
+          <occupation>Konsul</occupation>
+        </person>
+        <person xml:id="krp_person_id__1174">
           <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1175">
+          <persName>Wilson, Woodrow</persName>
+          <occupation>US-amerikanischer Präsident</occupation>
+        </person>
+        <person xml:id="krp_person_id__1176">
+          <persName>Washington, George</persName>
+          <occupation>Erster Präsident der Vereinigten Staaten von Amerika</occupation>
+        </person>
+        <person xml:id="krp_person_id__1177">
+          <persName>Ender, Otto</persName>
+          <occupation>Landeshauptmann Vorarlberg</occupation>
         </person>
       </listPerson>
     </body>

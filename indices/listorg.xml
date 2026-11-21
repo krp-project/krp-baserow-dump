@@ -500,7 +500,7 @@
           <orgName>Staatsamt für soziale Fürsorge [I]</orgName>
         </org>
         <org xml:id="krp_org_id__257">
-          <orgName>Italienische Waffenstillstandkommission</orgName>
+          <orgName>Italienische Waffenstillstandskommission</orgName>
         </org>
         <org xml:id="krp_org_id__258">
           <orgName>Militärgeographische Institut</orgName>
@@ -1496,6 +1496,12 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__928">
           <orgName></orgName>
+        </org>
+        <org xml:id="krp_org_id__929">
+          <orgName>Wiener Polizeidirktion</orgName>
+        </org>
+        <org xml:id="krp_org_id__930">
+          <orgName>Niederösterreichischer Religionsfonds</orgName>
         </org>
       </listOrg>
     </body>
