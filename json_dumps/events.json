@@ -82,5 +82,19 @@
     "start_date": "2026-11-18",
     "end_date": "2026-11-19",
     "other_url": ""
+  },
+  "71": {
+    "id": 71,
+    "order": "7.00000000000000000000",
+    "label": "Waffenstillstand von Villa Gusti",
+    "note": "",
+    "krp_event_id": "krp_event_id__71",
+    "tei_code": "",
+    "mpr_event_id": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "start_date": null,
+    "end_date": null,
+    "other_url": ""
   }
 }

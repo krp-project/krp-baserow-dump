@@ -2982,7 +2982,7 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__367",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__501\"> Reparationskommission</rs>",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__367\"> Reparationskommission</rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
@@ -2991,7 +2991,7 @@
     "id": 369,
     "order": "255.00000000000000000000",
     "label": "Naturhistorisches Museum",
-    "note": "",
+    "note": "Zuvor auch Naturhistorisches Hofmuseum",
     "source": "",
     "krp_org_id": "krp_org_id__369",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__369\">Naturhistorisches Museum</rs>",
@@ -5486,11 +5486,11 @@
   "911": {
     "id": 911,
     "order": "479.00000000000000000000",
-    "label": "",
+    "label": "Militärwaiseninstitut",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__911",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__911\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
@@ -5630,11 +5630,11 @@
   "924": {
     "id": 924,
     "order": "491.00000000000000000000",
-    "label": "",
+    "label": "K. u. K. Fliegerarsenal Fischamend",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__924",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__924\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
@@ -5707,6 +5707,42 @@
     "source": "",
     "krp_org_id": "krp_org_id__930",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__930\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "931": {
+    "id": 931,
+    "order": "498.00000000000000000000",
+    "label": "Grenzreglungsausschuss",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__931",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__931\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "932": {
+    "id": 932,
+    "order": "499.00000000000000000000",
+    "label": "Reparatationssubkommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__932",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__932\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "933": {
+    "id": 933,
+    "order": "500.00000000000000000000",
+    "label": "Internationale Rheinregulierung",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__933",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__933\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""

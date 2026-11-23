@@ -608,5 +608,75 @@
     "source": "",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__92\">"
+  },
+  "93": {
+    "id": 93,
+    "order": "62.00000000000000000000",
+    "label": "Gesetz über die Gebühren der österreichischen Wehrmacht (Heeresgebührengesetz)",
+    "note": "StGBl. 235/1920",
+    "krp_work_id": "krp_work_id__93",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000461&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__93\">"
+  },
+  "94": {
+    "id": 94,
+    "order": "63.00000000000000000000",
+    "label": "Gesetz über die Errichtung und Unterbringung von Volkspflegestätten",
+    "note": "StGBl. 309/1919",
+    "krp_work_id": "krp_work_id__94",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000734&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__94\">"
+  },
+  "95": {
+    "id": 95,
+    "order": "64.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Inneres und Unterricht im Einvernehmen mit den Staatsämtern für soziale Verwaltung, für Finanzen, für Justiz, für Land- und Forstwirtschaft sowie für Handel und Gewerbe, Industrie und Bauten, betreffend den Schutz der Kunst- und Kulturdenkmale, sowie der wissenschaftlichen Sammlungen bei der Inanspruchnahme von Gebäuden für Volkspflegestätten",
+    "note": "StGBl. 184/1920",
+    "krp_work_id": "krp_work_id__95",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000327&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__95\">"
+  },
+  "96": {
+    "id": 96,
+    "order": "65.00000000000000000000",
+    "label": "Gesetz, wirksam für das Land Steiermark, betreffend das Diensteinkommen der Volks- und Bürgerschullehrerschaft, ihre Versetzung in den Ruhestand und die Versorgung ihrer Hinterbliebenen",
+    "note": "LGBl. 115/1919",
+    "krp_work_id": "krp_work_id__96",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1919&size=45&page=339",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__96\">"
+  },
+  "97": {
+    "id": 97,
+    "order": "66.00000000000000000000",
+    "label": "Gesetz vom 26. Februar 1920, womit § 19, Punkt 2 des Gesetzes vom 4. Juli 1919, LGBl. Nr. 115, betreffend das Diensteinkommen der Volks- und Bürgerschullehrerschaft , ihre Versetzung in den Ruhestand und die Versorgung ihrer Hinterbliebenen, abgeändert wird.",
+    "note": "LGBl. 98/1920",
+    "krp_work_id": "krp_work_id__97",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&size=45&page=247",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__97\">"
+  },
+  "98": {
+    "id": 98,
+    "order": "67.00000000000000000000",
+    "label": "Gesetz zur Regelung der Errichtung, der Erhaltung und des Besuches der öffentlichen Volksschulen",
+    "note": "LGBl. 11/1870",
+    "krp_work_id": "krp_work_id__98",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1870&size=45&page=25",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__98\">"
+  },
+  "99": {
+    "id": 99,
+    "order": "68.00000000000000000000",
+    "label": "",
+    "note": "",
+    "krp_work_id": "krp_work_id__99",
+    "source": "",
+    "mpr_work_id": "",
+    "tei-code": ""
   }
 }
