@@ -1444,7 +1444,7 @@ in München</orgName>
           <orgName>Deutschösterreichische Heilmittelstelle, gemeinwirtschaftliche Anstalt</orgName>
         </org>
         <org xml:id="krp_org_id__911">
-          <orgName></orgName>
+          <orgName>Militärwaiseninstitut</orgName>
         </org>
         <org xml:id="krp_org_id__912">
           <orgName>Postsparkassenamt</orgName>
@@ -1483,7 +1483,7 @@ in München</orgName>
           <orgName>Wiener Oberlandesgericht</orgName>
         </org>
         <org xml:id="krp_org_id__924">
-          <orgName></orgName>
+          <orgName>K. u. K. Fliegerarsenal Fischamend</orgName>
         </org>
         <org xml:id="krp_org_id__925">
           <orgName>Wiener Bankverein</orgName>
@@ -1502,6 +1502,15 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__930">
           <orgName>Niederösterreichischer Religionsfonds</orgName>
+        </org>
+        <org xml:id="krp_org_id__931">
+          <orgName>Grenzreglungsausschuss</orgName>
+        </org>
+        <org xml:id="krp_org_id__932">
+          <orgName>Reparatationssubkommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__933">
+          <orgName>Internationale Rheinregulierung</orgName>
         </org>
       </listOrg>
     </body>

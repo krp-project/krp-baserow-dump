@@ -1520,7 +1520,7 @@
           <occupation>Tschechoslowakischer Sektionschef</occupation>
         </person>
         <person xml:id="krp_person_id__126">
-          <persName>Buttler</persName>
+          <persName>Buttler (Butler)</persName>
           <occupation>englische Lebensmittelkommission</occupation>
         </person>
         <person xml:id="krp_person_id__545">
@@ -3754,8 +3754,8 @@
           <occupation>Hauptmann</occupation>
         </person>
         <person xml:id="krp_person_id__1140">
-          <persName>Habsburg-Lothringen, Franz-Josef</persName>
-          <occupation>ehemaliger Kaiser</occupation>
+          <persName>Habsburg-Lothringen, Franz-Joseph I.</persName>
+          <occupation>ehemaliger Kaiser Österreich-Ungarns [1848-1916]</occupation>
         </person>
         <person xml:id="krp_person_id__1144">
           <persName>Haas von Hagenfels, Johann</persName>
@@ -3893,6 +3893,19 @@
         <person xml:id="krp_person_id__1177">
           <persName>Ender, Otto</persName>
           <occupation>Landeshauptmann Vorarlberg</occupation>
+        </person>
+        <person xml:id="krp_person_id__1178">
+          <persName>Habsburg-Lothringen, Franz I./II.</persName>
+          <occupation>ehemaliger Kaiser HRR [1792-1806] und Österreichs [1806-1835]</occupation>
+        </person>
+        <person xml:id="krp_person_id__1179">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1180">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1181">
+          <persName></persName>
         </person>
       </listPerson>
     </body>

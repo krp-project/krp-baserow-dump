@@ -2969,6 +2969,36 @@
         <place xml:id="krp_place_id__726">
           <placeName>Zirkus "Busch"</placeName>
         </place>
+        <place xml:id="krp_place_id__727">
+          <placeName>Hühnerkogel</placeName>
+        </place>
+        <place xml:id="krp_place_id__728">
+          <placeName>Villa Gusti</placeName>
+        </place>
+        <place xml:id="krp_place_id__729">
+          <placeName>Toka</placeName>
+        </place>
+        <place xml:id="krp_place_id__730">
+          <placeName>Komitat von Eisenburg</placeName>
+        </place>
+        <place xml:id="krp_place_id__731">
+          <placeName>Untermühl</placeName>
+        </place>
+        <place xml:id="krp_place_id__732">
+          <placeName>Partenstein</placeName>
+        </place>
+        <place xml:id="krp_place_id__733">
+          <placeName>Bodensee</placeName>
+        </place>
+        <place xml:id="krp_place_id__734">
+          <placeName>Fußach</placeName>
+        </place>
+        <place xml:id="krp_place_id__735">
+          <placeName>Diepoldsau</placeName>
+        </place>
+        <place xml:id="krp_place_id__736">
+          <placeName>Mauer bei Wien</placeName>
+        </place>
       </listPlace>
     </body>
   </text>
