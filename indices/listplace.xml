@@ -2999,6 +2999,12 @@
         <place xml:id="krp_place_id__736">
           <placeName>Mauer bei Wien</placeName>
         </place>
+        <place xml:id="krp_place_id__737">
+          <placeName></placeName>
+        </place>
+        <place xml:id="krp_place_id__738">
+          <placeName>Bacherplatz</placeName>
+        </place>
       </listPlace>
     </body>
   </text>
