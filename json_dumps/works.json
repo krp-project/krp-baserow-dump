@@ -672,11 +672,411 @@
   "99": {
     "id": 99,
     "order": "68.00000000000000000000",
-    "label": "",
-    "note": "",
+    "label": "Gesetz, wirksam für das Land Salzburg, betreffend die Verbauung der Hinterseeralm in Wiestal",
+    "note": "LGBl. 75/1920",
     "krp_work_id": "krp_work_id__99",
-    "source": "",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1920&size=45&page=247&",
     "mpr_work_id": "",
-    "tei-code": ""
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__99\">"
+  },
+  "100": {
+    "id": 100,
+    "order": "69.00000000000000000000",
+    "label": "Kaiserliche Verordnung, betreffend Vergeltungsmaßregeln auf rechtlichem und wirtschaftlichem Gebiete anläßlich der kriegerischen Ereignisse",
+    "note": "RGBl. 289/1914",
+    "krp_work_id": "krp_work_id__100",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19140004&seite=00001147&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__100\">"
+  },
+  "101": {
+    "id": 101,
+    "order": "70.00000000000000000000",
+    "label": "Beschluss des Niederösterreichischen Landtages vom 4. Dezember 1919, durch welche 58. Bezirksstraßenausschüssen die Einhebung vom 30 % der Gesamtsumme der direkten Steuern ihres Bezirkes übersteigenden Bezirksstraßenumlagen für das Jahr 1919",
+    "note": "",
+    "krp_work_id": "krp_work_id__101",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=ltn&datum=0011&page=488&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__101\">"
+  },
+  "102": {
+    "id": 102,
+    "order": "71.00000000000000000000",
+    "label": "Beschluss des Niederösterreichischen Landtages vom 17. Dezember 1919, durch welche 8. Bezirksstraßenausschüssen die Einhebung vom 30 % der Gesamtsumme der direkten Steuern ihres Bezirkes übersteigenden Bezirksstraßenumlagen für das Jahr 1919",
+    "note": "",
+    "krp_work_id": "krp_work_id__102",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=ltn&datum=0011&page=527&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__102\">"
+  },
+  "103": {
+    "id": 103,
+    "order": "72.00000000000000000000",
+    "label": "Gesetz, betreffend die Übernahme der Staatsgewalt in den Ländern",
+    "note": "StGBl. 24/1918",
+    "krp_work_id": "krp_work_id__103",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19180004&seite=00000029&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__103\">"
+  },
+  "104": {
+    "id": 104,
+    "order": "73.00000000000000000000",
+    "label": "Gesetz über die Errichtung von Einigungsämtern für Streitigkeiten aus bestimmten Lieferungsverträgen",
+    "note": "StGBl. 220/1919",
+    "krp_work_id": "krp_work_id__104",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000525&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__104\">"
+  },
+  "105": {
+    "id": 105,
+    "order": "74.00000000000000000000",
+    "label": "Gesetz, wodurch Bestimmungen zur Regelung der äußeren Rechtsverhältnisse der katholischen Kirche erlassen werden",
+    "note": "RGBl. 50/1874",
+    "krp_work_id": "krp_work_id__105",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18740004&seite=00000101&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__105\">"
+  },
+  "106": {
+    "id": 106,
+    "order": "75.00000000000000000000",
+    "label": "Verordnung des Ministeriums für Cultus und Unterricht und, bezüglich der Militärgränze, des Armee-Ober-Commando, wirksam für den ganzen Umfang des Reiches, mit Ausnahme des lombardisch-venetianischen Königreiches, betreffend die Veräußerung und Belastung des Vermögens katholischer Kirchen, Pfründen und geistlicher Institute",
+    "note": "RGBl. 162/1860",
+    "krp_work_id": "krp_work_id__106",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18600004&seite=00000278&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__106\">"
+  },
+  "107": {
+    "id": 107,
+    "order": "76.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung, betreffend Zuständigkeit des Staatsamtes für Verkehrswesen für alle Kraftfahrangelegenheiten",
+    "note": "StGBl. 379/1919",
+    "krp_work_id": "krp_work_id__107",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000944&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__107\">"
+  },
+  "108": {
+    "id": 108,
+    "order": "77.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung über die Erhaltung des Arbeiterstandes in gewerblichen Betrieben",
+    "note": "StGBl. 489/1919",
+    "krp_work_id": "krp_work_id__108",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001165&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__108\">"
+  },
+  "109": {
+    "id": 109,
+    "order": "78.00000000000000000000",
+    "label": "Gesetz, betreffend die Landesverweisung und die Übernahme des Vermögens des Hauses Habsburg-Lothringen",
+    "note": "StGBl. 209/1919",
+    "krp_work_id": "krp_work_id__109",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000513&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__109\">"
+  },
+  "110": {
+    "id": 110,
+    "order": "79.00000000000000000000",
+    "label": "Gesetz, betreffend die Landesverweisung und die Übernahme des Vermögens des Hauses Habsburg-Lothringen",
+    "note": "StGBl. 501/1919",
+    "krp_work_id": "krp_work_id__110",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001188&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__110\">"
+  },
+  "111": {
+    "id": 111,
+    "order": "80.00000000000000000000",
+    "label": "Kaiserliches Patent, wirksam für alle Kronländer, mit Ausnahme der Militärgränze, wodurch ein neues Gesetz über das gerichtliche Verfahren in Rechtsangelegenheiten außer Streitsachen eingeführt wird, welches im lombardisch-venetianischen Königreiche, in der serbischen Wojwodschaft und dem Temeser Banate am 1. November 1854, und in jedem der übrigen Kronländer mit dem Tage in Geltung zu treten hat, an welchem daselbst die Wirksamkeit der neuen Gerichts-Organisation beginnen wird",
+    "note": "RGBl. 208/1854",
+    "krp_work_id": "krp_work_id__111",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18540004&seite=00000841&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__111\">"
+  },
+  "112": {
+    "id": 112,
+    "order": "81.00000000000000000000",
+    "label": "Gesetz über den Kriegsgeschädigtenfonds",
+    "note": "StGBl. 573/1919",
+    "krp_work_id": "krp_work_id__112",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001317&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__112\">"
+  },
+  "113": {
+    "id": 113,
+    "order": "82.00000000000000000000",
+    "label": "Gesetz, betreffend die teilweise Änderung des Dienstverhältnisses der Kanzleioffizianten und Kanzleioffiziantinnen, der Kanzleigehilfen und Kanzleigehilfinnen, ständigen Aushilfsdiener und Landpostdiener",
+    "note": "StGBl. 100/1919",
+    "krp_work_id": "krp_work_id__113",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000217&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__113\">"
+  },
+  "114": {
+    "id": 114,
+    "order": "83.00000000000000000000",
+    "label": "Gesetz, womit einige Bestimmungen der Gesetze vom 18. Dezember 1919, St. G. Bl. Nr. 570, 571 und 572, abgeändert und ergänzt werden (Nachtrag zum Besoldungsübergangsgesetz)",
+    "note": "StGBl. 134/1920",
+    "krp_work_id": "krp_work_id__114",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000262&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__114\">"
+  },
+  "115": {
+    "id": 115,
+    "order": "84.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung zur Durchführung des Gesetzes vom 22. März 1920, St. G. Bl. Nr. 134 (Nachtrag zum Besoldungsübergangsgesetz)",
+    "note": "StGBl. 154/1920",
+    "krp_work_id": "krp_work_id__115",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000289&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__115\">"
+  },
+  "116": {
+    "id": 116,
+    "order": "85.00000000000000000000",
+    "label": "Gesetz, betreffend die Neuordnung der Agrarbehörden sowie die Kosten des Agrarverfahrens und das von Amts wegen einzuleitende Zusammenlegungsverfahren",
+    "note": "StGBl. 195/1920",
+    "krp_work_id": "krp_work_id__116",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000355&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__116\">"
+  },
+  "117": {
+    "id": 117,
+    "order": "86.00000000000000000000",
+    "label": "Gesetz, betreffend Zuschüsse zu den Provisionen der Bergwerksbruderladen",
+    "note": "StGBl. 198/1920",
+    "krp_work_id": "krp_work_id__117",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000360&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__117\">"
+  },
+  "118": {
+    "id": 118,
+    "order": "87.00000000000000000000",
+    "label": "Gesetz, betreffend Teuerungszulagen zu Unfallsrenten",
+    "note": "StGBl. 196/1920",
+    "krp_work_id": "krp_work_id__118",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000358&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__118\">"
+  },
+  "119": {
+    "id": 119,
+    "order": "88.00000000000000000000",
+    "label": "Gesetz über die Gewährung von erhöhten Teuerungszulagen zu den auf Grund des Gesetzes vom 25. April 1919, St. G. Bl. Nr. 245 (Invalidenentschädigungsgesetz), gebührenden Renten",
+    "note": "StGBl. 197/1920",
+    "krp_work_id": "krp_work_id__119",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000359&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__119\">"
+  },
+  "120": {
+    "id": 120,
+    "order": "89.00000000000000000000",
+    "label": "Gesetz zur vorläufigen Regelung der Besoldung der Zivilstaatsbeamten, Unterbeamten und Diener und der Volksbeauftragten. (Besoldungsübergangsgesetz.)",
+    "note": "StGBl. 570/1919",
+    "krp_work_id": "krp_work_id__120",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001310&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__120\">"
+  },
+  "121": {
+    "id": 121,
+    "order": "90.00000000000000000000",
+    "label": "Gesetz, betreffend die Neuregelung des Dienstverhältnisses und der Dienstbezüge der Gendarmie (Gendarmeriedienstgesetz)",
+    "note": "StGBl. 519/1919",
+    "krp_work_id": "krp_work_id__121",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001219&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__121\">"
+  },
+  "122": {
+    "id": 122,
+    "order": "91.00000000000000000000",
+    "label": "Gesetz, betreffend die Schaumweinsteuer",
+    "note": "StGBl. 126/1919",
+    "krp_work_id": "krp_work_id__122",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000264&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__122\">"
+  },
+  "123": {
+    "id": 123,
+    "order": "92.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung über den Wortlant des Effektenumsatzsteuergesetzes",
+    "note": "StGBl. 469/1919",
+    "krp_work_id": "krp_work_id__123",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001123&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__123\">"
+  },
+  "124": {
+    "id": 124,
+    "order": "93.00000000000000000000",
+    "label": "Gesetz, betreffend die Änderung einiger Vorschriften über Stempel- und unmittelbare Gebühren sowie über den Spielkartenstempel",
+    "note": "StGBl. 299/1920",
+    "krp_work_id": "krp_work_id__124",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000981&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__124\">"
+  },
+  "125": {
+    "id": 125,
+    "order": "94.00000000000000000000",
+    "label": "Gesetz, womit einige Bestimmungen des Strafgesetzes abgeändert werden (Strafgesetznovelle vom Jahre 1920)",
+    "note": "StGBl. 286/1920",
+    "krp_work_id": "krp_work_id__125",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000963&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__125\">"
+  },
+  "126": {
+    "id": 126,
+    "order": "95.00000000000000000000",
+    "label": "Kundmachung der Landesregierung vom 1. Mai 1919, Z. 8211, betreffend die Weitereinhebung der Wertzuwachsabgabe in Kärnten im Jahre 1919",
+    "note": "LGBl. 28/1919",
+    "krp_work_id": "krp_work_id__126",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1919&size=45&page=89",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__126\">"
+  },
+  "127": {
+    "id": 127,
+    "order": "96.00000000000000000000",
+    "label": "Gesetz vom 11. März 1920, betreffend die Weitereinhebung der Wertzuwachsabgabe im Jahre 1920",
+    "note": "LGBl. 36/1920",
+    "krp_work_id": "krp_work_id__127",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&size=45&page=125",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__127\">"
+  },
+  "128": {
+    "id": 128,
+    "order": "97.00000000000000000000",
+    "label": "Gesetz, betreffend die Gewährung von Befreiungen von den Stempel- und unmittelbaren Gebühren auf dem Gebiete der Landeskultur",
+    "note": "RGBl. 233/1910",
+    "krp_work_id": "krp_work_id__128",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19100004&seite=00000743&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__128\">"
+  },
+  "129": {
+    "id": 129,
+    "order": "98.00000000000000000000",
+    "label": "Kaiserliches Patent, wirksam für Oesterreich ob und unter der Enns, Böhmen, Mähren, Schlesien, Salizien und Lodomerien, Krakau, Steiermark, Kärnthen, Krain, Salzburg, Bukowina, Tirol mit Vorarlberg, Istrien, Görz und Gradiska, und die Stadt Triest mit ihrem Gebiete, wodurch die Bestimmungen über die Regulirung und Ablösung der Holz-, Weide- und Forstprodukten-Bezugsrechte, dann einiger Servituts- und gemeinschaftlichen Besitz- und Benützungsrechte festgesetzt werden",
+    "note": "RGBl. 130/1853",
+    "krp_work_id": "krp_work_id__129",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18530004&seite=00000737&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__129\">"
+  },
+  "130": {
+    "id": 130,
+    "order": "99.00000000000000000000",
+    "label": "Gesetz, wirksam für das Land Salzburg. Ergänzungsregulierung, Ablösung und Sicherung der in Durchführung des kaiserlichen Patentes vom 5. Juli 1853, RGBl. Vergleich regulierten Holz- und Forstproduzentenbezugs- und Weiderechte",
+    "note": "LGBl. 47/1919",
+    "krp_work_id": "krp_work_id__130",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1919&size=45&page=223",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__130\">"
+  },
+  "131": {
+    "id": 131,
+    "order": "100.00000000000000000000",
+    "label": "Verordnung der Landesregierung in Salzburg vom 22. Dezember 1919, Zl. 29.179, zum Landesgesetze vom 11. April 1919, LG. u. VBl. Nr. 47, betreffend die Ergänzungsregulierung, Ablösung und Sicherung der in Durchführung des kaiserlichen Patentes vom 5. Juli 1853, RGBl. Nr. 130, durch Erkenntnis oder Vergleich regulierten Holz- und Forstproduktenbezugs- und Weiderechte und zum Landesgesetze vom 2. Mai 1919, LG. u. VBl. Nr. 57, betreffend die Zuständigkeit der Agrarbehörden zur Behandlung der nach dem genannten Patente der Ablösung oder Regulierung unterliegenden Rechte.",
+    "note": "LGBl. 159/1919",
+    "krp_work_id": "krp_work_id__131",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1919&size=45&page=639",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__131\">"
+  },
+  "132": {
+    "id": 132,
+    "order": "101.00000000000000000000",
+    "label": "Vollzugsanweisung des Deutschösterreichischen Staatsrates, betreffend die Anforderung von Wohnungen durch die Gemeinden",
+    "note": "StGBl. 22/1918",
+    "krp_work_id": "krp_work_id__132",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=sgb&datum=1918&size=45&page=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__132\">"
+  },
+  "133": {
+    "id": 133,
+    "order": "102.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für soziale Verwaltung, womit die Vollzugsanweisung vom 13. November 1918, St. G. Bl. Nr. 22, betreffend die Anforderung von Wohnungen durch die Gemeinden, ergänzt wird (Ersatzanforderung)",
+    "note": "StGBl. 278/1920",
+    "krp_work_id": "krp_work_id__133",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000942&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__133\">"
+  },
+  "134": {
+    "id": 134,
+    "order": "103.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Verkehrswesen, womit die in der Postordnung und in den §§ 5 und 6 der Posttaxordnung festgesetzten Postgebühren abgeändert werden",
+    "note": "StGBl. 130/1920",
+    "krp_work_id": "krp_work_id__134",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000245&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__134\">"
+  },
+  "135": {
+    "id": 135,
+    "order": "104.00000000000000000000",
+    "label": "Gesetz vom 28. April 1920 betreffend die Ermächtigung der Gemeinde Wien zu einer Kreditoperation",
+    "note": "LGBl. 235/1920",
+    "krp_work_id": "krp_work_id__135",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=219",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__135\">"
+  },
+  "136": {
+    "id": 136,
+    "order": "105.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung, womit Ausnahmen von dem im § 2 des Gesetzes vom 17. Oktober 1919, St. G. Bl. Nr. 481, ausgesprochenen Verbote weiterer Aufnahmen in den Heimatverband österreichischer Gemeinden zugelassen werden",
+    "note": "StGBl. 208/1920",
+    "krp_work_id": "krp_work_id__136",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000394&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__136\">"
+  },
+  "137": {
+    "id": 137,
+    "order": "106.00000000000000000000",
+    "label": "Gesetz über die Erhöhung der in den §§ 16 und 17 des Gesetzes vom 5. März 1919, St. G. Bl. Nr. 162, festgesetzten Entschädigung und der im § 2 des Gesetzes vom 28. November 1919, St. G. Bl. Nr. 543, festgesetzten Teuerungszulagen",
+    "note": "StGBl. 206/1920",
+    "krp_work_id": "krp_work_id__137",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000394&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__137\">"
+  },
+  "138": {
+    "id": 138,
+    "order": "107.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung, betreffend die Verwaltung der ehemals hofärarischen Theater",
+    "note": "StGBl. 229/1920",
+    "krp_work_id": "krp_work_id__138",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000419&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__138\">"
+  },
+  "139": {
+    "id": 139,
+    "order": "108.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Handel und Gewerbe, Industrie und Bauten, betreffend die Regelung des Verbrauches von Zeitungsdruckpapier",
+    "note": "StGBl. 190/1920",
+    "krp_work_id": "krp_work_id__139",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000334&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__139\">"
   }
 }

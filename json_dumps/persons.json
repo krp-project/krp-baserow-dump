@@ -10361,25 +10361,6 @@
     "place_of_death": [],
     "mpr_person_id": "0"
   },
-  "1174": {
-    "id": 1174,
-    "order": "472.00000000000000000000",
-    "label": "",
-    "note": "",
-    "gnd_url": "",
-    "occupation": "",
-    "source": "",
-    "krp_person_id": "krp_person_id__1174",
-    "wikidata_url": "",
-    "date_of_birth": null,
-    "date_of_death": null,
-    "Geburtsort": "",
-    "Sterbeort": "",
-    "tei_code": "",
-    "place_of_birth": [],
-    "place_of_death": [],
-    "mpr_person_id": "0"
-  },
   "1175": {
     "id": 1175,
     "order": "473.00000000000000000000",

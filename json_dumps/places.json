@@ -5906,5 +5906,33 @@
     "gnd_url": "",
     "latitude": "",
     "longitude": ""
+  },
+  "737": {
+    "id": 737,
+    "order": "432.00000000000000000000",
+    "label": "",
+    "krp_place_id": "krp_place_id__737",
+    "alternative_name": "",
+    "tei_code": "",
+    "mpr_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
+  },
+  "738": {
+    "id": 738,
+    "order": "433.00000000000000000000",
+    "label": "Bacherplatz",
+    "krp_place_id": "krp_place_id__738",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__738\">Bacherplatz</rs>",
+    "mpr_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "latitude": "",
+    "longitude": ""
   }
 }

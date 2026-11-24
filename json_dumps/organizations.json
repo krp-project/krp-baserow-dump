@@ -5746,5 +5746,17 @@
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
+  },
+  "934": {
+    "id": 934,
+    "order": "501.00000000000000000000",
+    "label": "Kriegsspital Meidling",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__934",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__934\">Kriegsspitales Meidling</rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
   }
 }
