@@ -4187,18 +4187,6 @@
     "gnd_url": "",
     "wikidata_url": ""
   },
-  "609": {
-    "id": 609,
-    "order": "367.00000000000000000000",
-    "label": "Gewerbeförderungsamt",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__609",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__609\"></rs>",
-    "mpr_org_id": "",
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
   "610": {
     "id": 610,
     "order": "368.00000000000000000000",
@@ -5755,6 +5743,42 @@
     "source": "",
     "krp_org_id": "krp_org_id__934",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__934\">Kriegsspitales Meidling</rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "967": {
+    "id": 967,
+    "order": "502.00000000000000000000",
+    "label": "Hauptverband der Industrie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__967",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__967\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "968": {
+    "id": 968,
+    "order": "503.00000000000000000000",
+    "label": "Kärntner Landeskulturrat",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__968",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__968\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "969": {
+    "id": 969,
+    "order": "504.00000000000000000000",
+    "label": "Zentralverband der deutschösterreichischen Kriegsbeschädigten",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__969",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__969\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""

@@ -5934,5 +5934,19 @@
     "gnd_url": "",
     "latitude": "",
     "longitude": ""
+  },
+  "771": {
+    "id": 771,
+    "order": "434.00000000000000000000",
+    "label": "Herrengasse 7, Wien A-1010",
+    "krp_place_id": "krp_place_id__771",
+    "alternative_name": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__771\"></rs>",
+    "mpr_place_id": "",
+    "geonames_url": "",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q697103",
+    "gnd_url": "https://d-nb.info/gnd/4802115-5",
+    "latitude": "",
+    "longitude": ""
   }
 }

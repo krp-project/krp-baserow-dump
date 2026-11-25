@@ -1078,5 +1078,625 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000334&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__139\">"
+  },
+  "140": {
+    "id": 140,
+    "order": "109.00000000000000000000",
+    "label": "Gesetz vom 10. März 1920, betreffend die Ablösung, Regelung und Neuregelung der Wald-, Weide- und Felddienstbarkeiten",
+    "note": "LGBl. 41/1920",
+    "krp_work_id": "krp_work_id__140",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&size=45&page=137",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__140\">"
+  },
+  "141": {
+    "id": 141,
+    "order": "110.00000000000000000000",
+    "label": "Kompensationsvertrag mit Jugoslawien 1919",
+    "note": "",
+    "krp_work_id": "krp_work_id__141",
+    "source": "",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__141\">"
+  },
+  "142": {
+    "id": 142,
+    "order": "111.00000000000000000000",
+    "label": "Gesetz vom 9. März 1920, womit einige Bestimmungen des Gesetzes vom 30. Oktober 1919, LG. u. VBl. Nr. 434, betreffend die Regelung der Rechtsverhältnisse des Lehrstandes an den öffentlichen Volks- und Bürgerschulen des Landes Niederösterreich mit Ausschluss des Schulbezirkes Wien, abgeändert werden",
+    "note": "LGBl. 114/1920",
+    "krp_work_id": "krp_work_id__142",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=159",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__142\">"
+  },
+  "143": {
+    "id": 143,
+    "order": "112.00000000000000000000",
+    "label": "Gesetz zur vorläufigen Regelung der Versorgungsgenüsse der Witwen und Waisen der Zivilstaatsbeamten, Staatslehrpersonen, Unterbeamten und Diener, dann der Personen des militärischen Berufsstandes, auf welche die Gesetze vom 18. Dezember 1919, St. G. Bl. Nr. 570, 571 und 572, und vom 20. Dezember 1919, St. G. Bl. Nr. 603, Anwendung finden (Hinterbliebenenversorgungsnovelle)",
+    "note": "StGBl. 131/1920",
+    "krp_work_id": "krp_work_id__143",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000247&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__143\">"
+  },
+  "144": {
+    "id": 144,
+    "order": "113.00000000000000000000",
+    "label": "Gesetz vom 30. Oktober 1919, womit Bestimmungen des Gesetzes vom 31. Juli 1917, LGBl. Nr. 158, betreffend die Regelung der Rechtsverhältnisse des Lehrstandes an den öffentlichen Volksschulen sowie Bestimmungen des Gesetzes vom 9. Julin 1892, LGBl. Nr. 46, betreffend die Regelung der Personal- und Dienstverhältnisse der der bewaffneten Macht angehörigen Lehrpersonen an öffentlichen Volksschulen für das Land Niederösterreich mit Abschluss des Schulbezirkes Wien, abgeändert werden",
+    "note": "LGBl. 434/1919",
+    "krp_work_id": "krp_work_id__144",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1919&size=45&page=530",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__144\">"
+  },
+  "145": {
+    "id": 145,
+    "order": "114.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung, womit einige Bestimmungen der Vollzugsanweisung der Staatsregierung vom 9. Jänner 1920, St. G. Bl. Nr. 22, zur vorläufigen Regelung der Entlohnung des Kanzleihilfspersonals und der Aushilfsdiener bei den staatlichen Behörden, Ämtern und Anstalten abgeändert und ergänzt werden",
+    "note": "StGBl. 155/1920",
+    "krp_work_id": "krp_work_id__145",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000290&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__145\">"
+  },
+  "146": {
+    "id": 146,
+    "order": "115.00000000000000000000",
+    "label": "Gesetz über die Änderung des Dienstverhältnisses der Diener (Unterbeamten) des Justizressorts als Vollstreckungsorgane",
+    "note": "StGBl. 82/1920",
+    "krp_work_id": "krp_work_id__146",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000142&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__146\">"
+  },
+  "147": {
+    "id": 147,
+    "order": "116.00000000000000000000",
+    "label": "Kundmachung der steiermärkischen Landesversammlung von Steiermark vom 28. April 1919 über die Teilung der Gemeinde St. Josef bei Stainz in die selbständigen Gemeinden Oisnitz und St. Josef bei Stainz",
+    "note": "LGBl. 141/1920",
+    "krp_work_id": "krp_work_id__147",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&size=45&page=291",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__147\">"
+  },
+  "148": {
+    "id": 148,
+    "order": "117.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Heereswesen im Einvernehmen mit dem Staatsamte für Finanzen und dem Staatsamte für Inneres und Unterricht, betreffend die Beteilung der aus der Kriegsgefangenschaft oder Zivilinternierung heimkehrenden mittellosen Deutschösterreicher mit Zivilkleidern aus Staatsmitteln. (Heimkehrerbekleidungsvorschrift.)",
+    "note": "StGBl. 414/1919",
+    "krp_work_id": "krp_work_id__148",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001023&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__148\">"
+  },
+  "149": {
+    "id": 149,
+    "order": "118.00000000000000000000",
+    "label": "Gesetz, mit welchem vorläufige Erhöhungen des Minimaleinkommens und der Ruhegenüsse der katholischen Seelsorger sowie des Minimaleinkommens der Dignitäre und Kanoniker bei den Metropolitan- und Kathedralkapiteln der katholischen Kirche festgestellt werden",
+    "note": "StGBl. 596/1919",
+    "krp_work_id": "krp_work_id__149",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001354&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__149\">"
+  },
+  "150": {
+    "id": 150,
+    "order": "119.00000000000000000000",
+    "label": "Kaiserliches Patent, womit die Angelegenheiten der evangelischen Kirche augsburgischen und helvetischen Bekenntnisses, insbesondere die staatsrechtlichen Beziehungen derselben in dem Erzherzogthume Oesterreich ob und unter der Enns, dem Herzogthume Salzburg, dem Herzogthume Steiermark, den Herzogthümern Kärnthen und Krain, der gefürsteten Grafschaft Görz und Gradisca, der Markgrafschaft Istrien und der Stadt Triest mit ihrem Gebiete, in der gefürsteten Grafschaft Tirol und Vorarlberg, dem Königreiche Böhmen, der Markgrafschaft Mähren, dem Herzogthume Ober- und Nieder-Schlesien, den Königreichen Galizien und Lodomerien mit den Herzogthümern Auschwitz und Zator, dem Großherzogthume Krakau und dem Herzogthume Bukowina geregelt werden",
+    "note": "RGBl. 41/1861",
+    "krp_work_id": "krp_work_id__150",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18610004&seite=00000337&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__150\">"
+  },
+  "151": {
+    "id": 151,
+    "order": "120.00000000000000000000",
+    "label": "Gesetz über die Mitwirkung der Nationalversammlung an der Regelung von Eisenbahntarifen, Post-, Telegraphen- und Telephongebühren und Preisen der Monopolgegenstände sowie von Bezügen der in staatlichen Betrieben Beschäftigten",
+    "note": "StGBl. 180/1920",
+    "krp_work_id": "krp_work_id__151",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000321&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__151\">"
+  },
+  "152": {
+    "id": 152,
+    "order": "121.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Kriegs- und Übergangswirtschaft, betreffend die Regelung des Verbrauches von Zeitungsdruckpapier",
+    "note": "StGBl. 83/1919",
+    "krp_work_id": "krp_work_id__152",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000145&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__152\">"
+  },
+  "153": {
+    "id": 153,
+    "order": "122.00000000000000000000",
+    "label": "Gesetz über die Regelung des Verkehres mit Getreide und Mahlprodukten",
+    "note": "StGBl. 345/1919",
+    "krp_work_id": "krp_work_id__153",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000825&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__153\">"
+  },
+  "154": {
+    "id": 154,
+    "order": "123.00000000000000000000",
+    "label": "Gesetz, mit welchem die Regierung ermächtigt wird, aus Anlaß der durch den Kriegszustand verursachten außerordentlichen Verhältnisse die notwendigen Verfügungen auf wirtschaftlichem Gebiete zu treffen",
+    "note": "RGBl. 307/1917",
+    "krp_work_id": "krp_work_id__154",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19170004&seite=00000739&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__154\">"
+  },
+  "155": {
+    "id": 155,
+    "order": "124.00000000000000000000",
+    "label": "Gesetz, betreffend Änderungen des Verfahrens in bürgerlichen Rechtsangelegenheiten (Zweite Gerichtsentlastungsnovelle)",
+    "note": "StGBl. 116/1920",
+    "krp_work_id": "krp_work_id__155",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000223&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__155\">"
+  },
+  "156": {
+    "id": 156,
+    "order": "125.00000000000000000000",
+    "label": "Gesetz, betreffend die Errichtung von Betriebsräten",
+    "note": "StGBl. 283/1919",
+    "krp_work_id": "krp_work_id__156",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000651&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__156\">"
+  },
+  "157": {
+    "id": 157,
+    "order": "126.00000000000000000000",
+    "label": "Gesetz, betreffend die Stellung und die Bezüge der Professoren an den staatlichen Hochschulen und gleichgehaltenen staatlichen Unterrichtsanstalten",
+    "note": "StGBl. 571/1919",
+    "krp_work_id": "krp_work_id__157",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001314&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__157\">"
+  },
+  "158": {
+    "id": 158,
+    "order": "127.00000000000000000000",
+    "label": "Gesetz zur vorläufigen Regelung der Besoldung der Lehrerschaft an staatlichen mittleren und niederen Unterrichtsanstalten",
+    "note": "StGBl. 572/1919",
+    "krp_work_id": "krp_work_id__158",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001316&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__158\">"
+  },
+  "159": {
+    "id": 159,
+    "order": "128.00000000000000000000",
+    "label": "Gesetz, womit einige Bestimmungen der Gesetze vom 18. Dezember 1919, St. G. Bl. Nr. 570, 571 und 572, und des Gesetzes vom 22. März 1920, St. G. Bl. Nr. 134, abgeändert und ergänzt werden (zweiter Nachtrag zum Besoldungsübergangsgesetz)",
+    "note": "StGBl. 227/1920",
+    "krp_work_id": "krp_work_id__159",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000417&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__159\">"
+  },
+  "160": {
+    "id": 160,
+    "order": "129.00000000000000000000",
+    "label": "Gesetz über die Verwendbarkeit der von der Gemeinde Wien auf Grund des mit dem niederösterreichischen Landesgesetze vom 28. April 1920, L. G. Bl. Nr. 235, bewilligten Anlehens auszugebenden Schatzscheine zur fruchtbringenden Anlegung von Stiftungs-, Pupillar- und ähnlichen Kapitalien",
+    "note": "StGBl. 231/1920",
+    "krp_work_id": "krp_work_id__160",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000457&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__160\">"
+  },
+  "161": {
+    "id": 161,
+    "order": "130.00000000000000000000",
+    "label": "Finanzgesetz für das Verwaltungsjahr 1919/20 (1. Juli 1919 bis 30. Juni 1920)",
+    "note": "StGBl. 230/1920",
+    "krp_work_id": "krp_work_id__161",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000421&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__161\">"
+  },
+  "162": {
+    "id": 162,
+    "order": "131.00000000000000000000",
+    "label": "Gesetz über Maßnahmen für die Behandlung ehemals österreichischer Zivilstaats(Staatsbahn)angestellter aus Anlaß ihrer Übernahme in den Dienst der Republik Österreich",
+    "note": "StGBl. 358/1920",
+    "krp_work_id": "krp_work_id__162",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001476&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__162\">"
+  },
+  "163": {
+    "id": 163,
+    "order": "132.00000000000000000000",
+    "label": "Kundmachung des Handelsministers und des Eisenbahnministers, betreffend die Errichtung eines Eisenbahnministeriums und die Erlassung eines neuen Organisationsstatutes für die staatliche Eisenbahnverwaltung in den im Reichsrathe vertretenen Königreichen und Ländern",
+    "note": "StGBl. 16/1896",
+    "krp_work_id": "krp_work_id__163",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18960004&seite=00000021&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__163\">"
+  },
+  "164": {
+    "id": 164,
+    "order": "133.00000000000000000000",
+    "label": "Verordnung des Gesamtministeriums, betreffend die Vergebung staatlicher Lieferungen und Arbeiten",
+    "note": "RGBl. 61/1909",
+    "krp_work_id": "krp_work_id__164",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19090004&seite=00000179&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__164\">"
+  },
+  "165": {
+    "id": 165,
+    "order": "134.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend Änderungen des Gemeindestatuts und der Gemeindewahlordnung für die Stadt Wien",
+    "note": "LGBl. 307/1920",
+    "krp_work_id": "krp_work_id__165",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=264",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__165\">"
+  },
+  "166": {
+    "id": 166,
+    "order": "135.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Hohenberg",
+    "note": "LGBl. 322/1920",
+    "krp_work_id": "krp_work_id__166",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__166\">"
+  },
+  "167": {
+    "id": 167,
+    "order": "136.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Tulln",
+    "note": "LGBl. 321/1920",
+    "krp_work_id": "krp_work_id__167",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__167\">"
+  },
+  "168": {
+    "id": 168,
+    "order": "137.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Hainburg an der Donau",
+    "note": "LGBl. 335/1920",
+    "krp_work_id": "krp_work_id__168",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__168\">"
+  },
+  "169": {
+    "id": 169,
+    "order": "138.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Mödling",
+    "note": "LGBl. 334/1920",
+    "krp_work_id": "krp_work_id__169",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__169\">"
+  },
+  "170": {
+    "id": 170,
+    "order": "139.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Beerdigungsgebühr in der Gemeinde Tulln",
+    "note": "LGBl. 336/1920",
+    "krp_work_id": "krp_work_id__170",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=287",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__170\">"
+  },
+  "171": {
+    "id": 171,
+    "order": "140.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Mautern",
+    "note": "LGBl. 324/1920",
+    "krp_work_id": "krp_work_id__171",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__171\">"
+  },
+  "172": {
+    "id": 172,
+    "order": "141.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Stein an der Donau",
+    "note": "LGBl. 326/1920",
+    "krp_work_id": "krp_work_id__172",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__172\">"
+  },
+  "173": {
+    "id": 173,
+    "order": "142.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Vitis",
+    "note": "LGBl. 323/1920",
+    "krp_work_id": "krp_work_id__173",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__173\">"
+  },
+  "174": {
+    "id": 174,
+    "order": "143.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Lilienfeld",
+    "note": "LGBl. 325/1920",
+    "krp_work_id": "krp_work_id__174",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__174\">"
+  },
+  "175": {
+    "id": 175,
+    "order": "144.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Schweiggers",
+    "note": "LGBl. 333/1920",
+    "krp_work_id": "krp_work_id__175",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__175\">"
+  },
+  "176": {
+    "id": 176,
+    "order": "145.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Oberstrahlbach",
+    "note": "LGBl. 332/1920",
+    "krp_work_id": "krp_work_id__176",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__176\">"
+  },
+  "177": {
+    "id": 177,
+    "order": "146.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Thenneberg",
+    "note": "LGBl. 331/1920",
+    "krp_work_id": "krp_work_id__177",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&page=286&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__177\">"
+  },
+  "178": {
+    "id": 178,
+    "order": "147.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Petzelsdorf",
+    "note": "LGBl. 329/1920",
+    "krp_work_id": "krp_work_id__178",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__178\">"
+  },
+  "179": {
+    "id": 179,
+    "order": "148.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Etzen",
+    "note": "LGBl. 330/1920",
+    "krp_work_id": "krp_work_id__179",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__179\">"
+  },
+  "180": {
+    "id": 180,
+    "order": "149.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Waidhofen an der Thaya",
+    "note": "LGBl. 327/1920",
+    "krp_work_id": "krp_work_id__180",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__180\">"
+  },
+  "181": {
+    "id": 181,
+    "order": "150.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Einhebung einer Totenbeschaugebühr in der Gemeinde Natschbach",
+    "note": "LGBl. 328/1920",
+    "krp_work_id": "krp_work_id__181",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__181\">"
+  },
+  "182": {
+    "id": 182,
+    "order": "151.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Teilung der Ortsgemeinde Muckendorf in zwei neue Ortsgemeinden",
+    "note": "LGBl. 389/1920",
+    "krp_work_id": "krp_work_id__182",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=328&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__182\">"
+  },
+  "183": {
+    "id": 183,
+    "order": "152.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Teilung der Ortsgemeinde Posselsdorf in zwei neue Ortsgemeinden",
+    "note": "LGBl. 387/1920",
+    "krp_work_id": "krp_work_id__183",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=328",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__183\">"
+  },
+  "184": {
+    "id": 184,
+    "order": "153.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Teilung der Ortsgemeinde Sittendorf in zwei neue Ortsgemeinden",
+    "note": "LGBl. 392/1920",
+    "krp_work_id": "krp_work_id__184",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__184\">"
+  },
+  "185": {
+    "id": 185,
+    "order": "154.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Teilung der Ortsgemeinde Reidlingberg-Pyhrafeld in zwei neue Ortsgemeinden",
+    "note": "LGBl. 390/1920",
+    "krp_work_id": "krp_work_id__185",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__185\">"
+  },
+  "186": {
+    "id": 186,
+    "order": "155.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Teilung der Ortsgemeinde Gopprechts in zwei neue Ortsgemeinden",
+    "note": "LGBl. 388/1920",
+    "krp_work_id": "krp_work_id__186",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=328",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__186\">"
+  },
+  "187": {
+    "id": 187,
+    "order": "156.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Teilung der Ortsgemeinde Walkenstein in zwei neue Ortsgemeinden",
+    "note": "LGBl. 393/1920",
+    "krp_work_id": "krp_work_id__187",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__187\">"
+  },
+  "188": {
+    "id": 188,
+    "order": "157.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Teilung der Ortsgemeinde Unter-Waltersdorf in zwei neue Ortsgemeinden",
+    "note": "LGBl. 394/1920",
+    "krp_work_id": "krp_work_id__188",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&page=330&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__188\">"
+  },
+  "189": {
+    "id": 189,
+    "order": "158.00000000000000000000",
+    "label": "Gesetz vom 29. April 1920, betreffend die Bildung einer Ortsgemeinde Ungerbach",
+    "note": "LGBl. 391/1920",
+    "krp_work_id": "krp_work_id__189",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__189\">"
+  },
+  "190": {
+    "id": 190,
+    "order": "159.00000000000000000000",
+    "label": "Gesetz über die Staats- und Regierungsform von Deutschösterreich",
+    "note": "StGBl. 5/1918",
+    "krp_work_id": "krp_work_id__190",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19180004&seite=00000004&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__190\">"
+  },
+  "191": {
+    "id": 191,
+    "order": "160.00000000000000000000",
+    "label": "Gesetz über die Staatsregierung",
+    "note": "StGBl. 180/1919",
+    "krp_work_id": "krp_work_id__191",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000407&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__191\">"
+  },
+  "192": {
+    "id": 192,
+    "order": "161.00000000000000000000",
+    "label": "Gesetz, betreffend das Urheberecht an Werken der Literatur, Kunst und Photographie",
+    "note": "RGBl. 197/1895",
+    "krp_work_id": "krp_work_id__192",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18950004&seite=00000667&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__192\">"
+  },
+  "225": {
+    "id": 225,
+    "order": "162.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Inneres und Unterricht, betreffend die Taxen für die an den Mittelschulen stattfindenden Prüfungen",
+    "note": "StGBl. 233/1920",
+    "krp_work_id": "krp_work_id__225",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000459&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__193\">"
+  },
+  "226": {
+    "id": 226,
+    "order": "163.00000000000000000000",
+    "label": "Vertrag zwischen der tschecho-slowakischen Republik und der Republik Österreich über Staatsbürgerschaft und Minderheitsschutz",
+    "note": "BGBl. 163/1920",
+    "krp_work_id": "krp_work_id__226",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=bgb&datum=19210004&seite=00000523&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__194\">"
+  },
+  "227": {
+    "id": 227,
+    "order": "164.00000000000000000000",
+    "label": "Vollzugsanweisung der Staatsregierung über die Einführung der Sommerzeit für das Jahr 1920",
+    "note": "StGBl. 107/1920",
+    "krp_work_id": "krp_work_id__227",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000190&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__195\">"
+  },
+  "228": {
+    "id": 228,
+    "order": "165.00000000000000000000",
+    "label": "Gesetz über die Regelung des Dienstverhältnisses der Steuerexekutoren",
+    "note": "StGBl. 237/1920",
+    "krp_work_id": "krp_work_id__228",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000465&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__196\">"
+  },
+  "229": {
+    "id": 229,
+    "order": "166.00000000000000000000",
+    "label": "Verordnung der steiermärkischen Landesregierung, betreffend die Lieferungspflicht des Wald- und Jagdbesitzes zur allgemeinen Fleischversorgung",
+    "note": "LGBl. 53/1920",
+    "krp_work_id": "krp_work_id__229",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&size=45&page=165",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__197\">"
+  },
+  "230": {
+    "id": 230,
+    "order": "167.00000000000000000000",
+    "label": "Verordnung des Ministeriums des Innern, giltig für alle Kronländer, mit Ausnahme der Militärgränze, betreffend die unbefugte Führung des k. k. Reichsadlers oder eines Landeswapens",
+    "note": "RGBl. 61/1858",
+    "krp_work_id": "krp_work_id__230",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18580004&seite=00000291&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__198\">"
+  },
+  "231": {
+    "id": 231,
+    "order": "168.00000000000000000000",
+    "label": "Gesetz, betreffend die Regelung des Apothekenwesens",
+    "note": "RGBl. 5/1907",
+    "krp_work_id": "krp_work_id__231",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19070004&seite=00000023&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__199\">"
+  },
+  "232": {
+    "id": 232,
+    "order": "169.00000000000000000000",
+    "label": "Gesetz über die Führung des Staatshaushaltes vom 1. Jänner bis 30. Juni 1920",
+    "note": "StGBl. 608/1919",
+    "krp_work_id": "krp_work_id__232",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001371&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__200\">"
+  },
+  "233": {
+    "id": 233,
+    "order": "170.00000000000000000000",
+    "label": "Gesetz vom 19. März 1911, mit welchem einige Bestimmungen des Gesetzes vom 19. April 1894, LG. u. VBl. Nr. 20, betreffend die Herstellung und Erhaltung der öffentlichen nicht ärarischen Straßen und Wege, abgeändert und ergänzt werden",
+    "note": "LGBl. 63/1911",
+    "krp_work_id": "krp_work_id__233",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1911&size=45&page=117",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__201\">"
   }
 }
