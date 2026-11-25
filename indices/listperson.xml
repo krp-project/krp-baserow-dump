@@ -1605,7 +1605,7 @@
         </person>
         <person xml:id="krp_person_id__143">
           <persName>Mauelère</persName>
-          <occupation>französisches Mitglied der Reparationskommission</occupation>
+          <occupation>französisches Mitglied der Reparationskommission, General</occupation>
         </person>
         <person xml:id="krp_person_id__144">
           <persName>Otavský, Dr.</persName>
@@ -3896,12 +3896,22 @@
           <occupation>ehemaliger Kaiser HRR [1792-1806] und Österreichs [1806-1835]</occupation>
         </person>
         <person xml:id="krp_person_id__1179">
-          <persName></persName>
+          <persName>Schumy, Vinzenz</persName>
+          <occupation>Mitglied des Landesrates in Kärnten</occupation>
         </person>
         <person xml:id="krp_person_id__1180">
           <persName></persName>
         </person>
         <person xml:id="krp_person_id__1181">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1214">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1215">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1216">
           <persName></persName>
         </person>
       </listPerson>

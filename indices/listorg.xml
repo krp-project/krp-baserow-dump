@@ -1105,9 +1105,6 @@ in München</orgName>
         <org xml:id="krp_org_id__608">
           <orgName>französische Armee</orgName>
         </org>
-        <org xml:id="krp_org_id__609">
-          <orgName>Gewerbeförderungsamt</orgName>
-        </org>
         <org xml:id="krp_org_id__610">
           <orgName>Aktionskomitee der militärischen Angestellten</orgName>
         </org>
@@ -1514,6 +1511,15 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__934">
           <orgName>Kriegsspital Meidling</orgName>
+        </org>
+        <org xml:id="krp_org_id__967">
+          <orgName>Hauptverband der Industrie</orgName>
+        </org>
+        <org xml:id="krp_org_id__968">
+          <orgName>Kärntner Landeskulturrat</orgName>
+        </org>
+        <org xml:id="krp_org_id__969">
+          <orgName>Zentralverband der deutschösterreichischen Kriegsbeschädigten</orgName>
         </org>
       </listOrg>
     </body>
