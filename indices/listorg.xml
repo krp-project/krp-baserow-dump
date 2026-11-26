@@ -361,9 +361,6 @@
         <org xml:id="krp_org_id__209">
           <orgName>Präsidium der Nationalversammlung</orgName>
         </org>
-        <org xml:id="krp_org_id__210">
-          <orgName>Provisorische Landesversammlung</orgName>
-        </org>
         <org xml:id="krp_org_id__212">
           <orgName>Freien Vereinigung abgerüsteter Soldaten und Heimkehrer</orgName>
         </org>
@@ -380,7 +377,7 @@
           <orgName>Oberösterreichische Provisorische Landesversammlung [18.11.1918 bis 15.05.1919]</orgName>
         </org>
         <org xml:id="krp_org_id__218">
-          <orgName>Kärntner Landesausschuss [11.11.1919-05.12.1918?]</orgName>
+          <orgName>Kärntner Landesausschuss [11.11.1918-05.12.1918?]</orgName>
         </org>
         <org xml:id="krp_org_id__219">
           <orgName>Kärntner vorläufige (provisorische) Landesversammlung [11.11.1918-]</orgName>
@@ -1492,7 +1489,7 @@ in München</orgName>
           <orgName>Dreierkommission für Sachdemobilisierung</orgName>
         </org>
         <org xml:id="krp_org_id__928">
-          <orgName></orgName>
+          <orgName>Montanistische Hochschule Leoben</orgName>
         </org>
         <org xml:id="krp_org_id__929">
           <orgName>Wiener Polizeidirktion</orgName>
@@ -1520,6 +1517,24 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__969">
           <orgName>Zentralverband der deutschösterreichischen Kriegsbeschädigten</orgName>
+        </org>
+        <org xml:id="krp_org_id__970">
+          <orgName>italienische Mission in Wien</orgName>
+        </org>
+        <org xml:id="krp_org_id__971">
+          <orgName>k. k. Kärntner Landesausschuss [vor November 1918]</orgName>
+        </org>
+        <org xml:id="krp_org_id__972">
+          <orgName>Arbeiterräte am Steinfelde</orgName>
+        </org>
+        <org xml:id="krp_org_id__973">
+          <orgName>Neue Wiener Handelsakademie</orgName>
+        </org>
+        <org xml:id="krp_org_id__975">
+          <orgName>Oberste Verwaltung des Hofärars</orgName>
+        </org>
+        <org xml:id="krp_org_id__976">
+          <orgName></orgName>
         </org>
       </listOrg>
     </body>

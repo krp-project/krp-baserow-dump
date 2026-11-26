@@ -487,7 +487,7 @@
             <date when-iso="1936-08-25">1936-08-25</date>
             <placeName>Moskau</placeName>
           </death>
-          <occupation>Unterstaatsekretär für Volksgesundheit [II-III]</occupation>
+          <occupation>Unterstaatssekretär für Volksgesundheit [II-III]</occupation>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/118620657</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q87415</idno>
         </person>
@@ -3900,10 +3900,11 @@
           <occupation>Mitglied des Landesrates in Kärnten</occupation>
         </person>
         <person xml:id="krp_person_id__1180">
-          <persName></persName>
+          <persName>Diewald, Rudolf</persName>
         </person>
         <person xml:id="krp_person_id__1181">
-          <persName></persName>
+          <persName>Jellinek, Julius</persName>
+          <occupation>Professor</occupation>
         </person>
         <person xml:id="krp_person_id__1214">
           <persName></persName>
@@ -3912,6 +3913,23 @@
           <persName></persName>
         </person>
         <person xml:id="krp_person_id__1216">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1217">
+          <persName>Wildholz, Laurenz</persName>
+          <occupation>Niederösterreichische Landeshauptmannstellvertreter</occupation>
+        </person>
+        <person xml:id="krp_person_id__1218">
+          <persName>Rohrauer, Gustav</persName>
+        </person>
+        <person xml:id="krp_person_id__1219">
+          <persName>Baumann</persName>
+          <occupation>Burgbauarchitekt</occupation>
+        </person>
+        <person xml:id="krp_person_id__1252">
+          <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1253">
           <persName></persName>
         </person>
       </listPerson>
