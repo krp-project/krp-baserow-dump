@@ -1307,18 +1307,6 @@
     "gnd_url": "",
     "wikidata_url": ""
   },
-  "210": {
-    "id": 210,
-    "order": "100.00000000000000000000",
-    "label": "Provisorische Landesversammlung",
-    "note": "",
-    "source": "",
-    "krp_org_id": "krp_org_id__210",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__210\"></rs>",
-    "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": ""
-  },
   "212": {
     "id": 212,
     "order": "102.00000000000000000000",
@@ -1382,7 +1370,7 @@
   "218": {
     "id": 218,
     "order": "108.00000000000000000000",
-    "label": "Kärntner Landesausschuss [11.11.1919-05.12.1918?]",
+    "label": "Kärntner Landesausschuss [11.11.1918-05.12.1918?]",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__218",
@@ -5666,11 +5654,11 @@
   "928": {
     "id": 928,
     "order": "495.00000000000000000000",
-    "label": "",
+    "label": "Montanistische Hochschule Leoben",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__928",
-    "tei_code": "",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__928\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
@@ -5779,6 +5767,78 @@
     "source": "",
     "krp_org_id": "krp_org_id__969",
     "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__969\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "970": {
+    "id": 970,
+    "order": "505.00000000000000000000",
+    "label": "italienische Mission in Wien",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__970",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__970\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "971": {
+    "id": 971,
+    "order": "506.00000000000000000000",
+    "label": "k. k. Kärntner Landesausschuss [vor November 1918]",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__971",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__971\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "972": {
+    "id": 972,
+    "order": "507.00000000000000000000",
+    "label": "Arbeiterräte am Steinfelde",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__972",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__972\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "973": {
+    "id": 973,
+    "order": "508.00000000000000000000",
+    "label": "Neue Wiener Handelsakademie",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__973",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__973\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "975": {
+    "id": 975,
+    "order": "509.00000000000000000000",
+    "label": "Oberste Verwaltung des Hofärars",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__975",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__975\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "976": {
+    "id": 976,
+    "order": "510.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__976",
+    "tei_code": "",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
