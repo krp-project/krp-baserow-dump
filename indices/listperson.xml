@@ -3476,19 +3476,6 @@
           <persName>Schwarz, Karl Dr.</persName>
           <occupation>Rat des Verwaltungsgerichtshofes, Titel eines Senatspräsidenten, im Ruhestand</occupation>
         </person>
-        <person xml:id="krp_person_id__785">
-          <persName>Reumann, Jakob</persName>
-          <birth>
-            <date when-iso="1853-12-31">1853-12-31</date>
-            <placeName>Wien</placeName>
-          </birth>
-          <death>
-            <date when-iso="1925-07-25">1925-07-25</date>
-            <placeName>Klagenfurt</placeName>
-          </death>
-          <occupation>Bürgermeister in Wien</occupation>
-          <idno type="URL" subtype="GND">https://d-nb.info/gnd/1014062276</idno>
-        </person>
         <person xml:id="krp_person_id__786">
           <persName>Millerand, Alexandre</persName>
         </person>
@@ -3907,7 +3894,8 @@
           <occupation>Professor</occupation>
         </person>
         <person xml:id="krp_person_id__1214">
-          <persName></persName>
+          <persName>Jones,</persName>
+          <occupation>Oberst der amerikanischen Mission</occupation>
         </person>
         <person xml:id="krp_person_id__1215">
           <persName></persName>

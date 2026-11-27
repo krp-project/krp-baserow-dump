@@ -39,6 +39,9 @@
         <event xml:id="krp_event_id__71">
           <eventName>Waffenstillstand von Villa Gusti</eventName>
         </event>
+        <event xml:id="krp_event_id__72" notBefore-iso="1920-06-11" notAfter-iso="1920-06-11">
+          <eventName>Demission des Kabinetts</eventName>
+        </event>
       </listEvent>
     </body>
   </text>

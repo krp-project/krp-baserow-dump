@@ -28,7 +28,7 @@
           <idno type="URL" subtype="MPR">https://mpr.acdh.oeaw.ac.at/entity/2318/</idno>
         </org>
         <org xml:id="krp_org_id__3">
-          <orgName>[Allgemeine österreichische] Bodencreditanstalt</orgName>
+          <orgName>Allgemeine österreichische Bodencreditanstalt</orgName>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q889479</idno>
         </org>
         <org xml:id="krp_org_id__4">
@@ -816,7 +816,7 @@ in München</orgName>
           <orgName>Unionbank</orgName>
         </org>
         <org xml:id="krp_org_id__381">
-          <orgName>Länderbank</orgName>
+          <orgName>[Österreichische] Länderbank</orgName>
         </org>
         <org xml:id="krp_org_id__386">
           <orgName>Forst-und Domänendirektion</orgName>
@@ -1534,6 +1534,9 @@ in München</orgName>
           <orgName>Oberste Verwaltung des Hofärars</orgName>
         </org>
         <org xml:id="krp_org_id__976">
+          <orgName></orgName>
+        </org>
+        <org xml:id="krp_org_id__1009">
           <orgName></orgName>
         </org>
       </listOrg>
