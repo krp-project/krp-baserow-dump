@@ -16,7 +16,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__481\">Bašta</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1": {
     "id": 1,
@@ -41,7 +44,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "2": {
     "id": 2,
@@ -60,7 +66,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__2\">Beck</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "3": {
     "id": 3,
@@ -79,7 +88,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__3\">Bratusch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "39": {
     "id": 39,
@@ -110,7 +122,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "475": {
     "id": 475,
@@ -129,7 +144,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__475\">Decker</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "4": {
     "id": 4,
@@ -154,7 +172,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "5": {
     "id": 5,
@@ -173,7 +194,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__5\">Eisler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "6": {
     "id": 6,
@@ -198,7 +222,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "7": {
     "id": 7,
@@ -217,7 +244,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__7\">Ellenbogen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "8": {
     "id": 8,
@@ -248,7 +278,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "494": {
     "id": 494,
@@ -273,7 +306,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "9": {
     "id": 9,
@@ -292,7 +328,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__9\">Fink</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "10": {
     "id": 10,
@@ -317,7 +356,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "11": {
     "id": 11,
@@ -342,7 +384,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "12": {
     "id": 12,
@@ -367,7 +412,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "13": {
     "id": 13,
@@ -386,7 +434,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__13\">Jukel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "14": {
     "id": 14,
@@ -405,7 +456,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__14\">Kaup</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "606": {
     "id": 606,
@@ -424,7 +478,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__606\">Ljubicic</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "15": {
     "id": 15,
@@ -455,7 +512,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "16": {
     "id": 16,
@@ -474,7 +534,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__16\">Marckhl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "17": {
     "id": 17,
@@ -505,7 +568,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "18": {
     "id": 18,
@@ -524,7 +590,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__18\">Mayer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "19": {
     "id": 19,
@@ -543,7 +612,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__19\">Mayr</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "20": {
     "id": 20,
@@ -568,7 +640,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "21": {
     "id": 21,
@@ -593,7 +668,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "555": {
     "id": 555,
@@ -612,7 +690,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__555\">Parma</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "22": {
     "id": 22,
@@ -643,7 +724,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "23": {
     "id": 23,
@@ -662,7 +746,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__23\">Pflügl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "24": {
     "id": 24,
@@ -681,7 +768,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__24\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "25": {
     "id": 25,
@@ -712,7 +802,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "26": {
     "id": 26,
@@ -737,7 +830,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "27": {
     "id": 27,
@@ -768,7 +864,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "28": {
     "id": 28,
@@ -793,7 +892,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "29": {
     "id": 29,
@@ -812,7 +914,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__29\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "30": {
     "id": 30,
@@ -843,7 +948,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "31": {
     "id": 31,
@@ -868,7 +976,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "32": {
     "id": 32,
@@ -893,7 +1004,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "33": {
     "id": 33,
@@ -912,7 +1026,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__33\">Tandler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "610": {
     "id": 610,
@@ -931,7 +1048,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__610\">Tunk</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "34": {
     "id": 34,
@@ -962,7 +1082,10 @@
         "order": "39.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "35": {
     "id": 35,
@@ -993,7 +1116,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "509": {
     "id": 509,
@@ -1012,7 +1138,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__509\">Wagner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "620": {
     "id": 620,
@@ -1031,7 +1160,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__620\">Wagner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "36": {
     "id": 36,
@@ -1056,7 +1188,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "37": {
     "id": 37,
@@ -1075,7 +1210,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__37\">Wallenstorfer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "38": {
     "id": 38,
@@ -1100,7 +1238,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "43": {
     "id": 43,
@@ -1125,7 +1266,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "488": {
     "id": 488,
@@ -1144,7 +1288,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__488\">Rašín</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "477": {
     "id": 477,
@@ -1163,7 +1310,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__477\">Cunningham</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "557": {
     "id": 557,
@@ -1182,7 +1332,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__557\">Czech</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "506": {
     "id": 506,
@@ -1201,7 +1354,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__506\">Dametz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "44": {
     "id": 44,
@@ -1226,7 +1382,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "46": {
     "id": 46,
@@ -1251,7 +1410,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "47": {
     "id": 47,
@@ -1282,7 +1444,10 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "49": {
     "id": 49,
@@ -1301,7 +1466,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__49\">Feiler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "50": {
     "id": 50,
@@ -1326,7 +1494,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "491": {
     "id": 491,
@@ -1351,7 +1522,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "51": {
     "id": 51,
@@ -1370,7 +1544,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__51\">Grünberger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "52": {
     "id": 52,
@@ -1389,7 +1566,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__52\">Günther</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "603": {
     "id": 603,
@@ -1408,7 +1588,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__603\">Haala</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "54": {
     "id": 54,
@@ -1433,7 +1616,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "55": {
     "id": 55,
@@ -1452,7 +1638,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__55\">Hanausek</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "619": {
     "id": 619,
@@ -1471,7 +1660,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__619\">Hellmer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "57": {
     "id": 57,
@@ -1490,7 +1682,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__57\">Hermann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "58": {
     "id": 58,
@@ -1515,7 +1710,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "59": {
     "id": 59,
@@ -1534,7 +1732,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__59\">Homann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "507": {
     "id": 507,
@@ -1553,7 +1754,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__507\">Hugelmann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "60": {
     "id": 60,
@@ -1572,7 +1776,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__60\">Hummel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "61": {
     "id": 61,
@@ -1597,7 +1804,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "62": {
     "id": 62,
@@ -1622,7 +1832,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "547": {
     "id": 547,
@@ -1647,7 +1860,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "63": {
     "id": 63,
@@ -1666,7 +1882,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__63\">Kloss</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "64": {
     "id": 64,
@@ -1697,7 +1916,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "65": {
     "id": 65,
@@ -1722,7 +1944,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "66": {
     "id": 66,
@@ -1741,7 +1966,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__66\">Lederer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "67": {
     "id": 67,
@@ -1766,7 +1994,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "68": {
     "id": 68,
@@ -1785,7 +2016,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__68\">Mosing</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "69": {
     "id": 69,
@@ -1810,7 +2044,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "70": {
     "id": 70,
@@ -1829,7 +2066,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__70\">Okorn</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "604": {
     "id": 604,
@@ -1848,7 +2088,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__604\">Pawlitza</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "71": {
     "id": 71,
@@ -1867,7 +2110,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__71\">Pergelt</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "72": {
     "id": 72,
@@ -1886,7 +2132,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__72\">Pfersmann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "602": {
     "id": 602,
@@ -1905,7 +2154,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__602\">Pokorny</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "73": {
     "id": 73,
@@ -1924,7 +2176,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__73\">Pokorny</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "74": {
     "id": 74,
@@ -1943,7 +2198,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__74\">Pöschl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "600": {
     "id": 600,
@@ -1968,7 +2226,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "75": {
     "id": 75,
@@ -1987,7 +2248,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__75\">Reich</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "630": {
     "id": 630,
@@ -2006,7 +2270,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__630\">Romaszkan</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "76": {
     "id": 76,
@@ -2025,7 +2292,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__76\">Rotky</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "77": {
     "id": 77,
@@ -2044,7 +2314,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__77\">Salzer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "78": {
     "id": 78,
@@ -2063,7 +2336,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__78\">Schauberger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "79": {
     "id": 79,
@@ -2082,7 +2358,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__79\">Schedlbauer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "624": {
     "id": 624,
@@ -2101,7 +2380,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__624\">Kniep</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "80": {
     "id": 80,
@@ -2120,7 +2402,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__80\">Schober</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "81": {
     "id": 81,
@@ -2139,7 +2424,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__81\">Schüller</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "82": {
     "id": 82,
@@ -2158,7 +2446,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__82\">Schwarzwald</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "84": {
     "id": 84,
@@ -2177,7 +2468,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__84\">Schwiedland</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "542": {
     "id": 542,
@@ -2202,7 +2496,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "85": {
     "id": 85,
@@ -2227,7 +2524,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "482": {
     "id": 482,
@@ -2252,7 +2552,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "86": {
     "id": 86,
@@ -2271,7 +2574,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__86\">Wenedikter</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "599": {
     "id": 599,
@@ -2290,7 +2596,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__599\">Wildner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "88": {
     "id": 88,
@@ -2309,7 +2618,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__88\">Wilfling</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "89": {
     "id": 89,
@@ -2328,7 +2640,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__89\">Wollheim</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "90": {
     "id": 90,
@@ -2347,7 +2662,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__90\">List</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "91": {
     "id": 91,
@@ -2366,7 +2684,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__91\">Gruber</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "92": {
     "id": 92,
@@ -2385,7 +2706,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__92\">Hillbrand</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "93": {
     "id": 93,
@@ -2410,7 +2734,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "94": {
     "id": 94,
@@ -2429,7 +2756,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__94\">Christoph</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "502": {
     "id": 502,
@@ -2448,7 +2778,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__502\">Wimmer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "95": {
     "id": 95,
@@ -2467,7 +2800,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__95\">Winsauer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "548": {
     "id": 548,
@@ -2486,7 +2822,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__548\">Hutchinson</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "97": {
     "id": 97,
@@ -2511,7 +2850,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "98": {
     "id": 98,
@@ -2530,7 +2872,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__98\">Oberdorffer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "99": {
     "id": 99,
@@ -2549,7 +2894,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__99\">Weinczierl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "100": {
     "id": 100,
@@ -2568,7 +2916,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__100\">Syrowatka</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "101": {
     "id": 101,
@@ -2587,7 +2938,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__101\">Pollak</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "102": {
     "id": 102,
@@ -2606,7 +2960,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__102\">Grabmayr</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "561": {
     "id": 561,
@@ -2637,7 +2994,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "549": {
     "id": 549,
@@ -2662,7 +3022,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "103": {
     "id": 103,
@@ -2681,7 +3044,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__103\">Berka</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "104": {
     "id": 104,
@@ -2706,7 +3072,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "105": {
     "id": 105,
@@ -2725,7 +3094,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__105\">Urbanitzky</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "613": {
     "id": 613,
@@ -2744,7 +3116,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__613\">Kiesling</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "106": {
     "id": 106,
@@ -2775,7 +3150,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "4147"
+    "mpr_person_id": "4147",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "107": {
     "id": 107,
@@ -2794,7 +3172,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__107\">Peter</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "108": {
     "id": 108,
@@ -2825,7 +3206,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "500": {
     "id": 500,
@@ -2844,7 +3228,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__500\">Kollmann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "618": {
     "id": 618,
@@ -2863,7 +3250,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__618\">Kořim</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "110": {
     "id": 110,
@@ -2888,7 +3278,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "111": {
     "id": 111,
@@ -2907,7 +3300,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__111\">Pfaundler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "112": {
     "id": 112,
@@ -2926,7 +3322,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__112\">Duveen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "113": {
     "id": 113,
@@ -2945,7 +3344,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__113\">Glück</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "114": {
     "id": 114,
@@ -2976,7 +3378,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "554": {
     "id": 554,
@@ -2995,7 +3400,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__554\">Leifer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "115": {
     "id": 115,
@@ -3026,7 +3434,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "116": {
     "id": 116,
@@ -3051,7 +3462,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "117": {
     "id": 117,
@@ -3082,7 +3496,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "118": {
     "id": 118,
@@ -3113,7 +3530,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "483": {
     "id": 483,
@@ -3138,7 +3558,10 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "119": {
     "id": 119,
@@ -3157,7 +3580,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__119\">Schubert</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "120": {
     "id": 120,
@@ -3188,7 +3614,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "598": {
     "id": 598,
@@ -3207,7 +3636,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__598\">Calonder</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "123": {
     "id": 123,
@@ -3226,7 +3658,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__123\">Causey</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "125": {
     "id": 125,
@@ -3245,7 +3680,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__125\">Gregory</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "480": {
     "id": 480,
@@ -3264,7 +3702,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__480\">Burger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "126": {
     "id": 126,
@@ -3283,7 +3724,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__126\">Buttler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "545": {
     "id": 545,
@@ -3302,7 +3746,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__545\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "127": {
     "id": 127,
@@ -3321,7 +3768,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__127\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "128": {
     "id": 128,
@@ -3340,7 +3790,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__128\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "129": {
     "id": 129,
@@ -3359,7 +3812,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__129\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "130": {
     "id": 130,
@@ -3378,7 +3834,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__130\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "132": {
     "id": 132,
@@ -3397,7 +3856,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__132\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "133": {
     "id": 133,
@@ -3416,7 +3878,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__133\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "134": {
     "id": 134,
@@ -3435,7 +3900,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__134\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "135": {
     "id": 135,
@@ -3454,7 +3922,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__135\">Noven</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "136": {
     "id": 136,
@@ -3473,7 +3944,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__136\">Lindner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "137": {
     "id": 137,
@@ -3498,7 +3972,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "138": {
     "id": 138,
@@ -3523,7 +4000,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "139": {
     "id": 139,
@@ -3542,7 +4022,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__139\">Ziller</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "140": {
     "id": 140,
@@ -3561,7 +4044,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__140\">Boschan</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "141": {
     "id": 141,
@@ -3580,7 +4066,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__141\">Hornik</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "143": {
     "id": 143,
@@ -3599,7 +4088,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__143\">Mauelère</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "144": {
     "id": 144,
@@ -3618,7 +4110,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__144\">Otavsky</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "145": {
     "id": 145,
@@ -3637,7 +4132,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__145\">Geist</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "146": {
     "id": 146,
@@ -3662,7 +4160,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "559": {
     "id": 559,
@@ -3681,7 +4182,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__559\">Lamberg</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "558": {
     "id": 558,
@@ -3700,7 +4204,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__558\">Lamberg</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "147": {
     "id": 147,
@@ -3719,7 +4226,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__147\">Lanzendörfer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "629": {
     "id": 629,
@@ -3738,7 +4248,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__629\">Karzel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "149": {
     "id": 149,
@@ -3757,7 +4270,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__149\">Katz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "150": {
     "id": 150,
@@ -3782,7 +4298,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "184": {
     "id": 184,
@@ -3807,7 +4326,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "185": {
     "id": 185,
@@ -3826,7 +4348,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__185\">Stritzl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "187": {
     "id": 187,
@@ -3857,7 +4382,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "190": {
     "id": 190,
@@ -3882,7 +4410,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "192": {
     "id": 192,
@@ -3901,7 +4432,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__192\">Egghard</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "194": {
     "id": 194,
@@ -3920,7 +4454,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__194\">Geiser</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "196": {
     "id": 196,
@@ -3939,7 +4476,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__196\">Hübner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "197": {
     "id": 197,
@@ -3958,7 +4498,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__197\">Neander</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "198": {
     "id": 198,
@@ -3977,7 +4520,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__198\">Zadovsky</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "485": {
     "id": 485,
@@ -3996,7 +4542,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__485\">Kowy</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "200": {
     "id": 200,
@@ -4015,7 +4564,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__200\">Kun</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "201": {
     "id": 201,
@@ -4040,7 +4592,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "202": {
     "id": 202,
@@ -4059,7 +4614,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__202\">Fleischhacker</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "605": {
     "id": 605,
@@ -4078,7 +4636,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__605\">Gerstmann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "203": {
     "id": 203,
@@ -4109,7 +4670,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "204": {
     "id": 204,
@@ -4140,7 +4704,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "205": {
     "id": 205,
@@ -4159,7 +4726,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__205\">Stockton</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "207": {
     "id": 207,
@@ -4178,7 +4748,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__207\">Hoover</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "208": {
     "id": 208,
@@ -4209,7 +4782,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "209": {
     "id": 209,
@@ -4228,7 +4804,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__209\">Stockhamer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "505": {
     "id": 505,
@@ -4247,7 +4826,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__505\">Wernigg</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "210": {
     "id": 210,
@@ -4266,7 +4848,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__210\">Wernisch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "212": {
     "id": 212,
@@ -4285,7 +4870,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__212\">Gruber</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "215": {
     "id": 215,
@@ -4316,7 +4904,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "217": {
     "id": 217,
@@ -4347,7 +4938,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "219": {
     "id": 219,
@@ -4366,7 +4960,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__219\">Fischer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "220": {
     "id": 220,
@@ -4385,7 +4982,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__220\">Kniep</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "486": {
     "id": 486,
@@ -4404,7 +5004,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__486\">Neumann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "223": {
     "id": 223,
@@ -4429,7 +5032,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "562": {
     "id": 562,
@@ -4448,7 +5054,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__562\">Rintelen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "224": {
     "id": 224,
@@ -4467,7 +5076,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__224\">Rogers</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "608": {
     "id": 608,
@@ -4486,7 +5098,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__608\">Weyda</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "225": {
     "id": 225,
@@ -4505,7 +5120,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__225\">Whitson</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "226": {
     "id": 226,
@@ -4524,7 +5142,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__226\">Pohl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "228": {
     "id": 228,
@@ -4543,7 +5164,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__228\">Plener</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "621": {
     "id": 621,
@@ -4562,7 +5186,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__621\">Fontana</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "229": {
     "id": 229,
@@ -4581,7 +5208,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__229\">Foris</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "230": {
     "id": 230,
@@ -4600,7 +5230,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__230\">Jentl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "231": {
     "id": 231,
@@ -4619,7 +5252,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__231\">Speil-Ostheim</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "232": {
     "id": 232,
@@ -4638,7 +5274,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__232\">Allizé</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "233": {
     "id": 233,
@@ -4663,7 +5302,10 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "601": {
     "id": 601,
@@ -4688,7 +5330,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "234": {
     "id": 234,
@@ -4719,7 +5364,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "235": {
     "id": 235,
@@ -4744,7 +5392,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "237": {
     "id": 237,
@@ -4769,7 +5420,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "238": {
     "id": 238,
@@ -4788,7 +5442,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__238\">Phillpotts</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "239": {
     "id": 239,
@@ -4807,7 +5464,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__239\">Goode</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "240": {
     "id": 240,
@@ -4826,7 +5486,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__240\">Hamburger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "241": {
     "id": 241,
@@ -4851,7 +5514,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "242": {
     "id": 242,
@@ -4870,7 +5536,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__242\">Jüptner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "243": {
     "id": 243,
@@ -4889,7 +5558,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__243\">Hlawač</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "245": {
     "id": 245,
@@ -4908,7 +5580,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__245\">Ehrenfeld-Pop</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "246": {
     "id": 246,
@@ -4927,7 +5602,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__246\">Rücker</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "609": {
     "id": 609,
@@ -4946,7 +5624,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__609\">Kunz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "247": {
     "id": 247,
@@ -4965,7 +5646,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__247\">Kunze</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "248": {
     "id": 248,
@@ -4984,7 +5668,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__248\">Vielgut</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "249": {
     "id": 249,
@@ -5003,7 +5690,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__249\">Redinger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "250": {
     "id": 250,
@@ -5022,7 +5712,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__250\">Scapinelli</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "252": {
     "id": 252,
@@ -5041,7 +5734,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__252\">Halban</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "253": {
     "id": 253,
@@ -5060,7 +5756,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__253\">Kaltenbrunner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "489": {
     "id": 489,
@@ -5085,7 +5784,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "255": {
     "id": 255,
@@ -5116,7 +5818,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "256": {
     "id": 256,
@@ -5135,7 +5840,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__256\">Müller</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "257": {
     "id": 257,
@@ -5151,7 +5859,7 @@
     "date_of_death": "1925-07-29",
     "Geburtsort": "Wien",
     "Sterbeort": "Klagenfurt",
-    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__257\">Neumann</rs>",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__257\">Reumann</rs>",
     "place_of_birth": [
       {
         "id": 15,
@@ -5160,7 +5868,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "258": {
     "id": 258,
@@ -5179,7 +5890,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__258\">Breitner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "259": {
     "id": 259,
@@ -5198,7 +5912,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__259\">Speiser</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "260": {
     "id": 260,
@@ -5217,7 +5934,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__260\">Schneller</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "265": {
     "id": 265,
@@ -5242,7 +5962,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "266": {
     "id": 266,
@@ -5261,7 +5984,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__266\">Stams</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "267": {
     "id": 267,
@@ -5280,7 +6006,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__267\">Burg</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "269": {
     "id": 269,
@@ -5311,7 +6040,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "270": {
     "id": 270,
@@ -5330,7 +6062,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__270\">Grünwald</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "550": {
     "id": 550,
@@ -5349,7 +6084,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__550\">Millsteiger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "271": {
     "id": 271,
@@ -5380,7 +6118,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "272": {
     "id": 272,
@@ -5399,7 +6140,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__272\">Hauser</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "617": {
     "id": 617,
@@ -5418,7 +6162,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__617\">Seidmann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "476": {
     "id": 476,
@@ -5437,7 +6184,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__476\">Segré</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "274": {
     "id": 274,
@@ -5462,7 +6212,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "276": {
     "id": 276,
@@ -5481,7 +6234,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__276\">Gürtler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "277": {
     "id": 277,
@@ -5512,7 +6268,10 @@
         "order": "114.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "279": {
     "id": 279,
@@ -5543,7 +6302,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "280": {
     "id": 280,
@@ -5562,7 +6324,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__280\">Hold</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "282": {
     "id": 282,
@@ -5593,7 +6358,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "283": {
     "id": 283,
@@ -5618,7 +6386,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "284": {
     "id": 284,
@@ -5637,7 +6408,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__284\">Logan</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "560": {
     "id": 560,
@@ -5656,7 +6430,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__560\">Singer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "484": {
     "id": 484,
@@ -5687,7 +6464,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "285": {
     "id": 285,
@@ -5706,7 +6486,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__285\">Smith</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "508": {
     "id": 508,
@@ -5737,7 +6520,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "286": {
     "id": 286,
@@ -5756,7 +6542,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__286\">Bösbauer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "288": {
     "id": 288,
@@ -5775,7 +6564,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__288\">Bourcart</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "622": {
     "id": 622,
@@ -5794,7 +6586,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__622\">Rodler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "289": {
     "id": 289,
@@ -5819,7 +6614,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "479": {
     "id": 479,
@@ -5838,7 +6636,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__479\">Ganglbauer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "290": {
     "id": 290,
@@ -5869,7 +6670,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "291": {
     "id": 291,
@@ -5894,7 +6698,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "292": {
     "id": 292,
@@ -5913,7 +6720,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__292\">Nitti</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "293": {
     "id": 293,
@@ -5932,7 +6742,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__293\">Stark</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "294": {
     "id": 294,
@@ -5963,7 +6776,10 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "295": {
     "id": 295,
@@ -5994,7 +6810,10 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "296": {
     "id": 296,
@@ -6013,7 +6832,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__296\">Bernegger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "611": {
     "id": 611,
@@ -6032,7 +6854,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__611\">Jacobi</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "297": {
     "id": 297,
@@ -6051,7 +6876,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__297\">Jäger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "298": {
     "id": 298,
@@ -6070,7 +6898,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__298\">Zweifel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "299": {
     "id": 299,
@@ -6089,7 +6920,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__299\">Ludwig</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "301": {
     "id": 301,
@@ -6108,7 +6942,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__301\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "302": {
     "id": 302,
@@ -6127,7 +6964,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__302\">Jung</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "497": {
     "id": 497,
@@ -6146,7 +6986,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__497\">Wokral</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "612": {
     "id": 612,
@@ -6165,7 +7008,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__612\">Dorschel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "607": {
     "id": 607,
@@ -6184,7 +7030,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__607\">Drucker</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "304": {
     "id": 304,
@@ -6203,7 +7052,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__304\">Dubowy</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "305": {
     "id": 305,
@@ -6222,7 +7074,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__305\">Linder</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "306": {
     "id": 306,
@@ -6241,7 +7096,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__306\">Troubridge</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "307": {
     "id": 307,
@@ -6272,7 +7130,10 @@
         "order": "83.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "309": {
     "id": 309,
@@ -6291,7 +7152,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__309\">Smitka</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "543": {
     "id": 543,
@@ -6310,7 +7174,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__543\">Oldofredi</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "310": {
     "id": 310,
@@ -6335,7 +7202,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "490": {
     "id": 490,
@@ -6360,7 +7230,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "312": {
     "id": 312,
@@ -6385,7 +7258,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "313": {
     "id": 313,
@@ -6404,7 +7280,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__313\">Haager</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "315": {
     "id": 315,
@@ -6423,7 +7302,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__315\">Redlich</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "316": {
     "id": 316,
@@ -6442,7 +7324,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__316\">Rappaport</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "319": {
     "id": 319,
@@ -6467,7 +7352,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "615": {
     "id": 615,
@@ -6486,7 +7374,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__615\">Ballacs</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "474": {
     "id": 474,
@@ -6517,7 +7408,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "614": {
     "id": 614,
@@ -6542,7 +7436,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "320": {
     "id": 320,
@@ -6561,7 +7458,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__320\">Barrés</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "321": {
     "id": 321,
@@ -6580,7 +7480,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__321\">Wallace</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "322": {
     "id": 322,
@@ -6599,7 +7502,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__322\">Torretta</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "544": {
     "id": 544,
@@ -6624,7 +7530,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "323": {
     "id": 323,
@@ -6643,7 +7552,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__323\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "325": {
     "id": 325,
@@ -6662,7 +7574,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__325\">Dittrich</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "326": {
     "id": 326,
@@ -6681,7 +7596,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__326\">Wettendorfer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "627": {
     "id": 627,
@@ -6700,7 +7618,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__627\">Dvořák</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "504": {
     "id": 504,
@@ -6719,7 +7640,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__504\">Eckl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "327": {
     "id": 327,
@@ -6738,7 +7662,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__327\">Egger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "328": {
     "id": 328,
@@ -6757,7 +7684,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__328\">Ruber</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "329": {
     "id": 329,
@@ -6776,7 +7706,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__329\">Schwegel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "330": {
     "id": 330,
@@ -6795,7 +7728,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__330\">Peter</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "546": {
     "id": 546,
@@ -6814,7 +7750,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__546\">Amon</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "331": {
     "id": 331,
@@ -6833,7 +7772,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__331\">Aub</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "499": {
     "id": 499,
@@ -6852,7 +7794,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__499\">Kunzl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "332": {
     "id": 332,
@@ -6871,7 +7816,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__332\">Kurz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "333": {
     "id": 333,
@@ -6890,7 +7838,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__333\">Thomas</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "334": {
     "id": 334,
@@ -6909,7 +7860,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__334\">de L'Epine</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "335": {
     "id": 335,
@@ -6940,7 +7894,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "337": {
     "id": 337,
@@ -6959,7 +7916,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__337\">Bunau-Varilla</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "552": {
     "id": 552,
@@ -6978,7 +7938,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__552\">Schoeller</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "556": {
     "id": 556,
@@ -6997,7 +7960,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__556\">Scholz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "338": {
     "id": 338,
@@ -7016,7 +7982,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__338\">Schönemann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "503": {
     "id": 503,
@@ -7035,7 +8004,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__503\">Kratzig</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "339": {
     "id": 339,
@@ -7054,7 +8026,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__339\">Kronholz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "340": {
     "id": 340,
@@ -7085,7 +8060,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "623": {
     "id": 623,
@@ -7110,7 +8088,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "341": {
     "id": 341,
@@ -7135,7 +8116,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "625": {
     "id": 625,
@@ -7154,7 +8138,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__625\">Scheuch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "342": {
     "id": 342,
@@ -7185,7 +8172,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "343": {
     "id": 343,
@@ -7204,7 +8194,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__343\">Fórsten</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "344": {
     "id": 344,
@@ -7229,7 +8222,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "345": {
     "id": 345,
@@ -7254,7 +8250,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "346": {
     "id": 346,
@@ -7273,7 +8272,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__346\">Thomas</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "347": {
     "id": 347,
@@ -7304,7 +8306,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "553": {
     "id": 553,
@@ -7323,7 +8328,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__553\">Pantz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "348": {
     "id": 348,
@@ -7348,7 +8356,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "349": {
     "id": 349,
@@ -7379,7 +8390,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "493": {
     "id": 493,
@@ -7398,7 +8412,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__493\">Schmid</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "350": {
     "id": 350,
@@ -7417,7 +8434,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__350\">Schmidt</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "495": {
     "id": 495,
@@ -7436,7 +8456,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__495\">Priebsch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "351": {
     "id": 351,
@@ -7455,7 +8478,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__351\">Prohaska</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "383": {
     "id": 383,
@@ -7474,7 +8500,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__383\">Grümmer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "551": {
     "id": 551,
@@ -7505,7 +8534,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "384": {
     "id": 384,
@@ -7524,7 +8556,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__384\">Marx</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "416": {
     "id": 416,
@@ -7543,7 +8578,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__416\">Pöstinger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "417": {
     "id": 417,
@@ -7562,7 +8600,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__417\">Zsiska</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "418": {
     "id": 418,
@@ -7581,7 +8622,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__418\">Kotzian</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "419": {
     "id": 419,
@@ -7600,7 +8644,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__419\">Kogler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "452": {
     "id": 452,
@@ -7619,7 +8666,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__452\">Obermaier</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "453": {
     "id": 453,
@@ -7638,7 +8688,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__453\">Griesmüller</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "487": {
     "id": 487,
@@ -7657,7 +8710,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__487\">Hartmann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "454": {
     "id": 454,
@@ -7676,7 +8732,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__454\">Hartmanngruber</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "496": {
     "id": 496,
@@ -7695,7 +8754,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__496\">Schürff</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "455": {
     "id": 455,
@@ -7714,7 +8776,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__455\">Schwarzinger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "456": {
     "id": 456,
@@ -7733,7 +8798,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__456\">Ring</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "628": {
     "id": 628,
@@ -7752,7 +8820,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__628\">Bolzer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "457": {
     "id": 457,
@@ -7771,7 +8842,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__457\">Boninchi</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "458": {
     "id": 458,
@@ -7790,7 +8864,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__458\">Sonnberger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "459": {
     "id": 459,
@@ -7809,7 +8886,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__459\">Haider</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "460": {
     "id": 460,
@@ -7828,7 +8908,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__460\">Breuer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "461": {
     "id": 461,
@@ -7847,7 +8930,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__461\">Wiesmaier</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "462": {
     "id": 462,
@@ -7866,7 +8952,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__462\">Schlosser</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "463": {
     "id": 463,
@@ -7885,7 +8974,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__463\">Cnobloch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "616": {
     "id": 616,
@@ -7904,7 +8996,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__616\">Lenz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "464": {
     "id": 464,
@@ -7923,7 +9018,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__464\">Lers</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "465": {
     "id": 465,
@@ -7942,7 +9040,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__465\">Pozzi</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "467": {
     "id": 467,
@@ -7967,7 +9068,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "468": {
     "id": 468,
@@ -7986,7 +9090,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__468\">Bernhard</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "469": {
     "id": 469,
@@ -8005,7 +9112,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__469\">Schüch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "626": {
     "id": 626,
@@ -8024,7 +9134,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__626\">Mengele</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "470": {
     "id": 470,
@@ -8043,7 +9156,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__470\">Metzger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "471": {
     "id": 471,
@@ -8062,7 +9178,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__471\">Steyrer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "472": {
     "id": 472,
@@ -8081,7 +9200,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__472\">Kohler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "595": {
     "id": 595,
@@ -8106,7 +9228,10 @@
       }
     ],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "596": {
     "id": 596,
@@ -8137,7 +9262,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "597": {
     "id": 597,
@@ -8162,7 +9290,10 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "661": {
     "id": 661,
@@ -8181,7 +9312,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__661\">Alberti</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "662": {
     "id": 662,
@@ -8200,7 +9334,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__662\">Curzon</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "695": {
     "id": 695,
@@ -8219,7 +9356,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__695\">Steiner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "696": {
     "id": 696,
@@ -8238,7 +9378,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__696\">Zedtwitz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "697": {
     "id": 697,
@@ -8257,7 +9400,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__697\">Reiber</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "698": {
     "id": 698,
@@ -8276,7 +9422,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__698\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "731": {
     "id": 731,
@@ -8295,7 +9444,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__731\">Riedl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "764": {
     "id": 764,
@@ -8314,7 +9466,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__764\">Karl I.</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "765": {
     "id": 765,
@@ -8345,7 +9500,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "766": {
     "id": 766,
@@ -8364,7 +9522,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__766\">Grienberger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "767": {
     "id": 767,
@@ -8383,7 +9544,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__767\">Bertele</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "768": {
     "id": 768,
@@ -8402,7 +9566,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__768\">Kunst</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "770": {
     "id": 770,
@@ -8421,7 +9588,10 @@
     "tei_code": "",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "771": {
     "id": 771,
@@ -8440,7 +9610,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__771\">Preis</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "772": {
     "id": 772,
@@ -8459,7 +9632,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__772\">Hammerschlag</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "773": {
     "id": 773,
@@ -8478,7 +9654,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__773\">Weiner</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "774": {
     "id": 774,
@@ -8497,7 +9676,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__774\">Rapp</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "775": {
     "id": 775,
@@ -8516,7 +9698,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__775\">Sieghart</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "776": {
     "id": 776,
@@ -8535,7 +9720,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__776\">Hoffmann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "777": {
     "id": 777,
@@ -8554,7 +9742,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id_777\">Napoleon I.</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "778": {
     "id": 778,
@@ -8573,7 +9764,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__788\">Walker</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "779": {
     "id": 779,
@@ -8592,7 +9786,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__779\">Muchitsch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "780": {
     "id": 780,
@@ -8611,7 +9808,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__780\">Reif</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "781": {
     "id": 781,
@@ -8630,7 +9830,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__781\">Deutsch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "782": {
     "id": 782,
@@ -8649,7 +9852,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__782\">Lemisch</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "783": {
     "id": 783,
@@ -8668,7 +9874,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__783\">Engel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "784": {
     "id": 784,
@@ -8687,26 +9896,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__784\">Schwarz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
-  },
-  "785": {
-    "id": 785,
-    "order": "376.00000000000000000000",
-    "label": "Reumann, Jakob",
-    "note": "",
-    "gnd_url": "https://d-nb.info/gnd/1014062276",
-    "occupation": "Bürgermeister in Wien",
-    "source": "https://www.parlament.gv.at/person/1673",
-    "krp_person_id": "krp_person_id__785",
-    "wikidata_url": "",
-    "date_of_birth": "1853-12-31",
-    "date_of_death": "1925-07-25",
-    "Geburtsort": "Wien",
-    "Sterbeort": "Klagenfurt",
-    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__785\">Reumann</rs>",
-    "place_of_birth": [],
-    "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "786": {
     "id": 786,
@@ -8725,7 +9918,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__786\">Millerand</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "819": {
     "id": 819,
@@ -8744,7 +9940,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__819\">Pfiffl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "820": {
     "id": 820,
@@ -8763,7 +9962,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__820\">Spalovsky</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "821": {
     "id": 821,
@@ -8782,7 +9984,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__821\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "822": {
     "id": 822,
@@ -8801,7 +10006,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id_822\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "823": {
     "id": 823,
@@ -8820,7 +10028,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__823\">Tusar</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "824": {
     "id": 824,
@@ -8839,7 +10050,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__824\">Sobotka</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "825": {
     "id": 825,
@@ -8858,7 +10072,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__825\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "826": {
     "id": 826,
@@ -8877,7 +10094,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__826\">Schwager</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "827": {
     "id": 827,
@@ -8896,7 +10116,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__827\">Sochor</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "828": {
     "id": 828,
@@ -8915,7 +10138,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__828\">Dillon</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "861": {
     "id": 861,
@@ -8934,7 +10160,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__861\">Emmerling</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "862": {
     "id": 862,
@@ -8953,7 +10182,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__862\">Sachs</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "863": {
     "id": 863,
@@ -8972,7 +10204,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__863\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "864": {
     "id": 864,
@@ -8991,7 +10226,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__864\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "865": {
     "id": 865,
@@ -9010,7 +10248,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__865\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "866": {
     "id": 866,
@@ -9029,7 +10270,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__866\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "867": {
     "id": 867,
@@ -9048,7 +10292,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__867\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "868": {
     "id": 868,
@@ -9067,7 +10314,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__868\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "869": {
     "id": 869,
@@ -9086,7 +10336,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__869\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "871": {
     "id": 871,
@@ -9105,7 +10358,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__871\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "872": {
     "id": 872,
@@ -9124,7 +10380,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__872\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "873": {
     "id": 873,
@@ -9143,7 +10402,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__873\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "874": {
     "id": 874,
@@ -9162,7 +10424,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__874\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "875": {
     "id": 875,
@@ -9181,7 +10446,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__875\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "876": {
     "id": 876,
@@ -9200,7 +10468,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__876\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "877": {
     "id": 877,
@@ -9219,7 +10490,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__877\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "878": {
     "id": 878,
@@ -9238,7 +10512,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__878\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "879": {
     "id": 879,
@@ -9257,7 +10534,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__879\">",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "880": {
     "id": 880,
@@ -9276,7 +10556,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__880\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "881": {
     "id": 881,
@@ -9295,7 +10578,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__881\">Gustav Adolf</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "882": {
     "id": 882,
@@ -9314,7 +10600,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__882\">Ludwig Viktor</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "915": {
     "id": 915,
@@ -9333,7 +10622,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__915\">Feucht</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "948": {
     "id": 948,
@@ -9352,7 +10644,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__948\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "949": {
     "id": 949,
@@ -9371,7 +10666,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__949\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "950": {
     "id": 950,
@@ -9390,7 +10688,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__950\">Meyer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "951": {
     "id": 951,
@@ -9409,7 +10710,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__951\">Stutz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "984": {
     "id": 984,
@@ -9428,7 +10732,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__984\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1017": {
     "id": 1017,
@@ -9447,7 +10754,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1017\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1020": {
     "id": 1020,
@@ -9466,7 +10776,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1020\">Czobel</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1021": {
     "id": 1021,
@@ -9485,7 +10798,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1021\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1022": {
     "id": 1022,
@@ -9504,7 +10820,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1022\"> Clemenceau</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": null
+    "mpr_person_id": null,
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1023": {
     "id": 1023,
@@ -9523,7 +10842,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1023\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1024": {
     "id": 1024,
@@ -9542,7 +10864,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1024\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1026": {
     "id": 1026,
@@ -9561,7 +10886,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1026\">Erzberger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1060": {
     "id": 1060,
@@ -9580,7 +10908,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1060\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1061": {
     "id": 1061,
@@ -9599,7 +10930,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1061\">Gleispach</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1062": {
     "id": 1062,
@@ -9618,7 +10952,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1062\">Parrer</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1063": {
     "id": 1063,
@@ -9637,7 +10974,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1063\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1064": {
     "id": 1064,
@@ -9656,7 +10996,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1064\">Schulz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1065": {
     "id": 1065,
@@ -9675,7 +11018,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1065\">Friedjung</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1066": {
     "id": 1066,
@@ -9694,7 +11040,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1066\">Zsombór</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1097": {
     "id": 1097,
@@ -9713,7 +11062,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1097\">Sosna</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1098": {
     "id": 1098,
@@ -9732,7 +11084,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1098\">Colliard</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1100": {
     "id": 1100,
@@ -9751,7 +11106,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1100\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1134": {
     "id": 1134,
@@ -9770,7 +11128,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1134\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1135": {
     "id": 1135,
@@ -9789,7 +11150,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1135\">Lovaszy</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1137": {
     "id": 1137,
@@ -9808,7 +11172,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1137\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1140": {
     "id": 1140,
@@ -9827,7 +11194,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1140\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1144": {
     "id": 1144,
@@ -9846,7 +11216,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1144\">Haas</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1146": {
     "id": 1146,
@@ -9865,7 +11238,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1146\">Neumann</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1147": {
     "id": 1147,
@@ -9884,7 +11260,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1147\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1148": {
     "id": 1148,
@@ -9903,7 +11282,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1148\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1149": {
     "id": 1149,
@@ -9922,7 +11304,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1149\">Lenoble</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1150": {
     "id": 1150,
@@ -9941,7 +11326,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1150\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1151": {
     "id": 1151,
@@ -9960,7 +11348,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1151\">Gröger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1152": {
     "id": 1152,
@@ -9979,7 +11370,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1152\">Moll</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1153": {
     "id": 1153,
@@ -9998,7 +11392,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1153\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1154": {
     "id": 1154,
@@ -10017,7 +11414,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1154\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1155": {
     "id": 1155,
@@ -10036,7 +11436,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1155\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1156": {
     "id": 1156,
@@ -10055,7 +11458,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1156\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1157": {
     "id": 1157,
@@ -10074,7 +11480,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1157\">Fries</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1158": {
     "id": 1158,
@@ -10093,7 +11502,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1158\">Landesberger</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1159": {
     "id": 1159,
@@ -10112,7 +11524,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1159\">Flotow</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1160": {
     "id": 1160,
@@ -10131,7 +11546,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1160\">Partik</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1161": {
     "id": 1161,
@@ -10150,7 +11568,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1161\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1162": {
     "id": 1162,
@@ -10169,7 +11590,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1162\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1163": {
     "id": 1163,
@@ -10188,7 +11612,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1163\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1164": {
     "id": 1164,
@@ -10207,7 +11634,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1164\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1165": {
     "id": 1165,
@@ -10226,7 +11656,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1165\">Seidler</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1166": {
     "id": 1166,
@@ -10245,7 +11678,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1166\">Heinl</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1167": {
     "id": 1167,
@@ -10264,7 +11700,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1167\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1169": {
     "id": 1169,
@@ -10283,7 +11722,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1169\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1170": {
     "id": 1170,
@@ -10302,7 +11744,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1170\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1171": {
     "id": 1171,
@@ -10321,7 +11766,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1171\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1172": {
     "id": 1172,
@@ -10340,7 +11788,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1172\">Kux</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1173": {
     "id": 1173,
@@ -10359,7 +11810,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1173\">Cunningham</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1175": {
     "id": 1175,
@@ -10378,7 +11832,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1175\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1176": {
     "id": 1176,
@@ -10397,7 +11854,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1176\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1177": {
     "id": 1177,
@@ -10416,7 +11876,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1177\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1178": {
     "id": 1178,
@@ -10435,7 +11898,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1178\">Habsburg-Lothringen</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1179": {
     "id": 1179,
@@ -10454,7 +11920,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1179\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1180": {
     "id": 1180,
@@ -10473,7 +11942,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1180\">Diewald</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1181": {
     "id": 1181,
@@ -10492,15 +11964,18 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1181\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1214": {
     "id": 1214,
     "order": "480.00000000000000000000",
-    "label": "",
+    "label": "Jones,",
     "note": "",
     "gnd_url": "",
-    "occupation": "",
+    "occupation": "Oberst der amerikanischen Mission",
     "source": "",
     "krp_person_id": "krp_person_id__1214",
     "wikidata_url": "",
@@ -10508,10 +11983,13 @@
     "date_of_death": null,
     "Geburtsort": "",
     "Sterbeort": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1214\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1215": {
     "id": 1215,
@@ -10530,7 +12008,10 @@
     "tei_code": "",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1216": {
     "id": 1216,
@@ -10549,7 +12030,10 @@
     "tei_code": "",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1217": {
     "id": 1217,
@@ -10568,7 +12052,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1217\">Wildholz</rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1218": {
     "id": 1218,
@@ -10587,7 +12074,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1218\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1219": {
     "id": 1219,
@@ -10606,7 +12096,10 @@
     "tei_code": "<rs type=\"person\" ref=\"#krp_person_id__1219\"></rs>",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1252": {
     "id": 1252,
@@ -10625,7 +12118,10 @@
     "tei_code": "",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   },
   "1253": {
     "id": 1253,
@@ -10644,6 +12140,9 @@
     "tei_code": "",
     "place_of_birth": [],
     "place_of_death": [],
-    "mpr_person_id": "0"
+    "mpr_person_id": "0",
+    "works": [],
+    "works - contributor": [],
+    "works - editor": []
   }
 }

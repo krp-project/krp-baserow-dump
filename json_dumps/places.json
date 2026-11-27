@@ -6148,10 +6148,10 @@
   "817": {
     "id": 817,
     "order": "449.00000000000000000000",
-    "label": "",
+    "label": "Grein",
     "krp_place_id": "krp_place_id__817",
     "alternative_name": "",
-    "tei_code": "",
+    "tei_code": "<rs type=\"place\" ref=\"#krp_place_id__817\">Grein</rs>",
     "mpr_place_id": "",
     "geonames_url": "",
     "wikidata_url": "",

@@ -8,7 +8,13 @@
     "source": null,
     "mpr_work_id": null,
     "tei-code": null,
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "2": {
     "id": 2,
@@ -19,7 +25,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000995&size=45",
     "mpr_work_id": null,
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__2\">Vertrag von St. Germain</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "34": {
     "id": 34,
@@ -30,7 +42,13 @@
     "source": null,
     "mpr_work_id": null,
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__34\"></rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "35": {
     "id": 35,
@@ -41,7 +59,13 @@
     "source": "",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__35\"></rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "36": {
     "id": 36,
@@ -52,7 +76,13 @@
     "source": "",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__36\">Haager Prozessübereinkommen</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "37": {
     "id": 37,
@@ -63,7 +93,13 @@
     "source": "",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__37\">Berner Urheberschutzkonvention</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "38": {
     "id": 38,
@@ -74,7 +110,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000157&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__38\">Gesetz, womit Artikel 7 des Gesetzes vom 14. März 1919, StGBl. Nr. 180, über die Staatsregierung ergänzt wird</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "39": {
     "id": 39,
@@ -85,7 +127,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000645&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__39\">Gesetz, betreffend die Ermächtigung der Regierung zu zoll- und handelspolitischen Verfügungen</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "40": {
     "id": 40,
@@ -96,7 +144,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001259&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__40\">Vollzugsanweisung der Staatsämter für Finanzen, für Handel und Gewerbe, Industrie und Bauten und für Land- und Forstwirtschaft über die Zollbehandlung des Warenverkehrs mit Ungarn</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "41": {
     "id": 41,
@@ -107,7 +161,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000444&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__41\">Vollzugsanweisung des Staatsamtes für Justiz über die Beschränkung der Kündigung bestimmter Dienstverhältnisse</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "42": {
     "id": 42,
@@ -118,7 +178,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19140004&seite=00001140&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id_42\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "43": {
     "id": 43,
@@ -129,7 +195,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&page=51&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__43\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "44": {
     "id": 44,
@@ -140,7 +212,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&page=205&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__44\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "45": {
     "id": 45,
@@ -151,7 +229,13 @@
     "source": "",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__45\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "46": {
     "id": 46,
@@ -162,7 +246,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000232&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__46\">Wehrgesetz</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "47": {
     "id": 47,
@@ -173,7 +263,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000071&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__47\">Gesetz, betreffend Kreditoperationen</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "48": {
     "id": 48,
@@ -184,7 +280,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000277&size=45&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__48\">Gesetz, mit welchem Zuschläge zu dem Minimaleinkommen und zu den Ruhegenüssen der katholischen Seelsorger sowie zu dem Minimaleinkommen der Dignitäre und Kanoniker bei den Metropolitan- und Kathedralkapiteln der katholischen Kirche festgestellt werden</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "49": {
     "id": 49,
@@ -195,7 +297,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000280&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__49\">esetz, betreffend die Aufhebung des Hofdekrets vom 4. Oktober 1833, J. G. S. Nr. 2633, und des Artikels V des Gesetzes vom 1. August 1895, R. G. Bl. Nr. 112</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "50": {
     "id": 50,
@@ -206,7 +314,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=rgb&datum=19140004&seite=00000087",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__50\">Dienstpragmatik</rs>",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "51": {
     "id": 51,
@@ -217,7 +331,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001149&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__51\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "52": {
     "id": 52,
@@ -228,7 +348,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000250&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__52\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "53": {
     "id": 53,
@@ -239,7 +365,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000253&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__53\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "54": {
     "id": 54,
@@ -250,7 +382,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000771&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__54\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "55": {
     "id": 55,
@@ -261,7 +399,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001049&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__55\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "56": {
     "id": 56,
@@ -272,7 +416,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000016&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__56\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "57": {
     "id": 57,
@@ -283,7 +433,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000291&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__57\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "58": {
     "id": 58,
@@ -294,7 +450,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000292&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__58\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "59": {
     "id": 59,
@@ -305,7 +467,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000292&size=45&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__59\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "60": {
     "id": 60,
@@ -316,7 +484,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000293&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__60\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "61": {
     "id": 61,
@@ -327,7 +501,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000293&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__61\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "62": {
     "id": 62,
@@ -338,7 +518,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=173",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__62\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "63": {
     "id": 63,
@@ -349,7 +535,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1910&page=231&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__63\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "64": {
     "id": 64,
@@ -360,7 +552,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=187",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__64\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "65": {
     "id": 65,
@@ -371,7 +569,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__65\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "66": {
     "id": 66,
@@ -382,7 +586,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__66\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "67": {
     "id": 67,
@@ -393,7 +603,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__67\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "68": {
     "id": 68,
@@ -404,7 +620,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=187",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__68\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "69": {
     "id": 69,
@@ -415,7 +637,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=185",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__69\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "70": {
     "id": 70,
@@ -426,7 +654,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__70\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "71": {
     "id": 71,
@@ -437,7 +671,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=186&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__71\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "72": {
     "id": 72,
@@ -448,7 +688,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=bgb&datum=19210004&seite=00000393&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__72\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "73": {
     "id": 73,
@@ -459,7 +705,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000281&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__73\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "74": {
     "id": 74,
@@ -470,7 +722,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000299&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__74\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "75": {
     "id": 75,
@@ -481,7 +739,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000295&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__75\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "76": {
     "id": 76,
@@ -492,7 +756,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000297&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__76\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "77": {
     "id": 77,
@@ -503,7 +773,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000265&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__77\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "78": {
     "id": 78,
@@ -514,7 +790,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18590004&seite=00000619&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__78\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "79": {
     "id": 79,
@@ -525,7 +807,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18620004&seite=00000036&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__79\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "80": {
     "id": 80,
@@ -536,7 +824,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000609&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__80\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "81": {
     "id": 81,
@@ -547,7 +841,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000641&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__81\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "82": {
     "id": 82,
@@ -558,7 +858,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1899&size=45&page=51",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__82\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "83": {
     "id": 83,
@@ -569,7 +875,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&size=45&page=88",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__83\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "84": {
     "id": 84,
@@ -580,7 +892,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000413&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__84\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "85": {
     "id": 85,
@@ -591,7 +909,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000405&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__85\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "86": {
     "id": 86,
@@ -602,7 +926,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000316&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__86\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "87": {
     "id": 87,
@@ -613,7 +943,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000316&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__87\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "88": {
     "id": 88,
@@ -624,7 +960,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000248&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__88\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "89": {
     "id": 89,
@@ -635,7 +977,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=297",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__89\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "90": {
     "id": 90,
@@ -646,7 +994,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=591",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__90\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "91": {
     "id": 91,
@@ -657,7 +1011,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1919&page=53&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__91\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "92": {
     "id": 92,
@@ -668,7 +1028,13 @@
     "source": "",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__92\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "93": {
     "id": 93,
@@ -679,7 +1045,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000461&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__93\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "94": {
     "id": 94,
@@ -690,7 +1062,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000734&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__94\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "95": {
     "id": 95,
@@ -701,7 +1079,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000327&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__95\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "96": {
     "id": 96,
@@ -712,7 +1096,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1919&size=45&page=339",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__96\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "97": {
     "id": 97,
@@ -723,7 +1113,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&size=45&page=247",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__97\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "98": {
     "id": 98,
@@ -734,7 +1130,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1870&size=45&page=25",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__98\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "99": {
     "id": 99,
@@ -745,7 +1147,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1920&size=45&page=247&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__99\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "100": {
     "id": 100,
@@ -756,7 +1164,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19140004&seite=00001147&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__100\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "101": {
     "id": 101,
@@ -767,7 +1181,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=ltn&datum=0011&page=488&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__101\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "102": {
     "id": 102,
@@ -778,7 +1198,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=ltn&datum=0011&page=527&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__102\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "103": {
     "id": 103,
@@ -789,7 +1215,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19180004&seite=00000029&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__103\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "104": {
     "id": 104,
@@ -800,7 +1232,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000525&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__104\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "105": {
     "id": 105,
@@ -811,7 +1249,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18740004&seite=00000101&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__105\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "106": {
     "id": 106,
@@ -822,7 +1266,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18600004&seite=00000278&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__106\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "107": {
     "id": 107,
@@ -833,7 +1283,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000944&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__107\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "108": {
     "id": 108,
@@ -844,7 +1300,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001165&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__108\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "109": {
     "id": 109,
@@ -855,7 +1317,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000513&size=45&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__109\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "110": {
     "id": 110,
@@ -866,7 +1334,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001188&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__110\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "111": {
     "id": 111,
@@ -877,7 +1351,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18540004&seite=00000841&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__111\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "112": {
     "id": 112,
@@ -888,7 +1368,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001317&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__112\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "113": {
     "id": 113,
@@ -899,7 +1385,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000217&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__113\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "114": {
     "id": 114,
@@ -910,7 +1402,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000262&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__114\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "115": {
     "id": 115,
@@ -921,7 +1419,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000289&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__115\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "116": {
     "id": 116,
@@ -932,7 +1436,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000355&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__116\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "117": {
     "id": 117,
@@ -943,7 +1453,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000360&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__117\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "118": {
     "id": 118,
@@ -954,7 +1470,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000358&size=45&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__118\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "119": {
     "id": 119,
@@ -965,7 +1487,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000359&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__119\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "120": {
     "id": 120,
@@ -976,7 +1504,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001310&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__120\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "121": {
     "id": 121,
@@ -987,7 +1521,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001219&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__121\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "122": {
     "id": 122,
@@ -998,7 +1538,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000264&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__122\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "123": {
     "id": 123,
@@ -1009,7 +1555,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001123&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__123\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "124": {
     "id": 124,
@@ -1020,7 +1572,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000981&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__124\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "125": {
     "id": 125,
@@ -1031,7 +1589,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000963&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__125\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "126": {
     "id": 126,
@@ -1042,7 +1606,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1919&size=45&page=89",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__126\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "127": {
     "id": 127,
@@ -1053,7 +1623,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&size=45&page=125",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__127\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "128": {
     "id": 128,
@@ -1064,7 +1640,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19100004&seite=00000743&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__128\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "129": {
     "id": 129,
@@ -1075,7 +1657,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18530004&seite=00000737&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__129\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "130": {
     "id": 130,
@@ -1086,7 +1674,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1919&size=45&page=223",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__130\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "131": {
     "id": 131,
@@ -1097,7 +1691,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1919&size=45&page=639",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__131\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "132": {
     "id": 132,
@@ -1108,7 +1708,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=sgb&datum=1918&size=45&page=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__132\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "133": {
     "id": 133,
@@ -1119,7 +1725,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000942&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__133\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "134": {
     "id": 134,
@@ -1130,7 +1742,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000245&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__134\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "135": {
     "id": 135,
@@ -1141,7 +1759,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=219",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__135\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "136": {
     "id": 136,
@@ -1152,7 +1776,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000394&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__136\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "137": {
     "id": 137,
@@ -1163,7 +1793,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000394&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__137\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "138": {
     "id": 138,
@@ -1174,7 +1810,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000419&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__138\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "139": {
     "id": 139,
@@ -1185,7 +1827,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000334&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__139\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "140": {
     "id": 140,
@@ -1196,7 +1844,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgk&datum=1920&size=45&page=137",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__140\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "141": {
     "id": 141,
@@ -1207,7 +1861,13 @@
     "source": "",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__141\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "142": {
     "id": 142,
@@ -1218,7 +1878,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=159",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__142\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "143": {
     "id": 143,
@@ -1229,7 +1895,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000247&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__143\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "144": {
     "id": 144,
@@ -1240,7 +1912,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1919&size=45&page=530",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__144\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "145": {
     "id": 145,
@@ -1251,7 +1929,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000290&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__145\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "146": {
     "id": 146,
@@ -1262,7 +1946,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000142&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__146\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "147": {
     "id": 147,
@@ -1273,7 +1963,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&size=45&page=291",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__147\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "148": {
     "id": 148,
@@ -1284,7 +1980,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001023&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__148\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "149": {
     "id": 149,
@@ -1295,7 +1997,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001354&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__149\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "150": {
     "id": 150,
@@ -1306,7 +2014,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18610004&seite=00000337&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__150\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "151": {
     "id": 151,
@@ -1317,7 +2031,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000321&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__151\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "152": {
     "id": 152,
@@ -1328,7 +2048,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000145&size=45&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__152\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "153": {
     "id": 153,
@@ -1339,7 +2065,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000825&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__153\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "154": {
     "id": 154,
@@ -1350,7 +2082,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19170004&seite=00000739&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__154\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "155": {
     "id": 155,
@@ -1361,7 +2099,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000223&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__155\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "156": {
     "id": 156,
@@ -1372,7 +2116,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000651&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__156\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "157": {
     "id": 157,
@@ -1383,7 +2133,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001314&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__157\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "158": {
     "id": 158,
@@ -1394,7 +2150,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001316&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__158\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "159": {
     "id": 159,
@@ -1405,7 +2167,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000417&size=45&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__159\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "160": {
     "id": 160,
@@ -1416,7 +2184,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000457&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__160\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "161": {
     "id": 161,
@@ -1427,7 +2201,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000421&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__161\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "162": {
     "id": 162,
@@ -1438,7 +2218,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001476&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__162\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "163": {
     "id": 163,
@@ -1449,7 +2235,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18960004&seite=00000021&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__163\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "164": {
     "id": 164,
@@ -1460,7 +2252,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19090004&seite=00000179&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__164\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "165": {
     "id": 165,
@@ -1471,7 +2269,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=264",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__165\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "166": {
     "id": 166,
@@ -1482,7 +2286,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__166\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "167": {
     "id": 167,
@@ -1493,7 +2303,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__167\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "168": {
     "id": 168,
@@ -1504,7 +2320,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__168\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "169": {
     "id": 169,
@@ -1515,7 +2337,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__169\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "170": {
     "id": 170,
@@ -1526,7 +2354,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=287",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__170\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "171": {
     "id": 171,
@@ -1537,7 +2371,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__171\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "172": {
     "id": 172,
@@ -1548,7 +2388,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__172\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "173": {
     "id": 173,
@@ -1559,7 +2405,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__173\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "174": {
     "id": 174,
@@ -1570,7 +2422,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=284",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__174\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "175": {
     "id": 175,
@@ -1581,7 +2439,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__175\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "176": {
     "id": 176,
@@ -1592,7 +2456,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=286",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__176\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "177": {
     "id": 177,
@@ -1603,7 +2473,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&page=286&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__177\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "178": {
     "id": 178,
@@ -1614,7 +2490,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__178\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "179": {
     "id": 179,
@@ -1625,7 +2507,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__179\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "180": {
     "id": 180,
@@ -1636,7 +2524,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__180\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "181": {
     "id": 181,
@@ -1647,7 +2541,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=285",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__181\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "182": {
     "id": 182,
@@ -1658,7 +2558,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=328&",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__182\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "183": {
     "id": 183,
@@ -1669,7 +2575,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=328",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__183\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "184": {
     "id": 184,
@@ -1680,7 +2592,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__184\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "185": {
     "id": 185,
@@ -1691,7 +2609,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__185\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "186": {
     "id": 186,
@@ -1702,7 +2626,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=328",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__186\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "187": {
     "id": 187,
@@ -1713,7 +2643,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__187\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "188": {
     "id": 188,
@@ -1724,7 +2660,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&page=330&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__188\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "189": {
     "id": 189,
@@ -1735,7 +2677,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=329",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__189\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "190": {
     "id": 190,
@@ -1746,7 +2694,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19180004&seite=00000004&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__190\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "191": {
     "id": 191,
@@ -1757,7 +2711,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000407&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__191\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "192": {
     "id": 192,
@@ -1768,7 +2728,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18950004&seite=00000667&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__192\">",
-    "falscher Code": null
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "225": {
     "id": 225,
@@ -1779,7 +2745,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000459&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__225\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__193\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "226": {
     "id": 226,
@@ -1790,7 +2762,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=bgb&datum=19210004&seite=00000523&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__226\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__194\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "227": {
     "id": 227,
@@ -1801,7 +2779,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000190&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__227\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__195\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "228": {
     "id": 228,
@@ -1812,7 +2796,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000465&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__228\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__196\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "229": {
     "id": 229,
@@ -1823,7 +2813,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgm&datum=1920&size=45&page=165",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__229\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__197\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "230": {
     "id": 230,
@@ -1834,7 +2830,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18580004&seite=00000291&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__230\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__198\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "231": {
     "id": 231,
@@ -1845,7 +2847,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19070004&seite=00000023&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__231\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__199\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "232": {
     "id": 232,
@@ -1856,7 +2864,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00001371&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__232\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__200\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "233": {
     "id": 233,
@@ -1867,7 +2881,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1911&size=45&page=117",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__233\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__201\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "234": {
     "id": 234,
@@ -1878,7 +2898,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=355",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__234\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__202\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "235": {
     "id": 235,
@@ -1889,7 +2915,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001395&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__235\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__203\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "236": {
     "id": 236,
@@ -1900,7 +2932,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001393&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__236\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__204\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "237": {
     "id": 237,
@@ -1911,7 +2949,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001310&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__237\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__205\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "238": {
     "id": 238,
@@ -1922,7 +2966,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=361",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__238\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__206\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "239": {
     "id": 239,
@@ -1933,7 +2983,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000932&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__239\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__207\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "240": {
     "id": 240,
@@ -1944,7 +3000,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000481&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__240\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__208\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "241": {
     "id": 241,
@@ -1955,7 +3017,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000926&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__241\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__209\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "242": {
     "id": 242,
@@ -1966,7 +3034,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000933&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__242\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__210\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "243": {
     "id": 243,
@@ -1977,7 +3051,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001247&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__243\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__211\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "244": {
     "id": 244,
@@ -1988,7 +3068,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19180004&seite=00000222&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__244\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__212\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "245": {
     "id": 245,
@@ -1999,7 +3085,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000937&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__245\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__213\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "246": {
     "id": 246,
@@ -2010,7 +3102,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000934&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__246\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__214\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "247": {
     "id": 247,
@@ -2021,7 +3119,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=ltv&datum=1910&size=45&page=716",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__247\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__215\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "248": {
     "id": 248,
@@ -2032,7 +3136,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgt&datum=1920&size=45&page=163",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__248\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__216\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "249": {
     "id": 249,
@@ -2043,7 +3153,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000156&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__249\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__217\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "250": {
     "id": 250,
@@ -2054,7 +3170,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000923&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__250\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__218\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "251": {
     "id": 251,
@@ -2065,7 +3187,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000923&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__251\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__219\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "252": {
     "id": 252,
@@ -2076,7 +3204,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000171&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__252\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__220\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "253": {
     "id": 253,
@@ -2087,7 +3221,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000953&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__253\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__221\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "254": {
     "id": 254,
@@ -2098,7 +3238,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000227&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__254\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__222\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "255": {
     "id": 255,
@@ -2109,7 +3255,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000587&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__255\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__223\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "256": {
     "id": 256,
@@ -2120,7 +3272,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19120004&seite=00000915&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__256\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__224\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "257": {
     "id": 257,
@@ -2131,7 +3289,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1920&size=45&page=361",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__257\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__225\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "258": {
     "id": 258,
@@ -2142,7 +3306,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000155&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__258\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__226\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "259": {
     "id": 259,
@@ -2153,7 +3323,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000722&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__259\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__227\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "260": {
     "id": 260,
@@ -2164,7 +3340,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgt&datum=1919&size=45&page=62",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__260\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__228\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "261": {
     "id": 261,
@@ -2175,7 +3357,13 @@
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000447&size=45",
     "mpr_work_id": "",
     "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__261\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__229\">"
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "262": {
     "id": 262,
@@ -2185,8 +3373,14 @@
     "krp_work_id": "krp_work_id__262",
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgt&datum=1920&size=45&page=285",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__230\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__262\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "263": {
     "id": 263,
@@ -2196,8 +3390,14 @@
     "krp_work_id": "krp_work_id__263",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18800004&seite=00000285&size=45",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__231\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__263\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "264": {
     "id": 264,
@@ -2207,8 +3407,14 @@
     "krp_work_id": "krp_work_id__264",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001473&size=45",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__232\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__264\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "265": {
     "id": 265,
@@ -2218,8 +3424,14 @@
     "krp_work_id": "krp_work_id__265",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19170004&seite=00000317&size=45",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__233\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__265\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "266": {
     "id": 266,
@@ -2229,8 +3441,14 @@
     "krp_work_id": "krp_work_id__266",
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1869&size=45&page=215",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__234\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__266\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "267": {
     "id": 267,
@@ -2240,8 +3458,14 @@
     "krp_work_id": "krp_work_id__267",
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgo&datum=1919&size=45&page=329",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__235\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__267\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "268": {
     "id": 268,
@@ -2251,8 +3475,14 @@
     "krp_work_id": "krp_work_id__268",
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgo&datum=1919&size=45&page=342",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__236\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__268\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "269": {
     "id": 269,
@@ -2262,8 +3492,14 @@
     "krp_work_id": "krp_work_id__269",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000471&size=45&",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__237\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__269\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "270": {
     "id": 270,
@@ -2273,8 +3509,14 @@
     "krp_work_id": "krp_work_id__270",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001373&size=45",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__238\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__270\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "271": {
     "id": 271,
@@ -2284,8 +3526,14 @@
     "krp_work_id": "krp_work_id__271",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19180004&seite=00000703&size=45",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__239\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__271\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "272": {
     "id": 272,
@@ -2295,8 +3543,14 @@
     "krp_work_id": "krp_work_id__272",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000940&size=45",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__240\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__272\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "273": {
     "id": 273,
@@ -2306,8 +3560,14 @@
     "krp_work_id": "krp_work_id__273",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001307&size=45",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__241\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__273\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "274": {
     "id": 274,
@@ -2317,8 +3577,14 @@
     "krp_work_id": "krp_work_id__274",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001306&size=45&",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__242\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__274\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "275": {
     "id": 275,
@@ -2328,8 +3594,14 @@
     "krp_work_id": "krp_work_id__275",
     "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1920&size=45&page=419",
     "mpr_work_id": "",
-    "tei-code": "",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__243\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__275\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
   },
   "276": {
     "id": 276,
@@ -2339,7 +3611,353 @@
     "krp_work_id": "krp_work_id__276",
     "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=19070004&seite=00000347&size=45",
     "mpr_work_id": "",
-    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__244\">",
-    "falscher Code": "<rs type=\"work\" ref=\"#krp_work_id__244\">"
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__276\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
+  },
+  "309": {
+    "id": 309,
+    "order": "214.00000000000000000000",
+    "label": "Gesetz, betreffend die Einführung einer Strafproceß-Ordnung",
+    "note": "RGBl. 119/1873",
+    "krp_work_id": "krp_work_id__309",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18730004&seite=00000397&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__309\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
+  },
+  "310": {
+    "id": 310,
+    "order": "215.00000000000000000000",
+    "label": "Gesetz, betreffend die Bildung der Geschwornenlisten",
+    "note": "RGBl. 121/1873",
+    "krp_work_id": "krp_work_id__310",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=rgb&datum=18730004&seite=00000503&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__310\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
+  },
+  "311": {
+    "id": 311,
+    "order": "216.00000000000000000000",
+    "label": "Gesetz über die Änderung einiger Bestimmungen des Gesetzes vom 23. Mai 1873, R. G. Bl. Nr. 121, betreffend die Bildung der Geschwornenlisten",
+    "note": "StGBl. 37/1919",
+    "krp_work_id": "krp_work_id__311",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000068&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__311\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
+  },
+  "312": {
+    "id": 312,
+    "order": "217.00000000000000000000",
+    "label": "Gesetz, womit die Strafprozeßordnung vom 23. Mai 1873, R. G. Bl. Nr. 119, das Einführungsgesetz dazu und das Gesetz über die Bildung der Geschwornenlisten vom 23. Mai 1873, R. G. Bl. Nr. 121, in der Fassung vom 23. Jänner 1919, St. G. Bl. Nr. 37, abgeändert werden (Strafprozeßnovelle vom Jahre 1920)",
+    "note": "StGBl. 279/1920",
+    "krp_work_id": "krp_work_id__312",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000943&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__312\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
+  },
+  "313": {
+    "id": 313,
+    "order": "218.00000000000000000000",
+    "label": "Gesetz vom 8. Juni 1920, betreffend die gewerblichen Fortbildungsschulen im Lande Salzburg",
+    "note": "LGBl. 142/1920",
+    "krp_work_id": "krp_work_id__313",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgs&datum=1920&size=45&page=493",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__313\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
+  },
+  "314": {
+    "id": 314,
+    "order": "219.00000000000000000000",
+    "label": "Gesetz, betreffend die Dienstverhältnisse der unter Artikel IV des Gesetzes vom 25. Jänner 1914, R. G. Bl. Nr. 15, fallenden Postdienerschaft mit Dienstprüfung",
+    "note": "StGBl. 332/1920",
+    "krp_work_id": "krp_work_id__314",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00001392&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__314\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": null,
+    "volume": null,
+    "issue": null
+  },
+  "315": {
+    "id": 315,
+    "order": "220.00000000000000000000",
+    "label": "Gesetz, womit die Gesetzgebungsperiode der Konstituierenden Nationalversammlung abgekürzt wird und einstweilige Bestimmungen für die Wahl der Staatsregierung getroffen werden",
+    "note": "StGBl. 283/1920",
+    "krp_work_id": "krp_work_id__315",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19200004&seite=00000954&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__315\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "316": {
+    "id": 316,
+    "order": "221.00000000000000000000",
+    "label": "Gesetz, wirksam für das Erzherzogtum Österreich ob der Enns, betreffend die Einhebung von Gemeindeauflagen auf Bier und gebrannte geistige Flüssigkeiten",
+    "note": "LGBl. 58/1914",
+    "krp_work_id": "krp_work_id__316",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgo&datum=1914&size=45&page=155",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__316\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "317": {
+    "id": 317,
+    "order": "222.00000000000000000000",
+    "label": "Gesetz, vom 18. Dezember 1919, betreffend die Einhebung einer Gemeindeabgabe vom Wertzuwachse von Liegenschaften im Gebiete der Stadt Wien",
+    "note": "LGBl. 460/1919",
+    "krp_work_id": "krp_work_id__317",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1919&size=45&page=557",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__317\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "318": {
+    "id": 318,
+    "order": "223.00000000000000000000",
+    "label": "Gesetz vom 29. Juli 1920, betreffend die Einführung einer Gemeindeabgabe vom gemeinen Bodenwerte (Bodenwertabgabe) im Gebiete der Stadt St. Pölten",
+    "note": "LGBl. 746/1920",
+    "krp_work_id": "krp_work_id__318",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?aid=lgn&datum=1920&size=45&page=564",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__318\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "319": {
+    "id": 319,
+    "order": "224.00000000000000000000",
+    "label": "Vollzugsanweisung des Deutschösterreichischen Staatsamtes für Volksernährung im Einvernehmen mit dem Staatsamte der Finanzen, betreffend die Errichtung der Deutschösterreichischen Brauerstelle",
+    "note": "StGBl. 110/1919",
+    "krp_work_id": "krp_work_id__319",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000232&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__319\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "320": {
+    "id": 320,
+    "order": "225.00000000000000000000",
+    "label": "Vollzugsanweisung des Deutschösterreichischen Staatsrates, betreffend Abänderungen und Ergänzungen der Superarbitrierungsvorschrift",
+    "note": "StGBl. 144/1919",
+    "krp_work_id": "krp_work_id__320",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000309&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__320\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "321": {
+    "id": 321,
+    "order": "226.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes der Finanzen, betreffend weitere zeitweilige Beschränkungen des Zahlungsverkehrs",
+    "note": "StGBl. 153/1919",
+    "krp_work_id": "krp_work_id__321",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000326&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__321\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "322": {
+    "id": 322,
+    "order": "227.00000000000000000000",
+    "label": "Vollzugsanweisung des Deutschösterreichischen Staatsamtes der Finanzen im Einvernehmen mit den beteiligten Staatsämtern über die aus Anlaß des Verbotes der Einfuhr von Banknoten der Oesterreichisch-ungarischen Bank und der Überweisungen von Kronenbeträgen nach Deutschösterreich zu treffenden Maßnahmen",
+    "note": "StGBl. 115/1919",
+    "krp_work_id": "krp_work_id__322",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000246&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__322\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "323": {
+    "id": 323,
+    "order": "228.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Volksgesundheit, betreffend die Anzeigepflicht bei Tuberkulose",
+    "note": "StGBl. 151/1919",
+    "krp_work_id": "krp_work_id__323",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000323&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__323\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "324": {
+    "id": 324,
+    "order": "229.00000000000000000000",
+    "label": "Vollzugsanweisung des Deutschösterreichischen Staatsamtes für Volksgesundheit, betreffend die Verhütung und Bekämpfung übertragbarer Geschlechtskrankheiten",
+    "note": "StGBl. 49/1918",
+    "krp_work_id": "krp_work_id__324",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19180004&seite=00000057&size=45&",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__324\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "325": {
+    "id": 325,
+    "order": "230.00000000000000000000",
+    "label": "Gesetz, betreffend die teilweise Änderung des Dienstverhältnisses der Kanzleioffizianten und Kanzleioffiziantinnen, der Kanzleigehilfen und Kanzleigehilfinnen, ständigen Aushilfsdiener und Landpostdiener",
+    "note": "StGBl. 100/1919",
+    "krp_work_id": "krp_work_id__325",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000217&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__325\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "326": {
+    "id": 326,
+    "order": "231.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes der Finanzen im Einvernehmen mit den beteiligten Staatsämtern über die Anmeldung und Kontrolle gewisser Vermögenschaften",
+    "note": "StGBl. 169/1919",
+    "krp_work_id": "krp_work_id__326",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000386&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__326\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "327": {
+    "id": 327,
+    "order": "232.00000000000000000000",
+    "label": "Vollzugsanweisung des Staatsamtes für Volksernährung im Einvernehmen mit dem Staatsamt der Finanzen, betreffend die Festsetzung der Zuckerpreise",
+    "note": "StGBl. 188/1919",
+    "krp_work_id": "krp_work_id__327",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000425&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__327\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
+  },
+  "328": {
+    "id": 328,
+    "order": "233.00000000000000000000",
+    "label": "Gesetz über die Begnadigung von russischen und finnischen Kriegsgefangenen und internierten Zivilangehörigen und die Nachsicht von Strafen wegen Verletzung des wirtschaftlichen Kampfrechtes im Verhältnisse zu Rußland und Finnland",
+    "note": "StGBl. 213/1919",
+    "krp_work_id": "krp_work_id__328",
+    "source": "https://alex.onb.ac.at/cgi-content/alex?apm=0&aid=sgb&datum=19190004&seite=00000516&size=45",
+    "mpr_work_id": "",
+    "tei-code": "<rs type=\"work\" ref=\"#krp_work_id__328\">",
+    "item_type": [],
+    "author": [],
+    "contributor": [],
+    "editor": [],
+    "publication": "",
+    "volume": null,
+    "issue": null
   }
 }

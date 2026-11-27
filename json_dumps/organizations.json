@@ -26,7 +26,7 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "label": "[Allgemeine österreichische] Bodencreditanstalt",
+    "label": "Allgemeine österreichische Bodencreditanstalt",
     "note": null,
     "source": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt",
     "krp_org_id": "krp_org_id__3",
@@ -3074,7 +3074,7 @@
   "381": {
     "id": 381,
     "order": "267.00000000000000000000",
-    "label": "Länderbank",
+    "label": "[Österreichische] Länderbank",
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__381",
@@ -5838,6 +5838,18 @@
     "note": "",
     "source": "",
     "krp_org_id": "krp_org_id__976",
+    "tei_code": "",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "1009": {
+    "id": 1009,
+    "order": "511.00000000000000000000",
+    "label": "",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__1009",
     "tei_code": "",
     "mpr_org_id": "",
     "gnd_url": "",

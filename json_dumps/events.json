@@ -96,5 +96,19 @@
     "start_date": null,
     "end_date": null,
     "other_url": ""
+  },
+  "72": {
+    "id": 72,
+    "order": "8.00000000000000000000",
+    "label": "Demission des Kabinetts",
+    "note": "",
+    "krp_event_id": "krp_event_id__72",
+    "tei_code": "<rs type=\"event\" ref=\"#krp_event_id_72\">Demission des Kabinetts</rs>",
+    "mpr_event_id": "",
+    "wikidata_url": "",
+    "gnd_url": "",
+    "start_date": "1920-06-11",
+    "end_date": "1920-06-11",
+    "other_url": ""
   }
 }
