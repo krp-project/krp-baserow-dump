@@ -26,7 +26,7 @@
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "label": "Allgemeine österreichische Bodencreditanstalt",
+    "label": "Allgemeine österreichische Boden-Credit-Anstalt",
     "note": null,
     "source": "https://www.geschichtewiki.wien.gv.at/Bodencreditanstalt",
     "krp_org_id": "krp_org_id__3",
@@ -94,18 +94,6 @@
     "mpr_org_id": null,
     "gnd_url": "https://d-nb.info/gnd/32537-5",
     "wikidata_url": "https://www.wikidata.org/wiki/Q699551"
-  },
-  "98": {
-    "id": 98,
-    "order": "7.33333333333333303727",
-    "label": "Allgemeine österreichische Boden-Credit-Anstalt",
-    "note": "",
-    "source": "https://www.wien.gv.at/actaproweb2/benutzung/archive.xhtml?id=Stueck%20%204c4ae136-840a-4d52-b747-b8e62f3d7449VERA#Stueck__4c4ae136-840a-4d52-b747-b8e62f3d7449VERA",
-    "krp_org_id": "krp_org_id__98",
-    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__98\"></rs>",
-    "mpr_org_id": null,
-    "gnd_url": "",
-    "wikidata_url": "https://www.wikidata.org/wiki/Q889479"
   },
   "93": {
     "id": 93,
@@ -5851,6 +5839,42 @@
     "source": "",
     "krp_org_id": "krp_org_id__1009",
     "tei_code": "",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "1010": {
+    "id": 1010,
+    "order": "512.00000000000000000000",
+    "label": "Österreichische Propagandastelle",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__1010",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__1010\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "1012": {
+    "id": 1012,
+    "order": "513.00000000000000000000",
+    "label": "Donauregulierungskommission",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__1012",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__1012\"></rs>",
+    "mpr_org_id": "",
+    "gnd_url": "",
+    "wikidata_url": ""
+  },
+  "1013": {
+    "id": 1013,
+    "order": "514.00000000000000000000",
+    "label": "Firma Stern & Hafferl AG",
+    "note": "",
+    "source": "",
+    "krp_org_id": "krp_org_id__1013",
+    "tei_code": "<rs type=\"org\" ref=\"#krp_org_id__1013\"></rs>",
     "mpr_org_id": "",
     "gnd_url": "",
     "wikidata_url": ""
