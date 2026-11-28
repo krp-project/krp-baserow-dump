@@ -28,7 +28,7 @@
           <idno type="URL" subtype="MPR">https://mpr.acdh.oeaw.ac.at/entity/2318/</idno>
         </org>
         <org xml:id="krp_org_id__3">
-          <orgName>Allgemeine österreichische Bodencreditanstalt</orgName>
+          <orgName>Allgemeine österreichische Boden-Credit-Anstalt</orgName>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q889479</idno>
         </org>
         <org xml:id="krp_org_id__4">
@@ -49,10 +49,6 @@
           <orgName>Daimler-Motoren-AG</orgName>
           <idno type="URL" subtype="GND">https://d-nb.info/gnd/32537-5</idno>
           <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q699551</idno>
-        </org>
-        <org xml:id="krp_org_id__98">
-          <orgName>Allgemeine österreichische Boden-Credit-Anstalt</orgName>
-          <idno type="URL" subtype="WIKIDATA">http://www.wikidata.org/entity/Q889479</idno>
         </org>
         <org xml:id="krp_org_id__93">
           <orgName>Arbeiter-Unfallversicherungsanstalt</orgName>
@@ -1538,6 +1534,15 @@ in München</orgName>
         </org>
         <org xml:id="krp_org_id__1009">
           <orgName></orgName>
+        </org>
+        <org xml:id="krp_org_id__1010">
+          <orgName>Österreichische Propagandastelle</orgName>
+        </org>
+        <org xml:id="krp_org_id__1012">
+          <orgName>Donauregulierungskommission</orgName>
+        </org>
+        <org xml:id="krp_org_id__1013">
+          <orgName>Firma Stern &amp; Hafferl AG</orgName>
         </org>
       </listOrg>
     </body>

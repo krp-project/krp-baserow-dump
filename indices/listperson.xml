@@ -3897,9 +3897,6 @@
           <persName>Jones,</persName>
           <occupation>Oberst der amerikanischen Mission</occupation>
         </person>
-        <person xml:id="krp_person_id__1215">
-          <persName></persName>
-        </person>
         <person xml:id="krp_person_id__1216">
           <persName></persName>
         </person>
@@ -3919,6 +3916,10 @@
         </person>
         <person xml:id="krp_person_id__1253">
           <persName></persName>
+        </person>
+        <person xml:id="krp_person_id__1255">
+          <persName>Prosl, Hans</persName>
+          <occupation>Leiter der Propagandastelle</occupation>
         </person>
       </listPerson>
     </body>
